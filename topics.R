@@ -2,8 +2,8 @@ source("src/reader.R")
 source("src/modeling.R")
 
 # set path to data files
-fp <- '../dat/data/titles/ous_mpi_lang_eng'
-out <- './public/vis/eng/mpi_t100'
+fp <- '../pubdata/data/titles/mpis--eng'
+out <- './docs/vis/eng/mpi_t100'
 k <- 100
 
 # get document term matrix (dtm)
