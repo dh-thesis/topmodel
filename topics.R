@@ -1,5 +1,5 @@
-source("scripts/reader.R")
-source("scripts/modeling.R")
+source("src/reader.R")
+source("src/modeling.R")
 
 # set path to data files
 fp <- '../dat/data/titles/ous_mpi_lang_eng'
