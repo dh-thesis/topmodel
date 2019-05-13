@@ -6,7 +6,7 @@ prepare_corpus <- function(corp) {
     corp <- tm_map(corp, removePunctuation)
     corp <- tm_map(corp, removeNumbers)
     corp <- tm_map(corp, content_transformer(tolower))
-    corp <- tm_map(corp, function(x) removeWords(x, stopwords("english")))
+    corp <- tm_map(corp, function(x) removeWords(x, stopwords("german")))
     corp <- tm_map(corp, stripWhitespace)
     corp <- tm_map(corp, content_transformer(trim))
     return(corp)

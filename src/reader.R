@@ -1,4 +1,4 @@
-source("scripts/preprocess.R")
+source("src/preprocess.R")
 
 read.data <- function(fp, x = 10) {
 

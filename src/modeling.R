@@ -2,7 +2,7 @@ library(slam)
 library(servr)
 library(topicmodels)
 library(LDAvis)
-library(tsne)
+# library(tsne)
 
 fit.model <- function(doc_term, k) {
 
@@ -34,14 +34,14 @@ model.vis <- function(fitted.model, doc_term, vis.dir="./public/vis") {
     # while calculating model based on institutes' titles -->
     # Error in stats::cmdscale(dist.mat, k = 2) :
     # NA values not allowed in 'd' 
-    svd_tsne <- function(x) tsne::tsne(svd(x)$u)
+    # svd_tsne <- function(x) tsne::tsne(svd(x)$u)
     
     print("create visualization...")
 
     json_lda <- LDAvis::createJSON(phi = phi,
                                    theta = theta,
                                    vocab = vocab,
-                                   mds.method = svd_tsne,
+                                   # mds.method = svd_tsne,
                                    doc.length = as.vector(table(doc_term$i)),
                                    term.frequency = term_freq)
     
