@@ -3,23 +3,24 @@ library(stopwords)
 
 prepare_corpus <- function(corp) {
     corp <- tm_map(corp, content_transformer(tags))
+    corp <- tm_map(corp, content_transformer(cntrl))
+    corp <- tm_map(corp, content_transformer(tolower))
     corp <- tm_map(corp, removePunctuation)
     corp <- tm_map(corp, removeNumbers)
-    corp <- tm_map(corp, content_transformer(tolower))
-    corp <- tm_map(corp, function(x) removeWords(x, stopwords("german")))
+    corp <- tm_map(corp, function(x) removeWords(x, c(stopwords("english"), "")))
     corp <- tm_map(corp, stripWhitespace)
     corp <- tm_map(corp, content_transformer(trim))
     return(corp)
 }
 
-# returns string w/o leading or trailing whitespace
-trim <- function (x) gsub("^\\s+|\\s+$", "", x)
-
 # returns string w/o html tags
 tags <- function (x) gsub("<.*?>", "", x)
 
+# returns string w/o leading or trailing whitespace
+trim <- function (x) gsub("^\\s+|\\s+$", "", x)
+
 # remove punction marks
-pnct <- function (x) gsub("[[:punct:]]"," ")
+pnct <- function (x) gsub("[[:punct:]]"," ", x)
 
 # remove control characters
-cntrl <- function (x) gsub("[[:cntrl:]]"," ")
+cntrl <- function (x) gsub("[[:cntrl:]]"," ", x)
