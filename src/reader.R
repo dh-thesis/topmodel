@@ -1,9 +1,9 @@
 source("src/preprocess.R")
 
-read.data <- function(fp, x = 10) {
+read.data <- function(fp, fp.pattern = ".txt") { # , x = 10
 
     print("collecting files...")
-    raw_src <- DirSource(fp, pattern = ".txt")
+    raw_src <- DirSource(fp, pattern = fp.pattern)
 
     # extract file names from full paths
     fname <- sapply(strsplit(raw_src$filelist,"/"), function(x) x[[length(x)]])
