@@ -1,0 +1,227 @@
+Regulated assembly of a supramolecular centrosome scaffold in vitro
+Amphipathic DNA Origami Nanoparticles to Scaffold and Deform Lipid Membrane Vesicles
+Regulation of Liver Metabolism by the Endosomal GTPase Rab5
+Wide-field time-correlated single photon counting (TCSPC) microscopy with time resolution below the frame exposure time
+Erratum to “Inhibition of fibronectin deposition improves experimental liver fibrosis” [J Hepatol 2015;62:625–633]
+Architecture of the Ubiquitylation Module of the Yeast Ccr4-Not Complex
+Antisense-mediated exon skipping: a therapeutic strategy for titin-based dilated cardiomyopathy
+Simple membrane-based model of the Min oscillator
+Quantifying the impact of transporters on cellular drug permeability
+Integrin alpha 3 beta 1 regulates kidney collecting duct development via TRAF6-dependent K63-linked polyubiquitination of Akt
+The Bactofilin Cytoskeleton Protein BacM of Myxococcus xanthus Forms an Extended beta-Sheet Structure Likely Mediated by Hydrophobic Interactions
+FtsZ Polymers Tethered to the Membrane by ZipA Are Susceptible to Spatial Regulation by Min Waves
+Systematic evaluation of label-free and super-SILAC quantification for proteome expression analysis
+Crystal structure of Hop2-Mnd1 and mechanistic insights into its role in meiotic recombination
+Widespread Proteome Remodeling and Aggregation in Aging C-elegans
+Ctk1 Function Is Necessary for Full Translation Initiation Activity in Saccharomyces cerevisiae
+Membrane targeting of the spir·formin actin nucleator complex requires a sequential handshake of polar interactions.
+Mass Spectrometry-Based Detection and Assignment of Protein Posttranslational Modifications
+A Compact DNA Cube with Side Length 10 nm
+Structure-Affinity Relationship Analysis of Selective FKBP51 Ligands
+Reconstituting geometry-modulated protein patterns in membrane compartments.
+Structure of the RNA Helicase MLE Reveals the Molecular Mechanisms for Uridine Specificity and RNA-ATP Coupling
+Transcriptional repression by PRC1 in the absence of H2A monoubiquitylation
+Role of Small Subunit in Mediating Assembly of Red-type Form I Rubisco
+Jump-starting life? Fundamental aspects of synthetic biology
+Characterization of arrested trans SNARE complexes
+Three-dimensional arrangements of ribosomes inside fast growing E. coli cells
+Contributions of epsinR and gadkin to clathrin-mediated intracellular trafficking
+Design, Synthesis, and Biological Evaluation of Quercetagetin Analogues as JNK1 Inhibitors
+Structural Basis of Vesicle Formation at the Inner Nuclear Membrane
+GxxxG motifs hold the TIM23 complex together
+Thymosin beta 4 attenuates microcirculatory and hemodynamic destabilization in sepsis
+Cell biology: Architecture of a protein entry gate
+Minimal amounts of kindlin-3 suffice for basal platelet and leukocyte functions in mice
+Loss of the Rap1 effector RIAM results in leukocyte adhesion deficiency due to impaired beta 2 integrin function in mice
+Cell scientist to watch - Thomas Wollert
+Histone monoubiquitination by Clock-Bmall complex marks Per1 and Per2 genes for circadian feedback
+Extracellular rigidity sensing by talin isoform-specific mechanical linkages
+Poxvirus Protein MC132 from Molluscum Contagiosum Virus Inhibits NF-kappa B Activation by Targeting p65 for Degradation
+Cytoskeletal Pinning Controls Phase Separation in Multicomponent Lipid Membranes
+LGALS3BP, lectin galactoside-binding soluble 3 binding protein, promotes oncogenic cellular events impeded by antibody intervention
+Acetylation site specificities of lysine deacetylase inhibitors in human cells
+Absolute protein quantification allows differentiation of cell-specific metabolic routes and functions
+Deep Proteomics of Mouse Skeletal Muscle Enables Quantitation of Protein Isoforms, Metabolic Pathways, and Transcription Factors
+Adaptive Lipid Packing and Bioactivity in Membrane Domains
+OmpW of Caulobacter crescentus Functions as an Outer Membrane Channel for Cations
+Single muscle fiber proteomics reveals unexpected mitochondrial specialization.
+Planctomycetes do possess a peptidoglycan cell wall
+Quantitative Proteomics Identifies Serum Response Factor Binding Protein 1 as a Host Factor for Hepatitis C Virus Entry
+The Magellania venosa Biomineralizing Proteome: A Window into Brachiopod Shell Evolution
+Saccharomyces cerevisiae Ski7 Is a GTP-Binding Protein Adopting the Characteristic Conformation of Active Translational GTPases
+IFT81, encoding an IFT-B core protein, as a very rare cause of a ciliopathy phenotype
+SMC condensin entraps chromosomal DNA by an ATP hydrolysis dependent loading mechanism in Bacillus subtilis
+The RNA-binding protein Arrest (Bruno) regulates alternative splicing to enable myofibril maturation in Drosophila flight muscle.
+mRNA export through an additional cap-binding complex consisting of NCBP1 and NCBP3
+In situ structural analysis of Golgi intracisternal protein arrays
+Histone variant H2AZ2 mediates proliferation and drug sensitivity of malignant melanoma
+GLOBAL MEMBRANE PROTEIN ANALYSIS OF THE HUMAN LIVER: APPLICATION IN PREDICTIONS OF ATORVASTATIN UPTAKE CLEARANCE
+Julia von Blume: Sorting through the trans-Golgi (Text and Interview by Caitlin Sedwick)
+Pattern of Melanotransferrin Expression in Human Colorectal Tissues: An Immunohistochemical Study on Potential Clinical Application
+Mitochondrial specialization revealed by single muscle fiber proteomics: focus on the Krebs cycle
+Comparative Proteomic Analysis of Human Liver Tissue and Isolated Hepatocytes with a Focus on Proteins Determining Drug Exposure
+Petra Schwille: Taking a minimalist approach to membranes. (Text and Interview by Kendall Powell)
+Distribution of women and men among highly cited scientists
+Diffusion coefficients and dissociation constants of enhanced green fluorescent protein binding to free standing membranes
+Guido Tarone, Ph.D. (1951-2015) OBITUARY
+Cryo-focused-ion-beam applications in structural biology
+Proteotoxic stress and ageing triggers the loss of redox homeostasis across cellular compartments
+Structural disorder and its role in proteasomal degradation
+Histone Variant H2AZ2 Mediates Proliferation and Drug Sensitivity of Malignant Melanoma
+Molecular chaperones: guardians of the proteome
+A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation
+Visualization of LC-MS/MS proteomics data in MaxQuant
+Electron cryotomography of vitrified cells with a Volta phase plate
+Cytoplasmic sensing of viral nucleic acids
+Structural basis for the activation of the C. elegans noncanonical cytoplasmic poly(A)-polymerase GLD-2 by GLD-3
+Anti-Angiogenic Drugs in the Treatment of Metastatic Renal Cell Carcinoma: Advances in Clinical Application
+Cdk5 controls lymphatic vessel development and function by phosphorylation of Foxc2
+Parallel Structural Evolution of Mitochondrial Ribosomes and OXPHOS Complexes
+Phosphorylation of TET Proteins Is Regulated via O-GlcNAcylation by the O-Linked N-Acetylglucosamine Transferase (OGT)
+Aneuploidy and proteotoxic stress in cancer
+Fast and Sensitive Total Protein and Peptide Assays for Proteomic Analysis
+A Double-Barrel Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS) System to Quantify 96 Interactomes per Day
+Molecular Basis for SMC Rod Formation and Its Dissolution upon DNA Binding
+Native architecture of the Chlamydomonas chloroplast revealed by in situ cryo-electron tomography
+A Multilaboratory Comparison of Calibration Accuracy and the Performance of External References in Analytical Ultracentrifugation
+Proteomic analysis of quail calcified eggshell matrix: a comparison to chicken and turkey eggshell proteomes
+A novel disorder reveals clathrin heavy chain-22 is essential for human pain and touch development
+Single-molecule super-resolution imaging of chromosomes and in situ haplotype visualization using Oligopaint FISH probes
+Crystallization and X-ray diffraction studies of a complete bacterial fatty-acid synthase type I
+The Slx4-Dpb11 scaffold complex: coordinating the response to replication fork stalling in S-phase and the subsequent mitosis.
+In vivo cardiac role of migfilin during experimental pressure overload
+Mechanisms for Translesion DNA Synthesis
+THE MELANOMA IMMUNE-PEPTIDOME FOR T-CELL-BASED ANTI-TUMOUR IMMUNOTHERAPIES
+RNA degradation paths in a 12-subunit nuclear exosome complex
+DNA-protein crosslink repair
+Editorial of Anniversary Issue 2015 of Journal of Peptide Science
+Protein Phosphorylation: A Major Switch Mechanism for Metabolic Regulation
+Mediator kinase inhibition further activates super-enhancer-associated genes in AML
+Routing of individual polymers in designed patterns
+Protein Folding In Vivo
+Molecular Mechanism of Processive 3 ' to 5 ' RNA Translocation in the RNA Exosome Complex
+η-Secretase processing of APP inhibits neuronal activity in the hippocampus
+Scaffold-free tissue engineering under microgravity conditions
+Essential role of endocytosis for interleukin-4-receptor-mediated JAK/STAT signalling
+Germline variant FGFR4 p.G388R exposes a membrane-proximal STAT3 binding site
+Evaluation of the highly-cited researchers' database for a country: proposals for meaningful analyses on the example of Germany
+Expression and turnover of proteins govern their sampling for HLA class I presentation
+Agonist mobility on supported lipid bilayers affects Fas mediated death response
+Human Holliday junction resolvase GEN1 uses a chromodomain for efficient DNA recognition and cleavage
+De novo sequencing of two novel peptides homologous to calcitonin-like peptides, from skin secretion of the Chinese Frog, Odorrana schmackeri
+Erk2 but not Erk1 regulates crosstalk between Met and EGFR in squamous cell carcinoma cell lines
+Insulin/IGF1-PI3K-dependent nucleolar localization of a glycolytic enzyme - phosphoglycerate mutase 2, is necessary for proper structure of nucleolus and RNA synthesis
+Time- and compartment-resolved proteome profiling of the extracellular niche in lung injury and repair
+A critical perspective of the diverse roles of O-GlcNAc transferase in chromatin
+Absolute Proteome Analysis of Colorectal Mucosa, Adenoma, and Cancer Reveals Drastic Changes in Fatty Acid Metabolism and Plasma Membrane Transporters
+System-wide identification of wild-type SUMO-2 conjugation sites
+Structure of the native Sec61 protein-conducting channel
+Common Effects on Cancer Cells Exerted by a Random Positioning Machine and a 2D Clinostat
+Integrating Proteomics and Enzyme Kinetics Reveals Tissue-Specific Types of the Glycolytic and Gluconeogenic Pathways
+Architecture of the RNA polymerase II–Mediator core initiation complex.
+High-throughput phosphoproteomics reveals in vivo insulin signaling dynamics
+Chromosomal instability, tolerance of mitotic errors and multidrug resistance are promoted by tetraploidization in human cells
+Kindlin-3-mediated integrin adhesion is dispensable for quiescent but essential for activated hematopoietic stem cells
+Chemical reaction network approaches to Biochemical Systems Theory
+Introducing a fluorescence-based standard to quantify protein partitioning into membranes
+Gambling with Flu: "All in'' to Maximize Reward
+A Human Interactome in Three Quantitative Dimensions Organized by Stoichiometries and Abundances
+Activation of Cardiac Fibroblast Growth Factor Receptor 4 Causes Left Ventricular Hypertrophy
+Cell type- and brain region-resolved mouse brain proteome
+Transcription through Polycomb response elements does not induce a switch from repression to activation
+Flt3 is a target of coumestrol in protecting against UVB-induced skin photoaging
+Novel sulfated phosphoglycolipids from Natronomonas moolapensis
+Analysis of protein–RNA interactions in CRISPR proteins and effector complexes by UV-induced cross-linking and mass spectrometry.
+Shaping and patterning gold nanoparticles via micelle templated photochemistry
+DNA Origami Nanoneedles on Freestanding Lipid Membranes as a Tool To Observe Isotropic-Nematic Transition in Two Dimensions
+Selective inhibitors of the FK506-binding protein 51 by induced fit
+COMMD1 is linked to the WASH complex and regulates endosomal trafficking of the copper transporter ATP7A
+The focal adhesion protein PINCH-1 associates with EPLIN at integrin adhesion sites.
+A molecular census of 26S proteasomes in intact neurons
+Causes and consequences of protein folding stress in aneuploid cells.
+Action of the Hsp70 chaperone system observed with single proteins
+The conformational plasticity of eukaryotic RNA-dependent ATPases.
+GrpE, Hsp110/Grp170, HspBP1/Sil1 and BAG Domain Proteins: Nucleotide Exchange Factors for Hsp70 Molecular Chaperones.
+Organization of the mitochondrial translation machinery studied in situ by cryoelectron tomography
+Opposing effects of folding and assembly chaperones on evolvability of Rubisco
+Chaperonin-Assisted Protein Folding: Relative Population of Asymmetric and Symmetric GroEL:GroES Complexes
+Slit cleavage is essential for producing an active, stable, non-diffusible short-range signal that guides muscle migration
+T Cells Engineered to Express a T-Cell Receptor Specific for Glypican-3 to Recognize and Kill Hepatoma Cells In Vitro and in Mice
+Cooperation of TOM and TIM23 Complexes during Translocation of Proteins into Mitochondria
+SMC condensin: promoting cohesion of replicon arms
+Proteome Alterations In The Aging Murine Lung Affect Basement Membrane Composition
+Role of auxiliary proteins in Rubisco biogenesis and function
+Tools for visualization and analysis of molecular networks, pathways, and -omics data.
+Extracellular MRP8/14 is a regulator of beta 2 integrin-dependent neutrophil slow rolling and adhesion
+The Pro-Apoptotic BH3-Only Protein Bim Interacts with Components of the Translocase of the Outer Mitochondrial Membrane (TOM)
+Fluorescence microscopy visualization of halomucin, a secreted 927 kDa protein surrounding Haloquadratum walsbyi cells
+HIV-1 IN/Pol recruits LEDGF/p75 into viral particles
+Quantitative Interaction Proteomics of Neurodegenerative Disease Proteins
+Accurate Protein Complex Retrieval by Affinity Enrichment Mass Spectrometry (AE-MS) Rather than Affinity Purification Mass Spectrometry (AP-MS)
+Mass spectrometry of human leukocyte antigen class I peptidomes reveals strong effects of protein abundance and turnover on antigen presentation.
+Side-binding proteins modulate actin filament dynamics
+How to Measure Molecular Forces in Cells: A Guide to Evaluating Genetically-Encoded FRET-Based Tension Sensors
+Homogenous Phase Enrichment of Cysteine-Containing Peptides for Improved Proteome Coverage
+Mutations in TRAF3IP1/IFT54 reveal a new role for IFT proteins in microtubule stabilization
+Structural insights into the cooperative remodeling of membranes by amphiphysin/BIN1
+Virtual pathway explorer (viPEr) and pathway enrichment analysis tool (PEANuT): creating and analyzing focus networks to identify cross-talk between molecules and pathways
+Parasite-induced ER stress response in hepatocytes facilitates Plasmodium liver stage infection
+Machine Learning-based Classification of Diffuse Large B-cell Lymphoma Patients by Their Protein Expression Profiles
+Parallel Accumulation-Serial Fragmentation (PASEF): Multiplying Sequencing Speed and Sensitivity by Synchronized Scans in a Trapped Ion Mobility Device
+Pareto Optimization Identifies Diverse Set of Phosphorylation Signatures Predicting Response to Treatment with Dasatinib
+Structural basis for recognition and remodeling of the TBP:DNA:NC2 complex by Mot1.
+Establishment of a T cell receptor biobank for patients with acute myeloid leukemia to be individually treated by genetically modified donor lymphocyte infusions after haploidentical stem cell transplantation
+Arginine-rhamnosylation as new strategy to activate translation elongation factor P
+A perspective on transport of proteins into mitochondria: a myriad of open questions.
+Phosphoproteomics analysis of a clinical Mycobacterium tuberculosis Beijing isolate: expanding the mycobacterial phosphoproteome catalog
+Protein Transport into the Human Endoplasmic Reticulum
+DNA-protein crosslink repair: proteases as DNA repair enzymes
+Astrocyte-Neuron Crosstalk Regulates the Expression and Subcellular Localization of Carbohydrate Metabolism Enzymes
+Novel prognostic markers revealed by a proteomic approach separating benign from malignant insulinomas
+Rational Design and Asymmetric Synthesis of Potent and Neurotrophic Ligands for FK506-Binding Proteins (FKBPs)
+A novel Cre recombinase reporter mouse strain facilitates selective and efficient infection of primary immune cells with adenoviral vectors
+Moderate alterations of the cytoskeleton in human chondrocytes after short-term microgravity produced by parabolic flight maneuvers could be prevented by up-regulation of BMP-2 and SOX-9
+Benchmarking Multiple Fragmentation Methods on an Orbitrap Fusion for Top-down Phospho-Proteoform Characterization
+Effect of fringe-artifact correction on sub-tomogram averaging from Zernike phase-plate cryo-TEM
+Bringing one-dimensional photonic crystals to a new light: an electrophotonic platform for chemical mass transport visualisation and cell monitoring
+Structural characterization of the interaction of Ubp6 with the 26S proteasome
+Enhancing recombinant protein solubility with ubiquitin-like small archeal modifying protein fusion partners
+Kite Proteins: a Superfamily of SMC/Kleisin Partners Conserved Across Bacteria, Archaea, and Eukaryotes
+Meeting report - Getting Into and Out of Mitosis
+Novel Topography of the Rab11-Effector Interaction Network Within a Ciliary Membrane Targeting Complex
+Absolute Quantitative Profiling of the Key Metabolic Pathways in Slow and Fast Skeletal Muscle
+Calsequestrins in skeletal and cardiac muscle from adult Danio rerio
+TLR3-Mediated CD8(+) Dendritic Cell Activation Is Coupled with Establishment of a Cell-Intrinsic Antiviral State
+Topographic Mapping of the Synaptic Cleft into Adhesive Nanodomains
+Consequences of Aneuploidy in Cancer: Transcriptome and Beyond
+Proteomics reveals dynamic assembly of repair complexes during bypass of DNA cross-links
+T-cell receptor repertoire of human peripheral CD161(hi)TRAV1-2(+) MAIT cells revealed by next generation sequencing and single cell analysis
+Structure of Rab11-FIP3-Rabin8 reveals simultaneous binding of FIP3 and Rabin8 effectors to Rab11
+Degradation of potent Rubisco inhibitor by selective sugar phosphatase
+A focused ion beam milling and lift-out approach for site-specific preparation of frozen-hydrated lamellas from multicellular organisms
+Which of the world's institutions employ the most highly cited researchers? An analysis of the data from highlycited.com
+Structure and mechanism of the Rubisco-assembly chaperone Raf1
+Large Tailed Spindle Viruses of Archaea: a New Way of Doing Viral Business
+Diversity of COP9 signalosome structures and functional consequences
+Aging Drosophila melanogaster Display Altered Pre- and Postsynaptic Ultrastructure at Adult Neuromuscular Junctions
+Identification of proteins involved in inhibition of spheroid formation under microgravity
+The Impact of High-Fat Diet on Metabolism and Immune Defense in Small Intestine Mucosa
+alphabeta T-cell receptors from multiple sclerosis brain lesions show MAIT cell-related features.
+The Lipid-Modifying Enzyme SMPDL3B Negatively Regulates Innate Immunity
+The nucleotide exchange factors of Hsp70 molecular chaperones.
+Anatomy of BioJS, an open source community for the life sciences
+A Positive Feedback Loop between Akt and mTORC2 via SIN1 Phosphorylation
+The Impact II, a Very High-Resolution Quadrupole Time-of-Flight Instrument (QTOF) for Deep Shotgun Proteomics
+Functional classification of memory CD8(+) T cells by CX(3)CR1 expression
+Structure of a Human 4E-T/DDX6/CNOT1 Complex Reveals the Different Interplay of DDX6-Binding Proteins with the CCR4-NOT Complex
+The calcified eggshell matrix proteome of a songbird, the zebra finch (Taeniopygia guttata)
+Structural Analysis of the Rubisco-Assembly Chaperone RbcX-II from Chlamydomonas reinhardtii
+PhosphOrtholog: a web-based tool for cross-species mapping of orthologous protein post-translational modifications
+The ParB-parS Chromosome Segregation System Modulates Competence Development in Streptococcus pneumoniae
+Secretome Analysis of Lipid-Induced Insulin Resistance in Skeletal Muscle Cells by a Combined Experimental and Bioinformatics Workflow
+The Skeleton Forming Proteome of an Early Branching Metazoan: A Molecular Survey of the Biomineralization Components Employed by the Coralline Sponge Vaceletia Sp.
+Mechanisms of three-dimensional growth of thyroid cells during long-term simulated microgravity
+Embryonic stem cell differentiation requires full length Chd1
+Inhibition of fibronectin deposition improves experimental liver fibrosis.
+Sub-μs time resolution in wide-field time-correlated single photon counting microscopy obtained from the photon event phosphor decay
+Merging and scoring molecular interactions utilising existing community standards: tools, use-cases and a case study.

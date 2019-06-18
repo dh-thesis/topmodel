@@ -1,0 +1,68 @@
+Parameterized Verification of Asynchronous Shared-Memory Systems
+Bisimilar Finite Abstractions of Stochastic Control Systems
+Expand, Enlarge, and Check for Branching Vector Addition Systems
+The First Workshop on Language Support for Privacy-enhancing Technologies (PETShop'13)
+Data-only Flattening for Nested Data Parallelism
+Peer-assisted Content Distribution in Akamai Netsession
+On Sampling the Wisdom of Crowds: Random vs. Expert Sampling of the Twitter Stream
+The Complexity of Coverage
+On Spin Locks in AUTOSAR: Blocking Analysis of FIFO, Unordered, and Priority-Ordered Spin Locks
+Multiprocessor Feasibility Analysis of Recurrent Task Systems with Specified Processor Affinities
+A Comparison of Scheduling Latency in Linux, PREEMPT-RT, and LITMUS RT
+SoK: The Evolution of Sybil Defense via Social Networks
+Improved Analysis and Evaluation of Real-Time Semaphore Protocols for P-FP Scheduling
+Relaxed Separation Logic: A Program Logic for C11 Concurrency
+A Theory of Robust Omega-regular Software Synthesis
+Towards Efficient Traffic-analysis Resistant Anonymity Networks
+PETShop '13: Proceedings of the First ACM Workshop on Language Support for Privacy-enhancing Technologies
+Aspect-Oriented Linearizability Proofs
+How to Make Ad Hoc Proof Automation Less Ad Hoc
+CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency
+Static Provenance Verification for Message Passing Programs
+Compositional Equivalence Checking for Models and Code of Control Systems
+Unifying Refinement and Hoare-style Reasoning in a Logic for Higher-order Concurrency
+Mixin' Up the ML Module System
+A Theory of Partitioned Global Address Spaces
+A Theory of Name Boundedness
+Complete and Easy Bidirectional Typechecking for Higher-rank Polymorphism
+Adjustable References
+Provenance Verification
+A Uniformization Theorem for Nested Word to Word Transductions
+The OMLP Family of Optimal Multiprocessor Real-time Locking Protocols
+From Tests to Proofs
+Backstepping Controller Synthesis and Characterizations of Incremental Stability
+Code Aware Resource Management
+Dependent Type Theory for Verification of Information Flow and Access Control Policies
+MrCrypt: Static Analysis for Secure Cloud Computations
+Automating Separation Logic Using SMT
+No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities
+Efficient Partitioning of Sporadic Real-Time Tasks with Shared Resources and Spin Locks
+A Fully Preemptive Multiprocessor Semaphore Protocol for Latency-Sensitive Real-Time Applications
+Complete Completion Using Types and Weights
+Composing OS Extensions Safely and Efficiently with Bascule
+Lightweight Proof by Reflection Using a Posteriori Simulation of Effectful Computation
+Characterizing and Curating Conversation Threads: Expansion, Focus, Volume, Re-entry
+Using Relevance Queries for Identification of Read-once Functions
+Synthesis of Fixed-Point Programs
+The Power of Parameterization in Coinductive Proof
+Mtac: A Monad for Typed Tactic Programming in Coq
+SplitX: High-performance Private Analytics
+Logical Relations for Fine-grained Concurrency
+Linguistic Models for Analyzing and Detecting Biased Language
+Incremental, Inductive Coverability
+Symbolic Control of Stochastic Systems via Approximately Bisimilar Finite Abstractions
+Supervisor Synthesis for Controller Upgrades
+Psi-CAL: Foundations of a Programming Language for Services Computing
+From Search to Computation: Redundancy Criteria and Simplification at Work
+Model Checking Database Applications
+Scheduling Parallel Programs by Work Stealing with Private Deques
+A Computational Approach to Politeness with Application to Social Factors
+Outstanding Paper Award: Schedulability Analysis of the Linux Push and Pull Scheduler with Arbitrary Processor Affinities
+A Programming Language Approach to Fault Tolerance for Fork-join Parallelism
+A Notion of Dynamic Interface for Depth-Bounded Object-Oriented Packages
+Dynamic Package Interfaces - Extended Version
+Internalizing Relational Parametricity in the Extensional Calculus of Constructions
+Improving Trust in Cloud, Enterprise, and Mobile Computing Platforms
+Traditional Media Seen from Social Media
+Internet Measurement Conference, IMC'13, Barcelona, Spain, October 23-25, 2013
+Addressing the Privacy Management Crisis in Online Social Networks

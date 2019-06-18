@@ -1,0 +1,108 @@
+Spermatological characters in the diphyllobothriidean Schistocephalus solidus (Cestoda)
+Cooperative interaction of rich and poor can be catalyzed by intermediate climate targets
+Stability properties of underdominance in finite subdivided populations
+The evolutionary origin of orphan genes
+Estimating parameters of speciation models based on refined summaries of the joint site-frequency spectrum
+Biogeochemical characterization of water, plants and soils in the floodplains of the Northern Pantanal of Mato Grosso (Brazil) – A comparison with Central-Amazonian floodplains
+Ecology, biodiversity and sustainable management of the Pantanal: a synthesis
+Effect of grazing and mowing on the clonal structure of Elytrigia atherica: a long-term study of abandoned and managed sites
+A comparative assessment of mandible shape in a consomic strain panel of the house mouse (Mus musculus) - implications for epistasis and evolvability of quantitative traits
+Micro-evolutionary divergence patterns of mandible shapes in wild house mouse (Mus musculus) populations
+Dynamics of resistance development to imatinib under increasing selection pressure: a combination of mathematical models and in vitro data
+The potential of methanotrophic bacteria to compensate for food quantity or food quality limitations in Daphnia
+Dynamics of mutant cells in hierarchical organized tissues
+To qualify as a social partner, humans hide severe punishment, although their observed cooperativeness is decisive
+Female choice for heterozygous mates changes along successive matings in a lizard
+Species introduction promotes hybridization and introgression in Coregonus: is there sign of selection against hybrids?
+Genetic variation and population structure of Sudanese populations as indicated by 15 Identifiler sequence-tagged repeat (STR) loci
+A preliminary classification of habitats of the Pantanal of Mato Grosso and Mato Grosso do Sul, and its relation to national and international wetland classification systems
+Gold-mining near Poconé: environmental, social, and economic impact
+Testing the thrifty gene hypothesis: the Gly482Ser variant in PPARGC1A is associated with BMI in Tongans
+The genetics of migration on the move
+The Pantanal: Ecology, biodiversity and sustainable management of a large neotropical seasonal wetland
+Prevalence of Wolbachia in the European Honeybee, Apis mellifera carnica
+Arthropods associated with a forest of Attalea phalerata Mart. (Arecaceae) palm trees in the Northern Pantanal
+Suggestions for a sustainable management concept for the Pantanal
+Evolution of cooperation in multilevel public goods games with community structures
+Molecular characterization and evolution of a gene family encoding male-specific reproductive proteins in the African malaria vector Anopheles gambiae
+Induction of diploid gynogenesis in an evolutionary model organism, the three-spined stickleback (Gasterosteus aculeatus)
+Positive and negative selection in murine ultraconserved noncoding elements
+Computational prediction of MHC II-antigen binding supports divergent allele advantage and explains trans-species polymorphism
+Exploitation of the same trophic link favors convergence of larval life-history strategies in complex life cycle helminths
+Description of Fenerbahce devosi (Cyprinodontiformes: Notho- branchiidae), a new species of dwarf killifish from the eastern Congo Basin in the Democratic Republic of Congo
+Alignment-free detection of local similarity among viral and bacterial genomes
+Intensity-dependent host mortality: what can it tell us about larval growth strategies in complex life cycle helminths?
+Strategy abundance in evolutionary many-player games with multiple strategies
+Aspects of geological and sedimentological evolution of the Pantanal plain
+The birds of the Pantanal
+Distribution of denitrifying bacterial communities in the stratified water column and sediment-water interface in two freshwater lakes and the Baltic Sea
+Alignment-free estimation of nucleotide diversity
+The odds of duplicate gene persistence after polyploidization
+Dispersal in the course of an invasion
+A revolution in evolution [book review]
+Infection dynamics of the monogenean parasite Gyrodactylus gasterostei on sympatric and allopatric populations of the three-spined stickleback Gasterosteus aculeatus
+Fish hepatic glutathione-S-transferase activity is affected by the cestode parasites Schistocephalus solidus and Ligula intestinalis: evidence from field and laboratory studies
+High-throughput methods for analysis of the human oral microbiome
+Explaining the in vitro and in vivo differences in leukemia therapy
+Rapid formation of distinct hybrid lineages after secondary contact of two fish species (Cottus sp.)
+The Pantanal: A large South American wetland and its position in limnological theory
+Landscape units of the Pantanal: structure, function, and human use
+Not just another genome
+General lack of global dosage compensation in ZZ/ZW systems? Broadening the perspective with RNA-seq
+SNP signatures of selection on standing genetic variation and their association with adaptive phenotypes along gradients of ecological speciation in lake whitefish species pairs (Coregonus spp.)
+Exploring the link between genetic relatedness r and social contact structure k in animal social networks
+Impact of urban environment and host phenotype on the epidemiology of Chlamydiaceae in feral pigeons (Columba livia)
+Shame and honour drive cooperation
+Experimental evidence of a low-oxygen refuge for large zooplankton
+Parasite diversity, patterns of MHC II variation and olfactory based mate choice in diverging three-spined stickleback ecotypes
+Uterine selection for immunocompetent offspring [Letter]
+Variants of the protein PRDM9 differentially regulate a set of human meiotic recombination hotspots highly active in African populations
+Molecular evolution and selection patterns of plant F-box proteins with C-terminal kelch repeats
+Tangled Bank dismissed too early
+Analyzing the effect of stepping stones on target patch colonisation in structured landscapes for Eurasian lynx
+Geographic parthenogenesis in a consumer-resource model for sexual reproduction
+On the fixation process of a beneficial mutation in a variable environment
+Timing the tides: Genetic control of diurnal and lunar emergence times is correlated in the marine midge Clunio marinus
+Variants of the protein PRDM9 differentially regulate a set of human meiotic recombination hotspots highly active in African populations
+Nematoda (The Fauna of the Breitenbach)
+Particulate Organic Matter
+Dissolved Organic Matter in Streams
+Aquatic Insects Emerging over an Artificially Changed Stream Bottom
+Discharge Patterns Largely Determine Species Abundance and Community Diversity
+History of the Limnologische Flussstation Schlitz
+Ecophysiology, Behavior, and Life Cycles of Scrapers (The Fauna of the Breitenbach)
+Detrital Energy Sources
+The Sandy Streambed Areas of the Breitenbach
+Central European Stream Ecosystems. The Long Term Study of the Breitenbach
+Global Change and Timing of Insect Emergence at the Breitenbach
+Organic Matter in Streams
+Platyhelminthes and Annelida (The Fauna of the Breitenbach)
+Insecta (The Fauna of the Breitenbach)
+The Fauna of the Breitenbach
+Eleven Years Emergence at Four Sites along the Breitenbach and the Effects of Discharge Patterns on the EPTD Community
+Food Chains and Carbon Flow
+Sampling Methods (The Fauna of the Breitenbach)
+Arthropoda (The Fauna of the Breitenbach)
+Trichoptera (The Fauna of the Breitenbach)
+Effects of Water Temperature along the Breitenbach (The Fauna of the Breitenbach)
+The Breitenbach and Its Catchment
+Environmental Characteristics
+Primary Producers
+Bacteria and Fungi
+Summary: Central European Stream Ecosystems. The Long Term Study of the Breitenbach
+The Erlenbach – a Comparison with the Breitenbach
+Modeling Discharge and Insect Abundance with Artificial Neural Networks (ANNs)
+Chordata (The Fauna of the Breitenbach)
+Protozoa: Ciliophora (The Fauna of the Breitenbach)
+Mollusca (The Fauna of the Breitenbach)
+Aquatic Diptera (The Fauna of the Breitenbach)
+Long-term balancing selection at the blood group-related gene B4galnt2 in the genus Mus (Rodentia; Muridae)
+Daphnia: development of a model organism in ecology and evolution
+Exclusion rules, bottlenecks and the evolution of stochastic phenotype switching
+The evolutionary emergence of stochastic phenotype switching in bacteria
+Phylostratigraphic analyses of mouse tissue transcriptomes and comparative genomics of orphan genes
+Social control and the social contract: the emergence of sanctioning systems for collective action
+Within-genome evolution of REPINs: a new familiy of miniature mobile DNA in bacteria
+Colonic mucosa-associated microbiota is influenced by an interaction of Crohn disease and FUT2 (Secretor) genotype
+Reciprocal gene loss following experimental whole-genome duplication causes reproductive isolation in yeast
+Alignment-free detection of horizontal gene transfer between closely related bacterial genomes

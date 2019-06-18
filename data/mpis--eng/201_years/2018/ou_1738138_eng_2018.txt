@@ -1,0 +1,139 @@
+Compartmentalized RNA catalysis in membrane - free coacervate protocells
+A systematic reactor design approach for the synthesis of active pharmaceutical ingredients
+Model-based optimization of biopharmaceutical manufacturing in Pichia pastoris based on dynamic flux balance analysis
+A modular approach for multifunctional polymersomes with controlled adhesive properties
+Mastering Complexity: Towards Bottom-up Construction of Multifunctional Eukaryotic Synthetic Cells
+Biomimetic Cascade Network between Interactive Multicompartments Organized by Enzyme-Loaded Silica Nanoreactors
+Reversible Social Self-Sorting of Colloidal Cell-Mimics with Blue Light Switchable Proteins
+Mass-conserving advection–diffusion Lattice Boltzmann model for multi-species reacting flows
+Direct Numerical Simulations of Hotspot-induced Ignition in Homogeneous Hydrogen-air Pre-mixtures and Ignition Spot Tracking
+Mechanical interactions among followers determine the emergence of leaders in migrating epithelial cell collectives
+The impact of global sensitivities and design measures in model-based optimal experimental design
+Robust Optimization of Dynamical Systems with Correlated Random Variables using the Point Estimate Method
+Charge controlled microfluidic formation of lipid-based single- and multicompartment systems
+The 2018 biomembrane curvature and remodeling roadmap.
+Operating envelope of Haber–Bosch process design for power-to-ammonia
+Myosin-II activity generates a dynamic steady state with continuous actin turnover in a minimal actin cortex.
+Mechanisms and kinetics of petro- and oleochemicals in complex hydroformylation reaction networks
+The Conserved ESCRT-III Machinery Participates in the Phagocytosis of Entamoeba histolytica
+Accurate Lattice Energies of Organic Molecular Crystals from Periodic Turbomole Calculations
+Nonlinear Frequency Response Method for Evaluating Forced Periodic Operations of Chemical Reactors
+SDS-PAGE fractionation to increase metaproteomic insight into the taxonomic and functional composition of microbial communities for biogas plant samples
+Thermal deformations of crystal structures formed in the systems of malic acid enantiomers and L-valine–L-isoleucine enantiomers
+A mathematical framework for yield (versus rate) optimization in constraint-based modeling and applications in metabolic engineering
+All three quinone species play distinct roles in ensuring optimal growth under aerobic and fermentative conditions in E. coli K 12.
+NMPC using Pontryagin’s Minimum Principle-Application to a two-phase semi-batch hydroformylation reactor under uncertainty
+Efficient simulation and equilibrium theory for adsorption processes with implicit adsorption isotherms – Ideal adsorbed solution theory
+Kinetic modeling of methanol synthesis from renewable resources
+Analytical and numerical solutions of two-dimensional general rate models for liquid chromatographic columns packed with core–shell particles
+Continuous purification of cell culture-derived influenza A virus particles through pseudo- affinity membrane chromatography
+Addressing the challenges of influenza virus-like particles purification
+Measurement and Evaluation of the Crystallization Kinetics of L‑Asparagine Monohydrate in the Ternary L‑/D‑Asparagine/Water System
+Kinetic Modeling of Methanol Synthesis - Impact of Catalyst Deactivation
+Solvent Recycling of Ionic Liquid [DBNH][OAc] by Freeze Crystallization: Basic Studies
+Parameter studies on the operating conditions for a continuous preferential crystallization in fluidized bed crystallizers
+Process intensification of EB66 ® cell cultivations leads to high-yield yellow fever and Zika virus production
+Parameter Identification for Continuous Fluidized Bed Spray Agglomeration
+Prediction of acid dissociation constants of organic compounds using group contribution methods
+Solvate Formation of Bis(demethoxy)curcumin: Screening and Characterization
+Linear Programming Approach for Structure Optimization of Renewable-to-Chemicals (R2Chem) Production Networks
+Improvement of electrospray stability in negative ion mode for nano-PGC-LC-MS glycoanalysis via post-column make-up flow
+Effect of the MEA design on the performance of PEMWE single cells with different sizes
+When do two-stage processes outperform one-stage processes?
+Theoretical Investigation of Thermal Effects in an Adiabatic Chromatographic Column Using a Lumped Kinetic Model Incorporating Heat Transfer Resistances
+Kinetic Modeling of the Palladium-Catalyzed Isomerizing Methoxycarbonylation of 1-Decene
+CGE-LIF as a novel approach for the analysis of glycosphingolipid-derived glycans
+Modeling Actomyosin Clustering Depending on Medium ATP-Concentrations
+Molecular Dynamics Study of the Solution Structure, Clustering, and Diffusion of Four Aqueous Alkanolamines
+Purification of influenza virus-like particles using sulfated cellulose membrane adsorbers
+Rigorous design of reaction-separation processes using disjunctive programming models
+Assessing the Importance of Domestic Vaccine Manufacturing Centers: An Overview of Immunization Programs, Vaccine Manufacture, and Distribution
+A new porcine suspension cell line (PBG.PK-21) provides efficient production for influenza and yellow fever vaccine viruses
+MoVE identifies metabolic valves to switch between phenotypic states
+Computer-Aided Design of Ionic Liquids as Absorbent for Gas Separation Exemplified by CO2 Capture Cases
+Purifying viruses with a sheet of paper: Single-use steric exclusion chromatography as a capture platform for vaccine candidates
+Model Predictive Control of Simulated Moving Bed Chromatography for Binary and Pseudo-binary Separations: Simulation Study
+Global optimization of multistage binary separation networks
+A multiscale model of influenza A virus replication covering highly different infection conditions in cell cultures
+Mathematical modeling as a tool to improve influenza vaccine production processes
+Modeling Batch Preferential Crystallization for Conglomerates and Racemic Compounds
+Separation of Mandelic Acid Enantiomers at Eutectic Composition by Preferential Crystallization
+Structural Investigation of the Dopamine-2 Receptor Agonist Bromocriptine Binding to Dimeric D2HighR and D2LowR States
+Cand1-Mediated Adaptive Exchange Mechanism Enables Variation in F-Box Protein Expression
+QM/MM Investigation of the Role of a Second Coordination Shell Arginine in [NiFe]-Hydrogenases
+Combination of enantioselective preparative chromatography and racemization: Experimental demonstration and model based process optimization
+Influence of Thermal Conditions on Particle Properties in Fluidized Bed Layering Granulation
+Study of Thermal Effects in Two-Component Nonisothermal Liquid Chromatography Considering Thermally Insulated Columns
+Protein Identification as a Suitable Application for Fast Data Architecture
+Optimization of cell culture-derived inﬂuenza A virus particles puriﬁcation using sulfated cellulose membrane adsorbers
+Computer-aided design of ionic liquids as solvents for extractive desulfurization
+Vaccine Technology VI: Innovative and integrated approaches in vaccine development
+Propagation of Brazilian Zika virus strains in static and suspension cultures using Vero and BHK cells
+Influence of drying conditions on process properties and parameter identification for continuous fluidized bed spray agglomeration
+Continuous production of CO from CO2 by RWGS chemical looping in fixed and fluidized bed reactors
+Computationally efficient NMPC for batch and semi-batch processes using parsimonious input parameterization
+Plasma N-Glycan Signatures Are Associated With Features of Inflammatory Bowel Diseases
+Influenza virus capture using membrane chromatography: Improving selectivity by matrix design and pseudo-affinity ligand interactions
+Orbital shaken bioreactor for influenza A virus production in high cell density cultivations
+Highly efficient influenza virus production: A MDCK-based high-cell-density process
+Temperature-dependent dynamic control of the TCA cycle increases volumetric productivity of itaconic acid production by Escherichia coli.
+Flavivirus production in perfusion processes using the EB66® cell line
+GlyXtoolMS: An Open-Source Pipeline for Semiautomated Analysis of Glycopeptide Mass Spectrometry Data
+Simulation of Mixed Self-Assembled Monolayers on Gold: Effect of Terminal Alkyl Anchor Chain and Monolayer Composition
+A guide to automated apoptosis detection: How to make sense of imaging flow cytometry data
+Cell culture-based production of defective interfering particles for influenza antiviral therapy
+Computational Studies on the Inhibitor Selectivity of Human JAMM Deubiquitinylases Rpn11 and CSN5
+Computer Aided Design of Green Thermomorphic Solvent Systems for Homogeneous Catalyst Recovery
+Integrated Process and Ionic Liquid Design by Combining Flowsheet Simulation with Quantum-Chemical Solvent Screening
+New pilot scale process for organosolv lignin precipitation
+A Maze of Solid Solutions of Pimobendan Enantiomers: An Extraordinary Case of Polymorph and Solvate Diversity
+The Fine Art of Destruction: A Guide to In-Depth Glycoproteomic Analyses – Exploiting the Diagnostic Potential of Fragment Ions
+Qualitative and Semi-Quantitative Analysis of Signal Transduction Networks
+Functional metagenomics identifies an exosialidase with an inverting catalytic mechanism that defines a new glycoside hydrolase family (GH156)
+Model-based State Estimation Based on Hybrid Cybernetic Models
+Novel process for the exergetically efficient recycling of chlorine by gas phase electrolysis of hydrogen chloride
+Monotonic reformulation and bound tightening for global optimization of ideal multi-component distillation columns
+Literally green chemical synthesis of artemisinin from plant extracts
+Type and capacity of glucose transport influences succinate yield in two-stage cultivations
+Efficient simulation of ion exchange chromatography with application to bioseparations
+Modular assembling process of an in-silico protocell
+Establishment of a five-enzyme cell-free cascade for the synthesis of uridine diphosphate N-acetylglucosamine
+Purification of cell culture-derived influenza A virus via continuous anion exchange chromatography on monoliths
+Application of Quantitative Inline NMR Spectroscopy for Investigation of a Fixed-Bed Chromatographic Reactor Process
+Quantitative single cell analysis uncovers the life/death decision in CD95 network
+Intramolecular stabilization of a catalytic [FeFe]-hydrogenase mimic investigated by experiment and theory
+Ultra-low loading Pt-sputtered gas diffusion electrodes for oxygen reduction reaction
+Identification of Key Transport Phenomena in High-Temperature Reactors: Flow and Heat Transfer Characteristics
+One pot synthesis of GDP-mannose by a multi-enzyme cascade for enzymatic assembly of lipid-linked oligosaccharides
+Single-cell analysis uncovers a novel influenza A virus-derived defective interfering particle for antiviral therapy
+Valorisation of deinking sludge as a substrate for lignocellulolytic enzymes production by Pleurotus ostreatus
+Particle-image-velocimetry measurements in organic liquid multiphase systems for an optimal reactor design and operation
+Measurement of the crystallization kinetics of L-asparagine monohydrate from aqueous L-/ and DL-asparagine solutions
+Fundamental Studies for Continuous Preferential Crystallization of Guaifenesin
+Mechanisms behind overshoots in mean cluster size profiles in aggregation-breakup processes
+Out-of-equilibrium microcompartments for the bottom-up integration of metabolic functions
+Thermodynamic Network Flow Approach for Chemical Process Synthesis
+A Novel Framework for Parameter and State Estimation of Multicellular Systems Using Gaussian Mixture Approximations
+High-cell-density cultivations to increase MVA virus production
+Synthesis, kinetic analysis and modelling of galacto-oligosaccharides formation
+Enhancing PEM water electrolysis efficiency by reducing the extent of Ti gas diffusion layer passivation
+Enantio-selective Crystallization via a Kinetic and Thermodynamic Hybrid Process
+OptMDFpathway: Identification of metabolic pathways with maximal thermodynamic driving force and its application for analyzing the endogenous CO2 fixation potential of Escherichia coli
+Exact Riemann solutions of the Ripa model for ﬂat and non-ﬂat bottom topographies
+MPA Portable: A Stand-Alone Software Package for Analyzing Metaproteome Samples on the Go
+Application of discontinuous Galerkin method for solving a compressible ﬁve-equation two-phase ﬂow model
+Computational investigation of the control of the thermodynamics and microkinetics of the reductive amination reaction by solvent coordination and a co-catalyst
+Inﬂuence of thermal conditions on particle properties in ﬂuidized bed granulation
+Solid-liquid and liquid-liquid phase equilibria in the pseudo-ternary lignin-ethanol-water system
+Crystal Growth Rate Studies in the Chiral 2-Chloromandelic Acid/Water System
+Development of a semi-continuous gas chromatographic process for separating enantiomers of chiral anesthetics
+Robust feedback control of convective drying of particulate solids
+Toward Fast Dynamic Optimization: An Indirect Algorithm That Uses Parsimonious Input Parameterization
+Generalizing Countercurrent Processes: Distillation and Beyond
+A QM protein–ligand investigation of antipsychotic drugs with the dopamine D2 Receptor (D2R)
+Application of COSMO-RS and UNIFAC for ionic liquids based gas separation
+Efficient influenza vaccine manufacturing: Single MDCK suspension cells in chemically defined medium
+MaxSynBio - Avenues towards creating cells from the bottom up
+Alterations of the Human Skin N- and O-Glycome in Basal Cell Carcinoma and Squamous Cell Carcinoma
+Process Control and Yield Enhancement of the Galacto-Oligosaccharide Formation
+HAPOD - Fast, Simple and Reliable Distributed POD Computation

@@ -1,0 +1,361 @@
+Ground-state cooling of a nanomechanical resonator coupled to two interacting flux qubits
+PSR J1907+0602: a radio-faint-gamma-ray pulsar powering a bright TeV pulsar wind nebula
+Hi-GAL: The Herschel Infrared Galactic Plane Survey
+Chandra detection of diffuse X-ray emission from the globular cluster Terzan 5
+Imaging molecules from within: Ultrafast angström-scale structure determination of molecules via photoelectron holography using free-electron lasers
+Comment on "Intruder Configurations in the A = 33 Isobars: 33Mg and 33Al"
+Approaching the N = 82 shell closure with mass measurements of Ag and Cd isotopes
+Left-right symmetric model for neutrino masses, baryon asymmetry, and dark matter
+Penning traps as a versatile tool for precise experiments in fundamental physics
+Ultralow Q values for neutrino mass measurements
+Calibration and characterization of the IceCube photomultiplier tube
+Laser spectroscopy in the island of inversion
+Energy-sensitive imaging detector applied to the dissociative recombination of D2H+
+Search for muon neutrinos from gamma-ray bursts with the IceCube neutrino telescope
+MiniBooNE and LSND data: non-standard neutrino interactions in a (3+1) scheme versus (3+2) oscillations
+The exceptionally luminous type Ia supernova 2007if
+Pulse shape analysis to reduce the background of BEGe detectors
+Measurement of the charm and beauty structure functions using the H1 vertex detector at HERA
+Photoelectron spectroscopy of O- at 266 nm: Ratio of ground- and excited-state atomic oxygen production and channel-resolved photoelectron anisotropy parameters
+Measuring neutrino mass with radioactive ions in a storage ring
+Penning trap mass measurements of transfermium elements with SHIPTRAP
+Inverse neutrinoless double beta decay revisited: Neutrinos, Higgs triplets, and a muon collider
+Correlations of experimental isotope shifts with spectroscopic and mass observables
+On non-unitary lepton mixing and neutrino mass observables
+Wilson loop-loop correlators in AdS/QCD
+Direct detection data and possible hints for low-mass WIMPs
+Non-linear processes in the interaction of atoms and molecules with intense EUV and X-ray fields from SASE free electron lasers (FELs)
+Dust Emission from Stephan's Quintet
+Tracing the photodissociation probability of H2+ in intense fields using chirped laser pulses
+Transverse laser cooling by synchro-betatron coupling
+Short-term VHE variability in blazars: PKS 2155-304
+A lower limit of 50 microgauss for the magnetic field near the Galactic Centre
+Search for Quantum Gravity induced effects with PKS 2155-304 flaring period in 2006 by H.E.S.S.
+Search for dimer emission from photoexcited Al4-
+Monte Carlo calculations of pair production in high-intensity laser-plasma interactions
+Linear Acceleration Emission in Pulsar Magnetospheres
+Observation of Magnetized Soliton Remnants in the Wake of Intense Laser Pulse Propagation through Plasmas
+The TITAN EBIT charge breeder for mass measurements on highly charged short-lived isotopes-First online operation
+Cross-section fluctuations in chaotic scattering
+Chi-square tests for comparing weighted histograms
+Observation of saturnian stream particles in the interplanetary space
+Coherent control of nuclear forward scattering
+Comparison of synthetic maps from truncated jet-formation models with YSO jet observations
+IR-characterization of a hybrid molecule C-60-C-3 produced in an argon matrix
+Powerful H-2 line cooling in Stephan's quintet : I. mapping the significant cooling pathways in group-wide shocks
+Discovery of Highly Excited Long-Lived Isomers in Neutron-Rich Hafnium and Tantalum Isotopes through Direct Mass Measurements
+Cryogenic Performance of a Low-Noise JFET-CMOS Preamplifier for HPGe Detectors
+New experimental limits on the Pauli-forbidden transitions in 12C nuclei obtained with 485 days Borexino data
+Discovery of a long-lived low-lying isomeric state in 80Ga
+High-fidelity copies from a symmetric 1 -> 2 quantum cloning machine
+Search for interference effects in electron impact ionization of aligned hydrogen molecules
+Direct mass measurements above uranium bridge the gap to the island of stability
+Isotope Evidence for Ozone Formation on Surfaces
+Lab simulation of interstellar dust : a new approach for hypervelocity impact studies
+Airborne stratospheric ITCIMS measurements of SO2, HCl, and HNO3 in the aged plume of volcano Kasatochi
+Interaction of the solar wind and stream particles, results from the Cassini dust detector
+TITAN-EBIT - charge breeding of radioactive isotopes for high precision mass measurements
+Roadmap for selected key measurements of LHCb
+Beam Halo Imaging with an Adaptive Optical Mask
+RAVEN-a Random Access, Visualization and Exploration Network for the Analysis of Petabyte Sized Data Sets
+Critical-Point Boundary for the Nuclear Quantum Phase transition Near A = 100 from Mass Measurements of 96;97Kr
+Detection of gamma-ray emission from the starburst galaxies M82 and NGC 253 with the large area telescope on Fermi
+Inflation in the standard model and νMSM with non-minimal coupling to gravity
+Acceleration, deceleration and bunching of stored and cooled ion beams at the TSR, Heidelberg
+A search for VHE counterparts of Galactic Fermi bright sources and MeV to TeV spectral characterization
+Fivefold differential cross sections for ground-state ionization of aligned H2 by electron impact
+The toolkit for multivariate data analysis - TMVA 4
+Resonant and Near-Threshold Photoionization Cross Sections of Fe14+
+High-energy electron-positron photoproduction cross section close to the end of the spectrum
+Squeezing in strong light scattered by a regular structure of atoms
+Dressed-Atom Multiphoton Analysis of Anomalous Electromagnetically Induced Absorption
+Cooling a quantum circuit via coupling to a multiqubit system
+Measurement of distance and orientation of two atoms in arbitrary geometry
+Light inflaton Hunter's Guide
+Spectroscopy of proton-unbound nuclei by tracking their decay products in-flight: One- and two- proton decays of 15F, 16Ne, and 19Na
+Measurement of sound speed vs. depth in South Pole ice for neutrino astronomy
+Direct measurement of the 4.6 MeV isomer in stored bare 133Sb ions
+Diffractive electroproduction of rho and phi mesons at HERA
+Jet production in ep collisions at low Q(2) and determination of alpha(s)
+Shock acceleration of relativistic particles in galaxy-galaxy collisions
+PKS 1502+106: A new and distant gamma-ray blazar in outburst discovered by the fermi large area telescope
+The Herschel ATLAS
+Vacuum-induced processes in multi-level atoms
+Application of the rule-growing algorithm RIPPER to particle physics analysis
+Measurement of sigma(pp -> b anti-b X) at \sqrt(s)=7 TeV in the forward region
+Light propagation : from atomic to nuclear quantum optics
+Radiative symmetry breaking of the minimal left-right symmetric model
+Attosecond optics : Easing attosecond generation
+Sudden cosmic ray decreases: No change of global cloud cover
+Conversion of experimental half-life to effective electron neutrino mass in 0 nu beta beta decay
+The NSCL electron beam ion trap for the reacceleration of rare isotopes coming to life: First extraction tests with a high-current electron gun
+Fragmentation Channels in Dissociative Electron Recombination with Hydronium and Other Astrophysically Important Species
+Differential cross sections for non-sequential double ionization of He by 52 eV photons from the Free Electron Laser in Hamburg, FLASH
+Design of a Combined Fast and Slow Extraction for the Ultra-low Energy Storage Ring (USR)
+Aerosol layers from the 2008 eruptions of Mount Okmok and Mount Kasatochi: In situ upper troposphere and lower stratosphere measurements of sulfate and organics over Europe
+Very high energy gamma-ray emission from SHBL J001355.9-185406 detected by HESS
+Dust temperature tracing the ISRF intensity in the Galaxy
+Beam Halo Studies for CTF3
+Higher order mode analysis of the SPL Cavities
+Experimental setup and first measurement of DNA damage induced along and around an antiproton beam
+EBIS/T charge breeding for intense rare isotope beams at MSU
+Very High Energy gamma-ray emission from AP Lib detected by H.E.S.S.
+GIMPs from Extra Dimensions
+The energy spectrum of atmospheric neutrinos between 2 and 200 TeV with the AMANDA-II detector
+Target effects on the linear polarization of photons emitted in radiative electron capture by heavy ions
+The diagnostic system at the Cryogenic Storage Ring CSR
+Enhancing Dark Matter Annihilation into Neutrinos
+Multipartite W states for chains of atoms conveyed through an optical cavity
+Ultraviolet and Visible Light Photodissociation of H3+ in an Ion Storage Ring
+Fine Tuning in General Gauge Mediation
+Formation of the energetic doubly charged Ne ion by irradiation of large neon clusters using intense EUV-FEL pulses at 52 nm
+High resolution resonant recombination measurements using evaporative cooling technique
+Classifying extremely imbalanced data sets
+Measurement of the anisotropy of cosmic-ray arrival directions with Icecube
+Measurement of the solar 8B neutrino rate with a liquid scintillator target and 3 MeV energy threshold in the Borexino detector
+Experimental investigation of dissociation pathways of cooled HeH+ following valence electron excitation at 32 nm by intense free-electron-laser radiation
+The X-/VHE gamma-ray connection of BL Lac objects
+Revisiting superparticle spectra in superconformal flavor models
+ERRATUM: "Search for High-Energy Muon Neutrinos from the "Naked-Eye" GRB 080319B with the Icecube Neutrino Telescope" (2009, ApJ, 701, 1721)
+Measurement of the D*(+/-) meson production cross section and F-2(c(c)over-bar) at high Q(2) in ep scattering at HERA
+Operation and performance of a bare broad-energy germanium detector in liquid argon
+A high-resolution scintillating fiber tracker with silicon photomultiplier array readout
+A self-triggered dust trajectory sensor
+Gamma-ray flares from red giant/jet interactions in active galactic nulcei
+First search for extremely high energy cosmogenic neutrinos with the IceCube Neutrino Observatory
+Observation of five high-spin members of the g(9/2)f(7/2) multiplet in Pb-208
+Diffraction properties of periodic lattices under free electron laser radiation
+The GSI oscillation mystery
+3D simulations of wind-jet interaction in massive X-ray binaries
+Structure of 33Mg sheds new light on the N = 20 island of inversion
+The Detection of a Population of Submillimeter-Bright, Strongly Lensed Galaxies
+Large lepton asymmetry for small baryon asymmetry and warm dark matter
+First Optical Hyperfine Structure Measurement in an Atomic Anion
+The high-energy, arcminute-scale galactic center gamma-ray source
+Neutrino oscillations: quantum mechanics vs. quantum field theory
+Photoionization of N3+ and Ar8+ in an electron beam ion trap by synchrotron radiation
+On the interaction of jets with stellar winds in massive x-ray binaries
+Three-dimensional cross sections for electron impact ionization of atoms and molecules
+Target dependence in the study of collective modes in stable and exotic Ni nuclei
+Precise measurement of nuclear isomers in the storage ring at GSI
+Waves in pulsar winds
+Radio-Frequency Association of Efimov Trimers
+Computation of Synthetic Spectra from Simulations of Relativistic Shocks
+Two-Center Resonant Photoionization
+How the Enceladus dust plume feeds Saturn's E ring
+Two-center dielectronic recombination and resonant photoionization
+QED corrections of order alpha(Z alpha)E-2(F) to the hyperfine splitting of P-1/2 and P-3/2 states in hydrogenlike ions
+Quantum entanglement in dense multiqubit systems
+Quantum Radiation Reaction Effects in Multiphoton Compton Scattering
+Phase modulation induced by cooperative effects in electromagnetically induced transparency
+Nonperturbative multiphoton electron-positron-pair creation in laser fields
+Radiation reaction effects on radiation pressure acceleration
+Neutrino Mass Sum-Rules in Flavor Symmetry Model
+Real-time imaging for dose evaluation during antiproton irradiation
+Discovery and investigation of heavy neutron-rich isotopes with time-resolved Schottky spectrometry in the element range from thallium to actinium
+Production, commissioning and first data of the LHCb Silicon Tracker
+Observations of the Sagittarius dwarf galaxy by the HESS experiment and search for a dark matter signal (vol 29, pg 55, 2008)
+Broken symmetry as a stabilizing remnant
+Observation of non-exponential orbital electron-capture decay of stored hydrogen-like ions
+Prompt photons in photoproduction at HERA
+Galaxy And Mass Assembly (GAMA): the input catalogue and star-galaxy separation
+From J. J. Thomson to FAIR, what do we learn from Large-Scale Mass and Half-Life Measurements of Bare and Few-Electron Ions?
+Secondary emission behind the radio outflows in gamma-ray binaries
+Direct mass measurements of exotic nuclei in storage rings
+Imaging very high energy gamma-ray telescopes
+High-precision Penning trap mass measurements for tests of the Standard Model
+Leptophilic Dark Matter in Direct Detection Experiments and in the Sun
+Cold DUst around NEarby Stars (DUNES). First results A resolved exo-Kuiper belt around the solar-like star zeta(2) Ret
+ISOLTRAP results 2006–2009
+Production of negative osmium ions by laser desorption and ionization
+Symmetric eikonal model for projectile-electron excitation and loss in relativistic ion-atom collisions
+Neutrino oscillations in quantum mechanics and quantum field theory
+Measurement of leading neutron production in deep-inelastic scattering at HERA
+MAGIC gamma-ray telescope observation of the Persues cluster of galaxies : implications for cosmic rays, dark matter, and NGC 1275
+Positive parity states in Pb-208 excited by the proton decay of the isobaric analog intruder resonance j(15/2) in Bi-209
+Real-time observation of valence electron motion
+Phenomenological Aspects of Invisibly Broad Higgs Model from Extra-Dimension
+Nuclear spins, magnetic moments, and quadrupole moments of Cu isotopes from N = 28 to N = 46: Probes for core polarization effects
+X-ray laser spectroscopy of highly charged ions at FLASH
+Relativistic high-order harmonic generation
+Systematic approach to leptogenesis in nonequilibrium QFT: Self-energy contribution to the CP-violating parameter
+Multiphoton Double Ionization of Ar and Ne Close to Threshold
+Science of Extreme Light Infrastructure
+Distorted Wave Theories Applied to Double Ionization by Ion Impact: Simulation of Higher-Order Processes
+Scaling in the neutrino mass matrix and the see-saw mechanism
+Fermi large area telescope observations of PSR J1836+5925
+On g-factor experiments with individual ions
+Multi-wavelength observations of H 2356-309
+One conceivable mechanism of UV-light induced SO2 Oxidation to H2SO4
+Infrared Properties of the Halo, Bulge and Disk of the Edge-on Galaxy NGC 7814
+Deviations from tribimaximal mixing due to the vacuum expectation value misalignment in A4 models
+VHE gamma-ray emission of PKS 2155-304: spectral and temporal variability
+Herschel-ATLAS: Evolution of the 250 mu m luminosity function out to z = 0.5
+Nuclear Spins and Moments of Ga Isotopes Reveal Sudden Structural Changes between N=40 and N=50
+Observation of electronic energy bands in argon clusters
+Neutrino Physics: a Theoretical Review
+Measurement of the radiative decay rate of the metastable (2s(2)2p(3/2)(5)3s(1/2))((J=2)) level in Fe XVII
+MAGIC TeV gamma-ray observations of Markarian 421 during multiwavelength campaigns in 2006
+Systematics of Gamow-Teller beta decay "Southeast" of Sn-100
+Simulation of Space Charge Effects in Low-energy Electrostatic Storage Rings
+African biomass burning plumes over the Atlantic: Aircraft based measurements and implications for H2SO4 and HNO3 mediated smoke particle activation
+Connections between the seesaw model and dark matter searches
+Investigating two-photon double ionization of D2 by XUV-pump-XUV-probe experiments
+Observation of the 2(-) state in Pb-208 with a major s(1/2)p(3/2) structure and structure of ten more 2(-) states
+Reanalysis of the GALLEX solar neutrino flux and source experiments
+Accretion of a massive magnetized torus on a rotating black hole
+Storage ring measurement of electron impact ionization for Mg7+ forming Mg8+
+Partial-coherence method to model experimental free-electron laser pulse statistics
+The first Fermi large area telescope catalog of gamma-ray pulsars
+Approach to 2 dimensional laser cooling and its optical observation system
+Photonuclear reactions induced by intense short laser pulses
+Quantum teleportation of four-dimensional qudits
+Isotope effects in the harmonic response from hydrogenlike muonic atoms in strong laser fields
+Complete QED Theory of Multiphoton Trident Pair Production in Strong Laser Fields
+Interplay of vacuum-mediated inter- and intra-atomic couplings in a pair of atoms
+Strongly Enhanced Recombination via Two-Center Electronic Correlations
+Relativistic Attosecond Electron Bunches from Laser-Illuminated Droplets
+Nuclear effects in atomic transitions
+Single-Cycle Gap Soliton in a Subwavelength Structure
+Entanglement dynamics of three-qubit states in noisy channels
+Optimization study for non-standard interaction search in a neutrino factory
+Intense X-ray science: the first 5 years of FLASH
+Universal quantum Controlled-NOT gate
+Hard X-Ray bursts in collapse of supermassive stars
+Results from the Borexino experiment
+Limitations on the photo-disintegration process as a source of VHE photons
+MATS and LaSpec: High-precision experiments using ion traps and lasers at FAIR
+Inelastic production of J/psi mesons in photoproduction and deep inelastic scattering at HERA
+Penning trap mass measurements on nobelium isotopes
+Clouds, filaments, and protostars: The Herschel Hi-GAL Milky Way
+Development of the Mercury dust monitor (MDM) onboard the BepiColombo mission
+Beta decay of highly charged ions
+Events with an isolated lepton and missing transverse momentum and measurement of W production at HERA
+Radio and gamma-ray constraints on dark matter annihilation in the Galactic center
+First detection of VHE gamma-rays from SN 1006 by HESS
+Isotope shift measurements in the 2s1/2 → 2p3/2 transition of Be+ and extraction of the nuclear charge radii for 7,10,11Be
+Search for relativistic magnetic monopoles with the AMANDA-II neutrino telescope
+Fermi-lat discovery of GeV gamma-ray emission from the young supernova remnant Cassiopeia A
+Polarization of the electron and positron produced in combined Coulomb and strong laser fields
+Galileo dust data from the jovian system: 2000 to 2003
+High-Precision Mass Measurements At TRIGA-TRAP
+AGILE detection of GeV gamma-ray emission from the SNR W28
+Dose calculation in biological samples in a mixed neutron-gamma field at the TRIGA reactor of the University of Mainz
+Accuracy studies with carbon clusters at the Penning trap mass spectrometer TRIGA-TRAP
+On the heavy chemical composition of the ultra-high energy cosmic rays
+Temporal coherence effects in multiple ionization of N-2 via XUV pump-probe autocorrelation
+A cryogenic electrostatic trap for long-time storage of keV ion beams
+Random matrices and chaos in nuclear physics: Nuclear reactions
+Dust emission and star formation in Stephan´s quintet
+Sub-cycle strong-field interferometry
+Jesenice (L6)-A recent meteorite fall from Slovenia
+Nonthermal radiation of young supernova remnants: the case of RX J1713.7-3946
+Herschel-ATLAS: Dust temperature and redshift distribution of SPIRE and PACS detected sources using submillimetre colours
+Comment on “Coincidence studies of He ionized by C6+ , Au24+, and Au53+”
+Importance of Thomas single-electron transfer in fast p-He collisions
+Flavored Orbifold GUT
+Soft-x-ray fragmentation studies of molecular ions
+Molecular Clouds as Cosmic-Ray Barometers
+Forward Physics at the LHC (Elba 2010)
+Global interpretation of direct Dark Matter searches after CDMS-II results
+Resonant recombination at ion storage rings: a conceptual alternative for isotope shift and hyperfine studies
+Frequency control of a 1163 nm singly resonant OPO based on MgO:PPLN
+96Ru(p,γ)97Rh measurement at the GSI storage ring
+Comparison of optimized single and multifield irradiation plans of antiproton, proton and carbon ion beams
+An Evolving View of Saturn's Dynamic Rings
+Nonthermal Properties of Supernova Remnant G1.9+0.3
+Ion-ion coincidence studies on multiple ionizations of N2 and O2 molecules irradiated by extreme ultraviolet free-electron laser pulses
+PKS2005-489 at VHE: four years of monitoring with HESS and simultaneous multi-wavelength observations
+Realization of nanosecond antiproton pulses in the ultra-low energy storage ring
+Studies of two-body-decays at the FRS-ESR facility
+Radiative Signatures of Relativistic Shocks
+Tri-bimaximal neutrino mixing and quark masses from a discrete flavour symmetry (vol 775, pg 120, 2007)
+θ 13: Phenomenology, present status and prospect
+Measuring photon-photon interactions via photon detection
+Bound–bound pair production in relativistic collisions
+Loading atom lasers by collectivity-enhanced optical pumping
+Double-slit vacuum polarization effects in ultraintense laser fields
+Self-energy correction to the hyperfine splitting and the electron g factor in hydrogenlike ions
+Effect of a strong laser field on electron-positron photoproduction by relativistic nuclei
+Transport of fission products with a helium gas-jet at TRIGA-SPEC
+Particle acceleration in the expanding blast wave of eta Carina's great eruprion of 1843
+Signatures of projectile–nucleus scattering in three-dimensional (e, 2e) cross sections for argon
+The Evolution of Galaxies: an Infrared Perspective
+Jet production in ep collisions at high Q(2) and determination of alpha(s)
+Relations between Neutrino and Charged Fermion Masses
+R-matric electron-impact excitation of Fe13+ and its application to the sof x-ray and extreme-ultraviolet spectroscopy of corona-like plasmas
+Results from the CERN pilot CLOUD experiment
+Study of the gamma-ray binary LS5039 with Suzaku
+Atom-Dimer Scattering in a Three-Component Fermi Gas
+Leptonic unitary triangles and boomerangs
+Neutrinoless Double Beta Decay
+Precision spectroscopy with individual ions
+Working Group I Report (Theory)
+Anharmonic resonance in intense laser-matter interaction: Key to collisionless absorption
+The MSU EBIT at NSCL
+A hitherto unrecognized source of low-energy electrons in water
+A battery-based, low-noise voltage source
+Combined measurement and QCD analysis of the inclusive e(+/-)p scattering cross sections at HERA
+Consistency of perturbativity and gauge coupling unification
+Masses and structure
+Broad-Band FT-ICR MS for the Penning-Trap Mass Spectrometer MATS
+Optical measurement of transverse laser cooling with synchro-betatron coupling
+Discovery of VHE γ-rays from the BL Lacertae object PKS 0548–322
+Galaxy and Mass Assembly (GAMA): Optimal Tiling of Dense Surveys with a Multi-Object Spectrograph
+Tracing multiple scattering patterns in absolute (e,2e) cross sections for H2 and He over a 4π solid angle
+Indication of a mini-valence Wigner-like energy in heavy nuclei
+Ultrafast Extreme Ultraviolet Induced Isomerization of Acetylene Cations
+Development and installation of the GERDA experiment
+Acoustic solitary wave and breather in molecular magnets via electromagnetically induced transparency
+Determining the Carrier-Envelope Phase of Intense Few-Cycle Laser Pulses
+Hot Water Molecules from Dissociative Recombination of D3O+ with Cold Electrons
+Diagonal Kaluza-Klein expansion under brane localized potential
+M 87 and Centaurus A: laboratories for VHE physics of jets and near supermassive black holes
+Phenomenology of AdS/QCD and its gravity dual
+Entangled light and matter waves via non-linear interactions
+Resonant leptogenesis and a verifiable seesaw model from large extra dimensions
+Gamma-rays from SS 433 and its interaction iwth the W50 nebula
+Surface, Subsurface and Atmosphere Exchanges on the Satellites of the Outer Solar System
+GRB 081008: from burst to afterglow and transition phase in between
+First experience and results with the LHCb Silicon Tracker
+Flexible core masking technique for beam halo measurements with high dynamic range
+keV sterile neutrino dark matter in gauge extensions of the standard model
+Large-format, high-speed, X-ray pnCCDs combined with electron and ion imaging spectrometers in a multipurpose chamber for experiments at 4th generation light sources
+Steering the Electron in H2+ by Nuclear Wave Packet Dynamics
+Quantum chaotic scattering in microwave resonators
+H.E.S.S. observations of massive stellar clusters
+Origin of Unexpected Low Energy Structure in Photoelectron Spectra Induced by Midinfrared Strong Laser Fields
+Localizing the VHE gamma-ray source at the Galactic Centre
+Non-Unitary PMNS Matrix, Leptogenesis and Low Energy CP Violation
+Nonlinearly realized extended supergravity
+The dust trail of Comet 67P/Churyumov-Gerasimenko between 2004 and 2006
+Possible alternatives to tri-bimaximal mixing
+Fragmentation Pathways of H+(H2O)2 after Extreme Ultraviolet Photoionization
+Pseudo-Majoron as Dark Matter
+Towards the future Cherenkov telescope array CTA
+Nonthermal and thermal emission from the supernova remnant RX J1713.7-3946
+Experimental determination of an Iπ = 2− ground state in 72,74Cu
+High Harmonic Generation Via Continuum Wave-Packet Interference
+A generalization for the infinite integral over three spherical Bessel functions
+Accretion and plasma outflow from dissipationless discs
+Three years of Ulysses dust data: 2005 to 2007
+Leptogenesis with linear, inverse or double seesaw
+A simple model for electron plasma heating in supernova remnants
+Comet 67P/Churyumov-Gerasimenko: the GIADA dust environment model of the Rosetta mission target
+Two-body beta decay of stored highly-charged ions
+Observation of geo-neutrinos
+Medium corrections to the CP-violating parameter in leptogenesis
+Gamma-Ray Emission from the Shell of Supernova Remnant W44 Revealed by the Fermi LAT
+Direct mass measurements of 194Hg and 194Au: A new route to the neutrino mass determination?
+Determining the Time Zero for Electronic Dynamics
+Exploring few-photon, few-electron reactions at FLASH: from ion yield and momentum measurements to time-resolved and kinematically complete experiments
+LHCb Silicon Tracker DAQ and ECS Online Systems
+Limits on a muon flux from Kaluza-Klein dark matter annihilations in the Sun from the IceCube 22-string detector
+The laser ion source trap for highest isobaric selectivity in online exotic isotope production
+High-energy emission from jet-cloud interactions in AGNs
+Radiation pressure acceleration of ultrathin foils
+TITAN-EBIT — charge breeding of radioactive isotopes for high precision mass measurements
+Erratum to “Observations of the Sagittarius dwarf galaxy by the HESS experiment and search for a dark matter signal” [Astropart. Phys. 29(1) (2008) 55–62]
+First investigation of phase-shifted Ramsey excitation in Penning trap mass spectrometry
+The PMT Test Facility at MPIK Heidelberg and the Double Chooz Super Vertical Slice
+The LAGUNA project: Towards the giant liquid based detectors for proton decay searches and for low energy neutrino astrophysics

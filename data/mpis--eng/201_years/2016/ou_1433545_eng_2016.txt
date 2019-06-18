@@ -1,0 +1,84 @@
+X-exome sequencing of 405 unresolved families identifies seven novel intellectual disability genes
+Mechanisms of long noncoding RNA function in development and disease
+The Phospholipase D2 Knock Out Mouse Has Ectopic Purkinje Cells and Suffers from Early Adult-Onset Anosmia
+Formation of novel chromatin domains determines pathogenicity of genomic duplications
+Genetic Drivers of Epigenetic and Transcriptional Variation in Human Immune Cells
+Medulloblastoma-associated DDX3 variant selectively alters the translational response to stress
+Human Lineage-Specific Transcriptional Regulation through GA-Binding Protein Transcription Factor Alpha (GABPa)
+Molecular features of cellular reprogramming and development
+Transcriptional signature induced by a metastasis-promoting c-Src mutant in a human breast cell line
+Phosphorylation of the chromatin remodeling factor DPF3a induces cardiac hypertrophy through releasing HEY repressors from DNA
+The progressive ankylosis protein ANK facilitates clathrin- and adaptor-mediated membrane traffic at the trans-Golgi network-to-endosome interface
+Novel Missense Mutation A789V in IQSEC2 Underlies X-Linked Intellectual Disability in the MRX78 Family
+A balanced chromosomal translocation involving chromosomes 3 and 16 in a patient with Mayer-Rokitansky-Kuster-Hauser syndrome reveals new candidate genes at 3p22.3 and 16p13.3
+BOD1 Is Required for Cognitive Function in Humans and Drosophila
+Homozygous YME1L1 mutation causes mitochondriopathy with optic atrophy and mitochondrial network fragmentation
+ToxDB: pathway-level interpretation of drug-treatment data
+Sequences flanking the core-binding site modulate glucocorticoid receptor structure and activity
+Analysis of Genes Involved in Body Weight Regulation by Targeted Re-Sequencing
+Information recovery from low coverage whole-genome bisulfite sequencing
+Transcriptional and Chromatin Dynamics of Muscle Regeneration after Severe Trauma
+Genome-wide Chromatin Profiling of Legionella pneumophila-Infected Human Macrophages Reveals Activation of the Probacterial Host Factor TNFAIP2
+PHF13 is a molecular reader and transcriptional co-regulator of H3K4me2/3
+Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences
+New technologies for DNA analysis - a review of the READNA Project.
+Principles of microRNA Regulation Revealed Through Modeling microRNA Expression
+Exome sequencing identifies potential novel candidate genes in patients with unexplained colorectal adenomatous polyposis
+Characterization and refinement of growth related quantitative trait loci in European sea bass (Dicentrarchus labrax) using a comparative approach
+Missense variants in AIMP1 gene are implicated in autosomal recessive intellectual disability without neurodegeneration
+Spermidine Suppresses Age-Associated Memory Impairment by Preventing Adverse Increase of Presynaptic Active Zone Size and Release
+Studying Mesodiencephalic Dopaminergic Neuron Development In Vivo to Improve Stem Cell Therapy in Parkinson’s Disease.
+Mutations in Subunits of the Activating Signal Cointegrator 1 Complex Are Associated with Prenatal Spinal Muscular Atrophy and Congenital Bone Fractures
+Transcriptional signature induced by a C-terminal c-Src mutant in a human breast cell line
+Rare Noncoding Mutations Extend the Mutational Spectrum in the PGAP3 Subtype of Hyperphosphatasia with Mental Retardation Syndrome
+Duplication of PTHLH causes osteochondroplasia with a combined brachydactyly type E/A1 phenotype with disturbed bone maturation and rhizomelia
+Different Concentrations of FGF Ligands, FGF2 or FGF8 Determine Distinct States of WNT-Induced Presomitic Mesoderm.
+LKB1 loss links serine metabolism to DNA methylation and tumorigenesis
+Corrigendum: Sequences flanking the core-binding site modulate glucocorticoid receptor structure and activity
+Epigenetic Memory Underlies Cell-Autonomous Heterogeneous Behavior of Hematopoietic Stem Cells
+Probabilistic Modeling of Reprogramming to Induced Pluripotent Stem Cells
+Variation in the molecular clock of primates
+Quantitative Comparison of Large-Scale DNA Enrichment Sequencing Data
+A cancer specific hypermethylation signature of the TERT promoter predicts biochemical relapse in prostate cancer: A retrospective cohort study
+The caffeine-binding adenosine A2A receptor induces age-like HPA-axis dysfunction by targeting glucocorticoid receptor function
+Tentative clinical diagnosis of Lujan-Fryns syndrome--A conglomeration of different genetic entities?
+Serial interactome capture of the human cell nucleus
+The metabolic background is a global player in Saccharomyces gene expression epistasis
+Tentative clinical diagnosis of Lujan-Fryns syndrome-A conglomeration of different genetic entities?
+An impaired respiratory electron chain triggers down-regulation of the energy metabolism and de-ubiquitination of solute carrier amino acid transporters
+Atxn2-Knock-Out mice show branched chain amino acids and fatty acids pathway alterations
+A Systems Biology Approach for Identifying Hepatotoxicant Groups Based on Similarity in Mechanisms of Action and Chemical Structure
+Analyzing and interpreting genome data at the network level with ConsensusPathDB
+Advantages and Pitfalls of Mass Spectrometry Based Metabolome Profiling in Systems Biology
+Evolutionary dynamics of selfish DNA explains the abundance distribution of genomic subsequences
+Inter-laboratory study of human in vitro toxicogenomics-based tests as alternative methods for evaluating chemical carcinogenicity: a bioinformatics perspective
+Evolution of DNA-Binding Sites of a Floral Master Regulatory Transcription Factor
+Characterization of the genome and transcriptome of the blue tit Cyanistes caeruleus: polymorphisms, sex-biased expression and selection signals
+Identification of a molecular defect in a stillborn fetus with perinatal lethal hypophosphatasia using a disease-associated genome sequencing approach
+Femoral facial syndrome associated with a de novo complex chromosome 2q37 rearrangement
+Quantitative interaction mapping reveals an extended UBX domain in ASPL that disrupts functional p97 hexamers
+Chromosomal-Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding
+Targeted bisulfite sequencing of the dynamic DNA methylome
+Exome Sequencing and CRISPR/Cas Genome Editing Identify Mutations of ZAK as a Cause of Limb Defects in Humans and Mice.
+A homozygous HOXD13 missense mutation causes a severe form of synpolydactyly with metacarpal to carpal transformation.
+Structures of ribosome-bound initiation factor 2 reveal mechanism of subunit association
+Identification and characterization of DNA sequences that prevent glucocorticoid receptor binding to nearby response elements
+Measuring TGF-β Ligand Dynamics in Culture Medium
+Analysis of the Fam181 gene family during mouse development reveals distinct strain-specific expression patterns, suggesting a role in nervous system development and function
+A likelihood ratio based method to predict exact pedigrees for complex families from next-generation sequencing data
+Improved Prediction of Non-methylated Islands in Vertebrates Highlights Different Characteristic Sequence Patterns
+sciReptor: analysis of single-cell level immunoglobulin repertoires
+Epigenomic Co-localization and Co-evolution Reveal a Key Role for 5hmC as a Communication Hub in the Chromatin Network of ESCs
+Comparing the Statistical Fate of Paralogous and Orthologous Sequences
+Time-Dependent Gene Network Modelling by Sequential Monte Carlo
+Mechanisms of long noncoding RNA function in development and disease
+Saturation analysis for whole-genome bisulfite sequencing data
+New insights into Brunner syndrome and potential for targeted therapy
+Systematic Protein-Protein Interaction Analysis Reveals Intersubcomplex Contacts in the Nuclear Pore Complex
+Impaired Planar Germ Cell Division in the Testis, Caused by Dissociation of RHAMM from the Spindle, Results in Hypofertility and Seminoma
+Active medulloblastoma enhancers reveal subgroup-specific cellular origins
+Unique and Universal Features of Epsilonproteobacterial Origins of Chromosome Replication and DnaA-DnaA Box Interactions
+A statistical model for epigenetic control of miRNAs
+Looking beyond the genes: the role of non-coding variants in human disease
+Breaking TADs: How Alterations of Chromatin Domains Result in Disease
+An overlapping phenotype of Osteogenesis imperfecta and Ehlers-Danlos syndrome due to a heterozygous mutation in COL1A1 and biallelic missense variants in TNXB identified by whole exome sequencing

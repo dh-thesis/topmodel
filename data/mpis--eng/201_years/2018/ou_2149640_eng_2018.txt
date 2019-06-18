@@ -1,0 +1,50 @@
+Pipeline validation for connectivity-based cortex parcellation
+Visual mismatch and predictive coding: A computational single-trial ERP study
+N6-Methyladenosine guides mRNA alternative translation during integrated stress response
+Imaging reporter strategy to monitor gene activation of microglia polarisation states under stimulation
+Safety and efficacy of Cerebrolysin in early post-stroke recovery: a meta-analysis of nine randomized clinical trials
+Rapid anatomical brain imaging using spiral acquisition and an expanded signal model
+Influence of vmPFC on dmPFC predicts valence-guided belief formation
+Sensorimotor functional and structural networks after intracerebral stem cell grafts in the ischemic mouse brain
+Aberrant splicing of the tumor suppressor CYLD promotes the development of chronic lymphocytic leukemia via sustained NF-kappa B signaling
+Discovery of 7-[F-18]fluorotryptophan as a novel positron emission tomography (PET) probe for the visualization of tryptophan metabolism in vivo
+Initial graft size and not the innate immune response limit survival of engrafted neural stem cells
+Melanin-concentrating hormone-dependent control of feeding: when volume matters
+TCPTP regulates insulin signaling in AgRP neurons to coordinate glucose metabolism with feeding
+Glutamatergic nervous system degeneration in a C. elegans TauA152T tauopathy model involves pathways of excitotoxicity and Ca2+ dysregulation
+Purification and characterization of low-n tau oligomers
+VEGF and GLUT1 are highly heritable, inversely correlated and affected by dietary fat intake: Consequences for cognitive function in humans
+Neuro-computational account of how mood fluctuations arise and affect decision making
+Obesity exacerbates colitis-associated cancer via IL-6-regulated macrophage polarisation and CCL-20/CCR-6-mediated lymphocyte recruitment
+In vivo molecular imaging of glutamate carboxypeptidase II expression in reendothelialisation after percutaneous balloon denudation in a rat model
+Motor cognition in patients treated with subthalamic nucleus deep brain stimulation: Limits of compensatory overactivity in Parkinson's disease
+Optogenetic entrainment of hippocampal theta oscillations in behaving mice
+The metabolite BH4 controls T cell proliferation in autoimmunity and cancer
+Hunger is a gatekeeper of pain in the brain
+Supra-additive effects of combining fat and carbohydrate on food reward
+Network connectivity of motor control in the ageing brain
+Aperture synthesis shows perceptual integration of geometrical form across saccades
+Reversible cation-selective attachment and self-assembly of human Tau on supported brain lipid membranes
+p53 in AgRP neurons is required for protection against diet-induced obesity via JNK1
+Food perception primes hepatic ER homeostasis via melanocortin-dependent control of mTOR activation
+Inhibition failures and late errors in the antisaccade task: Influence of cue delay
+LincRNA H19 protects from dietary obesity by constraining expression of monoallelic genes in brown fat
+Jak-TGF beta cross-talk links transient adipose tissue inflammation to beige adipogenesis
+VaD - An integrated framework for cognitive rehabilitation
+Cortical parcellation based on structural connectivity: A case for generative models
+Reconciling the different faces of hippocampal theta: The role of theta oscillations in cognitive, emotional and innate behaviors
+Targeted intracerebral delivery of the anti-inflammatory cytokine IL13 promotes alternative activation of both microglia and macrophages after stroke
+Diet-induced growth is regulated via acquired Leptin resistance and engages a Pomc-somatostatin-growth hormone circuit
+Altered thalamic glucose metabolism in cerebellar projections in Parkinson's disease
+Targeted deletion of the AAA-ATPase Ruvbl1 in mice disrupts ciliary integrity and causes renal disease and hydrocephalus
+Hepatic leptin receptor expression can partially compensate for IL-6Rα deficiency in DEN-induced hepatocellular carcinoma
+Mild impairment of mitochondrial OXPHOS promotes fatty acid utilization in POMC neurons and improves glucose homeostasis in obesity
+Is perfusion MRI without deconvolution reliable for mismatch detection in acute stroke? Validation with 15O-positron emission tomography
+The brain's hemodynamic response function rapidly changes under acute psychosocial stress in association with genetic and endocrine stress response markers
+The additional value of PET in the assessment of cerebral small vessel disease
+Tau protein liquid-liquid phase separation can initiate tau aggregation
+Effect of cholinergic treatment depends on cholinergic integrity in early Alzheimer's disease
+Thalamic interactions of cerebellum and basal ganglia
+Regulation of energy rheostasis by the melanocortin-3 receptor
+Bioluminescence imaging visualizes osteopontin-induced neurogenesis and neuroblast migration in the mouse brain after stroke
+Insulin regulates POMC neuronal plasticity to control glucose metabolism

@@ -1,0 +1,138 @@
+Modeling antimicrobial cycling and mixing: Differences arising from an individual-based versus a population-based perspective
+Modeling antibiotic treatment in hospitals: a systematic approach shows benefits of combination therapy over cycling, mixing, and mono-drug therapies
+Systems analysis reveals high genetic and antigen-driven predetermination of antibody repertoires throughout B Cell development
+Evolutionary rescue in randomly mating, selfing, and clonal populations
+Characterization of pathogen-driven selection at B4galnt2 in house mice
+Analysis of putative virulence related genes in the wheat pathogen Zymoseptoria tritici
+Darwin was right: where now for experimental evolution?
+Mitochondrial gene polymorphism is associated with gut microbial communities in mice
+Mass releases of genetically modified insects in area-wide pest control programs and their impact on organic farmers
+Heterosis in hybrids within and between yeast species
+Ribosome reinitiation can explain lengthdependent translation of messenger RNA
+Genetic differences between willow warbler migratory phenotypes are few and cluster in large haplotype blocks
+Segmental duplications and evolutionary acquisition of UV damage response in the SPATA31 gene family of primates and humans
+Methanosarcina spherical virus, a novel archaeal lytic Virus targeting Methanosarcina strains
+Circadian rhythm disruption impairs tissue homeostasis and exacerbates chronic inflammation in the intestine
+Measuring microbial fitness in a field reciprocal transplant experiment
+Protoplast swelling and hypocotyl growth depend on different auxin signaling pathways
+Extinction dynamics from meta-stable coexistences in an evolutionary game
+Chaotic provinces in the kingdom of the Red Queen
+Gut microbiota regulate hepatic von Willebrand factor synthesis and arterial thrombus formation via Toll-like receptor-2
+Ribosome reinitiation can explain length-dependent translation of messenger RNA
+Boolean analysis reveals systematic interactions among low-abundance species in the human gut microbiome
+Tripartite species interaction: eukaryotic hosts suffer more from phage susceptible than from phage resistant bacteria
+Dynamical trade-offs arise from antagonistic coevolution and decrease intraspecific diversity
+Differential ecological specificity of protist and bacterial microbiomes across a set of termite species
+Transcriptional effects of a positive feedback circuit in Drosophila melanogaster
+Economics: Corruption made visible
+Temperature-size responses alter food chain persistence across environmental gradients
+Extinction dynamics from metastable coexistences in an evolutionary game
+Adaptive genomic divergence under high gene flow between freshwater and brackish-water ecotypes of prickly sculpin (Cottus asper) revealed by Pool-Seq
+Recombination of virulence genes in divergent acidovorax avenae strains that infect a common host
+Metaprofiling of Wheat Phylloplane Microbial Endophyte Communities
+Cooperation in social dilemmas
+Bioinformatics for evolutionary biologists: a problems approach
+Detecting truly clonal alterations from multi-region profiling of tumours
+Genomic evolution of bacterial populations under coselection by antibiotics and phage
+A spatial model for selection and cooperation
+Role of generosity and forgiveness: return to a cooperative society
+Virulence in the three-spined stickleback specific parasite Schistocephalus solidus is inherited additively
+Anaerobically grown Escherichia coli has an enhanced mutation rate and distinct mutational spectra
+Selective targeting of pro-inflammatory Th1 cells by microRNA-148a-specific antagomirs in vivo
+Evaluating the maintenance of disease-associated variation at the blood group-related gene B4galnt2 in house mice
+Gene flow and selection interact to promote adaptive divergence in regions of low recombination
+No evidence for phylostratigraphic bias impacting inferences on patterns of gene emergence and evolution
+The intestinal microbiota determines the colitis-inducing potential of T-bet-deficient Th cells in mice
+Food matters: how the microbiome and gut-brain interaction might impact the development and course of anorexia nervosa
+Modeling the contributions of chromosome segregation errors and aneuploidy to Saccharomyces hybrid sterility
+Discovering complete quasispecies in bacterial genomes
+Unravelling the complexity and redundancy of carbon catabolic repression in Pseudomonas fluorescens SBW25
+Multigenerational influences of the Fut2 gene on the dynamics of the gut microbiota in mice
+Adaptive evolution by spontaneous domain fusion and protein relocalization
+The role of macrophages within microenvironment in a lung cancer development and progression
+Poly-β-hydroxybutyrate administration during early life: Effects on performance, immunity and microbial community of European sea bass yolk-sac larvae
+Population structure of the expansive wasp spider (Argiope bruennichi) at the edge of its range
+Genetics and developmental biology of cooperation
+Hidden Markov models in population genomics
+Avian malaria prevalence in Blackcaps along a Central European migratory divide
+On the role of microbial resilience in intestinal inflammation
+A method for single nucleotide polymorphism calling in diploid individuals
+Selfing in haploid plants and efficacy of selection: codon usage bias in the model moss Physcomitrella patens
+Automated phenotyping indicates pupal size in Drosophila is a highly heritable trait with an apparent polygenic basis
+Indigenous house mice dominate small mammal communities in northern Afghan military bases
+Aedes mosquitoes in the Republic of the Sudan, with dichotomous keys for the adult and larval stages
+Programmed and flexible: long-term Zugunruhe data highlight the many axes of variation in avian migratory behaviour
+The influence of personality on territory use and fitness in western house mice (Mus musculus domesticus)
+Multiple ecological scales of host-parasite interactions using the three-spined stickleback and Schistocephalus solidus model system
+Transcriptomic and macroevolutionary evidence for phenotypic uncoupling between frog life history phases
+Social dilemma in the external immune system of the red flour beetle? It is a matter of time
+Genomic regions controlling shape variation in the first upper molar of the house mouse
+Candidate genes for migration do not distinguish migratory and non-migratory birds
+Animal personalities: an empty placeholder feigning understanding: a comment on Beekman and Jordan
+Improved detection of gene-microbe interactions in the mouse skin microbiota using high-resolution QTL mapping of 16S rRNA transcripts
+Does information of how good or bad your neighbors are enhance cooperation in spatial Prisoner's games?
+Trait–fitness relationships determine how trade-off shapes affect species coexistence
+Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis
+Evolution and genome architecture in fungal plant pathogens
+Evolutionary games on cycles with strong selection
+Systematics and evolution of Lentibulariaceae: III. Utricularia
+Efficacy of sterile fecal filtrate transfer for treating patients with Clostridium difficile infection
+Evolution of Promoter sequences in the fungal Pathogen Zymoseptoria tritici
+DNA barcoding of aquatic insects reveals unforeseen diversity and recurrent population divergence patterns through broad-scale sampling in northern Canada
+Phylogeography of the snake pipefish, Entelurus aequoreus (Family: Syngnathidae) in the northeastern Atlantic Ocean
+A field reciprocal transplant experiment reveals asymmetric costs of migration between lake and river ecotypes of three-spined sticklebacks (Gasterosteus aculeatus)
+Sexual reproduction, sporophyte development and molecularvariation in the model moss Physcomitrella patens: introducing the ecotype Reute
+Evolutionary convergence in experimental Pseudomonas populations
+Allopatric speciation in the desert: diversification of cichlids at their geographical and ecological range limit in Iran
+The gut microbiota contributes to a mouse model of spontaneous bile duct inflammation
+Inferring the shallow phylogeny of true salamanders (Salamandra) by multiple phylogenomic approaches
+Sex differentiation in grayling (Salmonidae) goes through an all-male stage and is delayed in genetic males who instead grow faster
+Host modification of a bacterial quorum-sensing signal induces a phenotypic switch in bacterial symbionts
+Meeting Report of the Pathogenesis of Pemphigus and Pemphigoid Meeting in Munich, September 2016
+Rapid evolution of hosts begets species diversity at the cost of intraspecific diversity
+Spatio-temporal control of mutualism in legumes helps spread symbiotic nitrogen fixation
+Migratory orientation in a narrow avian hybrid zone
+Differences between populations in host manipulation by the tapeworm Schistocephalus solidus – is there local adaptation?
+Parallel habitat acclimatization is realized by the expression of different genes in two closely related salamander species (genus Salamandra)
+Evidence for microbial local adaptation in nature
+Copy number increases of transposable elements and protein-coding genes in an invasive fish of hybrid origin
+Correlated patterns of genetic diversity and differentiation across an avian family
+Forward genetics approach reveals host genotype-dependent importance of accessory chromosomes in the fungal wheat pathogen Zymoseptoria tritici
+Draft genome sequence of the gram-positive neutrophilic iron-precipitating Kineosporia sp. strain A_224
+Young genes are highly disordered as predicted by the preadaptation hypothesis of de novo gene birth
+Evolution of copper resistance in the kiwifruit pathogen Pseudomonas syringae pv. actinidiae through acquisition of integrative conjugative elements and plasmids
+Fragmentation modes and the evolution of life cycles
+The level of climate-change mitigation depends on how humans assess the risk arising from missing the 2°C target
+Karyotypic charachterization and population genomic analysis of the fungal grass pathogen Zymoseptoria ardabiliae
+Tracing the dynamics of gene transcripts after organismal death
+Application of the distance-based F test in an mGWAS investigating β diversity of intestinal microbiota identifies variants in SLC9A8 (NHE8) and 3 other loci
+Combination of the Endogenous lhcsr1 Promoter and Codon Usage Optimization Boosts Protein Expression in the Moss Physcomitrella patens
+Importance of trait-related flexibility for food-web dynamics and the maintenance of biodiversity
+The one past health workshop: connecting ancient DNA and zoonosis research
+Dormancy: an evolutionary key phenomenon in cancer development
+Draft genome sequence of strain R_RK_3, an iron-depositing isolate of the genus Rhodomicrobium, isolated from a dewatering well of an opencast mine
+A distinct cutaneous microbiota profile in autoimmune bullous disease patients
+Microbiomarkers in inflammatory bowel diseases: Caveats come with caviar
+Guanylate cyclase C activation shapes the intestinal microbiota in patients with familial diarrhea and increased susceptibility for Crohn's Disease
+Combination of the endogenous lhcsr1 promoter and codon usage optimization boosts protein expression in the Moss Physcomitrella patens
+Crystal structure of a bicupin protein HutD involved in histidine utilization in Pseudomonas
+No speed dating please! Patterns of social preference in male and female house mice
+Antisocial rewarding in structured populations
+Commentary: History of the ribosome and the origin of translation
+Temperate phages as self-replicating weapons in bacterial competition
+The compressed vocabulary of the proteins of Archaea
+The Sphagnome Project: enabling ecological and evolutionary insights through a genus-level sequencing project
+Origin and evolution of the Kiwifruit Canker Pandemic
+Mate choice in sticklebacks reveals that immunogenes can drive ecological speciation
+Fast turnover of sex determination and genomic incompatibilities in hybridizing sculpins (Cottus)
+Comprehensive genome-wide classification reveals that many plant-specific transcription factors evolved in streptophyte algae
+Diminishing returns on intragenic repeat number expansion in the production of signaling peptides
+Random sequences are an abundant source of bioactive RNAs or peptides
+Analysis of copy number variation in the Abp gene regions of two house mouse subspecies suggests divergence during the gene family expansions
+Poly-ß-hydroxybutyrate administration during early life: effects on performance, immunity and microbial community of European sea bass yolk-sac larvae
+Gene Meter: Accurate abundance calculations of gene expression
+Low recombination rates in sexual species and sex-asex transitions
+Evolutionary contribution to coexistence of competitors in microbial food webs
+Gut microbiota in Parkinson disease in a northern German cohort
+Using experimental evolution to evaluate diversification of Pseudomonas fluorescens SBW25 in complex environments
+Community assembly in Lake Tanganyika cichlid fish: quantifying the contributions of both niche-based and neutral processes

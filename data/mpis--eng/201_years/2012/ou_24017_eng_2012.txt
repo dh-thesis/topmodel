@@ -1,0 +1,508 @@
+3D Segmentation of SBFSEM Images of Neuropil by a Graphical Model over Supervoxel Boundaries
+Globally Optimal Closed-surface Segmentation for Connectomics
+An O(n+ m) Certifying Triconnnectivity Algorithm for Hamiltonian Graphs
+Cross-lingual Data Quality for Knowledge Base Acceleration Across Wikipedia Editions
+The First Joint International Workshop on Entity-oriented and Semantic Search (JIWES)
+A System for Compositional Verification of Asynchronous Objects
+LINDA: Distributed Web-of-Data-Scale Entity Matching
+Visual Exploration of Collaboration Networks based on Graph Degeneracy
+Predicting the Evolution of Taxonomy Restructuring in Collective Web Catalogues
+PRAVDA-live: Interactive Knowledge Harvesting
+Reconstructing Graphs from Neighborhood Data
+High-performance Reachability Query Processing under Index Size Restrictions
+Overview of the INEX 2012 Linked Data Track
+Constructing and Utilizing Wordnets Using Statistical Methods
+Distributed Skyline Processing: a Trend in Database Research Still Going Strong
+Partout: A Distributed Engine for Efficient RDF Processing
+Graph-based Methods for Large-scale Multilingual Knowledge Integration
+Extraction of Temporal Facts and Events from Wikipedia
+Automata, Languages, and Programming
+How Little Do We Actually Know? On the Size of Gene Regulatory Networks
+A Framework for Digital Sunken Relief Generation Based on 3D Geometric Models
+Analysing the Potential of Adapting Head-Mounted Eye Tracker Calibration 	to a New User
+Extending the Visual Field of a Head-Mounted Eye Tracker for Pervasive Eye-Based Interaction
+Wearable Eye Tracking for Mental Health Monitoring
+Modeling Influenza Evolution in Response to Immune System Pressure
+Decompositions of Large-Scale Biological Systems Based on Dynamical Properties
+Feature-based Multi-video Synchronization with Subframe Accuracy
+Complexity of Approximating the Vertex Centroid of a Polyhedron
+Efficacy of Antiretroviral Therapy Switch in HIV-Infected Patients: A 10- year Analysis of the EuResist Cohort
+Construction Sequences and Certifying 3-Connectivity
+A Phylodynamic Study of HIV Transmission Networks in Europe
+The Bolzano Method to Isolate the Roots of a Bitstream Polynomial
+Mapping Images to Target Devices: Spatial, Temporal, Stereo, Tone, and Color
+Long-term Effects of Ubiquitous Surveillance in the Home
+Learning Secrets Interactively. Dynamic Modeling in Inductive Inference
+Vertices of Degree k in Random Unlabeled Trees
+Interactive Cloud Rendering Using Temporally-coherent Photon Mapping
+On the Trail of EHEC/EAEC - Unraveling the Gene Regulatory Networks of Human Pathogenic Escherichia Coli Bacteria
+Anisotropic Range Image Integration
+Functional Characterization of Human Genes from Exon Expression and RNA Interference Results
+NUMA Aware Iterative Stencil Computations on Many-core Systems
+Fixed-parameter Tractability of Multicut in Directed Acyclic Graphs
+Exceeding Physical Limitations: Apparent Display Qualities
+How Real is Real Enough? Optimal Reality Sampling for Fast Recognition of Mobile Imagery
+Rumor Spreading and Vertex Expansion
+Finding Cliques in Scale-Free Networks
+Volumetric Real-time Water and Foam Rendering
+Towards Cross-version Harmonic Analysis of Music
+Deliberative Acceptability of Arguments
+Improved Lower Bound for Online Strip Packing
+The relation of Connected Set Cover and Group Steiner Tree
+Cusps of Characteristic Curves and Intersection-aware Visualization of Path and Streak Lines
+A New Randomized Algorithm to Approximate the Star Discrepancy Based on Threshold Accepting
+Efficient Computation of a Hierarchy of Discrete 3D Gradient Vector Fields
+Symmetry in 3D Geometry: Extraction and Applications
+Example-based Image Manipulation
+Representative Sets and Irrelevant Vertices: New Tools for Kernelization
+When Newton meets Descartes: A Simple and Fast Algorithm to Isolate the Real Roots of a Polynomial
+Image and Video Compression for HDR Content
+Certification of Curve Arrangements
+Quasirandom Load Balancing
+Counting Arbitrary Subgraphs in Data Streams
+Data Layout Optimization For Multi-valued Containers In OpenCL
+Exact and Fully Symbolic Verification of Linear Hybrid Automata with Large Discrete State Spaces
+Methods for Constructing an Opinion Network for Politically Controversial Topics
+EpiExplorer: Live Exploration and Global Analysis of Large Epigenomic Datasets
+Ketoamide Resistance and Hepatitis C Virus Fitness in Val55 Variants of the NS3 Serine Protease
+On the Sum of Square Roots of Polynomials and Related Problems
+Tying Up the Loose Ends in Fully LZW-compressed Pattern Matching
+Approximation Algorithms for the Unsplittable Flow Problem on Paths and Trees
+Beyond Max-cut: Lambda-extendible Properties Parameterized Above the Poljak-Turzík Bound
+The Query Complexity of Finding a Hidden Permutation
+Hierarchical Bayes Model for Predicting Effectiveness of HIV Combination Therapies
+Perceptual Display: Exceeding Display Limitations by Exploiting the Human Visual System
+Correspondence Problems in Computer Vision: Novel Models, Numerics, and Applications
+Algorithmic Aspects of Abstract Argumentation Frameworks
+A Stochastic Procedural Modelling Tool for Architectural Structures
+3D Material Style Transfer
+Videoscapes: Exploring Sparse, Unstructured Video Collections
+Automatic Generation of Invariants for Circular Derivations in SUP(LA) 1
+Algorithms and Data Structures for Interactive Ray Tracing on Commodity Hardware
+Discriminating 4G and Broadcast Signals via Cyclostationary Feature Detection
+Satisfiability Checking and Query Answering for Large Ontologies
+Efficient Query Processing and Index Tuning Using Proximity Scores
+Methods and Models for Web Archive Crawling
+Methods for Constructing Opinions Networks for Politically Controversial Topics
+Design and Implementation of a Multidimensional Query Interface for Large-Scale Data stored in HBase
+Being Picky - Processing Top-K Queries with Set-Defined Selections
+From Black and White to Full Colour: Extending Redescription Mining Outside the Boolean World
+Towards Benefit-Based RDF Source Selection for SPARQL Queries
+Natural Language Questions for the Web of Data
+RDF Xpress: A Fexible Expressive RDF Search Engine
+Graffiti: Graph-based Classification in Heterogeneous Networks
+HYENA: Hierarchical Type Classification for Entity Names
+Match Graph Construction for Large Image Databases
+Focused Retrieval of Content and Structure : 10th International Workshop of the Initiative for the Evaluation of XML Retrieval, INEX 2011
+High-performance Processing of Text Queries with Tunable Pruned Term and Term Pair Indexes
+Top-k Interesting Phrase Mining in Ad-hoc Collections using Sequence Pattern Indexing
+A Survey of Skyline Processing in Highly Distributed Environments
+Proceedings of the First International Workshop On Open Data
+Efficient Automatic 3D-Reconstruction of Branching Neurons from EM Data
+A Discrete Chain Graph Model for 3d+t Cell Tracking with High Misdetection Robustness
+On the Trail of EHEC/EAEC-unraveling the Gene Regulatory Networks of Human Pathogenic Escherichia Coli Bacteria
+Mod/Resc Parsimony Inference : Theory and Application
+Coherent Spatiotemporal Filtering, Upsampling and Rendering of RGBZ Videos
+Flow Visualization and Analysis Using Streak and Time Lines
+Fast Accurate Soft Shadows with Adaptive Light Source Sampling
+Mobile Projectors versus Mobile Displays: an Assessment of Task Performance
+Example-based Color Image Manipulation and Enhancement
+Smooth Shape-aware Functions with Controlled Extrema
+State of the Art in Interactive Global Illumination
+On the Complexity of the Highway Problem
+Combination of Disjoint Theories: Beyond Decidability
+First-order Theorem Proving: Foreword
+Pre-convolved Radiance Caching
+Black-Box Complexity: From Complexity Theory to Playing Mastermind
+Probabilistic One-player Ramsey Games via Deterministic Two-player Games
+Unsupervised Detection of Music Boundaries by Time Series Structure Features
+Computational Identification of Novel Amino-Acid Interactions in HIV Gag via Correlated Evolution
+Performance Capture of High-speed Motion Using Staggered Multi-view Recording
+The Power of Recourse for Online MST and TSP
+Simpler 3/4-Approximation Algorithms for MAX SAT
+Physarum Can Compute Shortest Paths
+Run-time Analysis Of the (1+1) Evolutionary Algorithm Optimizing Linear Functions Over a Finite Alphabet
+A QPTAS for ε-Envy-free Profit-maximizing Pricing on Line Graphs
+Dividing Connected Chores Fairly
+Computational Biology
+Exploring Shape Variations by 3D-Model Decomposition and Part-based Recombination
+Mixed Finite Element Method for a Degenerate Convex Variational Problem from Topology Optimization
+ACO Beats EA on a Dynamic Pseudo-Boolean Function
+Short-time Audio Event Classification with Applications to the Evaluation of Sport Experiments
+Thou Shalt Not Lie : On Truthfully Maximizing the Minimum Load On Selfish Related Machines
+Lightweight Binocular Facial Performance Capture under Uncontrolled Lighting
+Catching the k-NAESAT Threshold
+Approximating the Least Hypervolume Contributor: NP-hard in General, But Fast in Practice
+Interactive Viewpoint Video Textures
+Largest Inscribed Rectangles in Convex Polygons
+A Luminance-contrast-aware Disparity Model and Applications
+Interactive Cloud Rendering Using Temporally Coherent Photon Mapping
+Asynchronous Rumor Spreading In Preferential Attachment Graphs
+Towards the Identification of Cancer Subtypes by Integrative Clustering of Molecular Data
+Correspondences of Persistent Feature Points on Near-isometric Surfaces
+Semi-supervised Learning on a Budget: Scaling Up to Large Datasets
+Towards Pervasive Gaze Tracking with Low-level Image Features
+Local Constancy Assumption Selection for Variational Optical Flow
+Aggregation of Multiple Clusterings and Active Learning in a Transductive Setting
+Labelled Superposition for PLTL
+MDL4BMF: Minimum Description Length for Boolean Matrix Factorization
+Boolean Matrix Factorization with Missing Values
+Relation Extraction Using Matrix Factorization Methods
+Redundancy Control in Web Archives
+A Weakly Supervised Model for Sentence-level Semantic Orientation Analysis with Multiple Experts
+Discovering and Exploring Relations on the Web
+Enhancing Locality Sensitive Hashing with Peek-Probing and Nearest Neighbor Links
+Index Maintenance for Time-Travel Text Search
+The Deterministic and Randomized Query Complexity of a Simple Guessing Game
+PIPS: Pathogenicity Island Prediction Software
+A Single-exponential FPT Algorithm for the K4-Minor Cover Problem
+Convergence of Hypervolume-based Archiving Algorithms II: Competitiveness
+Exact Symbolic-numeric Computation of Planar Algebraic Curves
+Low Randomness Rumor Spreading via Hashing
+Finding Regions of Aberrant DNA Copy Number Associated With Tumor Phenotype
+Audio-visual Multiple Active Speaker Localisation in Reverberant Environments
+Comparative Genome-wide DNA Methylation Analysis of Colorectal Tumor and Matched Normal Tissues
+Optimisation of Baseline Genotypic Testing for Safe and Efficient Maraviroc Administration
+BlurTags: Spatially Varying PSF Estimation with Out-of-Focus Patterns
+Increasing the Security of Gaze-Based Cued-Recall Graphical Passwords Using Saliency Masks
+Cubic Plane Graphs on a Given Point Set
+Adapting the Simplex Algorithm for Superposition Modulo Linear Arithmetic
+Certifying 3-Connectivity in Linear Time
+Virtual Passepartouts
+A Proof of the Boyd-Carr Conjecture
+Performance Capture of Interacting Characters with Handheld Kinects
+Reducing the Arity in Unbiased Black-Box Complexity
+MAP Kinase Docking Motifs in HIV Proteins
+Absolute Approximation Ratios for Packing Rectangles into Bins
+Risk Factors Associated with Older Age in Treatment-naive HIV-positive Patients
+Temporal Coherence Methods in Real-time Rendering
+Computational Optical Measurement and Display: Case Studies in Plenoptic Imaging and Projection
+Automated Segmentation of Folk Song Field Recordings
+Enumerating Trichromatic Triangles Containing the Origin in Linear Time
+See What's enBlogue - Real-time Emergent Topic Identification in Social Media
+Distributed Matrix Completion
+Interactive Information Extraction based on Distributed Data Management for German Grid Projects
+Citation Context Sentiment Analysis for Structured Summarization of Research Papers
+Big Web Analytics: Toward a Virtual Web Observatory
+Running SPARQL-fulltext Queries Inside a Relational DBMS
+Options Network for Politically Controversial Topics
+Markov Chains for Robust Graph-based Commonsense Information Extraction
+On Finding Joint Subspace Boolean Matrix Factorizations
+PolariCQ: Polarity Classification of Political Quotations
+A Pan-European Phylodynamic Study of HIV-1 Transmission Networks
+Ultra-fast Rumor Spreading in Social Networks
+HIV-GRADE: A Publicly Available, Rules-based Drug Resistance Interpretation Algorithm Integrating Bioinformatic Knowledge
+Predicting Response to Antiretroviral Treatment by Machine Learning: the EuResist Project
+Black-Box Complexity: Breaking the O(n logn) Barrier of LeadingOnes
+Weak Compositions and Their Applications to Polynomial Lower Bounds for Kernelization
+Real-time Reshaping of Humans
+Microtiles: Extracting Building Blocks from Correspondences
+Parameterized Complexity of Induced H-Matching on Claw-Free Graphs
+Real Time Automated Tone Mapping System for HDR Video
+A Computational Model of Afterimages
+Faster Algorithm for Computing the Edit Distance between SLP-Compressed Strings
+Recent Approaches to the Prioritization of Candidate Disease Genes
+Rethinking Experimental Designs for Field Evaluations
+Three-Dimensional Kaleidoscopic Imaging
+Simple and Efficient LZW-compressed Multiple Pattern Matching
+A Data-driven Approach for Real-time Full Body Pose Reconstruction from a Depth Camera
+Theoretical Analysis of Two ACO Approaches for the Traveling Salesman Problem
+More SPASS with Isabelle : Superposition with Hard Sorts and Configurable Simplification
+Geometric Analysis of 3D Electron Microscopy Data
+Computational Plenoptic Imaging
+On Eulerian Extensions and their Application to No-Wait Flowshop Scheduling
+Formula Renaming with Generalizations
+Database Techniques for Linked Data Management
+Deep Answers for Naturally Asked Questions on the Web of Data
+TempWeb 2012
+Automatic Extraction of Facts, Relations, and Entities for Web-scale Knowledge Base Population
+A Distributed In-Memory SPARQL Query Processor based on Message Passing
+A Case of Visual and Interactive Data Analysis: Geospatial Redescription Mining
+LUKe and MIKe: Learning from User Knowledge and Managing Interactive Knowledge Extraction
+Pay-as-you-go Maintenance of Precomputed Nearest Neighbors in Large Graphs
+Union, Intersection, and Refinement Types and Reasoning About Type Disjointness for Security Protocol Analysis
+Sparse Dictionary Learning with Simplex Constraints and Application to Topic Modeling
+Novel Search Method for the Discovery of Functional Relationships
+Peptidomimetic Escape Mechanisms Arise via Genetic Diversity in the Ligand-binding Site of the Hepatitis C Virus NS3/4A Serine Protease
+Structure-based Audio Fingerprinting For Music Retrieval
+History-alignment Models for Bias-aware Prediction of Virological Response to HIV Combination Therapy
+Randomized Rumor Spreading in Social Networks & Complete Graphs
+Counting Crossing Free Structures
+Playing Mastermind with Constant-size Memory
+Simpler Approximation of the Maximum Asymmetric Traveling Salesman Problem
+Subexponential Parameterized Odd Cycle Transversal on Planar Graphs
+HIV2EU: Supporting Standardized HIV-2 Drug Resistance Interpretation in Europe
+Topological Analysis of Discrete Scalar Data
+Efficient Reasoning Procedures for Complex First-order Theories
+Etravirine in Protease Inhibitor-Free Antiretroviral Combination Therapies
+UWN: A Large Multilingual Lexical Knowledge Base
+Big Data Methods for Computational Linguistics
+Report on INEX 2011
+Crossover Can Provably be Useful in Evolutionary Computation
+Tessellation-independent Smooth Shadow Boundaries
+Preemptive Coordination Mechanisms for Unrelated Machines
+Superposition Decides the First-order Logic Fragment Over Ground Theories
+Clustering Epigenetic Data Using a Dirichlet Process Prior
+Bioinformatical Assistance of Selecting Anti-HIV Therapies: Where Do We Stand?
+Universal Sequencing on an Unreliable Machine
+Automatic Generation of Invariants for Circular Derivations in SUP(LA)
+Homunculus Warping: Conveying Importance Using Self-intersection-free Non-homogeneous Mesh Deformation
+Efficient Computation of Combinatorial Feature Flow Fields
+Perceptually Lossless High Dynamic Range Image Compression with JPEG 2000
+A PLTL-Prover Based on Labelled Superposition with Partial Model Guidance
+Analyzing Epigenome Data in Context of Genome Evolution and Human Diseases
+Multi-scale Computational Modeling of Developmental Biology
+Experimental Analysis of Rumor Spreading In Social Networks
+Ants Easily Solve Stochastic Shortest Path Problems
+Algorithmic Aspects of the Intersection and Overlap Numbers of a Graph
+Charge Group Partitioning in Biomolecular Simulation
+Low K-shells Identify Bridge Elements Critical to Disease Flow in Small-world Networks
+Implicit Integral Surfaces
+Enlarging Learnable Classes
+On the Complexity of Solving a Bivariate Polynomial System
+On the Integrality Gap of the Subtour LP for the 1,2-TSP
+Automatic Detection of Loss of Heterozygosity in Cancer
+The Max Problem Revisited: the Importance of Mutation in Genetic Programming
+Compression Via Matroids: A Randomized Polynomial Kernel for Odd Cycle Transversal
+Tight Load Thresholds for Cuckoo Hashing
+A Simple Approach for Adapting Continuous Load Balancing Processes to Discrete Settings
+Apparent Stereo: The Cornsweet Illusion Can Enhance Perceived Depth
+Optimization Problems in Dotted Interval Graphs
+Integrating Spatial Sensing to an Interactive Mobile 3D Map
+Using Score-informed Constraints for NMF-based Source Separation
+Geno2pheno[454]: A Web Server for the Prediction of HIV-1 Coreceptor Usage from Next-generation Sequencing Data
+Efficient Learning-based Image Enhancement: Application to Super-Resolution and Compression Artifact Removal
+A Kaleidoscopic Approach to Surround Geometry and Reflectance Acquisition
+Analysing and Interpreting DNA Methylation Data
+BLUEPRINT to Decode the Epigenetic Signature Written in Blood
+Integrative Computational Biology
+DNA Methylation Biomarkers in Cancer: Progress Towards Clinical Implementation
+APOBEC3G/F as one Possible Driving Force for Co-receptor Switch of the Human Immunodeficiency Virus-1
+Endogenous or Exogenous Spreading of HIV-1 in Nordrhein-Westfalen, Germany, Investigated by Phylodynamic Analysis of the RESINA Study Cohort
+Precomputed Safety Shapes for Efficient and Accurate Height-field Rendering
+New Measurements Reveal Weaknesses of Image Quality Metrics in Evaluating Graphics Artifacts
+Animation Cartography - Intrinsic Reconstruction of Shape and Motion
+The Lazy Flipper: Efficient Depth-limited Exhaustive Search in Discrete Graphical Models
+Multimodal Recognition of Reading Activity in Transit Using Body-Worn Sensors
+KeyPathwayMiner - Detecting Case-specific Biological Pathways by Using Expression Data
+Computing n-Gram Statistics in MapReduce
+Symmetry Detection in Large Scale City Scans
+Combinatorial Gradient Fields for 2D Images with Empirically Convergent Separatrices
+Colledge - A Vision of Collaborative Knowledge Networks
+Scheduling Strategies in a Main-Memory MapReduce Framework,Approach for countering Reduce side skew
+A Uniform Approach to the Complexity and Analysis of Succinct Systems
+Dynamic Boolean Matrix Factorizations
+PATTY: A Taxonomy of Relational Patterns with Semantic Types
+Ranking under Tight Budgets
+Robust Ranking Models Using Noisy Feedback
+Tracking Entities in Web Archives: The LAWA Project
+Updates for Top-K Queries for Versioned XML Data
+Efficient Entity Disambiguation via Similarity Hashing
+A Promoter DNA Demethylation Landscape of Human Hematopoietic Differentiation
+A Benchmark for Evaluating FTLE Computations
+A Cross-version Approach For Stabilizing Tempo-based Novelty Detection
+PROBADO Music: a Multimodal Online Music Library
+Score-informed Source Separation for Music Signals
+A Scape Plot Representation for Visualizing Repetitive Structures of Music Recordings
+On Parameterized Independent Feedback Vertex Set
+Efficient Sampling Methods for Discrete Distributions
+Jacobian Hits Circuits: Hitting-Sets, Lower Bounds for Depth-D Occur-k Formulas & Depth-3 Transcendence Degree-k Circuits
+Quasi-polynomial Hitting-set for Set-depth-delta Formulas
+Harnessing the Power of GPUs for Problems in Real Algebraic Geometry
+Integrated Statistical Learning of Metabolic Ion Mobility Spectrometry Profiles for Pulmonary Disease Identification
+Signal Processing Methods for Beat Tracking, Music Segmentation, and Audio Retrieval
+Automated Methods for Audio-based Music Analysis with Applications to Musicology
+Detecting Structural Regularity in Perspective Images
+A DNA Methylation Fingerprint of 1628 Human Samples
+Paving the Future: Finding Suitable ISMB Venues
+Dichotomy for Holant Problems with a Function on Domain Size 3
+Robust, Real-time Pupil Tracking in Highly Off-axis Images
+Interactive Geometry-aware Segmentation for the Decomposition of Kaleidoscopic Images
+Modeling the Risk & Utility of Information Sharing in Social Networks
+Managing Drug Resistance in Cancer: {Lessons} from {HIV} Therapy
+Material Memex: Automatic Material Suggestions for 3D Objects
+On Problems as Hard as CNF-SAT
+Clique Cover and Graph Separation: New Incompressibility Results
+Tight Bounds for Randomized Load Balancing on Arbitrary Network Topologies
+Efficient Online Visibility for Shadow Maps
+Dynamic Tactile Guidance for Visual Search Tasks
+Detection of Smooth Pursuits Using Eye Movement Shape Features
+Max-Coloring Paths: Tight Bounds and Extensions
+Retrieval Evaluation on Focused Tasks
+Empirical Comparisons of MASC Word Sense Annotations
+Efficient Monitoring of Personalized Hot News Over Web 2.0 Streams
+Coupling Label Propagation and Constraints for Temporal Fact Extraction
+Learning to Predict a Time-aware Ranking Method
+KORE: Keyphrase Overlap Relatedness for Entity Disambiguation
+Harmony and Dissonance: Organizing the People's Voices on Political Controversies
+Overview of the INEX 2011 Data-Centric Track
+Advected Tangent Curves: A General Scheme for Characteristic Curves of Flow Fields
+Fast Hierarchical Animated Object Decomposition Using Approximately Invariant Signature
+Computer Assisted Relief Generation - A Survey
+Guarding 1.5D Terrains with Demands
+Interactive Multi-perspective Imagery from Photos and Videos
+Automatic Transcription of Recorded Music
+Topological Analysis and Interactive Visualization of Biological Networks and Protein Structures
+Design and Evaluation of an IR-Benchmark for SPARQL Queries with Fulltext Conditions
+Predicting Response to Antiretroviral Treatment by Machine Learning: The EuResist Project
+Reconstructing Anecestral Methylation States in Phylogenetic Trees
+Online Scheduling of Jobs with Fixed Start Times on Related Machines
+Stochastic Optimization with Fitness Proportional Ant Systems
+Characterization of HIV-1 Gag Subtype C
+Spatio-temporal Motion Tracking with Unsynchronized Cameras
+Capturing Human Motion by a Depth Camera Using a Sum of Gaussians Body Model
+Computability-theoretic Learning Complexity
+Full Body Performance Capture under Uncontrolled and Varying Illumination: A Shading-based Approach
+Screen-space Bent Cones: A Practical Approach
+Multiple Active Speaker Localization Based on Audio-visual Fusion in Two Stages
+Efficient Algorithms for Extracting Biological Key Pathways with Global Constraints
+Generation of Virtual Display Surfaces for In-vehicle Contextual Augmented Reality
+Building and Maintaining Halls of Fame Over a Database
+Highlight Microdisparity for Improved Gloss Depiction
+Calibrated Image Appearance Reproduction
+Securing User-data in Android A conceptual approach for consumer and enterprise usage
+An Evaluation Method For Indoor Positioning Systems On The Example Of LORIOT
+Mining the Evolution of Software Component Usage
+The Price of Anarchy for Selfish Ring Routing is Two
+Shattering Extremal Systems
+Toward Characteristic Audio Shingles for Efficient Cross-version Music Retrieval
+Toward Musically-motivated Audio Fingerprints
+Data-driven Sound Track Generation
+Audio Content-based Music Retrieval
+Linking Sheet Music and Audio - Challenges and New Approaches
+Improving HIV Coreceptor Usage Prediction in the Clinic Using hints from Next-generation Sequencing Data
+Erosion of Dosage Compensation Impacts Human iPSC Disease Modeling
+Retrieval-based Approaches for Tracking and Reconstructing Human Motions
+Novel Approaches to the Integration and Analysis of Systems Biology
+Kernel Density Topic Models: Visual Topics Without Visual Words
+RRBSMAP: a Fast, Accurate and User-friendly Alignment Tool for Reduced Representation Bisulfite Sequencing
+Mining GO Annotations for Improving Annotation Consistency
+Tensor Completion
+Fast Search for Large Entries in a Matrix Product
+Socially Enhanced Search and Exploration in Social Tagging Networks
+Partout: A Distributed Approach Towards Scalable RDF Processing
+Effective Searching of RDF Knowledge Bases
+Query-time reasoning in uncertain RDF knowledge bases with soft and hard rules
+Real-time Population of Knowledge Bases: Opportunities and Challenges
+Siren: An Interactive Tool for Mining and Visualizing Geospatial Redescriptions
+Playing Mastermind with Many Colors
+Online Graph Exploration: New Results on Old and New Algorithms
+Continuous Monitoring of Distributed Data Streams over a Time-Based Sliding Window
+A Self-learning Algebraic Multigrid Method for Extremal Singular Triplets and Eigenpairs
+Well Quasi Orders in Subclasses of Bounded Treewidth Graphs and Their Algorithmic Applications
+Efficient Key Pathway Mining: Combining Networks and OMICS Data
+Background Inpainting for Videos with Dynamic Objects and a Free-moving Camera
+A Digital Library Framework for Heterogeneous Music Collections - From Document Acquisition to Cross-Modal Interaction
+Editorial for the Special Issue on 3D Data Processing, Visualization and Transmission
+How Not to Be Seen - Object Removal from Videos of Crowded Scenes
+Structural Complexity of Multiobjective NP Search Problems
+Semantic Aware Document Similarity Search
+MIKE - Managing Interactive Knowlegde Extraction
+Extracting Pathways from Biological Networks Incorporating Omics Data, Introducing a Webinterface for KeyPathwayMiner
+Sparselet Models for Efficient Multiclass Object Detection
+Continuous Deformations by Isometry Preserving Shape Integration
+Two-phase Information Extraction using Statistical Pattern Mining and Conditional Random Fields
+Enabling Content-aware Traffic Engineering
+A Lower Bound for the Discrepancy of a Random Point Set
+Detection and Tracking of Occluded People
+Recognizing Materials from Virtual Examples
+Simplex Coding and Supervised Dictionary Learning
+Teaching 3D Geometry to Deformable Part Models
+Combining Language Sources and Robust Semantic Relatedness for Attribute-based Knowledge Transfer
+Dealing with the Deep Web and all its Quirks
+Approximation Schemes for Packing Splittable Items with Cardinality Constraints
+The Price of Anarchy on Uniformly Related Machines Revisited
+The Cost of Address Translation
+Feasibility Analysis of Sporadic Real-time Multiprocessor Task Systems
+A Constant-Approximate Feasibility Test for Multiprocessor Real-Time Scheduling
+Remarks on Category-based Routing in Social Networks
+Learning in the Limit with Lattice-structured Hypothesis Spaces
+Extremal Subgraphs of Random Graphs
+Extraction of Dominant Extremal Structures in Volumetric Data Using Separatrix Persistence
+Automated Segmentation of Electron Tomograms for a Quantitative Description of Actin Filament Networks
+Image Warping for Face Recognition: From Local Optimality Towards Global Optimization
+The PhyloPythiaS Web Server for Taxonomic Assignment of Metagenome Sequences
+Rapid Variant Generation of Multi-component Images
+Specificity of Linear Motifs that Bind to a Common Mitogen-activated Protein Kinase Docking Groove
+Computational Methods for Metabolomic Data Analysis of Ion Mobility Spectrometry Data - Reviewing the State of the Art
+Adding Fake Facts to Ontologies
+Soundtrack Recommendation with PICASSO in the Cloud
+Automatically Rigging Multi-component Characters
+A Cross-version Approach for Harmonic Analysis of Music Recordings
+3D2PM - 3D Deformable Part Models
+Report 2012
+Query-time Reasoning in Uncertain RDF Knowledge Bases with Soft and Hard Rules
+Towards an Architecture for Open-domain Information Extraction: Integrated Extraction, Clustering, and Reasoning with Patterns
+SIGACT News Online Algorithms Column 20: The Power of Harmony
+A Note on Sorting Buffers Offline
+Leveraging Zipf's Law for Traffic Offloading
+Pitfalls in HTTP Traffic Measurements and Analysis
+An Expanded Model of HIV Cell Entry Phenotype Based on Multi-Parameter Single-Cell Data
+Genotyping Hepatitis B Virus Dual Infections Using Population-based Sequence Data
+Optimizing Long-Lived CloudNets with Migrations
+Revisiting Content Availability in Distributed Online Social Networks
+Non-existence of Linear Universal Drift Functions
+Efficient Computation of 3D Morse-Smale Complexes and Persistent Homology Using Discrete Morse Theory
+Defining Seasonal Marine Microbial Community Dynamics
+Metagenomics of the Svalbard Reindeer Rumen Microbiome Reveals Abundance of Polysaccharide Utilization Loci
+Detecting Patches of Protein Sites of Influenza A Viruses under Positive Selection
+Improved Approximation Algorithms for Bipartite Correlation Clustering
+Creating Small Subgraphs in Achlioptas Processes with Growing Parameter
+Beyond Good Partition Shapes: An Analysis of Diffusive Graph Partitioning
+Why Rumors Spread Fast in Social Networks
+An Evaluation of Two Automatic Landmark Building Discovery Algorithms for City Reconstruction
+Eye Gesture Recognition on Portable Devices
+Gaze Interaction in the Post-WIMP World
+Design and Implementation of a Transparent Cache Layer for RDF Database Systems
+Active Metric Learning for Object Recognition
+Articulated People Detection and Pose Estimation: Reshaping the Future
+A Database for Fine Grained Activity Detection of Cooking Activities
+Script Data for Attribute-based Recognition of Composite Activities
+RALF: A Reinforced Active Learning Formulation for Object Class Recognition
+Top-k Query Processing in Probabilistic Databases with Non-materialized Views
+General Analysis Tool Box for Controlled Perturbation Algorithms and Complexity and Computation of Θ-Guarded Regions
+Improving Content Delivery with PaDIS
+A Resource Description Language with Vagueness Support for Multi-Provider Cloud Networks
+Tracing the Birth of an OSN: Social Graph and Profile Analysis in Google+
+Anatomy of a Large European IXP
+Algorithms and Complexity for Periodic Real-time Scheduling
+CoryneRegNet 6.0 - Updated Database Content, New Analysis Methods and Novel Features Focusing on Community Demands
+Memory-Restricted Black-Box Complexity of OneMax
+Conflict-free Coloring for Rectangle Ranges Using O(n.382) Colors
+Hardness of Discrepancy Computation and ε-Net Verification in High Dimension
+SIGACT News Online Algorithms Column 21: APPROX and ALGO
+Multiplicative Drift Analysis
+On the Applicability of Elastic Network Normal Modes in Small-molecule Docking
+MicroRNA Transcription Start Site Prediction with Multi-objective Feature Selection
+Deconstructing Approximate Offsets
+Provenance for Web 2.0 Data
+Inference of Genotype-Phenotype Relationships in the Antigenic Evolution of Human Influenza A (H3N2) Viruses
+A Worst-Case Bound for Topology Computation of Algebraic Curves
+Faceted Known-Item Search in RDF Data
+A Geometric Approach To Robotic Laundry Folding
+Discriminative Appearance Models for Pictorial Structures
+What Makes a Good Detector? - Structured Priors for Learning from Few Examples
+3D Object Detection with Multiple Kinects
+Pedestrian Detection: An Evaluation of the State of the Art
+OpenGM: A C++ Library for Discrete Graphical Models
+An Improved Algorithm for Klee's Measure Problem on Fat Boxes
+On the Benefit of Collocation in Virtual Network Embeddings
+The Price of Specificity in the Age of Network Virtualization
+CloudNets: Combining Clouds with Networking
+An Improved Algorithm for Online Rectangle Filling
+Multi-view Object Recognition with Depth Cameras
+Fine-grained Categorization for 3D Scene Understanding
+NoRM: No-reference Image Quality Metric for Realistic Image Synthesis
+Semantic Search: from Names and Phrases to Entities and Relations
+On Nash Equilibria and Improvement Cycles in Pure Positional Strategies for Chess-Like and Backgammon-Like n-Person Games
+A Nonlinear GMRES Optimization Algorithm for Canonical Tensor Decomposition
+Polynomial Kernels for Dominating Set in Graphs of Bounded Degeneracy and Beyond
+2nd International Workshop on Pervasive Eye Tracking and Mobile Eye-Based Interaction
+An Algebraic Model for Parameterized Shape Editing
+Semi-supervised Learning for Image Classification
+Human Context: Modeling Human-Human Interactions for Monocular 3D Pose Estimation
+CGTA-Awards 2011
+Online Transitivity Clustering of Biological Data with Missing Values
+FPT Algorithms for Connected Feedback Vertex Set
+Demo: Programming Enterprise WLANs with Odin
+Content-aware Traffic Engineering

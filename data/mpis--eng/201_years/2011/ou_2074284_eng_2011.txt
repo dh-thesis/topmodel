@@ -1,0 +1,279 @@
+Consistent spectral predictors for dynamic causal models of steady-state responses
+Amygdala involvement in self-blame regret
+A role for the striatum in regret-related choice repetition
+Age differences in risky choice: A meta-analysis
+An empirical study of interest-based negotiation
+Healthy brooders employ more attentional resources when disengaging from the negative: An event-related fMRI study
+Common biology of craving across legal and illegal drugs: A quantitative meta-analysis of cue-reactivity brain response
+The neural basis of video gaming
+The limited value of precise tests of the recognition heuristic
+Dopamine agonists and risk: Impulse control disorders in Parkinson's disease
+Plasticity of human auditory-evoked fields induced by shock conditioning and contingency reversal
+Dissociable reward and timing signals in human midbrain and ventral striatum
+Dynamic causal modelling of spontaneous fluctuations in skin conductance
+Action dominates valence in anticipatory representations in the human striatum and dopaminergic midbrain
+Vigor in the face of fluctuating rates of reward: An experimental examination
+Effects of emotional preferences on value-based decision-making are mediated by mentalizing and not reward networks
+A stable sparse fear memory trace in human amygdala
+Fusiform gyrus face selectivity relates to individual differences in facial recognition ability
+An in vivo assay of synaptic function mediating human cognition
+The wisdom of ignorant crowds: Predicting sport outcomes by mere recognition
+How unrealistic optimism is maintained in the face of reality
+Inducing disbelief in free will alters brain correlates of preconscious motor preparation: The brain minds whether we believe in free will or not
+Structural correlates of trait anxiety: Reduced thickness in medial orbitofrontal cortex accompanied by volume increase in nucleus accumbens
+The implementation of verbal instructions: An fMRI study
+Representing and classifying arguments on the semantic web
+Logical mechanism design
+Introducing Argument & Computation: Editorial
+How to model age-related motivational reorientations in risky choice: Commentary on Depping and Freund
+Behavioral specifications of reward-associated long-term memory enhancement in humans
+Cholinergic modulation of cognition: Insights from human pharmacological functional neuroimaging
+Hedging your bets by learning reward correlations in the human brain
+Neural segregation of objective and contextual aspects of fairness
+Correspondence between retrospective and momentary ratings of positive and negative affect in old age: Findings from a one-year measurement burst design
+Dopamine and effort-based decision making
+Automatic relevance detection in the absence of a functional amygdala
+The known unknowns: Neural representation of second-order uncertainty, and ambiguity
+Deep and superficial amygdala nuclei projections revealed in vivo by probabilistic tractography
+Deconstructing risk: Separable encoding of variance and skewness in the brain
+Searching our cognitive social networks: How we remember who we know
+When Pinocchio acts intentionally like a human, a wooden hand becomes embodied: Action co-representation for non-biological agents
+When the brain tames the tongue: Covert editing of inappropriate language
+The neural underpinnings of event-file management: Evidence for stimulus-induced activation of and competition among stimulus-response bindings
+The functional and neural mechanisms of action preparation: Roles of EBA and FFA in voluntary action control
+Surprise leads to noisier perceptual decisions
+Whodunnit? Electrophysiological correlates of agency judgements
+"Keep calm and carry on": Structural correlates of expressive suppression of emotions
+Following the crowd: Brain substrates of long-term memory conformity
+Priming for self-esteem influences the monitoring of one's own performance
+Contextual novelty modulates the neural dynamics of reward anticipation
+Model-based influences on humans' choices and striatal prediction errors
+Serotonin transporter genotype modulates subgenual response to fearful faces using an incidental task
+Optimistic biases in observational learning of value
+Alterations in brain connectivity underlying beta oscillations in Parkinsonism
+Dynamic causal models and physiological inference: A validation study using isoflurane anaesthesia in rodents
+Time and moral judgment
+Why aren't we smarter already? Evolutionary trade-offs and cognitive enhancements
+Localizing externalities in social networks: Inducing peer pressure to enforce socially efficient outcomes
+Time-critical social mobilization
+Perspective taking eliminates differences in co-representation of out-group members' actions
+Disentangling the roles of approach, activation and valence in instrumental and pavlovian responding
+Simple heuristics that help us win
+A regret-induced status quo bias
+Grandparental investment: A relic of the past or a resource for the future?
+Neural correlates of emotional synchrony
+A quantitative meta-analysis on cue-induced male sexual arousal
+Memory-based decision making with heuristics involves increased activation of decision-relevant memory representations
+Towards context-sensitive support of vitality in old-age
+Use of eye tracking for studying survey response processes
+Advanced guide signs and behavioral decision theory
+Introduction
+Homo heuristicus: Why biased minds make better inferences
+One-reason decision-making: Modeling violations of expected utility theory
+Hindsight bias: A by-product of knowledge updating?
+Teaching emotions: The encounter between Victorian values and Indo-Persian concepts of civility in nineteenth century Delhi
+Aggregate age-at-marriage patterns from individual mate-search heuristics
+Maulawi Muhammad Zaka Ullah: Reflections of a Muslim moralist on the compatibility of Islam, Hinduism and Christianity
+How effective are family literacy programs? Results of a meta-analysis
+What is needed for better health care: Better systems, better patients or both?
+Social class, socialization and capabilities in a modern welfare state: Results from the Iceland longitudinal study
+Transforming education: Large-scale reform projects in education systems and their effects
+Foreword
+Identity by descent and association analysis of dichotomous traits based on large pedigrees
+The good, the bad, and the and the rare : Memory for partners in social interactions
+Feature integration across the lifespan : Stickier stimulus-response bindings in children and older adults
+Recognition-based judgments and decisions : What we have learned (so far)
+How do family physicians communicate about cardiovascular risk? Frequencies and determinants of different communication formats
+The recognition heuristic : A review of theory and tests
+Emotions in history - Lost and found
+Outsourcing the mind
+Feature-based interference from unattended visual field during attentional tracking in younger and older adults
+"There is nothing to worry about" : Gynecologists' counseling on mammography
+Meat label information: Effects of separate versus conjoint presentation on product evaluation
+The development of episodic memory : Lifespan lessons
+Event-related activity and phase locking during a psychomotor vigilance task over the course of sleep deprivation
+Pre-stimulus alpha phase-alignment predicts P1-amplitude
+Age differences in three facets of empathy: Performance-based evidence
+Child rights in the network of generations: An appeal for a topical reading of the Convention on the Rights of the Child
+When easy comes hard: The development of adaptive strategy selection
+Category transfer in sequential causal learning: The unbroken mechanism hypothesis
+On the coevolution of social responsiveness and behavioural consistency
+The impact of medical record technologies on collaboration in emergency medicine
+Do low-numeracy people avoid shared decision making?
+Seeing through the eyes of the respondent: An eye-tracking study on survey question comprehension
+Introduction to the special section: When age matters. Developmental perspectives on "Cognition and Emotion"
+On the relationship between job satisfaction and non-response in employee attitude surveys: A longitudinal field study
+Developmental processes in school burnout: A comparison of major developmental models
+Why you think Milan is larger than Modena: Neural correlates of the recognition heuristic
+Models of ecological rationality: The recognition heuristic
+Using a cognitive architecture to specify and test process models of decision making
+History and logic of significance tests
+When time is running out: Changes in positive future perception and their relationships to changes in well-being in old age
+Fast, frugal, and fit: Simple heuristics for paired comparison
+Innovative methods within the context of secondary data: Examples from household panel surveys
+The aging decision maker: Cognitive aging and the adaptive selection of decision strategies
+The Indian body and unani medicine: Body history as entangled history
+The future of diagnostics: From optimizing to satisficing
+Analyzing response times to understand decision processes
+Sequential processing of cues in memory-based multiattribute decisions
+SSL: A theory of how people learn to select strategies
+Komplexität und nichtlineare Dynamik von EEG und MEG
+Spatial discounting of food and social rewards in guppies (Poecilia reticulata)
+Simple heuristics in over-the-counter drug choices : A new hint for medical education and practice
+On the specificity of face cognition compared to general cognitive functioning across adult age
+Brain oscillatory correlates of working memory constraints
+Beyond "happy, angry, or sad?" Age-of-poser and age-of-rater effects on multi-dimensional emotion perception
+Is seeking bad mood cognitively demanding? Contra-hedonic orientation and working-memory capacity in everyday life
+Is longing only for Germans? A cross-cultural comparison of Sehnsucht in Germany and the United States
+Individual risk attitudes: Measurement, determinants, and behavioral consequences
+Neuromodulation of reward-based learning and decision making in human aging
+Stronger evidence for own-age effects in memory for older as compared to younger adults
+Graph literacy: A cross-cultural comparison
+Psychological heuristics for making inferences: Definition, performance, and the emerging theory and practice
+Towards competitive instead of biased testing of heuristics : A reply to Hilbig & Richter (2011)
+Waiting for grapes: Expectancy and delayed gratification in bonobos
+Performance benefits of depression: Sequential decision making in a healthy sample and a clinically depressed sample
+Effective communication of risks to young adults: Using message framing and visual aids to increase condom use and STD screening
+When age matters: Developmental perspectives on "Cognition and Emotion" [Special Section]
+Evoked traveling alpha waves predict visual-semantic categorization-speed
+Autistic symptomatology, face processing abilities, and eye fixation patterns
+Students' emotions during homework in mathematics: Testing a theoretical model of antecedents and achievement outcomes
+Assessing teachers' multicultural and egalitarian beliefs: The Teacher Cultural Beliefs Scale
+Green defaults: Information presentation and pro-environmental behavior
+Imperial Germany revisited: Continuing debates and new perspectives
+Descriptive models of decision making
+The use of recognition in group decision-making
+The 'Colonial Object' as object of knowledge in ethnological museums
+Parental investment : How an equity motive can produce inequality
+The insurance by my side : Better risk assessment for smarter insurance decisions
+Mechanisms for decisions about the future
+Barriers to health information and building solutions
+Sozioökonomischer Status und soziale Ungleichheit
+Statistical illiteracy in doctors
+Memory development across the life-span
+Four challenges for cognitive research on the recognition heuristic and a call for a research strategy shift
+Forecasting elections with mere recognition from small, lousy samples : A comparison of collective recognition, wisdom of crowds, and representative polls
+Do intensive studies of a foreign language improve associative memory performance?
+Launching the century of the patient
+Behavioral inconsistencies do not imply inconsistent strategies
+Age differences in processing fluctuations in postural control across trials and across days
+Lifespan changes in multi-tasking : Concurrent walking and memory search in children, young, and older adults
+Only time will tell : Cross-sectional studies offer no solution to the age-brain-cognition triangle : Comment on Salthouse
+Short assessment of the Big Five: Robust across survey methods except telephone interviewing
+Cognitive processes in disorders of consciousness as revealed by EEG time-frequency analyses
+A formal and data-based comparison of measures of motor-equivalent covariation
+Dyadic drumming across the lifespan reveals a zone of proximal development in children
+Intuitive and deliberate judgments are based on common principles
+Heuristic decision making
+Pictures speak louder than numbers : On communicating medical risks to immigrants with limited non-native language proficiency
+Causal beliefs and empirical evidence: Decision-making processes in two-alternative forced-choice tasks
+Promoting colorectal cancer screening in public health outreach campaigns
+How to test cultural theory: Suggestions for future research
+Cognitive niches: An ecological model of strategy selection
+God in the city: Religious topographies in the age of urbanization [Special Section]
+Long-term antecedents and outcomes of perceived control
+Education for democracy: Reasons and strategies
+Anthropocentrism: Humans, animals, environments
+Fluency heuristic : A model of how the mind exploits a by-product of information retrieval
+The priority heuristic: Making choices without trade-offs
+Better doctors, better patients, better decisions: Envisioning health care 2020
+Does imitation benefit cue order learning?
+Citizen-soldiers: General conscription in the nineteenth and twentieth centuries
+Moral satisficing: Rethinking moral behavior as bounded rationality
+Take-the-best in expert-novice decision strategies for residential burglary
+Predicting Wimbledon 2005 tennis results by mere player name recognition
+When misinformed patients try to make informed health decisions
+The neural basis of following advice
+The beauty of simple models : Themes in recognition heuristic research
+Forgetting constrains the emergence of cooperative decision strategies
+How will health care professionals and patients work together in 2020? A manifesto for change
+Recognition-based judgments and decisions : Introduction to the special issue (II)
+The recognition heuristic : A decade of research
+Emotion into science : How our modern ideas about emotion were created in the nineteenth century
+Older but not wiser: Predicting a partner's preferences gets worse with age
+Modeling pedestrian shopping behavior using principles of bounded rationality: Model comparison and validation
+Deceiving numbers : Survival rates and their impact on doctors' risk communication
+Persistent bias in expert judgments about free will and moral responsibility: A test of the expertise defense
+Using plausible group sizes to communicate information about medical risks
+Short-term memory scanning viewed as exemplar-based categorization
+The impact of nontraditionalism on the malleability of gender stereotypes in Spain and Germany
+With a little help from my spouse : Does spousal collaboration compensate for the effects of cognitive aging?
+PERSOC: A unified framework for understanding the dynamic interplay of personality and social relationships
+Adult parent-child relationships through the lens of social relations analyses: Prosocial personality and reciprocity of support
+Contralateral delay activity reveals lifespan age differences in top-down modulation of working memory contents
+Age differences in speed of processing are partially mediated by differences in axonal integrity
+Fiber density between rhinal cortex and activated ventrolateral prefrontal regions predicts episodic memory performance in humans
+Local and global effects of neck muscle vibration during stabilization of upright standing
+Microstructure of frontoparietal connections predicts cortical responsivity and working memory performance
+Brain areas consistently linked to individual differences in perceptual decision-making in younger as well as older adults before and after training
+Effects of joint attention on long-term memory in 9-month-old infants : An event-related potentials study
+Binding and strategic selection in working memory : A lifespan dissociation
+Performance-related increases in hippocampal N-acetylaspartate(NAA)induced by spatial navigation training are restricted to BDNF Val homozygotes
+Normal aging dampens the link between intrusive thoughts and negative affect in reaction to daily stressors
+Interactive brains, social minds
+Correlational methods for analysis of dance movements
+Decisions on pharmacogenomic tests in the USA and Germany
+Causal role of dorsolateral prefrontal cortex in human perceptual decision making
+Influence of affective significance on different levels of processing using pupil dilation in an analogical reasoning task
+Teacher enthusiasm: Dimensionality and context specificity
+Neural characterization of the speed-accuracy tradeoff in a perceptual decision-making task
+The malleability of gender stereotypes: Influence of population size on perceptions of men and women in the past, present, and future
+Planning, memory, and decision making
+Temporal neuronal oscillations can produce spatial phase codes
+"Transforming education": Large-scale reform projects and their effects: German and international experience
+How forgetting aids heuristic inference
+The recognition heuristic in memory-based inference: Is recognition a non-compensatory cue?
+Reasoning the fast and frugal way: Models of bounded rationality
+Simple heuristics and rules of thumb: Where psychologists and behavioural biologists might meet
+Risk communication : Why we need understandable information
+On the psychology of the recognition heuristic : Retrieval primacy as a key determinant of its use
+Naive and yet enlightened: From natural frequencies to fast and frugal decision trees
+Evaluating threat, solving mazes, and having the blues: Gender differences in brain-imaging studies
+Categorization with limited resources: A family of simple heuristics
+Measuring time use in surveys: How valid are time use questions in surveys? Concordance of survey and experience sampling measures
+Cultural nationalism and beyond: Musical performances in imperial Germany
+Cardiac and respiratory patterns synchronize between persons during choir singing
+Developmental change and intraindividual variability: Relating cognitive aging to cognitive plasticity, cardiovascular lability, and emotional diversity
+Hippocampal subfield volumes : Age, vascular risk, and correlation with associative memory
+Herbert Simon's spell on judgment and decision making
+Using the ACT-R architecture to specify 39 quantitative process
+Revisiting the "error" in studies of cognitive errors
+Heuristics: The foundations of adaptive behavior
+Teachers' beliefs, instructional behaviors, and students' engagement in learning from texts with instructional pictures
+What readers have and do: Effects of students' verbal ability and reading time components on comprehension with and without text availability
+Individual differences in theory-of-mind judgements: Order effects and side effects
+Estimations of parental and self intelligence as a function of parents' status: A cross-cultural study in Germany and Spain
+Communicating consequences of risky behaviors: Life expectancy versus risk of disease
+What are natural frequencies? Doctors need to find better ways to communicate risk to patients
+A signal-detection analysis of fast-and-frugal trees
+"How to model it?" [Review of the book Cognitive modeling by J. R. Busemeyer & A. Diederich, Los Angeles: Sage, 2010]
+Life span differences in electrophysiological correlates of monitoring gains and losses during probabilistic reinforcement learning
+Cross-sectional age variance extraction : What's change got to do with it?
+Higher intraindividual variability is associated with more forgetting and dedifferentiated memory functions in old age
+Load modulation of BOLD response and connectivity predicts working memory performance in younger and older adults
+Natural hazard insurance in Europe: Tailored responses to climate change are needed
+The interplay between cognitive and motor functioning in healthy older adults: Findings from dual-task studies and suggestions for intervention
+The new UN CRC General Comment 13: "The right of the child to freedom from all forms of violence". Changing how the world conceptualizes child protection
+Principles of relationship differentiation
+Enhancing understanding and recall of quantitative information about medical risks : A cross-cultural comparison between Germany and Spain
+Introduction to god in the city: Religious topographies in the age of urbanization
+Practices within the working-class movement in Leipzig and Lyon, 1929-1933/38: Reflections on comparative everyday history
+Jewish hearts and minds? Feelings of belonging and political choices among East German intellectuals
+From an international to a transnational history of European integration: Some stages on the journey
+Different aspects of theory of mind in paranoid schizophrenia: Evidence from a video-based assessment
+Lack of empathy in patients with narcissistic personality disorder
+Neuronal correlates of altered empathy and social cognition in borderline personality disorder
+Assessing teacher candidates' general pedagogical/psychological knowledge: Test construction and validation
+A random walk down university avenue: Life paths, life events, and personality trait change at the transition to university life
+Between-domain relations of academic emotions: Does having the same instructor make a difference?
+Neurobiology of value integration: When value impacts valuation
+Foreword [from the UN Committee on the Rights of the Child]
+Virtue in business: Morally better, praiseworthy, trustworthy, and more satisfying
+Competitive mate choice: How need for speed beats quests for quality and harmony
+Conceptualizing emotions along the dimensions of valence, arousal, and communicative frequency: Implications for social-cognitive tests and training tools
+What makes text-picture-integration difficult? A structural and procedural analysis of textbook requirements [Cosa rende difficile l'integrazione testo-figura? Un'analisi strutturale e procedurale dei requisiti dei libri di testo]
+Professional development across the teaching career
+Racing for the city: The recognition heuristic and compensatory alternatives
+On the relationship between job satisfaction and non-response in employee attitude surveys: a longitudinal field study
+"Intuitive and deliberate judgments are based on common principles": Correction to Kruglanski and Gigerenzer (2011)
+Interactive coin addition: How hands can help us think

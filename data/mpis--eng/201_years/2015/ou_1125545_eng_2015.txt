@@ -1,0 +1,84 @@
+Photoswitchable cell adhesion mediated by LOV2 protein mutants
+Continuum physics of tumor growth
+Matrix-immobilized BMP-2 on microcontact printed fibronectin as an in vitro tool to study BMP-mediated signaling and cell migration
+Regulation of integrin and growth factor signaling in biomaterials for osteodifferentiation
+An emerging allee effect is critical for tumor initiation and persistence
+Peptide-equipped tobacco mosaic virus templates for selective and controllable biomineral deposition
+Osteogenic differentiation of mesenchymal stem cells from dental bud: Role of integrins and cadherins
+Reactive superhydrophobic surface and its photoinduced disulfide-ene and thiol-ene (bio)functionalization
+Bioactive compounds immobilized on Ti and TiNbHf: AFM-based investigations of biofunctionalization efficiency and cell adhesion
+Imaging SPR combined with stereoscopic 3D tracking to study barnacle cyprid-surface interactions
+Modified TMV particles as beneficial scaffolds to present sensor enzymes
+Selectable nanopattern arrays for nanolithographic imprint and etch-mask applications
+Minimal synthetic cells to study integrin-mediated adhesion
+Nanopore diameters tune strain in extruded fibronectin fibers
+A molecular mechanotransduction pathway regulates collective migration of epithelial cells
+Freely drawn single lipid nanotube patterns
+Temporal responses of human endothelial and smooth muscle cells exposed to uniaxial cyclic tensile strain
+Development of droplet-based microfluidics for synthetic biology applications
+Nanoscale Control of Surface Immobilized BMP-2: Toward a Quantitative Assessment of BMP-Mediated Signaling Events
+A comparative study of the effects of vein-joints on the mechanical behaviour of insect wings: I. Single joints
+Receptor clustering control and associated force sensing by surface patterning: when force matters
+Photocleavable linker for the patterning of bioactive molecules
+Key factors for stable retention of fluorophores and labeled biomolecules in droplet-based microfluidics
+Enhanced sputter yields of ion irradiated Au nano particles: energy and size dependence
+Shear-induced detachment of polystyrene beads from SAM-coated surfaces
+Numerical investigation of insect wing fracture behaviour
+Matrix stiffness determines the fate of nucleus pulposus-derived stem cells
+Bax monomers form dimer units in the membrane that further self-assemble into multiple oligomeric species
+PEG-based antigen-presenting cell surrogates for immunological applications
+Surface-mediated priming during in vitro generation of monocyte-derived dendritic cells
+Holographic microscopy provides new insights into the settlement of zoospores of the green alga Ulva linza on cationic oligopeptide surfaces
+Two-dimensional arrays of Poly(N-isopropylacrylamide) microspheres: formation, characterization and application
+Accurate and absolute diffusion measurements of Rhodamine 6G in low-concentration aqueous solutions by the PGSE-WATERGATE sequence
+Segregation versus colocalization: orthogonally functionalized binary micropatterned substrates regulate the molecular distribution in focal adhesions
+Reversibility and viscoelastic properties of micropillar supported and oriented magnesium bundled F-actin
+Epsilon/zeta toxin-antioxin systems in gram-negative bacteria
+Indications of radiation damage in ferredoxin microcrystals using high-intensity X-FEL beams
+Serial femtosecond crystallography: the first five years
+Stimulation-evoked Ca2+ signals in astrocytic processes at hippocampal CA3-CA1 synapses of adult mice are modulated by glutamate and ATP
+Divergent innervation of the olfactory bulb by distinct raphe nuclei
+Inducible and combinatorial gene manipulation in mouse brain
+Synergistic effects of ATP and RNA binding to human DEAD-box protein DDX1
+The adsorption of fluorinated dopants at the surface of 5CB: a neutron reflection study
+Enantiotopic discrimination in the NMR spectrum of prochiral solutes in chiral liquid crystals
+Structural analysis of an oxygen-regulated diguanylate cyclase
+Commentary: Virophages go nuclear in the marine alga Bigelowiella natans
+Molecular motions in supercooled and glassy ibuprofen: deuteron magnetic resonance and high-resolution rheology study
+Imaging single cells in a beam of live cyanobacteria with an X-ray laser
+Structure of the terminal PCP domain of the non-ribosomal peptide synthetase in teicoplanin biosynthesis
+RNA editing by ADAR1 prevents MDA5 sensing of endogenous dsRNA as nonself
+The inner workings of the hydrazine synthase multiprotein complex
+Ultrafast isomerization initiated by X-ray core ionization
+Adult AMPA GLUA1 Receptor Subunit Loss in 5-HT neurons results in a specific anxiety-phenotype with evidence for dysregulation of 5-HT neuronal activity
+Structural aspects of phenylglycines, their biosynthesis and occurrence in peptide natural products
+The crystal structure of the versatile cytochrome P450 enzyme CYP109B1 from Bacillus subtilis
+An introduction to the special issue on X-ray free-electron lasers
+Applications of hydrogen deuterium exchange (HDX) for the characterization of conformational dynamics in light-activated photoreceptors
+Communication: X-ray coherent diffractive imaging by immersion in nanodroplets
+Coexpression analysis of nine neuropeptides in the neurosecretory preoptic area of larval zebrafish
+Positive taxis and sustained responsiveness to water motions in larval zebrafish
+Transfer of SABRE-derived hyperpolarization to spin-1/2 heteronuclei
+Sequential in vitro cyclization by cytochrome P450 enzymes of glycopeptide antibiotic precursors bearing the X-domain from nonribosomal peptide biosynthesis
+Design and synthesis of peptide inhibitor conjugates as probes of the Cytochrome P450s from glycopeptide antibiotic biosynthesis
+Direct observation of ultrafast collective motions in CO myoglobin upon ligand dissociation
+Characterization and use of the spent beam for serial operation of LCLS
+Structural biology: Photosynthetic complex in close-up
+Structural details of light activation of the LOV2-based photoswitch PA-Rac1
+Twist-bend nematic phase of the liquid crystal dimer CB7CB: orientational order and conical angle determined by 129Xe and 2H NMR spectroscopy
+Long-lived spin states as a source of contrast in magnetic resonance spectroscopy and imaging
+X-domain of peptide synthetases recruits oxygenases crucial for glycopeptide biosynthesis
+Room-temperature serial crystallography at synchrotron X-ray sources using slowly flowing free-standing high-viscosity microstreams
+Dynamics of ionic shifts in cortical spreading depression
+Characterization of the 26S proteasome network in Plasmodium falciparum
+A cis-acting antitoxin domain within the chromosomal toxin–antitoxin module EzeT of Escherichia coli quenches toxin activity
+The linac coherent light source single particle imaging road map
+NMDA receptor subunits and associated signaling molecules mediating antidepressant-related effects of NMDA-GluN2B antagonism
+An unexpected reactivity of the P460 cofactor in hydroxylamine oxidoreductase
+Structural studies of P-type ATPase–ligand complexes using an X-ray free-electron laser
+Rapid access to glycopeptide antibiotic precursor peptides coupled with cytochrome P450-mediated catalysis: towards a biomimetic synthesis of glycopeptide antibiotics
+Macroscopic order in a nematic liquid crystal: Perturbation by spontaneous director fluctuations
+Effects of self-seeding and crystal post-selection on the quality of Monte Carlo-integrated SFX data
+Demonstration of simultaneous experiments using thin crystal multiplexing at the Linac Coherent Light Source
+Fluorescent-protein stabilization and high-resolution imaging of cleared, intact mouse brains
+Plasmodium apicoplast Gln-tRNAGln biosynthesis utilizes a unique GatAB amidotransferase essential for erythrocytic stage parasites

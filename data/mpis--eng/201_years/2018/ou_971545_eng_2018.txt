@@ -1,0 +1,118 @@
+Photosynthesis is widely distributed among Proteobacteria as demonstrated by the phylogeny of PufLM reaction center proteins
+The Iceman’s Last Meal Consisted of Fat, Wild Meat, and Cereals
+Cellular hysteresis as a principle to maximize the efficacy of antibiotic therapy
+Adaptive value of novel MHC immune gene variants
+Microbiota-based analysis reveals specific bacterial traits and a novel strategy for the diagnosis of infectious infertility
+Recovery of Bordetella bronchiseptica sequence type 82 and B. pseudohinzii from urban rats in Terengganu, Malaysia
+The effect of auxin (indole-3-acetic acid) on the growth rate and tropism of the sporangiophore of Phycomyces blakesleeanus and identification of auxin-related genes
+Involvement of SPATA31 copy number variable genes in human lifespan
+A comparison of genomic islands of differentiation across three young avian species pairs
+Effectively Evolution-proof Antibiotics?
+Adaptive phenotypic change over the lifetime of an invader - Transcriptomics of a Cottus lineage of hybrid origin
+Construction and benchmarking of a multi-ethnic reference panel for the imputation of HLA class I and II alleles
+Incipient de novo genes can evolve from frozen accidents that escaped rapid transcript turnover
+Extent of adaptation is not limited by unpredictability of the environment in laboratory populations of Escherichia coli
+Why are algal viruses not always successful?
+Rooting phylogenies and the tree of life while minimizing Ad Hoc and auxiliary assumptions
+Zymoseptoria tritici histone modifications distinguish core and accessory chromosomes and play an important role in genome stability
+Skin microbiota as potential trigger factors for pemphigus vulgaris
+Order and polarity in character state transformation models that root the tree of life
+Antibiotic combination efficacy (ACE) networks for a Pseudomonas aeruginosa model
+Interspecific gene exchange as a driver of adaptive evolution in fungi
+Modeling treatment-dependent glioma growth including a dormant tumor cell subpopulation
+The evolution of gene-specific transcriptional noise is driven by selection at the pathway level
+A dipteran's sucker punch: Diverse venom composition of the robber flies
+Ubiquitous abundance distribution of non-dominant plankton across the global ocean
+Meiotic drive of female-inherited supernumerary chromosomes in a pathogenic fungus
+Dual-stressor selection alters eco-evolutionary dynamics in experimental communities
+Positively selected effector genes and their contribution to virulence in the smut fungus Sporisorium reilianum
+Cryptic haplotype-specific gamete selection yields offspring with optimal MHC immune genes
+Evolution of macromolecular structure: a 'double tale' of biological accretion and diversification
+Divergent allele advantage at human MHC Genes: signatures of past and ongoing selection
+Spore-autonomous fluorescent protein expression identifies meiotic chromosome mis-segregation as the principal cause of hybrid sterility in yeast.
+Models for processes of somatic evolution on multiple scales
+Dealing with the adaptive immune system during de novo evolution of genes from intergenic sequences
+Agricultural research, or a new bioweapon system?
+Methods for microbiota analysis: sample collection and laboratory methods
+The genomic determinants of adaptive evolution in a fungal pathogen
+Antibiotic treatment protocols revisited: The challenges of a conclusive assessment by mathematical modeling
+Stochastic population dynamics driven by mutant interactors
+Independent domestication events in the blue-cheese fungus Penicillium roqueforti
+Evolutionary dynamics of multiple games
+Combining genomics and transcriptomics to study adaptation to lake and river habitats in three-spined sticklebacks
+The effect of graph structure on the dynamics of a stochastic evolutionary process
+Implementing goal-directed foraging decisions of a simpler nervous system in simulation
+The ecological genetics of Pseudomonas syringae from kiwifruit leaves
+Low-level mitochondrial heteroplasmy modulates DNA replication, glucose metabolism and lifespan in mice
+The Physcomitrella patens gene atlas project: large-scale RNA-seq based expression data
+Infection models: novel potato blight-like pathogens in worms
+Genomewide signatures of selection in Epichloë reveal candidate genes for host specialization
+Immediate action is the best strategy when facing uncertain climate change
+Climate change: what psychology can offer in terms of insights and solutions
+The genome of the water strider Gerris buenoi reveals expansions of gene repertoires associated with adaptations to life on the water
+Analysis of candidate genes for behavioral differences in mice
+Combining genomics and transcriptomics to study adaptation to lake and river habitats in three-spined sticklebacks
+The Chara Genome: secondary complexity and implications for plant terrestrialization
+Three new endemic Aphyosemion species (Cyprinodontiformes: Nothobranchiidae) from the Massif du Chaillu in the upper Louessé River system, Republic of the Congo
+The Physcomitrella patens chromosome-scale assembly reveals moss genome structure and evolution
+Generalized gravity model for human migration
+Gut dysbiosis with Bacilli dominance and accumulation of fermentation products precedes late-onset sepsis in preterm infants
+Genetic structure of the grey side-gilled sea slug (Pleurobranchaea maculata) in coastal waters of New Zealand
+Extraordinary genome instability and widespread chromosome rearrangements during vegetative growth
+Long-term investigation of microbial community composition and transcription patterns in a biogas plant undergoing ammonia crisis
+An exploration of the links between parasites, trophic ecology, morphology, and immunogenetics in the Lake Tanganyika cichlid radiation
+Disentangling eco-evolutionary effects on trait fixation
+Unravelling the zinc finger diversity of recombination regulator PRDM9 in minke whales (Balaenoptera)
+One man’s trash is another man’s treasure - the effect of bacteria on phytoplankton-zooplankton interactions in chemostat systems
+Destabilization of chromosome structure by histone H3 lysine 27 methylation
+Eco-evolutionary agriculture: a study in crop rotations
+Promoting synthetic symbiosis under environmental disturbances
+Using the Mus musculus hybrid zone to assess covariation and genetic architecture of limb bone lengths
+Fine-scale recombination maps of fungal plant pathogens reveal dynamic recombination landscapes and intragenic hotspots
+Reply to ‘No beneficial fitness effects of random peptides’
+Population size changes and selection drive patterns of parallel evolution in a host-virus system
+The breakdown of genomic ancestry blocks in hybrid lineages given a finite number of recombination sites
+Comparative genomics of the major parasitic worms
+High-complexity regions in mammalian genomes are enriched for developmental genes
+Latent toxoplasmosis and olfactory functions of Rh positive and Rh negative subjects
+One man's trash is another man's treasure—the effect of bacteria on phytoplankton–zooplankton interactions in chemostat systems
+Distinct "asthma" phenotypes of four mouse strains correlate with different responses to house dust mite (HDM) allergens
+Limits of noise for autoregulated gene expression
+Genome architecture and virulence gene dynamics in oat crown rust populations
+Female assortative mate choice functionally validates synthesized male odours of evolving stickleback river–lake ecotypes
+(Micro)evolutionary Changes and the Evolutionary Potential of Bird Migration
+Detection of somatic epigenetic variation in Norway spruce via targeted bisulfite sequencing
+Exploring and mapping the universe of evolutionary graphs
+Estimating the mutational fitness effects distribution during early HIV infection
+Analytic methods in microbiome studies
+Comparative analysis examining patterns of genomic differentiation across multiple episodes of population divergence in birds
+Phenotypic variability and genetic architecture of limbs in populations and strains of the house mouse (Mus musculus)
+Heterosis in yeast hybrids
+The role of stressors in altering eco-evolutionary dynamics
+Fixation probabilities in populations under demographic fluctuations
+Reproduction costs can drive the evolution of groups
+Parallel genomic evolution of parasite tolerance in wild honey bee populations
+Evolution of mating types in finite populations: the precarious advantage of being rare
+Aggressive or moderate drug therapy for infectious diseases? Trade-offs between different treatment goals at the individual and population levels
+Meta-populational demes constitute a reservoir for large MHC allele diversity in wild house mice (Mus musculus)
+Morphological and transcriptomic analyses reveal three discrete primary stages of postembryonic development in the common fire salamander, Salamandra salamandra
+Draft genome sequence of strain B 225, an iron-depositing isolate of the genus Novosphingobium
+New insights into the metabolic potential of the phototrophic purple bacterium Rhodopila globiformis DSM 161T from its draft genome sequence and evidence for a vanadium-dependent nitrogenase
+Ongoing niche differentiation under high gene flow in a polymorphic brackish water threespine stickleback (Gasterosteus aculeatus) population
+A dipteran’s novel sucker punch: Evolution of arthropod atypical venom with a neurotoxic component in robber flies (asilidae, diptera)
+Evolution of fixed demographic heterogeneity from a game of stable coexistence
+Faecal microbiota composition associates with abdominal pain in the general population
+Estimation of recombination rates from population genetics data in Daphnia pulex
+Functions of the Microbiota for the Physiology of Animal Metaorganisms
+Trophic ecology of piscivorous Arctic charr (Salvelinus alpinus (L.)) in subarctic lakes with contrasting food-web structures
+Ancient DNA study reveals HLA susceptibility locus for leprosy in medieval Europeans
+The evolution of ecological facilitation within mixed-species biofilms in the mouse gastrointestinal tract
+Invasion and effective size of graph-structured populations
+Female ornamentation and the fecundity trade-off in a sex-role reversed pipefish
+Replicative cellular age distributions in compartmentalized tissues
+Dynamic critical behavior of the one-dimensional XY model with a long-range interaction
+Distinct colonization waves underlie the diversification of the freshwater sculpin (Cottus gobio) in the Central European Alpine region
+Inference of recombination maps from a single pair of genomes and its application to archaic samples
+Replicative cellular age distributions in compartmentalised tissues
+Experimental Evolution of cell shape in bacteria
+Evolutionary perspectives on the human Gut Microbiome

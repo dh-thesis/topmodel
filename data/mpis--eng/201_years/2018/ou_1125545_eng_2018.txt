@@ -1,0 +1,78 @@
+NTA-Co3+-His6 versus NTA-Ni2+-His6 mediated E-Cadherin surface immobilization enhances cellular traction
+Nanoporous silica nanoparticles functionalized with a fluorescent turn-on spirorhodamineamide as pH indicators
+Vitamin D promotes MSC osteogenic differentiation stimulating cell adhesion and αVβ3 expression
+Near-infrared STED nanoscopy with an engineered bacterial phytochrome.
+Topographic cues guide the attachment of diatom cells and algal zoospores
+Light induced charge and energy transport in nucleic acids and proteins: general discussion
+Spatial distortion of vibration modes via magnetic correlation of impurities
+RNA helicase DDX1 converts RNA G-quadruplex structures into R-loops to promote IgH class switch recombination
+Laminin-521 promotes quiescence in isolated stellate cells from rat liver
+Diverse patterns of molecular changes in the mechano-responsiveness of focal adhesions
+Strongly enhanced bacterial bioluminescence with the ilux operon for single-cell imaging
+MaxSynBio: Avenues towards creating cells from the bottom up
+Sequential bottom-up assembly of mechanically stabilized synthetic cells by microfluidics
+Mastering complexity: towards bottom-up construction of multifunctional eukaryotic synthetic cells
+Megahertz data collection from protein microcrystals at an X-ray free-electron laser
+Structural insights into the twist-bend nematic phase from the integration of 2H-NMR data and modelling: CB7CB and CB6OCB as case studies
+Blue-light-regulated adenylyl cyclases - optogenetic tools and model systems for inter-domain communication
+Switchable Release of Bone Morphogenetic Protein from Thermoresponsive Poly(NIPAM-co-DMAEMA)/Cellulose Sulfate Particle Coatings
+A fluid-to-solid jamming transition underlies vertebrate body axis elongation
+Optical tools for understanding the complexity of β-cell signalling and insulin release
+Tuning RGD motif and hyaluronan density to study integrin binding
+Combining adhesive nanostructured surfaces and costimulatory signals to increase T cell activation
+MINFLUX monitors rapid molecular jumps with superior spatiotemporal resolution
+A new fluorogenic small molecule labeling tool for surface diffusion analysis and advanced fluorescence imaging of β-site amyloid precursor protein (APP)-cleaving enzyme 1 based on silicone rhodamine: SiR-BACE1
+Geometrical characterization of fluorescently labelled surfaces from noisy 3D microscopy data
+Molecular and cellular dissection of NMDA receptor subtypes as antidepressant targets
+The metabolite BH4 controls T cell proliferation in autoimmunity and cancer
+Complete magnetic field dependence of SABRE-derived polarization
+Mechanical interactions among followers determine the emergence of leaders in migrating epithelial cell collectives
+Semisynthetic sensor proteins enable metabolic assays at the point of care
+Charge-controlled synthetic hyaluronan-based cell matrices
+Dual functionalization of rod-shaped viruses on single coat protein subunits
+Nanoscale Tuning of VCAM-1 Determines VLA-4-Dependent Melanoma Cell Plasticity on RGD Motifs
+Characterization of plasmodium falciparum 6-phosphogluconate dehydrogenase as an antimalarial drug target
+Free-electron laser data for multiple-particle fluctuation scattering analysis
+Surface immobilization of viruses and nanoparticles elucidates early events in clathrin-mediated endocytosis
+Cell–extracellular matrix mechanobiology: forceful tools and emerging needs for basic and translational research
+Ca2+ signals in astrocytes facilitate spread of epileptiform activity
+Control of mechanical pain hypersensitivity in mice through ligand-targeted photoablation of TrkB-positive sensory neurons
+Photocrosslinking between nucleic acids and proteins: general discussion
+Spiers Memorial Lecture. Introductory lecture: the impact of structure on photoinduced processes in nucleic acids and proteins
+Spherical network contraction forms microtubule asters in confinement
+Robust nanoscopy of a synaptic protein in living mice by organic-fluorophore labeling.
+Chromophore twisting in the excited state of a photoswitchable fluorescent protein captured by time-resolved serial femtosecond crystallography
+Structural and functional studies of c-type cytochromes from anaerobic ammonium-oxidizing bacteria
+Capsid protein structure, self-assembly, and processing reveal morphogenesis of the marine virophage mavirus
+Quantitative infection dynamics of cafeteria roenbergensis virus
+Distinct Phenotypes of shank2 mouse models reflect neuropsychiatric spectrum disorders of human patients with SHANK2 variants
+Bap (Sil1) regulates the molecular chaperone BiP by coupling release of nucleotide and substrate
+Structure-guided design and functional characterization of an artificial red light–regulated guanylate/adenylate cyclase for optogenetic applications
+Semisynthetic biosensors for mapping cellular concentrations of nicotinamide adenine dinucleotides
+The ng_ζ1 toxin of the gonococcal epsilon/zeta toxin/antitoxin system drains precursors for cell wall synthesis
+STED nanoscopy of the centrosome linker reveals a CEP68-organized, periodic rootletin network anchored to a C-Nap1 ring at centrioles
+Velocimetry of fast microscopic liquid jets by nanosecond dual-pulse laser illumination for megahertz X-ray free-electron lasers
+Similar but not the same:first kinetic and structural analyses of a methanol dehydrogenase containing a europium ion in the active site
+Polydatin, natural precursor of resveratrol, promotes osteogenic differentiation of mesenchymal stem cells
+Two-site jumps in dimethyl sulfone studied by one- and two-dimensional 17O NMR spectroscopy
+cis versus trans-Azobenzene: precise determination of NMR parameters and analysis of long-lived states of 15N spin pairs
+Crystallography on a chip – without the chip: sheet-on-sheet sandwich
+A swarm of slippery micropropellers penetrates the vitreous body of the eye
+SNAP-tagged nanobodies enable reversible optical control of a G protein-coupled receptor via a remotely tethered photoswitchable ligand
+Tailored environments to study motile cells and pathogens
+Charge controlled microfluidic formation of lipid-based single- and multicompartment systems
+Efficient cosubstrate enzyme pairs for sequence-specific methyltransferase-directed photolabile caging of DNA
+CAMP@FLASH: an end-station for imaging, electron- and ion-spectroscopy, and pump–probe experiments at the FLASH free-electron laser
+Sex hormones regulate SHANK expression
+A chemogenetic approach for the optical monitoring of voltage in neurons
+Synthesis of plasmodione metabolites and 13C-enriched plasmodione as chemical tools for drug metabolism investigation
+Investigating Cytochrome P450 specificity during glycopeptide antibiotic biosynthesis through a homologue hybridization approach
+Bionanophotonics: general discussion
+Light induced damage and repair in nucleic acids and proteins: general discussion
+Megahertz serial crystallography
+The spatial molecular pattern of integrin recognition sites and their immobilization to colloidal nanobeads determine α2β1 integrin-dependent platelet activation
+Bright and specific far-red labels for visualizing endogenous glucagon-like peptide-1 receptors
+Ab initio structure determination from experimental fluctuation X-ray scattering data
+How to build a virus of a virus: capsid protein structure, assembly and processing of the marine virophage mavirus
+Absent sleep EEG spindle activity in GluA1 (Gria1) knockout mice: relevance to neuropsychiatric disorders
+Somatic accumulation of GluA1-AMPA receptors leads to selective cognitive impairments in mice

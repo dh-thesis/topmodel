@@ -1,0 +1,95 @@
+A modular synthetic route to size-defined immunogenic Haemophilus influenzae b antigens is key to the identification of an octasaccharide lead vaccine candidate
+FRMPD4 mutations cause X-linked intellectual disability and disrupt dendritic spine morphogenesis
+MED13L-related intellectual disability: involvement of missense variants and delineation of the phenotype
+HEPATOKIN1 is a biochemistry-based model of liver metabolism for applications in medicine and pharmacology
+Genome-wide strategies identify downstream target genes of connective tissue-associated transcription factors
+Epigenomic profiling of non-small cell lung cancer xenografts uncover LRP12 DNA methylation as predictive biomarker for carboplatin resistance
+X Chromosome Dosage Influences DNA Methylation Dynamics during Reprogramming to Mouse iPSCs
+A LINE1-Nucleolin Partnership Regulates Early Development and ESC Identity
+De novo and inherited mutations in the X-linked gene CLCN4 are associated with syndromic intellectual disability and behavior and seizure disorders in males and females
+Transcriptional profiling of murine osteoblast differentiation based on RNA-seq expression analyses
+Mechanistic insights into the role of prenyl-binding protein PrBP/δ in membrane dissociation of phosphodiesterase 6
+Simple paired heavy- and light-chain antibody repertoire sequencing using endoplasmic reticulum microsomes
+Genetic determinants of steatosis and fibrosis progression in pediatric non-alcoholic fatty liver disease
+Large scale variation in the rate of germ-line de novo mutation, base composition, divergence and diversity in humans
+Coactivator condensation at super-enhancers links phase separation and gene control
+Structure and function of the Campylobacter jejuni chromosome replication origin
+tRNA Translocation by the Eukaryotic 80S Ribosome and the Impact of GTP Hydrolysis
+Noncoding copy-number variations are associated with congenital limb malformation
+Impaired proteoglycan glycosylation, elevated TGF-β signaling, and abnormal osteoblast differentiation as the basis for bone fragility in a mouse model for gerodermia osteodysplastica
+Integrative genomic profiling of large-cell neuroendocrine carcinomas reveals distinct subtypes of high-grade neuroendocrine lung tumors
+Assessment of Established Techniques to Determine Developmental and Malignant Potential of Human Pluripotent Stem Cells
+Generation of an iPSC line of a patient with Angelman syndrome due to an imprinting defect
+Generation of two human isogenic iPSC lines from fetal dermal fibroblasts
+Repeat expansion and methylation state analysis with nanopore sequencing
+KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance
+It takes two transducins to activate the cGMP-phosphodiesterase 6 in retinal rods
+Spatiotemporal Control of TGF-β Signaling with Light
+Cutis Laxa and Excessive Bone Growth due to de novo mutations in PTDSS1
+Response to Peron et al
+Mutation in <em>LBX1/Lbx1</em> precludes transcription factor cooperativity and causes congenital hypoventilation in humans and mice
+Transcriptional Dysregulation of MYC Reveals Common Enhancer-Docking Mechanism
+Rescue of Fragile X Syndrome Neurons by DNA Methylation Editing of the FMR1 Gene
+Structural Visualization of the Formation and Activation of the 50S Ribosomal Subunit during In Vitro Reconstitution
+Cell type-dependent differential activation of ERK by oncogenic KRAS or BRAF in the mouse intestinal epithelium
+Genomic and Functional Fidelity of Small Cell Lung Cancer Patient-Derived Xenografts
+Combining NGN2 Programming with Developmental Patterning Generates Human Excitatory Neurons with NMDAR-Mediated Synaptic Transmission
+Prospective Isolation of Poised iPSC Intermediates Reveals Principles of Cellular Reprogramming
+Chromatin-dependent allosteric regulation of DNMT3A activity by MeCP2
+Comparative genomic analysis of embryonic, lineage-converted and stem cell-derived motor neurons
+The Transcriptionally Permissive Chromatin State of Embryonic Stem Cells Is Acutely Tuned to Translational Output
+DMSO-induced drastic changes in cellular processes and epigenetic landscape in vitro
+Synthetic STARR-seq reveals how DNA shape and sequence modulate transcriptional output and noise
+Esrrb Unlocks Silenced Enhancers for Reprogramming to Naive Pluripotency - Correction
+Mutations in PMPCB Encoding the Catalytic Subunit of the Mitochondrial Presequence Protease Cause Neurodegeneration in Early Childhood
+O-GlcNAc transferase missense mutations linked to X-linked intellectual disability deregulate genes involved in cell fate determination and signaling
+Transient N-6-Methyladenosine Transcriptome Sequencing Reveals a Regulatory Role of m6A in Splicing Efficiency
+Pathogenic variants in E3 ubiquitin ligase RLIM/RNF12 lead to a syndromic X-linked intellectual disability and behavior disorder
+Evolution of genomic variation in the burrowing owl in response to recent colonization of urban areas
+De novo mutations in MSL3 cause an X-linked syndrome marked by impaired histone H4 lysine 16 acetylation
+A dual transcript-discovery approach to improve the delimitation of gene features from RNA-seq data in the chicken model
+Aligning Single-Cell Developmental and Reprogramming Trajectories Identifies Molecular Determinants of Myogenic Reprogramming Outcome
+An Intermediate Pluripotent State Controlled by MicroRNAs Is Required for the Naive-to-Primed Stem Cell Transition
+Genetic determinants and epigenetic effects of pioneer-factor occupancy
+Author Correction: Global delay in nascent strand DNA methylation
+Reduced MEK inhibition preserves genomic stability in naive human embryonic stem cells
+Biallelic missense variants in ZBTB11 can cause intellectual disability in humans
+Comparison of Bone Microarchitecture Between Adult Osteogenesis Imperfecta and Early-Onset Osteoporosis
+Advances in computer-assisted syndrome recognition by the example of inborn errors of metabolism
+Multisite de novo mutations in human offspring after paternal exposure to ionizing radiation
+Are hydroethidine-based probes reliable for ROS detection?
+Global delay in nascent strand DNA methylation
+Genome-wide tracking of dCas9-methyltransferase footprints
+A model-based assay design to reproduce in vivo patterns of acute drug-induced toxicity
+Network and Pathway Analysis of Toxicogenomics Data
+Polymer physics predicts the effects of structural variants on chromatin architecture
+Structural variation in the 3D genome
+Characterization of glycosylphosphatidylinositol biosynthesis defects by clinical features, flow cytometry, and automated image analysis
+A CLK3-HMGA2 Alternative Splicing Axis Impacts Human Hematopoietic Stem Cell Molecular Identity throughout Development
+A novel mutation in CDH11, encoding cadherin-11, cause Branchioskeletogenital (Elsahy-Waters) syndrome
+Mutational analysis uncovers monogenic bone disorders in women with pregnancy-associated osteoporosis: three novel mutations in LRP5, COL1A1, and COL1A2
+Dynamics of Transcription Regulation in Human Bone Marrow Myeloid Differentiation to Mature Blood Neutrophils
+Serum HBV RNA as a Predictor of Peginterferon Alfa-2a Response in Patients With HBeAg-Positive Chronic Hepatitis B
+Esrrb Unlocks Silenced Enhancers for Reprogramming to Naive Pluripotency
+Paying PIs from grants blocks talent and diversity
+Loss of the hematopoietic stem cell factor GATA2 in the osteogenic lineage impairs trabecularization and mechanical strength of bone
+Identification of two novel candidate genes for insulin secretion by comparative genomics of multiple backcross populations
+A mouse model for intellectual disability caused by mutations in the X-linked 2'Omethyltransferase Ftsj1 gene
+Exome sequencing in syndromic brain malformations identifies novel mutations in ACTB, and SLC9A6, and suggests BAZ1A as a new candidate gene
+Zika Virus Alters DNA Methylation of Neural Genes in an Organoid Model of the Developing Human Brain
+X chromosome dosage and presence of SRY shape sex-specific differences in DNA methylation at an autosomal region in human cells
+The power of the Mediator complex—Expanding the genetic architecture and phenotypic spectrum of MED12‐related disorders
+Dissecting the Functional Consequences of De Novo DNA Methylation Dynamics in Human Motor Neuron Differentiation and Physiology
+Genetics of intellectual disability in consanguineous families
+Dynamic 3D chromatin architecture determines enhancer specificity and morphogenetic identity in limb development
+Molecular Evolution of Early-Onset Prostate Cancer Identifies Molecular Risk Markers and Clinical Trajectories
+Genomic dissection of enhancers uncovers principles of combinatorial regulation and dynamic wiring of enhancer-promoter contacts
+Cancer-Germline Antigen Expression Discriminates Clinical Outcome to CTLA-4 Blockade
+coTRaCTE predicts co-occurring transcription factors within cell-type specific enhancers
+Wnt1 is an Lrp5-independent bone-anabolic Wnt ligand
+A novel COL1A2 C-propeptide cleavage site mutation causing high bone mass osteogenesis imperfecta with a regional distribution pattern
+Esrrb unlocks silenced enhancers for reprogramming to naïve pluripotency
+CNKSR1 gene defect can cause syndromic autosomal recessive intellectual disability
+Loss of murine Gfi1 causes neutropenia and induces osteoporosis depending on the pathogen load and systemic inflammation
+Targets and genomic constraints of ectopic Dnmt3b expression
+BRACHYURY directs histone acetylation to target loci during mesoderm development

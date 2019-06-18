@@ -1,0 +1,104 @@
+From square-well to Janus: Improved algorithm for integral equation theory and comparison with thermodynamic perturbation theory within the Kern-Frenkel model
+Intrinsic viscoelasticity in thin high-molecular-weight polymer films
+Nanoscale viscoplastic behavior of smectic liquid crystals and its application in nanolithography
+Arrest of the flow of wet granular matter
+Hub-activated signal transmission in complex networks
+Local active information storage as a tool to understand distributed neural information processing
+Evaluation of Machine Learning Methods for the Long-Term Prediction of Cardiac Diseases
+Ripening and focusing of aggregate size distributions with overall volume growth
+Toroidal and poloidal energy in rotating Rayleigh Bénard convection
+The glucosyltransferase Xiantuan of the endoplasmic reticulum specifically affects E-Cadherin expression and is required for gastrulation movements in Drosophila
+Resonance patterns in spatially forced Rayleigh-Bénard convection
+Liquid crystal microfluidics: surface, elastic and viscous interactions at microscales
+Toward panoramic in situ mapping of action potential propagation in transgenic hearts to investigate initiation and therapeutic control of arrhythmias
+Unidirectionally Coupled Map Lattices with Nonlinear Coupling: Unbinding Transitions and Superlong Transients
+Electrowetting Actuated Microfluidic Transport in Surface Grooves with Triangular Cross Section
+Modeling self-organized spatio-temporal patterns of PIP3 and PTEN during spontaneous cell polarization
+Possible Origin of Stagnation and Variability of Earth’s Biodiversity
+Fast membrane hemifusion via dewetting between lipid bilayers
+Scanning X-Ray Nanodiffraction on Dictyostelium discoideum
+Uniquantal Release through a Dynamic Fusion Pore Is a Candidate Mechanism of Hair Cell Exocytosis
+Extreme fluctuations of the relative velocities between droplets in turbulent airflow
+Controlling chaos faster
+Effects of flow on topological defects in a nematic liquid crystal near a colloid
+Using waveform information in nonlinear data assimilation
+Tension-induced binding of semiflexible biopolymers
+Redistribution of Kinetic Energy in Turbulent Flows
+Spike avalanches in vivo suggest a driven, slightly subcritical brain state
+Optical trapping reveals propulsion forces, power generation and motility efficiency of the unicellular parasites Trypanosoma brucei brucei
+Tunneling in the self-trapped regime of a two-well Bose-Einstein condensate
+Stabilized wave segments in an excitable medium with a phase wave at the wave back
+Pinning and wicking in regular pillar arrays
+Flight–crash events in turbulence
+Rotating non-Oberbeck–Boussinesq Rayleigh–Bénard convection in water
+Accurate state and parameter estimation in nonlinear systems with sparse observations
+Characterization of super liquid-repellent surfaces
+Detecting Synchronization and Interrelations in Multivariate Time Series
+Patterns driven by combined ac and dc electric fields in nematic liquid crystals
+Jamming of frictional particles: A non-equilibrium first order phase transition
+Comment on “A test-tube model for rainfall” by Wilkinson Michael
+Cell substratum adhesion during early development of Dictyostelium discoideum
+Theoretical neuroscience of self‐organized criticality: from formal approaches to realistic models
+Depinning of Drops on Inclined Smooth and Topographic Surfaces: Experimental and Lattice Boltzmann Model Study
+Changes of sleep-stage transitions due to ageing and sleep disorder
+Continous Transition between Two Limits of Spiral Wave Dynamics in an Excitable Medium
+A note on Taylor's hypothesis under large-scale flow variation
+Detection of Negative Charge Carriers in Superfluid Helium Droplets: The Metastable Anions He*(-) and He-2*(-)
+Stationary propagation of a wave segment along an inhomogeneous excitable stripe
+Eliminating Pinned Spiral Waves in Cardiac Monolayer by Far Field Pacing
+Structural anisotropy of directionally dried colloids
+Mode coupling of phonons in a dense onedimensional microfluidic crystal
+Single-molecule diffusion in freely suspended smectic films
+Statistics of Extreme Waves in Random Media
+Deterministic and stochastic aspects of the transition to turbulence
+Impact of network topology on synchrony of oscillatory power grids
+Logarithmic spatial variations and universal f -1 power spectra of temperature fluctuations in turbulent Rayleigh-Bénard convection
+Unveiling mode-selected electron-phonon interactions in metal films by helium atom scattering
+Developmental refinement of hair cell synapses tightens the coupling of Ca2+ influx to exocytosis
+Active microrheology of driven granular particles
+Variable density turbulence tunnel facility
+Mammalian cell growth on gold nanoparticle-decorated substrates is influenced by the nanoparticle coating
+Path probabilities of continuous time random walks
+Strong dynamical heterogeneity and universal scaling in driven granular fluids
+Local observability of state variables and parameters in nonlinear modeling quantified by delay reconstruction
+Logarithmic temperature profiles of turbulent Rayleigh-Bénard convection in the classical and ultimate state for a Prandtl number of 0.8
+Interfacial mechanisms in active emulsions
+Statistical Physics of Neural Systems with Nonadditive Dendritic Coupling
+KdV soliton interactions: a tropical view
+Segregation of Simulated RFID Markers during Handling and Transport of Wheat
+Effects of Polymer Additive on Turbulent Bulk Flow: The Polymer Concentration Dependence
+Heat flux enhancement by regular surface roughness in turbulent thermal convection
+Quantifying uncertainty in state and parameter estimation
+On the onset of motion of sliding drops
+Time-reversal-symmetry Breaking in Turbulence
+Revealing networks from dynamics: an introduction
+The Response of a He-3 Fermi Liquid Droplet to Vibronic Excitation of an Embedded Glyoxal Molecule
+Repetitive magnetic stimulation induces plasticity of excitatory postsynapses on proximal dendrites of cultured mouse CA1 pyramidal neurons
+Paradoxical effects of coupling infectious livestock populations and imposing transport restrictions
+Wetting Heterogeneities in Porous Media Control Flow Dissipation
+Oscillation-Induced Signal Transmission and Gating in Neural Circuits
+Mechanistic insights into hypothermic ventricular fibrillation: the role of temperature and tissue size
+Vorticity, defects and correlations in active turbulence
+Influence of slip on the Rayleigh-plateau rim instability in dewetting viscous films
+Travelling fronts of the CO oxidation on Pd(111) with coverage-dependent diffusion
+Run-and-tumble dynamics in a crowded environment: Persistent exclusion process for swimmers
+Electrokinetic effects in catalytic platinum-insulator Janus swimmers
+Hydrodynamic suppression of phase separation in active suspensions
+Self-assembly of catalytically active colloidal molecules: Tailoring activity through surface chemistry
+Instabilities and topological defects in active nematics
+Clusters, asters, and collective oscillations in chemotactic colloids
+Active nematic materials with substrate friction
+Mechanosensitive channel activation by diffusio-osmotic force
+Nanofluidics of thin polymer films: Linking the slip boundary condition at solid-liquid interfaces to macroscopic pattern formation and microscopic interfacial properties
+Coalescence and noncoalescence of sessile drops: Impact of surface forces
+Sharp transition between coalescence and noncoalescence of sessile drops
+Emergent cometlike swarming of optically driven thermally active colloids
+Vibrio cholerae use pili and flagella synergistically to effect motility switching and conditional surface attachment
+Prediction and observation of two dynamic crossovers in hydration water allows the reconciliation of simulations and experiments
+Settling regimes of inertial particles in isotropic turbulence
+Understanding and controlling regime switching in molecular diffusion
+Infrared detection of (H2O)(20) isomers of exceptional stability: A drop-like and a face-sharing pentagonal prism cluster
+Cracking mud, freezing dirt, and breaking rocks
+A size resolved investigation of large water clusters
+Magnetocoalescence of ferrofluid droplets in a flat microfluidic channel
+Prevalence of the sling effect for enhancing collision rates in turbulent suspensions

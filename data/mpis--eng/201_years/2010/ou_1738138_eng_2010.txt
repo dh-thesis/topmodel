@@ -1,0 +1,187 @@
+The continuous coagulation equation with multiple fragmentation
+Symmetry Matters for Sizes of Extended Formulations
+Improved soot prediction models for turbulent non-premixed ethylene/air flames
+Constrained Output Path-Following for Nonlinear Systems Using Predictive Control
+Influence of discretization errors on set-based parameter estimation
+Mesh dependency study of the CFD-modeling in an intracranial aneurysm
+Optimal reconstruction of a distribution
+Virtual stent deployment in real and virtual geometries
+Guaranteed Steady State Bounds for Uncertain (Bio-)Chemical Processes using Infeasibility Certiﬁcates
+Stent wire shape optimization based on Computational Fluid Dynamics
+Complete Fault Diagnosis of Uncertain Polynomial Systems
+Event-based control for networked control systems: An active compensation approach
+Practical set invariance for decentralized discrete time systems
+A comparative study of stochastic analysis techniques
+Simulative CSL model checking of Stochastic Petri nets in IDD-MC
+Set-base dynamical parameter estimation and model invalidation for biochemical reaction networks
+Optimizing soot prediction models using CFD combined with DQMOM
+Reconstruction of a distribution from a finite number of moments with an adaptive spline-based algorithm
+Therapy Discrimination via Global Sensitivity Analysis of Force-induced Bone Growth and Adaptation.
+Fuel Cell Engineering: Toward the Design of Efficient Electrochemical Power Plants
+Enantiomeric 3-Chloromandelic Acid System: Binary Melting Point Phase Diagram, Ternary Solubility Phase Diagrams and Polymorphism
+PBM 2010 : 4th International Conference on Population Balance Modeling
+Guidelines for reporting the use of capillary electrophoresis in proteomics
+Model order reduction of a continuous crystallizer
+Gas Potentiometry: Oxygen-Based Redox Process Diagnostics in High-Temperature Environments
+Morphology evolution of crystal populations : population balance model predictions versus experimental data
+The binary phase diagram of propranolol hydrochloride and crystallization-based enantioseparation
+Effect of a chiral additive on preferential crystallization
+Nonlinear Model Order Reduction via Quadratic Bilinear Differential Algebraic Equations
+Guaranteed steady state bounds for uncertain biochemical processes using infeasibility certificates
+Nanoparticle Precipitation in Microemulsions : Population balance Model and Identification of bivariate droplet exchange kernel
+Biomass-based Fuel Cell Power Plants - Evaluation of Novel Reactors and Process Designs
+MINLP optimization of process combinations for the production of pure enantiomers
+Application of different acidic resolving agents for diastereomeric salt separation of serine
+CASOP : a computational approach for strain optimization aiming at high productivity
+Modeling of Membrane Reactors
+An Asymptotic Analysis of the Mean First Passage Time for Narrow Escape Problems : Part II : The Sphere
+Forward and inverse integration of population balance equations with size-dependent growth rate
+Study of the growth of Escherichia coli on mixed substrates using dynamic flux balance analysis
+Metabolic effects of influenza virus infection in cultured animal cells: Intra- and extracellular metabolite profiling
+Mixed crystals in chiral organic systems: phase diagram and crystal structure features of an ethanolamine salt of 3-chloromandelic acid
+Estimation of Reliable Parameters for Solid-Liquid Equilibrium Description of Chiral Systems
+Comparing Vero and MDCK cells for influenza A virus production in microcarrier systems
+Methods for integration and dynamic inversion of population balance equations with size-dependent growth rate
+Autothermal operation of an adiabatic simulated counter current reactor
+Measurement of surface diffusivities in mesoporous Vycor glass membranes using a modified Wicke-Kallenbach cell with variable cell volume
+High yields of Influenza A virus in MDCK cells are promoted by an insufficient IFN-induced antiviral state
+Nonlinear Operating Behaviour of Fuel Cells: A Review
+Modeling Heterogeneous Virus Infectiosity for cells in bioreactors for Vaccine Production
+Differential activation of host cell signaling pathways through infection with two variants of influenza A /Puerto Rico /8/34 (H1N1) in MDCK cells
+Modeling of Particle Size Distribution for Semi-batch Precipitation of Barium Sulfate using Different Activity Coefficient Models
+Energy management for heat intensive production plants using mixed integer optimization
+Stabilization of a continuous fluidized bed spray granulation
+Response of Pseudomonas putida KT2440 to phenol at the level of membrane proteome
+Proteomic analysis of influenza A virus infected mammalian cells by 2D-DIGE
+Monitoring of cell activity : online oxygen uptake rates in pulsed aerated cell culture
+Complete Fault Diagnosis of Uncertain Polynomial Systems.
+R*,S*-6,7-Dimethoxy-3-(4-methoxy-6-methyl-5,6,7,8-tetrahydro-[1,3]dioxolo[4,5-g]isoquinolin-5-yl)-3H-isobenzofuran-1-one (racemic alpha-Noscapine)
+Computing Combinatorial Intervention Strategies and Failure Modes in Signaling Networks
+Model-based high cell density cultivation of Rhodospirillum rubrum under respiratory dark conditions
+Solid Electrolyte Membrane Reactors
+Principles and Materials Aspects of Direct Alkaline Alcohol Fuel Cells
+Expression, purification, and characterization of a His6-tagged glycerokinase from Pichia farinosa for enzymatic cycling assays in mammalian cells
+Hydrogen Production from Reformate Gas by a Cyclic Water Gas Shift Reactor
+Application of Optimal Control Theory to a Batch Crystallizer using Orbital Flatness
+Total harmonic distortion analysis for direct methanol fuel cell anode
+Optimal startup operation of simulated moving bed chromatographic processes
+Benchmark for Hierarchical Plantwide Control of Hybrid Chemical Processes : Control of Coupled Batch and Continuous Reactors
+Distributed State Estimation for Hybrid and Discrete Event Systems Using l-Complete Approximations
+An Efficient Numerical Method for Solving a Model Describing Crystallization of Polymorphs
+Real-time RT-qPCR assay for the analysis of human influenza A virus transcription and replication dynamics
+DNA Depletion by Precipitation in the Purification of Cell Culture-Derived Influenza Vaccines
+Coupling of Kinetic and Mass Transfer Processes in Direct Methanol Fuel Cells
+Modelling, dynamics and control of a portable DMFC system
+Comparison of Different Membrane Reactors
+Optimization of simulated moving bed chromatography with fractionation and feedback: Part I. Fractionation of one outlet
+MDCK and Vero cells for influenza virus vaccine production: a one-to-one comparison up to lab-scale bioreactor cultivation
+Combining polythermal operation and fines destruction to increase the efficiency of simple batch preferential crystallization
+Hydroxynitrile lyase catalysed synthesis of enantiopure (S)-acetophenone cyanohydrins
+Monitoring of Cell activity : online oxygen uptake rates in pulsed aerated cell culture
+Metabolite Analysis in Mammalian Cells : How to generate reliable data sets?
+Ternary Phase Diagrams of 3-Chloromandelic Acid in Different Solvents and Possibilities of Enantiomeric Resolution
+Two-population CFD simulation: microcarrier system for adherent cell growth in Wave Bioreactors
+Image-based Measurement of Crystal Shape Distributions
+Snoopy - a unifying Petri net framework to investigate biomolecular networks
+Measurement of Key Metabolic Enzyme Activities in Mammalian Cells Using Rapid and Sensitive Microplate-Based Assays
+Solid−Liquid Equilibria of N-Methylephedrine Enantiomers and Their Mixtures in Three Chiral Solvents Distinguished by Chain Length
+Single-cell approach in influenza vaccine production : apoptosis and virus protein production
+Model Based Design of a Cyclic Watergas Shift Reactor
+Statistical analysis of packed beds, the origin of short-range disorder, and its impact on eddy dispersion
+Distributed Optimization for feedforward global chassis control
+Stack Modelling of a Molten Carbonate Fuel Cell (MCFC)
+Solubility of Mandelic Acid Enantiomers and Their Mixtures in Three Chiral Solvents
+Analysis of a fluidized bed membrane reactor for butane partial oxidation to maleic anhydride: 2D modelling
+Balanced Truncation Model Order Reduction for LTI Systems with many Inputs or Outputs
+A theoretical study of continuous counter-current chromatography for adsorption isotherms with inflection points
+Dynamics of bionanoparticle targeting in mixtures of human tumour cells by validated population balance modelling
+Inward Rotating Spiral Waves in Glycolysis
+Capillary type thermal mass flow sensors for monitoring esterification reactions in residence time micro-reactors
+Reconstruction of Particle Size Distributions From FBRM Measurements - Yet Another Solution to a Well-Known Ill-Posed Problem
+A new MDCK suspension line cultivated in a fully defined medium in stirred-tank and wave bioreactor
+Purification of cell culture-derived modified Vaccinia Ankara virus by pseudo-affinity membrane adsorbers and hydrophobic interaction chromatography
+Effect of hydrodynamic conditions on mass and heat transfer in a novel membrane based continuous micro-distillation device: experimental approach
+Modeling Pattern Formation during the Electrochemical Preferential CO Oxidation in CO/H2 Mixtures
+Metaproteomanalyse von Klärschlamm aus Membranbioreaktoren
+CASOP GS : Computing intervention strategies targeted at production improvement in genome-scale metabolic networks
+Fuel Cells
+Membrane Reactors: Distributing reactants to Improve Selectivity and Yield
+Selection of membrane contactors used in a membrane distillation based micro-separator
+Stabilization of Continuous Fluidized Bed Spray Granulation - a Lyapunov Approach
+Diffusive coupling can discriminate between similar reaction mechanisms in an allosteric enzyme system
+Bivariate Extension of the Quadrature Method of Moments for Batch Crystallization Models
+Load Torque Estimation and Passivity-based Control of a Boost-Converter/DC-Motor combination
+On the application of a variant CE/SE method for solving two-dimensional ideal MHD equations
+Numerical Solution of Batch Crystallization Models
+High Performance Motion Control by Neuro-Muscular Electrical Stimulation applied to the Upper-Limb
+An efficient numerical technique for solving batch crystallization models with fines dissolution
+Non-linear frequency response analysis of the kinetics of electrochemical reactions
+Consensus for Double Integrator Dynamics in Heterogeneous Networks
+Nonlinear Dynamics of Membrane Reactors
+Characterization of flow conditions in 2 L and 20 L wave bioreactors using Computational Fluid Dynamics.
+Reduction procedure for parametrized fluid dynamics problems based on proper orthogonal decomposition and calibration
+Approximation of laminar flow field in rectangular channels with suction/injection along one wall
+Metabolic flux distribution during growth of adherent growing MDCK cells in different media
+Fast evaluation of periodic operation of a heterogeneous reactor based on nonlinear frequency response analysis
+Temperature and Humidity Control of a Micro PEM Fuel Cell Stack
+Reduction of a Urea Crystallizer Model by Proper Orthogonal Decomposition and Best-Points Interpolation
+Methodology for the Design of Optimal Chemical Reactors Based on the Concept of Elementary Process Functions
+Inline chemical process analysis in micro-plants based on thermoelectric flow and impedimetric sensors
+Application of a recent FBRM-probe model to quantify preferential crystallization of DL-threonine
+Ternary Solubility Phase Diagrams of Mandelic Acid and N-Methylephedrine in Chiral Solvents with Different Carbon Chain Lengths
+Tracking the Clustering Dynamics in Ternary Particle Mixtures by Flow Cytometry
+A reactive distillation case study for decentralized control system design using mixed integer optimization
+Chemical Process Design: Moving Matter Elements Along Optimal Travel Routes in the Thermodynamic State Space
+Application of Classical Resolution for Separation of DL-Serine
+Basic Problems of Chemical Reaction Engineering and Potential of Membrane Reactors
+Nonlinear frequency response of electrochemical methanol oxidation kinetics: A theoretical analysis
+Transcriptomic changes arising during light-induced sporulation in Physarum polycephalum
+Recent Advances in Enzymatic Fuel Cells: Experiments and Modeling
+TRANSWESD : inferring cellular networks with transitive reduction
+Catalysis and Reaction Kinetics of a Model Reaction
+Optimization of simulated moving bed chromatography with fractionation and feedback: Part II. Fractionation of both outlets
+Optimal control solutions for crystal shape manipulation
+Robust and optimal control scenarios for batch crystallization processes
+Innovative Control Strategies for Coupled Preferential Crystallization
+Model-Based Analysis of the Feasibility Envelope for Autonomous Operation of a Portable Direct Methanol Fuel-Cell System
+Cyclohexanol Production from Cyclohexene in a Reactive Divided Wall Column: A Feasibility Study
+A Gaussian quadrature method for solving multi-dimensional length-based population balance models
+Proximal point method for optimal control processes governed by ordinary differential equations
+Max-Consensus in a Max-Plus Algebraic Setting: The Case of Switching Communication Topologies
+Oscillations and pattern formation in a PEM fuel cell with Pt/Ru anode exposed to H2O/CO mixtures
+Convex optimization for Crystal Shape Manipulation
+Control of Cyclically Operated High-Throughput Screening Systems
+Transport Phenomena in Porous Membranes and Membrane Reactors
+Model-based measurement and control of particulate processes : an application to granulation processes
+Model simulation and analysis of proton incorporation into the positive active mass of a lead/acid battery: influence of transient and steady-state behavior
+Analysis of multidimensional cluster distributions in particle and cell systems by population balance modelling
+Carbon Dioxide and Formic Acid - The couple for an environmental-friendly hydrogen storage?
+Cyclic auto-seeded polythermal preferential crystallization – Effect of impurity accumulation
+Chiral Tailor-Made Solvents and Their Impact on Solution Thermodynamics and Crystallisation Kinetics of Mandelic Acid
+Reduction of a Crystallizer Model With Internal and External Coordinates by Proper Orthogonal Decomposition
+Passivity based control of a distributed PEM fuel cell model
+Experimental Investigation on A Membrane-Distillation Based Micro-Separator
+A thermodynamically consistent explicit competitive adsorption isotherm model based on second order single component behaviour
+Modeling of Crystal Morphology Distributions. Towards Crystals with Preferred Asymmetry
+Virus-host cell interactions in vaccine production cell lines infected with different human influenza A virus variants: A proteomic approach
+Control of a PEM Fuel Cell Based on a Distributed Model
+Decentralized control system design using mixed integer optimization
+Separation of Enantiomers using Chromatography and Crystallization
+Capturing of Cell Culture-Derived Modified Vaccinia Ankara Virus by Ion Exchange and Pseudo-Affinity Membrane Adsorbers
+A master curve for the onset of shear induced restructuring of fractal colloidal aggregates
+Glycosylation of Influenza A Virus Hemagglutinin
+Optimized Workflow for Preparation of APTS-Labeled N-Glycans Allowing High-Throughput Analysis of Human Plasma Glycomes using 48-Channel Multiplexed CGE-LIF
+Altering gas separation properties of porous glass membranes by surface modification
+From Binary to Multivalued to Continuous Models: The Iac Operon as a Case Study
+Controllability of Second Order Leader-Follower Systems
+Efficient solution of a batch crystallization model with fines dissolution
+Reha-Maus : a novel robot for upper limb rehabilitation
+Assessment of Methanol Synthesis Utilizing Exhaust CO2 for Chemical Storage of Electrical Energy
+Packed-Bed Membrane Reactors
+Selective crystallisation of a chiral compound-forming system - Solvent screening, SLE determination and process design
+Solid−Liquid Equilibria of Mandelic Acid Enantiomers in Two Chiral Solvents: Experimental Determination and Model Correlation
+Solid−Liquid Phase Equilibria of N-Methylephedrine Enantiomers in Two Chiral Solvents
+Modal Exact Linearization of a Class of Second-Order Switched Nonlinear Systems
+A kinetic flux-vector splitting method for the shallow water magnetohydrodynamics
+On an Optimization Problem for a Class of Impulsive Hybrid Systems
+Separation of Enantiomers by Coupled Preferential Crystallization - Impact of Initial Conditions On Process Performance

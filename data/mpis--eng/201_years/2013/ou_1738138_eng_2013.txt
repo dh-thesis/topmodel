@@ -1,0 +1,123 @@
+Distributed control of interconnected systems with lossy communication networks
+μAO-MPC: A free code generation tool for embedded real-time linear model predictive control
+Stability of NMPC with Cyclic Horizons
+Analysis and constrained control of nonlinear interconnected systems exploiting positively invariant family of sets
+Virtual Intracranial Stenting: How does stent porosity influence hemodynamics?
+On the Solution of Confined Aquifer Flow Equations: Finite Difference Approximations
+Investigation of the velocity field in a full-scale model of a cerebral aneurysm
+On efficient predictive control of linear systems subject to quadratic constraints using condensed, structure-exploiting interior point methods
+Variability of computational fluid dynamics solutions for pressure and flow in a giant aneurysm: the ASME 2012 Summer Bioengineering Conference CFD Challenge
+Estimation of consistent parameter sets for continuous-time nonlinear systems using occupation measures and LMI relaxations
+Hemodynamics in Multiple Intracranial Aneurysms: The Role of Shear Related to Rupture
+Switch-like reprogramming of gene expression after fusion of multinucleate plasmodial cells of two Physarum polycephalum sporulation mutants
+A module-based approach to biomodel engineering with Petri Nets
+Set-point tracking using distributed MPC
+MARCIE – Model Checking and Reachability Analysis Done Efficiently
+AmniVis - A System for Qualitative Exploration of Near-Wall Hemodynamics in Cerebral Aneurysms
+Experimental determination of droplet collision rates in turbulence
+Combinatorial bounds on nonnegative rank and extended formulations
+Structural Problem Reduction for Set-based Fault Diagnosis
+Inner Approximations of Consistent Parameter Sets by Constraint Inversion and Mixed-Integer Programming
+Simulative Model Checking of Steady-State and Time-Unbounded Temporal Operators
+Robustness Analysis, Prediction and Estimation for Uncertain Biochemical Networks
+Investigation of the velocity field in a full-scale model of a cerebral aneurysm
+JAK/STAT signalling – an executable model assembled from molecule-centred modules demonstrating a module-oriented database concept for systems and synthetic biology
+Computational hemodynamics in a patient–specific aneurysm treated with Web-Device
+Rupture prediction in intracranial aneurysms – Advanced flow structure detection at known rupture sites
+Efficient Handling of Complex Shift Parameters in the Low-Rank Cholesky Factor ADI method
+System-level Modeling of MEMS
+Reciprocal Enzyme Regulation as a Source of Bistability in Covalent Modification Cycles
+CAP, a new human suspension cell line for influenza virus production
+Evaluation of Periodic Processes
+Analytic solutions to optimal control problems in crystal growth processes
+Searching for a needle in a stack of needles: challenges in metaproteomics data analysis.
+Analysis and numerical investigation of two dynamic models for liquid chromatography
+Classifying human operator functional state based on electrophysiological and performance measures and fuzzy clustering method
+Total harmonic distortion analysis of oxygen reduction reaction in proton exchange membrane fuel cells
+Spectral Characterization and Enforcement of Negative Imaginariness for Descriptor Systems
+A shared memory parallel implementation of the IRKA algorithm for H2 model order reduction
+Alternating electron transfer mechanism in the case of high-performance tetrathiafulvalene–tetracyanoquinodimethane enzymatic electrodes
+The Preconditioned Inverse Iteration for Hierarchical Matrices
+Impact of cultivation conditions on N-glycosylation of influenza A hemagglutinin produced in MDCK cell culture
+Steady-state analysis of the Anaerobic Digestion Model No. 1 (ADM1)
+An effective framework for reconstructing gene regulatory networks from genetical genomics data.
+The space–time CE/SE method for solving one-dimensional special relativistic magnetohydrodynamics equations
+Discrete-event systems in a dioid framework : Modeling and analysis
+The Electro-Oxidation of H2, CO in a Model PEM Fuel Cell: Oscillations, Chaos, Pulses
+Optimal cut-times finding strategies for collecting a target component from overloaded elution chromatograms
+Application of electrochemical impedance spectroscopy for studying of enzyme kinetics
+Toward Animal Cell Culture-based Influenza Vaccine Design: Viral Hemagglutinin N-Glycosylation Markedly Impacts Immunogenicity
+Isolation of a Mixed Valence Diiron Hydride: Evidence for a Spectator Hydride in Hydrogen Evolution Catalysis
+Evaluation of Different Process Concepts for the Indirect Hydration of Cyclohexene to Cyclohexanol
+H∞ loop shaping control for continuous fluidized bed spray granulation with internal product classification
+The LR Cholesky Algorithm for Symmetric Hierarchical Matrices
+Discrete-event systems in a dioid framework : Control theory
+Design of Feedback Control Strategies for an Arm Neuroprothesis Combined with an Exoskeleton
+Stepwise reduction of the culture redox potential allows the analysis of microaerobic metabolism and photosynthetic membrane synthesis in Rhodospirillum rubrum
+Modeling and predictions of solid–liquid equilibria for citalopram oxalate as a representative of a solid solution forming system
+Solutions to inversion problems in preferential crystallization of enantiomers—part II: Batch crystallization in two coupled vessels
+Unleashing CPU-GPU Acceleration for Control Theory Applications
+Discontinuous and continuous purification of single-chain antibody fragments using immobilized metal ion affinity chromatography
+All-at-once solution of time-dependent Stokes control
+A method for efficiently solving the IAST equations with an application to adsorber dynamics
+Chiral separation by combining pertraction and preferential crystallization
+Chiral separation of systems of high eutectic composition by a combined process: Case study of serine enantiomers
+Model Reduction of an Elastic Crankshaft for Elastic Multibody Simulations
+Low Rank Methods for a Class of Generalized Lyapunov Equations and Related Issues
+Optimal Damping of Selected Eigenfrequencies Using Dimension Reduction
+System-Level Modeling of MEMS by Means of Model Order Reduction (Mathematical Approximation) - Mathematical Background
+Evaluating Differences of Metabolic Performances: Statistical Methods and Their Application to Animal Cell Cultivations
+MPC/LQG for Infinite-Dimensional Systems Using Time-Invariant Linearizations
+Online model selection approach based on Unscented Kalman Filtering
+Subspace Recycling Accelerates the Parametric Macro‐modeling of MEMS
+Modelling of engineering phenomena by finite automata
+High-Throughput IgG Fc N-Glycosylation Profiling by Mass Spectrometry of Glycopeptides
+Theoretical investigation of simultaneous continuous preferential crystallization in a coupled mode
+Estimation of Crystal Shape Distributions from Microscopic Images
+Efficient Resolution of Enantiomers by Coupling Preferential Crystallization and Dissolution. Part 2: A Parametric Simulation Study to Identify Suitable Process Conditions
+Exploitation of shifts of eutectic compositions in crystallization-based enantioseparation
+Analytical solutions and moment analysis of chromatographic models for rectangular pulse injections
+Reactor configurations for biogas plants – a model based analysis
+Model selection and parameter estimation for chemical reactions using global model structure
+Solid Solutions in Organic Systems: Identification, Verification and Phase Diagrams
+Investigations on a „short-cut“ method for the estimation of crystallization kineticts
+Alumino-mesostructured Ni catalysts for the direct conversion of ethane to propene
+A New Process for Azeotropic Mixture Separation by Phase Behavior Tuning Using Pressurized Carbon Dioxide
+In silico profiling of Escherichia coli and Saccharomyces cerevisiae as terpenoid factories
+Adaptive Discrepancy Based Control of Continuous Fluidized Bed Spray Granulation with Internal Classification
+Process for continuous purification of single-chain antibody fragments based on Simulated Moving Bed Chromatography
+Process Concepts in Preparative Chromatography
+Characterization and Limits of Solid Solutions in Binary Systems of Threonine Diastereomers According to X-Ray Diffraction Data
+Estimation of competitive adsorption isotherms based on nonlinear frequency response experiments using equimolar mixtures–numerical analysis for racemic mixtures
+Chromatographic Reactor
+Distributed modeling of human influenza a virus–host cell interactions during vaccine production
+Numerical analysis of hydrodynamics and crystal motion in a batch crystallizer
+Sensitivity and Robustness in Covalent Modification Cycles with a Bifunctional Converter Enzyme
+Distributed modeling of human influenza a virus-host cell interactions during vaccine production
+Separation of systems forming solid solutions using counter-current crystallization
+Discrepancy based control of systems of population balances
+Comparison and improvement of algorithms for computing minimal cut sets
+Quorum sensing influences growth and photosynthetic membrane production in high-cell-density cultivations of Rhodospirillum rubrum
+Reconstruction of large-scale regulatory networks based on perturbation graphs and transitive reduction: improved methods and their evaluation
+Effect of Cyanide Ligands on the Electronic Structure of [FeFe] Hydrogenase Active-Site Model Complexes with an Azadithiolate Cofactor
+Adsorption of Water-Acetonitrile Mixtures to Model Silica Surfaces
+Exploitation of MSMPR to separate enantiomers continuously via preferential crystallisation
+Purification by Crystallization
+Feasibility of Continuous Enantioselective Crystallization
+Modeling approaches for qualitative and semi-quantitative analysis of cellular signaling networks
+Host-pathogen interactions
+Detecting and Removing Inconsistencies between Experimental Data and Signaling Network Topologies Using Integer Linear Programming on Interaction Graphs
+Analysis of the reaction network for the Rh-catalyzed hydroformylation of 1-dodecene in a thermomorphic multicomponent solvent system
+A role for EIIANtr in controlling fluxes in the central metabolism of E. coli K12
+Kinase activity of ArcB from Escherichia coli is subject to regulation by both ubiquinone and demethylmenaquinone
+Dynamics and Control of Coupled Continuous Chromatography and Crystallization Processes for the Production of Pure Enantiomers
+Continuous Preferential Crystallization in Two Coupled Crystallizers
+Relating the N-shaped polarization curve of a PEM fuel cell to local oxygen starvation and hydrogen evolution
+Comparison of first and second generation analytical silica monoliths by pore-scale simulations of eddy dispersion in the bulk region
+Microbial hydrogen splitting in the presence of oxygen
+Energetic evaluation of high pressure PEM electrolyzer systems for intermediate storage of renewable energies
+Separation of Solid Solutions via a Counter-Current Crystallization Process
+Multistationarity in Sequential Distributed Multisite Phosphorylation Networks
+A plug and control strategy for simulated moving bed processes – stability analysis
+Bridging the layers: towards integration of signal transduction, regulation and metabolism into mathematical models
+Electrochemical High Temperature Membrane Reactor for the Processing of Hydrogen - Carbon Monoxide Gas Mixtures

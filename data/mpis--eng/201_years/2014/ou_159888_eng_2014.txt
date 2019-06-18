@@ -1,0 +1,622 @@
+Age determination of galaxies
+Annual Review of Astronomy and Astrophysics
+The connection between the cusp-to-core transformation and observational universalities of DM haloes
+Herschel/PACS observations of the host galaxy of GRB 031203
+Submillimeter galaxies as progenitors of compact quiescent galaxies
+Gas lines from the 5-Myr old optically thin disk around HD 141569A: Herschel observations and modeling
+Signatures of warm carbon monoxide in protoplanetary discs observed with Herschel SPIRE
+The origin of ionized filaments within the Orion–Eridanus superbubble
+Intracluster light properties in the CLASH-VLT cluster MACS J1206.2-0847
+The Hetdex pilot survey - V. The physical origin of Lyα emitters probed by near-infrared spectroscopy
+The X-ray coronae of the two brightest galaxies in the Coma cluster
+Dust charging in the Enceladus torus
+Phase-resolved X-ray spectroscopy and spectral energy distribution of the X-ray soft polar RS Caeli
+Listening to galaxies tuning at z ~ 2.5–3.0: the first strikes of the Hubble fork
+Low vibration cooling using a pulse tube cooler and cryostat for the GRAVITY beam combiner instrument at the VLTI
+The eROSITA x-ray baffle
+Early 56Ni decay gamma rays from SN2014J suggest an unusual explosion
+Pre-shipment test of the ARGOS laser guide star wavefront sensor
+[O I] disk emission in the Taurus star-forming region
+Near-infrared aberration tracking using a correlation algorithm on the Galactic Center
+PRISM (Polarized Radiation Imaging and Spectroscopy Mission): an extended white paper
+The camera of the Microchannel X-ray telescope onboard the SVOM mission
+LS 5039 – the counterpart of the unidentified MeV source GRO J1823-12
+Variation of the X-ray non-thermal emission in the Arches cloud
+POET: a SMEX mission for gamma ray burst polarimetry
+The microchannel x-ray telescope for the gamma-ray burst mission SVOM
+The wide field imager instrument for Athena
+Galaxy growth at early times from 3D studies
+GRAVITY: the impact of non-common optical paths within the metrology system
+Alternative approach to precision narrow-angle astrometry for Antarctic long baseline interferometry
+The return of the proplyds – understanding the dynamics of ionization triggered stars
+TANAMI blazars in the IceCube PeV-neutrino fields
+Revealing the large nuclear dust structures in NGC 1068 with MIDI/VLTI
+Boresight calibration of FIFI-LS: in theory, in the lab and on sky
+An aperture masking mode for the MICADO instrument
+A common column density threshold for scattering at 3.6 μm and water-ice in molecular clouds
+ALMA resolves turbulent, rotating [CII] emission in a young starburst galaxy at z = 4.8
+The construction, alignment, and installation of the VIRUS spectrograph
+The 2013 outburst of a transient very faint X-ray binary, 23 arcsec from Sgr A*
+FIFI-LS: the facility far-infrared spectrometer for SOFIA
+Ion sphere model for Yukawa systems (dusty plasmas)
+The mysterious optical afterglow spectrum of GRB 140506A at z = 0.889
+Multiwavelength observations of the black hole transient Swift J1745−26 during the outburst decay
+A quiescent galaxy at the position of the long GRB 050219A
+G11.92?0.61-MM2: a bonafide massive prestellar core?
+Studying the dwarf galaxies in nearby groups of galaxies: Spectroscopic and photometric data
+The clustering of Galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: potential systematics in fitting of baryon acoustic feature
+Decontamination of nosocomial bacteria including Clostridium difficile spores on dry inanimate surface by cold atmospheric plasma
+Redundant robust topology optimization of truss
+3D-HST WFC3-selected photometric catalogs in the five CANDELS/3D-HST fields: photometry, photometric redshifts, and stellar masses
+Herschel observations of gamma-ray burst host galaxies: implications for the topology of the dusty interstellar medium
+The incidence of obscuration in active galactic nuclei
+The Mrk 231 molecular outflow as seen in OH
+Balance among gravitational instability, star formation and accretion determines the structure and evolution of disc galaxies
+Trabecular bone structure analysis of the spine using clinical MDCT: can it predict vertebral bone strength?
+Hydrodynamical chemistry simulations of the Sunyaev–Zel'dovich effect and the impacts from primordial non-Gaussianities
+Searching for transits in the WTS with the difference imaging light curves
+Molecular gas in the centre of nearby galaxies from VLT/SINFONI integral field spectroscopy – II. Kinematics
+Ubiquitous seeding of supermassive black holes by direct collapse : Erratum (vol 425, pg 2854, 2012)
+A large-scale structure at redshift 1.71 in the Lockman Hole
+Star formation at 4 < z < 6 from the Spitzer Large Area Survey with Hyper-Suprime-Cam (SPLASH)
+High D2O/HDO ratio in the inner regions of the low-mass protostar NGC 1333 IRAS2A
+Galaxy population properties of the massive X-ray luminous galaxy cluster XDCP J0044.0-2033 at z = 1.58 - red-sequence formation, massive galaxy assembly, and central star formation activity
+Simulated MROI imaging of AGN dust tori and stellar surfaces
+Wendelstein Observatory control software
+A wide search of obscured Active Galactic Nuclei using XMM-Newton and WISE
+Imminent understanding of the structure of nearby AGN from IFUs
+Half-megasecond Chandra spectral imaging of the hot circumgalactic nebula around quasar Mrk 231
+A magnified view of star formation at z = 0.9 from two lensed galaxies
+Multi-frequency observations of a superbubble in the LMC: the case of LHA 120-N 70
+Galaxy pairs in the Sloan Digital Sky Survey – IX. Merger-induced AGN activity as traced by the Wide-field Infrared Survey Explorer
+Nonlinear regime of the mode-coupling instability in 2D plasma crystals
+The VIMOS Public Extragalactic Redshift Survey (VIPERS) - Ωm0 from the galaxy clustering ratio measured at z ~ 1
+The tenth data release of the Sloan Digital Sky Survey: first spectroscopic data from the SDSS-III Apache Point Observatory Galactic Evolution Experiment
+The deuterium fractionation of water on solar-system scales in deeply-embedded low-mass protostars
+The group galaxy population through the cosmic time: study of the properties of galaxies in the most common high density environment
+Spectral formation in a radiative shock: application to anomalous X-ray pulsars and soft gamma-ray repeaters
+Tracing the cosmic growth of supermassive black holes to z ∼ 3 with Herschel
+WTS-2 b: a hot Jupiter orbiting near its tidal destruction radius around a K dwarf
+Multiwavelength investigations of co-evolution of bright cluster galaxies and their host clusters
+On the origin of young stars at the galactic center
+A measurement of the secondary-CMB and millimeter-wave-foreground bispectrum using 800 deg2 of South Pole Telescope data
+Observation of high iron charge states at low energies in solar energetic particle events
+An observed correlation between thermal and non-thermal emission in gamma-ray bursts
+Numerical modelling of the lobes of radio galaxies in cluster environments – II. Magnetic field configuration and observability
+ROOT based Offline and Online Analysis (ROAn): an analysis framework for X-ray detector data
+Dissecting the multi-component nature of NGC 7217 with VIRUS-W: two co-rotating stellar components
+The PEP survey: infrared properties of radio-selected AGN
+Regrowth of stellar discs in mature galaxies: the two-component nature of NGC 7217 revisited with VIRUS-W
+Synchronization of particle motion induced by mode coupling in a two-dimensional plasma crystal
+Water distribution in shocked regions of the NGC 1333-IRAS 4A protostellar outflow
+The pointing system of the Herschel space observatory
+Herschel out-of-field stray-light characterization
+Herschel celestial calibration sources
+PACS photometer calibration block analysis
+Publisher’s erratum to: the Herschel PACS photometer calibration
+A 30 kpc chain of "beads on a string" star formation between two merging early type galaxies in the core of a strong-lensing galaxy cluster
+Spectroscopic observations of dark main-belt asteroids in the 2.5-3.1 µm range
+X-ray spectral modelling of the AGN obscuring region in the CDFS: Bayesian model selection and catalogue
+Planck 2013 results - I. Overview of products and scientific results
+Channeling of particles and associated anomalous transport in a two-dimensional complex plasma crystal
+The VLA-COSMOS Survey – V. 324 MHz continuum observations
+The GEEC2 spectroscopic survey of Galaxy groups at 0.8 < z < 1
+NuSTAR and XMM-Newton observations of luminous, heavily obscured, WISE-selected quasars at z ~ 2
+A substellar-mass protostar and its outflow of IRAS 15398?3359 revealed by subarcsecond-resolution observations of H2CO and CCH
+Swift monitoring of NGC 5548: X-ray reprocessing and short-term UV/optical variability
+Are there any first-generation stars in globular clusters today?
+The impact of reionization on the formation of supermassive black hole seeds
+A census of Hα emitters in the intergalactic medium of the NGC 2865 system
+4MOST: 4-metre Multi-Object Spectroscopic Telescope
+Mode-coupling reimes in 2D plasma crystals
+Constraints on cosmology from the cosmic microwave background power spectrum of the 2500 deg2 SPT-SZ survey
+Warm formaldehyde in the Ophiuchus IRS 48 transitional disk
+Long-term variability of AGN at hard X-rays
+Gas structure inside dust cavities of transition disks: Ophiuchus IRS 48 observed by ALMA
+The evolution of the dust and gas content in galaxies
+Far-infrared molecular lines from low- to high-mass star forming regions observed with Herschel
+On the past activity of Sgr A*
+PACS photometry of the Herschel Reference Survey – far-infrared/submillimetre colours as tracers of dust properties in nearby galaxies
+A PIONIER view on mass-transferring red giants
+The impact of baryonic processes on the two-point correlation functions of galaxies, subhaloes and matters functions in dense environments
+Observation of spatio-temporal pattern in magnetised rf plasmas
+An X-ray survey of the central molecular zone: variability of the FeKα emission line
+“TNOs are Cool”: A survey of the trans-Neptunian region - XI. A Herschel-PACS view of 16 Centaurs
+VLT/X-shooter spectroscopy of the GRB 120327A afterglow
+Resampling images in fourier domain
+The mystery of the σ-bump—A new signature for major mergers in early-type galaxies?
+Formation of cold filaments from colliding superbubbles
+When VLT meets HST: the HUGS survey
+The dynamical fingerprint of core scouring in massive elliptical galaxies
+Detailed investigation of the gamma-ray emission in the vicinity of SNR W28 with FERMI-LAT
+Roche-lobe filling factor of mass-transferring red giants: the PIONIER view
+Pulse properties of terrestrial gamma-ray flashes detected by the Fermi Gamma-Ray Burst Monitor
+Astrochemistry of dust, ice and gas: introduction and overview
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: testing gravity with redshift space distortions using the power spectrum multipoles
+Discovery of secular evolution of the atmospheric abundances of Ap stars
+Transient jet formation and state transitions from large-scale magnetic reconnection in black hole accretion discs
+The protoplanetary disk of FT Tauri: multiwavelength data analysis and modeling
+Supernova 2010as: the lowest-velocity member of a family of flat-velocity type IIb supernovae
+Astrophotonic micro-spectrographs in the era of ELTs
+The GRAVITY spectrometers: design report of the optomechanics and active cryogenic mechanisms
+Chemistry and radiative transfer of water in cold, dense clouds
+The peculiar pulsar population of the central parsec
+Performance of the K-band multi-object spectrograph (KMOS) on the ESO VLT
+Gas reservoir of a hyper-luminous quasar at z = 2.6
+ALMA reveals a warm and compact starburst around a heavily obscured supermassive black hole at z = 4.75
+On the role of pseudodisk warping and reconnection in protostellar disk formation in turbulent magnetized cores
+Correlating Fourier phase information with real-space higher order statistics in CMB data
+Detailed stellar and gaseous kinematics of M31
+Industrialization scenario for X-ray telescopes production based on glass slumping
+Herschel far-IR counterparts of SDSS galaxies: analysis of commonly used star formation rate estimates
+The x-ray telescope eROSITA: qualification of the thermal control system
+Studying ATHENA optics with divergent and collimated x-ray beams
+Development of DEPFET active pixel sensors to improve the spectroscopic response for high time resolution applications
+Progress on indirect glass slumping for future x-ray telescope optics
+Report on the eROSITA camera system
+The calibration and testing of the eROSITA X-ray mirror assemblies
+Making the ATHENA optics using silicon pore optics
+A statistical test for Nested Sampling algorithms
+Adaptive optics simulations for the MICADO SCAO system
+Overview of the MICADO SCAO system
+ARGOS wavefront sensing: from detection to correction
+Constraining the structure of the transition disk HD 135344B (SAO 206462) by simultaneous modeling of multiwavelength gas and dust observations
+The GRAVITY metrology system: narrow-angle astrometry via phase-shifting interferometry
+The fiber coupler and beam stabilization system of the GRAVITY interferometer
+The GRAVITY metrology system: modeling a metrology in optical fibers
+The GRAVITY spectrometers: optical design and first light
+The beam combiners of Gravity VLTI instrument: concept, development, and performance in laboratory
+Integration and testing of the GRAVITY infrared camera for multiple telescope optical beam analysis
+Annual Statistics 2013
+The cosmic evolution of Fermi BL Lacertae objects
+Direct current dielectric barrier assistant discharge to get homogeneous plasma in capacitive coupled discharge
+The WiggleZ Dark Energy Survey: improved distance measurements to z = 1 with reconstruction of the baryonic acoustic feature
+Thermal infrared observations of asteroid (99942) Apophis with Herschel
+On the lack of correlation between Mg II 2796, 2803 Å and Lyα emission in lensed star-forming galaxies
+Ray-tracing in pseudo-complex general relativity
+Redshift evolution of the dynamical properties of massive galaxies from SDSS-III/BOSS
+Mining the gap: evolution of the magnitude gap in X-ray galaxy groups from the 3-square-degree XMM coverage of CFHTLS
+Practical experience with test-driven development during commissioning of the multi-star AO system ARGOS
+GRB 051008: a long, spectrally hard dust-obscured GRB in a Lyman-break galaxy at z ≈ 2.8
+Multi-spin components in the halos of early-type galaxies revealed by planetary nebulae and globular clusters
+The ARGOS wavefront sensor detector and computer and the black hole growth of narrow-line Seyfert 1 galaxies
+Compton thick AGN in Chandra sureys
+Grain growth in the envelopes and disks of class I protostars
+GRB 120711A: an intense INTEGRAL burst with long-lasting soft γ-ray emission and a powerful optical flash
+Spectral and temporal properties of RX J0520.5-6932 (LXP 8.04) during a type-I outburst
+X-ray AGN in the XMM-LSS galaxy clusters: no evidence of AGN suppression
+Characterising superclusters with the galaxy cluster distribution
+Erratum: "Spitzer Quasar and ULIRG Evolution Study (QUEST). IV. Comparison of 1 Jy Ultraluminous Infrared Galaxies with Palomar-Green Quasars" (2009, ApJS, 182, 628)
+Gas content of transitional disks: a VLT/X-Shooter study of accretion and winds
+GROND coverage of the main peak of gamma-ray burst 130925A
+Using gamma-ray bursts to probe the cosmic intergalactic medium
+Revealing accretion on to black holes: X-ray reflection throughout three outbursts of GX 339−4
+The nature of extreme emission line galaxies at z = 1-2: kinematics and metallicities from near-infrared spectroscopy
+Rotation of classical bulges during secular evolution of barred galaxies
+GCIRS 7, a pulsating M1 supergiant at the galactic centre - physical properties and age
+Photodissociation and chemistry of N2 in the circumstellar envelope of carbon-rich AGB stars
+Discovering extremely compact and metal-poor, star-forming dwarf galaxies out to z ~ 0.9 in the VIMOS Ultra-Deep Survey
+Mode-coupling instability in a fluid two-dimensional complex plasma
+Resolved star formation on sub-galactic scales in a merger at z = 1.7
+(25143) Itokawa: The power of radiometric techniques for the interpretation of remote thermal observations in the light of the Hayabusa rendezvous results
+Operations and performance of the PACS instrument 3He sorption cooler on board of the Herschel space observatory
+Study of the projectile motion in a dust crystal under microgravity conditions
+The total infrared luminosity may significantly overestimate the star formation rate of quenching and recently quenched galaxies
+Production of EMRIs in supermassive black hole binaries
+Locating star-forming regions in quasar host galaxies
+Wet disc contraction to galactic blue nuggets and quenching to red nuggets
+X-ray diffraction from isolated and strongly aligned gas-phase molecules with a free-electron laser
+The evolution of star formation activity in galaxy groups
+Discovery of O vii line emitting gas in elliptical galaxies
+Galaxy Zoo: CANDELS barred discs and bar fractions
+The hard X-ray luminosity function of high-redshift (3 < z ≲ 5) active galactic nuclei
+Time-resolved infrared emission from radiation-driven central obscuring structures in active galactic nuclei
+Improved primordial non-Gaussianity constraints from measurements of galaxy clustering and the integrated Sachs-Wolfe effect
+Simple estimation of thermodynamic properties of Yukawa systems
+A wide search for obscured active galactic nuclei using XMM–Newton and WISE
+The clustering of galaxies in the SDSS-III DR10 Baryon Oscillation Spectroscopic Survey: no detectable colour dependence of distance scale or growth rate measurements
+DYNAMO – I. A sample of Hα-luminous galaxies with resolved kinematics
+The water abundance behind interstellar shocks: results from Herschel/PACS and Spitzer/IRS observations of H2O, CO, and H2
+Feedback by massive stars and the emergence of superbubbles (Corrigendum) - II. X-ray properties
+Searching for faint companions with VLTI/PIONIER - II. 92 main sequence stars from the Exozodi survey
+Compton scattering in terrestrial gamma-ray flashes detected with the Fermi gamma-ray burst monitor
+The Hawk-I UDS and GOODS Survey (HUGS): Survey design and deep K-band number counts
+Molecular line emission in NGC 1068 imaged with ALMA - II. The chemistry of the dense molecular gas
+A simple technique for signal compression in high dynamic range, high speed X-ray pixel detectors
+An excess of dusty starbursts related to the Spiderweb galaxy
+Erratum: The first planet detected in the WTS: an inflated hot-Jupiter in a 3.35 d orbit around a late F star
+Star formation and environmental quenching of GEEC2 group galaxies at z ∼ 1
+The influence of the environmental history on quenching star formation in a Λ cold dark matter universe
+Discovery of SXP 265, a Be/X-ray binary pulsar in the Wing of the Small Magellanic Cloud
+Kompaneets model fitting of the Orion–Eridanus superbubble
+A connection between accretion state and Fe K absorption in an accreting neutron star: black hole-like soft-state winds?
+Feedback, scatter and structure in the core of the PKS 0745−191 galaxy cluster
+A volume-limited sample of X-ray galaxy groups and clusters – II. X-ray cavity dynamics
+Planck 2013 results - XXIX. The Planck catalogue of Sunyaev-Zeldovich sources
+A volume-limited sample of X-ray galaxy groups and clusters – I. Radial entropy and cooling time profiles
+More than just halo mass: modelling how the red galaxy fraction depends on multiscale density in an HOD framework
+The bow shock, cold fronts and disintegrating cool core in the merging galaxy group RX J0751.3+5012
+Editors' note: Astron. Nachr. 6-7/2014
+Proposed concept and preliminary design for the Sentinel-5 UVNS spectrometer
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: signs of neutrino mass in current cosmological data sets
+Thermal-Infrared Imaging of C-Class Asteroid 162173(1999JU3) by Hayabusa2
+Regrowth of stellar disks in mature galaxies: The two component nature of NGC 7217 revisited with VIRUS-W
+Extensive study of HD 25558, a long-period double-lined binary with two SPB components
+Evidence for a gas-rich major merger in a prot-cluster at z = 2.5
+Large-scale gas sloshing out to half the virial radius in the strongest cool core REXCESS galaxy cluster, RXJ2014.8-2430
+Evidence for large temperature fluctuations in quasar accretion disks from spectral variability
+Optical spectroscopy and velocity dispersions of galaxy clusters from the SPT-SZ survey
+Detecting scattered light from low-mass molecular cores at 3.6 μm Impact of global effects on the observation of coreshine
+Reversal or no reversal: the evolution of the star formation rate–density relation up to z ∼ 1.6
+Direct measurements of dust attenuation in z ~ 1.5 star-forming galaxies from 3D-HST: implications for dust geometry and star formation rates
+A massive galaxy in its core formation phase three billion years after the Big Bang
+Long-term wind-driven X-ray spectral variability of NGC 1365 with Swift
+Nonthermal plasma affects viability and morphology of Mycoplasma hominis and Acholeplasma laidlawii
+A window on exoplanet dynamical histories: Rossiter–McLaughlin observations of WASP-13b and WASP-32b
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: measuring growth rate and geometry with anisotropic clustering
+Age spread in galactic star forming region W3 Main
+Spatially resolved molecular gas in early-type galaxies
+How did globular clusters lose their gas?
+Internal and environmental secular evolution of disk galaxies
+A secularly evolved model for the Milky Way bar and bulge
+The Herschel-PACS photometer calibration
+Weak lensing analysis of SZ-selected clusters of galaxies from the SPT and Planck surveys
+Search for gravitational waves associated with γ-ray bursts detected by the interplanetary network
+Reaching micro-arcsecond astrometry with long baseline optical interferometry - application to the GRAVITY instrument
+Molecular line emission in NGC 1068 imaged with ALMA - I. An AGN-driven outflow in the dense molecular gas
+Wake-induced bending of two-dimensional plasma crystals
+Observational appearance of black holes in X-ray binaries and AGN
+Cosmic radioactivity and INTEGRAL results
+Gas-to-dust mass ratios in local galaxies over a 2 dex metallicity range
+The GIRAFFE Inner Bulge Survey (GIBS) - I. Survey description and a kinematical map of the Milky Way bulge
+Afterglow rebrightenings as a signature of a long-lasting central engine activity? - The emblematic case of GRB 100814A
+The galaxy environment of a QSO at z ~ 5.7
+The discovery of eight z ~ 6 quasars from Pan-STARRS1
+Wendelstein observatory operations software
+Testing photometric methods in the Euclid testbed
+The First Billion Years project: dark matter haloes going from contraction to expansion and back again
+Evidence for major mergers of galaxies at 2 ≲ z < 4 in the VVDS and VUDS surveys
+The role of AGN feedback in the evolution of Seyfert galaxies
+Principal-component analysis of the continuous 3-µm spectra of low-albedo asteroids observed with the AKARI satellite
+Early laser operations at the Large Binocular Telescope Observatory
+The VIMOS Public Extragalactic Redshift Survey (VIPERS) - an unprecedented view of galaxies and large-scale structure at 0.5 < z < 1.2
+Fast photometry with small telescopes
+Protoplanetary disc evolution affected by star–disc interactions in young stellar clusters
+GRB 120422A/SN 2012bz: bridging the gap between low- and high-luminosity gamma-ray bursts
+Old pre-main-sequence stars - disc reformation by Bondi-Hoyle accretion
+Distinguishing an ejected blob from alternative flare models at the galactic centre with GRAVITY
+MOONS: the Multi-Object Optical and Near-infrared Spectrograph for the VLT
+The peculiar galactic enter neutron star x-ray binary XMM J174457-2850.3
+Precise angular positioning at 6K: the FIFI-LS grating assembly
+Counter-rotating disks in galaxies: dissecting kinematics and stellar populations with 3D spectroscopy
+NuSTAR detection of high-energy x-ray emission and rapid variability from Sagittarius A* flares
+Herschel observations and a model for IRAS 08572+3915: a candidate for the most luminous infrared galaxy in the local (z < 0.2) Universe
+ALMA observations of cool dust in a low-metallicity starburst, SBS 0335−052
+Accurate transport cross sections for the Lennard-Jones potential
+Resolved images of the protoplanetary disk around HD 100546 with ALMA
+Probing the gaseous disk of T Tau N with CN 5-4 lines
+Antimatter in the universe and the PAMELA/FERMI/AMS anomaly
+The VIMOS Public Extragalactic Survey (VIPERS) - First Data Release of 57 204 spectroscopic measurements
+NuSTAR unveils a compton-thick type 2 quasar in MrK 34
+The bones of the Milky Way
+Gas kinematics and excitation in the filamentary IRDC G035.39-00.33
+A high resolution large x-ray mission based on thin glass: optomechanical design
+Optical design for ATHENA X-ray telescope based on slumped mirror segments
+Search for extra-solar planets with high precision radial velocity curves
+GRAVITY data reduction software
+GRAVITY detector systems
+Disk galaxies in the magneticum pathfinder simulations
+Dimensional reduction of conditional algebraic multi-information via transcripts
+Another short-burst host galaxy with an optically obscured high star formation Rate: the case of GRB?071227
+Cosmological simulations of black hole growth: AGN luminosities and downsizing
+The spectrum and morphology of the Fermi bubbles
+Isotope selective photodissociation of N2 by the interstellar radiation field and cosmic rays
+Multifrequency study of a new Fe-rich supernova remnant in the Large Magellanic Cloud, MCSNR J0508−6902
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: measuring DA and H at z = 0.57 from the baryon acoustic peak in the data release 9 spectroscopic galaxy sample
+Cold gas properties of the Herschel Reference Survey - III. Molecular gas stripping in cluster galaxies
+A new very faint X-ray transient in the galactic center
+Hydrodynamical simulations of G2 interpreted as a diffuse gas cloud
+Convolution based model of breakdown voltage distributions in neon at 1.33 mbar with corona appearance in pre-breakdown regime
+Spectral performance of DEPFET and gateable DEPFET macropixel devices
+Role and origin of the poleward Alfvénic arc
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: cosmological implications of the full shape of the clustering wedges in the data release 10 and 11 galaxy samples
+Investigating evidence for different black hole accretion modes since redshift z ∼ 1
+On the origin of the B-stars in the galactic center
+Electromagnetic waves near the proton cyclotron frequency: STEREO observations
+The Sins/zC-Sinf survey of z ~ 2 galaxy kinematics: evidence for powerful active galactic nucleus-driven nuclear outflows in massive star-forming galaxies
+Star formation in the cluster CLG0218.3-0510 at z = 1.62 and its large-scale environment: the infrared perspective
+The Fermi GBM gamma-ray burst spectral catalog: four years of data
+Implementation of robust image artifact removal in SWarp through clipped mean stacking
+Effect of strong wakes on waves in two-dimensional plasma crystals
+A spectroscopic search for high-mass X-ray binaries in M31
+Erratum: "NuSTAR Unveils a Compton-thick Type 2 Quasar in MrK 34" (2014, ApJ, 792, 117)
+The NuSTAR view of nearby compton-thick active galactic nuclei: the cases of NGC 424, NGC 1320, and IC 2560
+Filamentary star formation in NGC 1275
+Dynamics and metallicity of far-infrared selected galaxies
+SPT-CL J2040−4451: an SZ-selected galaxy cluster at z = 1.478 with ongoing star formation
+H2D+ observations give an age of at least one million years for a cloud core forming Sun-like stars
+A near-infrared interferometric survey of debris-disk stars IV. An unbiased sample of 92 southern stars observed in H band with VLTI/PIONIER
+GW Orionis: Inner disk readjustments in a triple system
+Calibration measurements on the DEPFET Detectors for the MIXS instrument on BepiColombo
+Multiwavelength campaign on Mrk 509 - XIV. Chandra HETGS spectra
+CANDELS/GOODS-S, CDFS, and ECDFS: photometric redshifts for normal and x-ray-detected galaxies
+A statistical analysis of heliospheric plasma sheets, heliospheric current sheets, and sector boundaries observed in situ by STEREO
+Evidence for the braking of flow bursts as they propagate toward the Earth
+Toward atomic resolution diffractive imaging of isolated molecules with X-ray free-electron lasers
+The hydrogen-poor superluminous supernova iPTF 13ajg and its host galaxy in absorption and emission
+The 64 Mpixel wide field imager for the Wendelstein 2m telescope: design and calibration
+Clustering tomography: measuring cosmological distances through angular clustering in thin redshift shells
+Higher prevalence of X-ray selected AGN in intermediate-age galaxies up to z ∼ 1
+Nebular excitation in z ~ 2 star-forming galaxies from the SINS and LUCI surveys: the influence of shocks and active galactic nuclei
+The Araucaria Project. The distance to the Small Magellanic Cloud from late-type eclipsing binaries
+Stochastic angular momentum slews and flips and their effect on discs in galaxy formation models
+The first pulse of the extremely bright GRB 130427A: a test lab for synchrotron shocks
+Compact dusty clouds in a cosmic environment
+Herschel/PACS spectroscopy of trace gases of the stratosphere of Titan the Hubble sequence in the Great Wall
+Four new X-ray-selected supernova remnants in the Large Magellanic Cloud
+The afterglow of GRB 130427A from 1 to 1016 GHz
+Three planetary companions around M 67 stars
+An exploration of Pluto’s environment through stellar occultations
+The MASSIVE Survey. - I. A Volume-limited Integral-field Spectroscopic Study of the Most Massive Early-type Galaxies within the 108 Mpc
+Deuterated methanol in the pre-stellar core L1544
+Reversibility of time series: revealing the hidden messages in X-ray binaries and cataclysmic variables
+Methanol along the path from envelope to protoplanetary disc
+Evolution of central dark matter of early-type galaxies up to z ∼ 0.8
+Dynamics and energy loss in superbubbles
+The mass distribution of the strong lensing cluster SDSS J1531+3414
+The VIMOS Ultra Deep Survey: 10 000 galaxies to study the early phases of galaxy assembly at 2 < z < 6+
+ALMA observations of feeding and feedback in nearby Seyfert galaxies: an AGN-driven outflow in NGC 1433 (Corrigendum)
+Cold gas properties of the Herschel Reference Survey - II. Molecular and total gas scaling relations
+Cure-WISE: HETDEX data reduction with Astro-WISE
+M-I coupling scales and energy dumping
+Prompt emission of GRB 121217A from gamma-rays to the near-infrared
+CLASH-VLT: constraints on the dark matter equation of state from accurate measurements of galaxy cluster mass profiles
+Massive molecular outflows and evidence for AGN feedback from CO observations
+Spatially-resolved dust properties of the GRB 980425 host galaxy
+XMM-Newton reveals a candidate period for the spin of the “Magnificent Seven” neutron star RX J1605.3+3249
+X-ray monitoring of classical novae in the central region of M 31 III. Autumn and winter 2009/10, 2010/11, and 2011/12
+Prospects and limitations of DEPFET active pixel sensors as high speed spectroscopic x-ray imager for the ATHENA wide field imager
+Euclid near infrared spectrophotometer instrument concept and first test results at the end of phase B or the GRAVITY beam combiner instrument at the VLTI
+Commissioning and science verification of the 2m-Fraunhofer Wendelstein Telescope
+The Large Observatory for x-ray timing
+Analysis of the optical surface properties in the indirect glass slumping
+Alignment and integration of slumped glass x-ray mirrors at MPE
+Bumber filter against micrometeoroids for eROSITA
+eROSITA on SRG
+Preparing the optics technology to observe the hot universe
+VERITAS 2.0 a multi-channel readout ASIC suitable for the DEPFET arrays of the WFI for Athena
+ARGOS laser system mechanical design
+The ARGOS laser system: green light for ground layer adaptive optics at the LBT
+CLASH: a census of magnified star-forming galaxies at z ~ 6–8
+X-ray observations of the chemical abundances in the Intra-Cluster Medium
+Protoplanetary disks: a unique laboratory for astrochemistry
+GRAVITY: the calibration unit
+Phase tracking with differential dispersion
+The GRAVITY spectrometers: thermal behaviour
+The interferometric baselines and GRAVITY astrometric error budget
+ERIS: preliminary design phase overview
+The 4MOST instrument concept overview
+Presenting a high accuracy Theta-Phi-style fiber-positioner prototype with a 15-mm pitch
+VIRUS: assembly, testing and performance of 33,000 fibres for HETDEX
+The high contrast imaging modes of MICADO
+An 8 h characteristic time-scale in submillimetre light curves of Sagittarius A*
+The imaging properties of the gas pixel detector as a focal plane polarimeter
+Deuteration as an evolutionary tracer in massive-star formation (Corrigendum)
+Herschel finds evidence for stellar wind particles in a protostellar envelope: is this what happened to the young sun?
+A model of the steep power-law spectra and high-frequency quasi-periodic oscillations in luminous black hole X-ray binaries
+3D-HST+candels: the evolution of the galaxy size-mass distribution since z = 3
+Bulge growth and quenching since z = 2.5 in candels/3D-Hst
+The music of clash: predictions on the concentration-mass relation
+The dynamical properties of dense filaments in the infrared dark cloud G035.39−00.33
+CO ro-vibrational lines in HD 100546 - a search for disc asymmetries and the role of fluorescence
+TANAMI monitoring of Centaurus A: The complex dynamics in the inner parsec of an extragalactic jet
+Evolution of the fraction of clumpy galaxies at 0.2 < z < 1.0 in the cosmos field
+A physical model for the flickering variability in cataclysmic variables
+What disc brightness profiles can tell us about galaxy evolution
+A longslit spectroscopic survey of bulges in disc galaxies
+Testing linear theory of EMIC waves in the inner magnetosphere: cluster observations
+Time-resolved analysis of Fermi gamma-ray bursts with fast- and slow-cooled synchrotron photon models
+The SINS/zC-SINF survey of z ~ 2 galaxy kinematics: evidence for gravitational quenching
+The metallicity and dust content of a redshift 5 gamma-ray burst host galaxy
+Wakes in inhomogeneous plasmas
+An optical spectroscopic study of T Tauri stars. I. Photospheric properties
+The relationship between sawtooth events and O+ in the plasma sheet
+Properties of M31 - IV. Candidate luminous blue variables from PAndromeda
+The HST/ACS Coma cluster survey – VII. Structure and assembly of massive galaxies in the centre of the Coma cluster
+Dense cores in galaxies out to z = 2.5 in SDSS, UltraVISTA, and the five 3D-HST/CANDELS fields
+LOFAR low-band antenna observations of the 3C 295 and Boötes fields: source counts and ultra-steep spectrum sources
+First results with the boloSource() algorithm: photometry of faint standard stars observed by Herschel/PACS
+The central parsecs of active galactic nuclei: challenges to the torus
+Herschel HIFI observations of O2 toward Orion: special conditions for shock enhanced emission
+The applicability of far-infrared fine-structure lines as star formation rate tracers over wide ranges of metallicities and galaxy types
+Externally excited planar dust acoustic shock waves in a strongly coupled dusty plasma under microgravity conditions
+Deuterium chemistry of dense gas in the vicinity of low-mass and massive star-forming regions
+On the origin of the fundamental metallicity relation and the scatter in galaxy scaling relations
+Self-similar relativistic blast waves with energy injection
+Shapes and vorticities of superfluid helium nanodroplets
+DYNAMO – II. Coupled stellar and ionized-gas kinematics in two low-redshift clumpy discs
+The First Billion Years project: birthplaces of direct collapse black holes
+Feedback by massive stars and the emergence of superbubbles - II. X-ray properties
+Dwarf galaxy dark matter density profiles inferred from stellar and gas kinematics
+A consistent study of metallicity evolution at 0.8 < z < 2.6
+Review of the ultrafast time resolution photopolarimeters based on SPADs
+“TNOs are Cool”: A survey of the trans-Neptunian region - X. Analysis of classical Kuiper belt objects from Herschel and Spitzer observations
+The zCOSMOS redshift survey: evolution of the light in bulges and discs since z ~ 0.8
+Erratum: SN 2007uy – metamorphosis of an aspheric type Ib explosion
+Secular evolution in action: central values and radial trends in boxy bulges
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: including covariance matrix errors
+Constraints on the CMB temperature evolution using multiband measurements of the Sunyaev–Zel'dovich effect with the South Pole Telescope
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: galaxy clustering measurements in the low-redshift sample of Data Release 11
+The nuclear cluster of the Milky Way: total mass and luminosity
+Quasi-periodic oscillations in short recurring bursts of the soft gamma repeater J1550–5418
+eROSITA – Mapping the X-ray universe
+Black hole accretion preferentially occurs in gas-rich galaxies
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon acoustic oscillations in the data releases 10 and 11 galaxy samples
+Planck 2013 results - XXV. Searches for cosmic strings and other topological defects
+Planck 2013 results - XX. Cosmology from Sunyaev–Zeldovich cluster counts
+LLAGN and jet-scaling probed with the EVN
+Planck intermediate results - XIII. Constraints on peculiar velocities
+New constraints on gamma-ray burst jet geometry and relativistic shock physics
+zCOSMOS 20k: satellite galaxies are the main drivers of environmental effects in the galaxy population at least to z ∼ 0.7
+CLASH: z ∼ 6 young galaxy candidate quintuply lensed by the frontier field cluster RXC J2248.7−4431
+Prediction of bone strength by μCT and MDCT-based finite-element-models: How much spatial resolution is needed?
+Fermi-LAT observations of the gamma-ray burst GRB 130427A
+Constraining the dark cusp in the galactic genter by long-period binaries
+What triggers black hole growth? insights from star formation rates
+The evolution of the dust temperatures of galaxies in the SFR–M∗ plane up to z ~ 2
+Re-testing the JET-X flight module No. 2 at the PANTER facility
+Evidence for wide-spread active galactic nucleus-driven outflows in the most massive z ~ 1-2 star-forming galaxies
+A catalog of bulge, disk, and total stellar mass estimates for the Sloan Digital Sky Survey
+The angular momentum dichotomy
+Using 3D spectroscopy to probe the orbital structure of composite bulges
+The ATLAS3D project – XXV. Two-dimensional kinematic analysis of simulated galaxies and the cosmological origin of fast and slow rotators
+The location of Sgr A*: Improving the infrared astrometric frame for the galactic center by correcting for image distortion
+HFPK 334: an unusual supernova remnant in the small magellanic cloud
+Properties of M31. - V. 298 Eclipsing binaries from PAndromeda
+The XXL Survey. V. Detection of the Sunyaev-Zel'dovich Effect of the Redshift 1.9 Galaxy Cluster XLSSU J021744.1−034536 with CARMA
+The extended ROSAT-ESO Flux Limited X-ray Galaxy Cluster Survey (REFLEX II) - IV. X-ray luminosity function and first constraints on cosmological parameters
+On the Raman O VI and related lines in classical novae
+NGC 1266 as a local candidate for rapid cessation of star formation
+Compton thick active galactic nuclei in Chandra surveys
+The MBH-M* relation for X-ray-obscured, red QSOs at 1.2 < z < 2.6
+Large-scale clustering measurements with photometric redshifts: comparing the dark matter haloes of X-ray AGN, star-forming and passive galaxies at z ≈ 1
+The second Fermi GBM gamma-ray burst catalog: the first four years
+Protoplanetary disk masses from CO isotopologue line emission
+MUSE sneaks a peek at extreme ram-pressure stripping events – I. A kinematic study of the archetypal galaxy ESO137−001
+The HST/ACS Coma Cluster Survey – X. Nuclear star clusters in low-mass early-type galaxies: scaling relations
+Gamma-ray burst afterglow plateau break time–luminosity correlations favour thick shell models over thin shell models
+Comparison of fringe-tracking algorithms for single-mode near-infrared long-baseline interferometers
+The XMM-LSS survey: the Class 1 cluster sample over the extended 11 deg2 and its spatial distribution
+Relativistic iron Kα line detection in the Suzaku spectra of IC 4329A
+VIMOS Ultra-Deep Survey (VUDS): Witnessing the assembly of a massive cluster at z ~ 3.3
+Alternativen zu supermassiven schwarzen Löchern im Zentrum verschiedener Galaxien
+Optical design of the relay optics for the MICADO SCAO system
+The EUCLID NISP tolerancing concept and results
+Water: from clouds to planets
+Deuterium fractionation: the Ariadne's thread from the precollapse phase to meteorites and comets today
+Circular polarization in the optical afterglow of GRB 121024A
+Photons revisited
+Optimized Herschel/PACS photometer observing and data reduction strategies for moving solar system targets
+Extreme gas fractions in clumpy, turbulent disk galaxies at z ~ 0.1
+The effect of the quasar H1821+643 on the surrounding intracluster medium: revealing the underlying cooling flow
+CANDELS+3D-HST: compact SFGs at z ~ 2-3, the progenitors of the first quiescent galaxies
+The 2-79 keV X-ray spectrum of the circinus galaxy with NuSTAR, XMM-Newton, and Chandra: a fully Compton-thick active galactic nucleus
+Optical follow-up observations of PTF10qts, a luminous broad-lined type Ic supernova found by the Palomar Transient Factory
+Rotationally-supported disks around Class I sources in Taurus: disk formation constraints
+The Pan-STARRS1 Medium-Deep Survey: the role of galaxy group environment in the star formation rate versus stellar mass relation and quiescent fraction out to z ~ 0.8
+Erratum: "The Obscured Fraction of Active Galactic Nuclei in the XMM-COSMOS Survey: A Spectral Energy Distribution Perspective" (2013, ApJ, 777, 86)
+Detectability of glycine in solar-type system precursors
+Central rotations of Milky Way globular clusters
+Bulge mass is king: the dominant role of the bulge in determining the fraction of passive galaxies in the Sloan Digital Sky Survey
+Search for cosmic-ray-induced gamma-ray emission in galaxy clusters
+Simulations of pickup ion mediated quasi-perpendicular shocks: implications for the heliospheric termination shock
+Evidence for two modes of black hole accretion in massive galaxies at z∼2
+A z = 2.5 protocluster associated with the radio galaxy MRC 2104−242: star formation and differing mass functions in dense environments
+Bactericidal agents produced by Surface Micro-Discharge (SMD) plasma by controlling gas compositions
+X-ray optical units made of glass: achievements and perspectives
+Status of ART-XC/SRG instrument
+Analysis of proton propagation through the eROSITA telescope
+ATHENA end-to-end simulations
+Characterising x-ray mirror deformations with a phase measuring deflectometry system
+Feeding and feedback in the inner kiloparsec of the active galaxy NGC 2110
+Gas inflows towards the nucleus of the active galaxy NGC 7213
+The mass-metallicity and fundamental metallicity relations at z>2 using very large telescope and subaru near-infrared spectroscopy of zCosmos galaxies
+From filaments to oscillating starless cores
+New light on gamma-ray burst host galaxies with Herschel
+Ethylene oxide and acetaldehyde in hot cores
+Photometric redshift analysis in the Dark Energy Survey Science Verification data
+Mapping the active Universe with eROSITA
+Multilayer formation and evaporation of deuterated ices in prestellar and protostellar cores
+Annual Report 2013
+The nature of Hα-selected galaxies at z > 2 - II. Clumpy galaxies and compact star-forming galaxies
+Probing individual star forming regions within strongly lensed galaxies at z > 1
+KMOS clusters and VIRIAL GTO surveys
+The evolution of resolved kinematics and metallicity from redshift 2.7 to 0.7 with LUCI, SINS/zC-SINF and KMOS3D
+The HNC/HCN ratio in star-forming regions
+Optical properties of (162171) 1999 JU3: in preparation for the Jaxa Hayabusa 2 sample return mission
+The black hole mass and the stellar ring in NGC 3706
+Herschel evidence for disk flattening or gas depletion in transitional disks
+Status of the ARGOS project
+Integration and bench testing for the GRAVITY Coudé IR adaptive optics (CIAO) wavefront sensor
+Clustering, host halos, and environment of z ~ 2 galaxies as a function of their physical properties
+Fueling active galactic nuclei - II. Spatially resolved molecular inflows and outflows
+VIRUS: production and deployment of a massively replicated fiber integral field spectrograph for the upgraded Hobby-Eberly Telescope
+FIFI-LS observation planning and data reduction
+The GRAVITY instrument software/high-level software
+The GRAVITY/VLTI acquisition camera software
+The GRAVITY spectrometers: optical qualification
+The GRAVITY instrument software/hardware related aspects
+Telescope birefringence and phase errors in the Gravity instrument at the VLT interferometer
+The dependency of AGN infrared colour-selection on source luminosity and obscuration - an observational perspective in CDFS and COSMOS
+The VIMOS Public Extragalactic Redshift Survey (VIPERS): a quiescent formation of massive red-sequence galaxies over the past 9 Gyr
+Structuring in complex plasma for nonlinearly screened dust particles
+A link between X-ray emission lines and radio jets in 4U 1630-47?
+Massive binaries in the vicinity of Sgr A*
+The dusty torus in the Circinus galaxy: a dense disk and the torus funnel
+Kinematic analysis of a sample of X-ray luminous distant galaxy clusters - the LX − σv relation in the z > 0.6 universe
+Young stellar disks formed by the collision of a molecular cloud with a circumnuclear disk at the galactic center
+Observations of the gas cloud G2 in the galactic center
+Hydrodynamical simulations of a compact source scenario for G2
+The reflection of two past outbursts of Sagittarius A* observed by Chandra during the last decade
+Morphologies of z ∼ 0.7 AGN host galaxies in CANDELS: no trend of merger incidence with AGN luminosity
+Hα surface brightness profiles of star-forming galaxies and dependence on halo mass using the HAGGIS Survey
+Water and methanol in low-mass protostellar outflows: gas-phase synthesis, ice sputtering and destruction
+Time resolved spectroscopy of SGR J1550–5418 bursts detected with Fermi/Gamma-ray burst monitor
+A new cosmological distance measure using active galactic nucleus X-ray variability
+Discovery of eight z ~ 6 quasars from Pan-STARRS1
+The physical conditions, metallicity and metal abundance ratios in a highly magnified galaxy at z = 3.6252
+A fast and long-lived outflow from the supermassive black hole in NGC 5548
+A comparative study of infrared asteroid surveys: IRAS, AKARI, and WISE
+Glass-transition properties of Yukawa potentials: from charged point particles to hard spheres
+A trio of gamma-ray burst supernovae: GRB 120729A, GRB 130215A/SN 2013ez, and GRB 130831A/SN 2013fu
+Measuring the surface magnetic fields of magnetic stars with unresolved Zeeman splitting
+The albedo-color diversity of transneptunian objects
+The hot core towards the intermediate-mass protostar NGC 7129 FIRS 2 - chemical similarities with Orion KL
+Probing outflows in z = 1 ~ 2 galaxies through Fe II/Fe II* multiplets
+No more active galactic nuclei in clumpy disks than in smooth galaxies at z ~ 2 in CANDELS/3D-HST
+Multiwavelength campaign on Mrk 509 - XIII. Testing ionized-reflection models on Mrk 509
+A multiwavelength consensus on the main sequence of star-forming galaxies at z ∼ 2
+Test and characterization of the GRAVITY laser metrology injection
+Spectral energy distributions of type 1 AGN in XMM-COSMOS – II. Shape evolution
+A magnified view of the kinematics and morphology of RCSGA 032727-132609: zooming in on a merger at z = 1.7
+Active galactic nucleus X-ray variability in the XMM-COSMOS survey
+The ATLAS3D project – XXVI. H I discs in real and simulated fast and slow rotators
+Electrical characterization of different DEPFET designs on die level
+Observation of particle pairing in a two-dimensional plasma crystal
+Network analysis of three-dimensional complex plasma clusters in a rotating electric field
+An overview of the dwarf galaxy survey (PASP, 125, 600, [2013]) - Corrigendum
+Mid-J CO observations of Perseus B1-East 5: evidence for turbulent dissipation via low-velocity shocks
+Shockingly low water abundances in Herschel/PACS observations of low-mass protostars in Perseus
+Water in star-forming regions with Herschel (WISH) - V. The physical conditions in low-mass protostellar outflows revealed by multi-transition water observation
+Water in low-mass star-forming regions with Herschel - The link between water gas and ice in protostellar envelopes
+The formation of stellar nuclear discs in bar-induced gas inflows
+Searching for large-scale structures around high-redshift radio galaxies with Herschel
+Hypoxia upregulates aldehyde dehydrogenase isoform 1 (ALDH1) expression and induces functional stem cell characteristics in human glioblastoma cells
+Discovery of a rich proto-cluster at z = 2.9 and associated diffuse cold gas in the VIMOS Ultra-Deep Survey (VUDS)
+Sporicidal properties from surface micro-discharge plasma under different plasma conditions at different humidities
+Clustering of moderate luminosity x-ray-selected type 1 and type 2 AGNS at Z ~ 3
+Revealing H2D+ depletion and compact structure in starless and protostellar cores with ALMa
+Late-stage galaxy mergers in cosmos to z ~ 1
+Stopping power: Effect of the projectile deceleration
+How dead are dead galaxies? - Mid-infrared fluxes of quiescent galaxies at redshift 0.3 < z < 2.5: implications for star formation rates and dust heating
+Stability and size of particle pairs in complex plasmas
+Cold atmospheric plasma – a new technology for spacecraft component decontamination
+First spectrally-resolved H2 observations towards HH 54 - Low H2O abundance in shocks
+Linking the X-ray and infrared properties of star-forming galaxies at z < 1.5
+The progenitors of the compact early-type galaxies at high redshift
+The mass and angular momentum distribution of simulated massive early-type galaxies to large radii
+The X-CLASS−redMaPPer galaxy cluster comparison - I. Identification procedures
+Ion bulk heating in magnetic reconnection exhausts at Earth's magnetopause: Dependence on the inflow Alfvén speed and magnetic shear angle
+Localized sources of water vapour on the dwarf planet (1) Ceres
+Azimuthally resolved X-ray spectroscopy to the edge of the Perseus Cluster
+Planck 2013 results - XXIII. Isotropy and statistics of the CMB
+The Redshift evolution of the mean temperature, pressure, and entropy profiles in 80 spt-selected galaxy clusters
+The dependence of galactic outflows on the properties and orientation of zCOSMOS galaxies at z ~ 1
+On the radiation driven alignment of dust grains: Detection of the polarization hole in a starless core
+Changing ionization conditions in SDSS galaxies with active galactic nuclei as a function of environment from pairs to clusters
+CLASH: Weak-lensing shear-and-magnificaton analysis of 20 galaxy clusters
+The second data release of the INT Photometric Hα Survey of the Northern Galactic Plane (IPHAS DR2)
+Computation of the halo mass function using physical collapse parameters: application to non-standard cosmologies
+Far-infrared surveys of galaxy evolution
+Why z > 1 radio-loud galaxies are commonly located in protoclusters
+Maser emission as a probe of the masses of black holes at the centers of galaxies

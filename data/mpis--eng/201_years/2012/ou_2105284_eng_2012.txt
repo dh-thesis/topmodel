@@ -1,0 +1,54 @@
+CLSE: Closed-Loop Symbolic Execution
+The Impact of Higher-order State and Control Effects on Local Relational Reasoning
+Geographic Dissection of the Twitter Network
+Type-Directed Automatic Incrementalization
+Understanding and Combating Link Farming in the Twitter Social Network
+Non-tracking web analytics
+A Perfect Model for Bounded Verification
+Cognos: Crowdsourcing Search for Topic Experts in Microblogs
+Inferring Who-is-Who in the Twitter Social Network
+Lazy Tree Splitting
+Virtually Exclusive Resources
+Language-Theoretic Abstraction Refinement
+Higher-Order Functional Reactive Programming in Bounded Space
+Predicting emerging social conventions in online social networks
+Elaborating Intersection and Union Types
+Non-monotonic Self-Adjusting Computation
+Scalable Testing of File System Checkers
+Engage: A Deployment Management System
+Adding Equations to System F Types
+Approximately Bisimilar Symbolic Models for Digital Control Systems
+Software Synthesis Procedures
+Towards Statistical Queries over Distributed Private User Data
+Synthesis of Minimal-Error Control Software
+Trigger Memoization in Self-Triggered Control
+Countermodels from Sequent Calculi in Multi-Modal Logics
+Shredder: GPU-Accelerated Incremental Storage and Computation
+Labeled Sequent Calculi for Access Control Logics: Countermodels, Saturation and Abduction
+The World of Connections and Information Flow in Twitter
+Stateful Authorization Logic - Proof Theory and a Case Study
+The Transitive Composability of Relation Transition Systems
+Reliable Client Accounting for P2P-Infrastructure Hybrids
+Superficially substructural types
+Orchestrating the Deployment of Computations in the Cloud with Conductor
+The Case for Migratory Priority Inheritance in Linux: Bounded Priority Inversions on Multiprocessors
+Adaptive Search Radius – Using hop count to reduce P2P traffic
+Simplifying Friendlist Management
+Making Geo-Replicated Systems Fast as Possible, Consistent when Necessary
+The Emergence of Conventions in Online Social Networks
+Canal: Scaling Social Network-Based Sybil Tolerance Schemes
+Policy-Sealed Data: A New Abstraction for Building Trusted Cloud Services
+Functional Programs that Explain their Work
+Delayed Information Cascades in Flickr: Measurement, Analysis, and Modeling
+Keeping Information Safe from Social Networking Apps
+Efficient May Happen in Parallel Analysis for Async-Finish Parallelism
+Equivalence of Games with Probabilistic Uncertainty and Partial-Observation Games
+Hybrid Type Systems
+Defending against large-scale crawls in online social networks
+On the (limited) power of non-equivocation
+A Core Calculus for Provenance
+All about Eve: Execute-Verify Replication for Multi-Core Servers
+The marriage of bisimulations and Kripke logical relations
+New Modalities for Access Control Logics: Permission, Control and Ratification
+Input-Output Robustness for Discrete Systems
+Exploring the design space of social network-based Sybil defenses

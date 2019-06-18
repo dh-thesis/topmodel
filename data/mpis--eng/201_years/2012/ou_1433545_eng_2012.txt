@@ -1,0 +1,139 @@
+Predicting the outcome of renal transplantation
+Quality Assurance in Healthcare Service Delivery, Nursing and personalized Medicine: Technologies and Processes
+Long-term survival of hydrated resting eggs from Brachionus plicatilis
+Genetic variants in PSEN2 and correlation to CSF beta-amyloid42 levels in AD
+Characterization of C-strain "Riems" TAV-epitope escape variants obtained through selective antibody pressure in cell culture
+Developing the "next generation" of genetic association databases for complex diseases
+Closing the case of APOE in multiple sclerosis: no association with disease risk in over 29 000 subjects
+Directed evolution of nucleotide-based libraries using lambda exonuclease
+Genetic variation in hippocampal microRNA expression differences in C57BL/6 J X DBA/2 J (BXD) recombinant inbred mouse strains
+Chromatin immunoprecipitation-based analysis of gene regulatory networks operative in human embryonic stem cells
+Survey of sugar beet (Beta vulgaris L.) hAT transposons and MITE-like hATpin derivatives
+The role of a pseudo-response regulator gene in life cycle adaptation and domestication of beet
+The cytotoxic and immunogenic hurdles associated with non-viral mRNA-mediated reprogramming of human fibroblasts
+A computational framework for boosting confidence in high-throughput protein-protein interaction datasets
+IntScore: a web tool for confidence scoring of biological interactions
+Wnt and BMP signals control intestinal adenoma cell fates
+Deleterious- and Disease-Allele Prevalence in Healthy Individuals: Insights from Current Predictions, Mutation Databases, and Population-Scale Resequencing
+Involvement of the MLL gene in adult T-lymphoblastic leukemia
+Mechanism for release of alkaline phosphatase caused by glycosylphosphatidylinositol deficiency in patients with hyperphosphatasia mental retardation syndrome
+Toward modernizing the systematic review pipeline in genetics: efficient updating via data mining
+Pushing the detection limits: the evanescent field in surface plasmon resonance and analyte-induced folding observation of long human telomeric repeats
+A multi-centre clinico-genetic analysis of the VPS35 gene in Parkinson disease indicates reduced penetrance for disease-associated variants
+Teratoma formation of human embryonic stem cells in three-dimensional perfusion culture bioreactors
+Further characterization of ATP6V0A2-related autosomal recessive cutis laxa
+The allele distribution in next-generation sequencing data sets is accurately described as the result of a stochastic branching process
+Integrative genome analyses identify key somatic driver mutations of small-cell lung cancer
+A noncoding, regulatory mutation implicates HCFC1 in nonsyndromic intellectual disability
+Methods of Combinatorial Optimization to Reveal Factors Affecting Gene Length
+Isolated NIBPL missense mutations that cause Cornelia de Lange syndrome alter MAU2 interaction
+Translocations Disrupting PHF21A in the Potocki-Shaffer-Syndrome Region Are Associated with Intellectual Disability and Craniofacial Anomalies
+Mutations in NSUN2 cause autosomal-recessive intellectual disability
+Threshold-free population analysis identifies larger DRG neurons to respond stronger to NGF stimulation
+High levels of brain-type creatine kinase activity in human platelets and leukocytes: a genetic anomaly with autosomal dominant inheritance
+Spatial partitioning of the regulatory landscape of the X-inactivation centre
+An integrated map of genetic variation from 1,092 human genomes
+The mouse t-haplotype: a selfish chromosome-genetics molecular mechanism and evollution
+Medical Advancements in Aging and Regenerative Technologies: Clinical Tools and Applications
+Amorfrutins are potent antidiabetic dietary natural products
+Label-free protein profiling of formalin-fixed paraffin-embedded (FFPE) heart tissue reveals immediate mitochondrial impairment after ionising radiation
+Parental Origin of de novo Cytogenetically Balanced Reciprocal Non-Robertsonian Translocations
+CDKL5 ensures excitatory synapse stability by reinforcing NGL-1-PSD95 interaction in the postsynaptic compartment and is impaired in patient iPSC-derived neurons
+Pyruvate kinase is a dosage-dependent regulator of cellular amino acid homeostasis
+Loss of the mammal-specific tectorial membrane component CEA cell adhesion molecule 16 (CEACAM16) leads to hearing impairment at low and high frequencies
+The nucleoside diphosphate kinase gene Nme3 acts as quantitative trait locus promoting non-Mendelian inheritance
+p53 binding sites in transposons
+RSAT peak-motifs: motif analysis in full-size ChIP-seq datasets
+A complete workflow for the analysis of full-size ChIP-seq (and similar) data sets using peak-motifs
+Oases: robust de novo RNA-seq assembly across the dynamic range of expression levels
+R2KS: a novel measure for comparing gene expression based on ranked gene lists
+Genome-wide H4 K16 acetylation by SAS-I is deposited independently of transcription and histone exchange
+Detection of interacting transcription factors in human tissues using predicted DNA binding affinity
+Deterioration of fracture healing in the mouse model of NF1 long bone dysplasia
+Deletions in PITX1 cause a spectrum of lower-limb malformations including mirror-image polydactyly
+Odd-skipped related genes regulate differentiation of embryonic limb mesenchyme and bone marrow mesenchymal stromal cells
+Mutation of plasma membrane Ca2+ ATPase isoform 3 in a family with X-linked congenital cerebellar ataxia impairs Ca2+ homeostasis
+Databases for neurogenetics: Introduction, overview, and challenges
+T cells become licensed in the lung to enter the central nervous system
+A simple strand-specific RNA-Seq library preparation protocol combining the Illumina TruSeq RNA and the dUTP methods
+Activation of pluripotency-associated genes in mouse embryonic fibroblasts by non-viral transfection with in vitro-derived mRNAs encoding Oct4, Sox2, Klf4 and cMyc
+Hedgehog-EGFR cooperation response genes determine the oncogenic phenotype of basal cell carcinoma and tumour-initiating pancreatic cancer cells
+A Systems Biology Approach to Deciphering the Etiology of Steatosis Employing Patient-Derived Dermal Fibroblasts and iPS Cells
+Functional comparison of chronological and in vitro aging: differential role of the cytoskeleton and mitochondria in mesenchymal stromal cells
+Association of UBQLN1 mutation with Brown-Vialetto-Van Laere syndrome but not typical ALS
+The future of technologies for personalised medicine
+FOX-2 dependent splicing of ataxin-2 transcript is affected by ataxin-1 overexpression
+Pyruvate kinase is a dosage-dependent regulator of cellular amino acid homeostasis
+DIPSBC--data integration platform for systems biology collaborations
+An affective disorder in zebrafish with mutation of the glucocorticoid receptor
+Homeotic arm-to-leg transformation associated with genomic rearrangements at the PITX1 locus
+Large-scale replication and heterogeneity in Parkinson disease genetic loci
+Murine expression and mutation analyses of the prostate androgen-regulated mucin-like protein 1 (Parm1) gene, a candidate for human epispadias.
+Secretory signal peptide modification for optimized antibody-fragment expression-secretion in Leishmania tarentolae
+Modeling of miRNA and drug action in the EGFR signaling pathway
+Palaeohexaploid ancestry for Caryophyllales inferred from extensive gene-based physical and genetic mapping of the sugar beet genome (Beta vulgaris)
+Detecting genomic indel variants with exact breakpoints in single- and paired-end sequencing data using SplazerS
+Functional analysis of centrosomal kinase substrates in Drosophila melanogaster reveals a new function of the nuclear envelope component otefin in cell cycle progression
+Comprehensive Research Synopsis and Systematic Meta-Analyses in Parkinson's Disease Genetics: The PDGene Database
+Creation and application of immortalized bait libraries for targeted enrichment and next-generation sequencing
+Transcriptomic signature of Leishmania infected mice macrophages: a metabolic point of view
+Sirtuins as regulators of the yeast metabolic network
+Dynamics of Srf, p300 and histone modifications during cardiac maturation in mouse
+Histaminylation of glutamine residues is a novel posttranslational modification implicated in G-protein signaling
+On the Meta-Analysis of Genome-Wide Association Studies: A Robust and Efficient Approach to Combine population and Family-Based Studies
+Schizophrenia risk polymorphisms in the TCF4 gene interact with smoking in the modulation of auditory sensory gating
+A mosaic maternal splice donor mutation in the EHMT1 gene leads to aberrant transcripts and to Kleefstra syndrome in the offspring
+Neurocognitive impairments in non-deprived smokers-results from a population-based multi-center study on smoking-related behavior
+Genetic Variation in the Neuropeptide Y Gene Promoter Is Associated with Increased Risk of Tobacco Smoking
+Breakpointer: using local mapping artifacts to support sequence breakpoint discovery from single-end reads
+Mutations in SLC33A1 cause a lethal autosomal-recessive disorder with congenital cataracts, hearing loss, and low serum copper and ceruloplasmin
+Estimation of pairwise sequence similarity of mammalian enhancers with word neighbourhood counts
+Multiple cis-regulatory elements are involved in the complex regulation of the sieve element-specific MtSEO-F1 promoter from Medicago truncatula
+Ca++/CaMKII switches nociceptor-sensitizing stimuli into desensitizing stimuli
+New kid on the ID block: Neural functions of the Nab2/ZC3H14 class of Cys3His tandem zinc-finger polyadenosine RNA binding proteins
+Proximal microdeletions and microduplications of 1q21.1 contribute to variable abnormal phenotypes
+Mutations of the EPHB6 receptor tyrosine kinase induce a pro-metastatic phenotype in non-small cell lung cancer
+A Tutorial on Mathematical Modeling of Biological Signaling Pathways
+Dynamic protein-protein interaction wiring of the human spliceosome.
+Impaired sleep quality and sleep duration in smokers-results from the German Multicenter Study on Nicotine Dependence
+Comprehensive Research Synopsis and Systematic Meta-Analyses in ALS Genetics: The ALSGene Database (P01.095)
+Assessment and Genetic Associations of the 2d:4d Finger-Length Ratio within the Berlin Aging Study Ii (Base-Ii)
+A stringent yeast two-hybrid matrix screening approach for protein-protein interaction discovery
+Mutations in PIGO, a member of the GPI-anchor-synthesis pathway, cause hyperphosphatasia with mental retardation
+FGF inhibition directs BMP4-mediated differentiation of human embryonic stem cells to syncytiotrophoblast
+Identification of mediator complex 26 (Crsp7) gametologs on platypus X1 and Y5 sex chromosomes: a candidate testis-determining gene in monotremes?
+RNA-Seq provides new insights in the transcriptome responses induced by the carcinogen benzo[a]pyrene
+Evolutionary reshuffling in the Errantivirus lineage Elbe within the Beta vulgaris genome
+Identification of a mutation in the extracellular domain of the Epidermal Growth Factor Receptor conferring cetuximab resistance in colorectal cancer
+The 1000 Genomes Project: data management and community access
+Maturation of mammalian H/ACA box snoRNAs: PAPD5-dependent adenylation and PARN-dependent trimming
+Induction and selection of Sox17-expressing endoderm cells generated from murine embryonic stem cells
+New insights into subcomplex assembly and modifications of centrosomal proteins
+Comparative molecular portraits of human unfertilized oocytes and primordial germ cells at 10 weeks of gestation
+The Genetics of Alzheimer's Disease
+Human embryonic stem cells and embryonal carcinoma cells have overlapping and distinct metabolic signatures
+Construction of a pig physical interactome using sequence homology and a comprehensive reference human interactome
+Human induced pluripotent stem cells--from mechanisms to clinical applications
+Analysis of the methylome of human embryonic stem cells employing methylated DNA immunoprecipitation coupled to next-generation sequencing
+Ataxin-2-like is a regulator of stress granules and processing bodies
+Evaluating SKI as a candidate gene for non-syndromic cleft lip with or without cleft palate
+Genome-wide association analysis of genetic generalized epilepsies implicates susceptibility loci at 1q43, 2p16.1, 2q22.3 and 17q21.32
+On the future of genetic risk assessment
+Methylation of L1Hs promoters is lower on the inactive X, has a tendency of being higher on autosomes in smaller genomes and shows inter-individual variability at some loci
+Dissecting the genomic complexity underlying medulloblastoma
+Preparation of mouse embryonic fibroblast cells suitable for culturing human embryonic and induced pluripotent stem cells
+OCT4 and the acquisition of oocyte developmental competence during folliculogenesis
+Hsp90 inhibition differentially destabilises MAP kinase and TGF-beta signalling components in cancer cells revealed by kinase-targeted chemoproteomics
+Identification of biomarkers of human skin ageing in both genders. Wnt signalling - a label of skin ageing?
+The essence on mass spectrometry based microbial diagnostics
+Phosphorylation-regulated axonal dependent transport of syntaxin 1 is mediated by a Kinesin-1 adapter
+An Inference and Integration Approach for the Consolidation of Ranked Lists
+Robust classifying of prokaryotic genomes
+BLUEPRINT to decode the epigenetic signature written in blood
+Structural distance and evolutionary relationship of networks
+Dynamics of TGF-β/Smad signaling
+Duplications of BHLHA9 are associated with ectrodactyly and tibia hemimelia inherited in non-Mendelian fashion
+Microduplications upstream of MSX2 are associated with a phenocopy of cleidocranial dysplasia
+Web-based digital gene expression atlases for the mouse
+A Systematic Survey of Loss-of-Function Variants in Human Protein-Coding Genes
+Characteristics of fads2 gene expression and putative promoter in European sea bass (Dicentrarchus labrax): Comparison with salmonid species and analysis of CpG methylation

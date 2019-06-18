@@ -1,0 +1,142 @@
+Correlation between Voronoi volumes in disc packings
+Flow Loading Induces Oscillatory Trajectories in a Bloodstream Parasite
+Adapting Predictive Feedback Chaos Control for Optimal Convergence Speed
+Flow of a nematogen past a cylindrical micro-pillar
+Infrared spectroscopy of carbonyl sulfide inside a pure 3He droplet
+Small-World Network Spectra in Mean-Field Theory
+Solubilization of Thermotropic Liquid Crystal Compounds in Aqueous Surfactant Solutions
+Associahedra, Tamari Lattices and Related Structures
+Design principles for superamphiphobic surfaces
+Morphological Transitions of Droplets Wetting Rectangular Domains
+A Stochastic Description of Dictyostelium Chemotaxis
+Pattern formation in spatially forced thermal convection
+Driven large contact angle droplets on chemically heterogeneous substrates
+Universal Phase Diagram for Wetting on Mesoscale Roughness
+Opto-fluidic velocimetry using liquid crystal microfluidics
+Analysis of synaptic scaling in combination with hebbian plasticity in several simple networks
+Braess's paradox in oscillator networks, desynchronization and power outage
+Quantifying Loopy Network Architectures
+Frequency-dependent fitness induces multistability in coevolutionary dynamics
+Non-Additive Coupling Enables Propagation of Synchronous Spiking Activity in Purely Random Networks
+Uniqueness of linear factorizations into independent subspaces
+Continuous Percolation with Discontinuities
+Self-similarity in coupled Brinkman/Navier-Stokes fl ows
+On Lagrangian single-particle statistics
+Computation by Switching in Complex Networks of States
+Why can artificial membranes be fabricated so rapidly in microfluidics?
+Dynamic Flux Tubes Form Reservoirs of Stability in Neuronal Circuits
+Functionalization of microfluidic devices for investigation of liquid crystal flows
+How synaptic weights determine stability of synchrony in networks of pulse-coupled excitatory and inhibitory oscillators
+A statistical method for transforming temporal correlation functions from one-point measurements into longitudinal spatial and spatio-temporal correlation functions
+Bouyant Droplets on Functional Fibers
+Where do small, weakly inertial particles go in a turbulent flow?
+Wet granular matter: a truly complex fluid
+Network influences on cortical plasticity
+Emergent Surface Tension in Vibrated, Noncohesive Granular Media
+Wetting, spreading, and adsorption on randomly rough surfaces
+Breath figures: Nucleation, growth, coalescence, and size distribution of droplets
+Discriminating the effects of spatial extent and population size in cyclic competition among species
+Measurements of Reynolds numbers near the transition to the ultimate state of turbulent Rayleigh-Bénard convection
+Wet granular rafts: aggregation in two dimensions under shear flow
+Selective sweeps in growing microbial colonies
+Identity Negative Priming: A Phenomenon of Perception, Recognition or Selection?
+On the nature and signatures of the solvated electron in water
+To infinity and beyond: On ICA over Hilbert Spaces
+Sinusoidal shaking in event-driven simulations
+Dynamics of the wet granular Leidenfrost phenomenon
+A diffusion-induced transition in the phase separation of binary fluid mixtures subjected to a temperature ramp
+Invited Article: Refractive index matched scanning of dense granular materials
+Flow-induced shear instabilities of cohesive granulates
+Coordinated Optimization of Visual Cortical Maps (I) Symmetry-based Analysis
+Optische Messtechnik
+Galactic winds driven by cosmic ray streaming
+How branching can change the conductance of ballistic semiconductor devices
+Transition to the Ultimate State of Turbulent Rayleigh-Bénard Convection
+Interplay of electrohydrodynamic structure formation and microphase alignment in lamellar block copolymers
+Self-Organized Synchronization in Decentralized Power Grids
+Musical rhythms: The science of being slightly off
+Joint Diagonalization of Several Scatter Matrices for ICA
+Stochastic resonance driven by quantum shot noise in superradiant Raman scattering
+Effect of glycerol and dimethyl sulfoxide on the phase behavior of lysozyme: Theory and experiments
+Fluctuation-Preserving Coarse Graining for Biochemical Systems
+A Structural Systems Biology Approach for Quantifying the Systemic Consequences of Missense Mutations in Proteins
+Fluid-Fluid and Fluid-Solid transitions in the Kern-Frenkel model from Barker-Henderson thermodynamic perturbation theory
+Droplet based microfluidics
+X-Ray propagation imaging of a lipid bilayer in solution
+Logarithmic Temperature Profiles in Turbulent Rayleigh-Bénard Convection
+Information flow dynamics in the brain
+Dynamic Effective Connectivity of Inter-Areal Brain Circuits
+Distribution of fixed beneficial mutations and the rate of adaptation in asexual populations
+Spatial variability of nitrous oxide emissions in an unmanaged old-growth beech forest
+The geyser effect in the vacuum expansion of solid 3He0.544He0.46 and the determination of the Poisson ratio
+Advancing modes on regularly patterned substrates
+Control Parameter Description of Eukaryotic Chemotaxis
+A Small Fraction of Strongly Cooperative Sodium Channels Boosts Neuronal Encoding of High Frequencies
+Anomalous fine structures of the 000 band of tetracene in large He droplets and their dependence on droplet size
+Heat transport by turbulent Rayleigh-Bénard convection for Pr ≃ 0.8 and 4 × 1011 ≲ Ra ≲ 2 × 1014: ultimate-state transition for aspect ratio Γ = 1.00
+Global phase space of coherence and entanglement in a double-well Bose-Einstein condensate
+Inhibition in the Dynamics of Selective Attention: An Integrative Model for Negative Priming
+Guaranteeing global synchronization in networks with stochastic interactions
+Polymer nanofibers by controllable infiltration of vapour swollen polymers into cylindrical nanopores
+Dov Tamari (formerly Bernhard Teitler)
+Dynamics of low-dimensional systems PREFACE
+Complex networks: when random walk dynamics equals synchronization
+Spike encoding of neurotransmitter release timing by spiral ganglion neurons of the cochlea
+Topological transition in a stack of water droplets
+Negative Priming Persists in the Absence of Response-Retrieval
+Model-Free Reconstruction of Excitatory Neuronal Connectivity from Calcium Imaging Signals
+The large-scale circulation in turbulent Rayleigh-Bénard convection at large Rayleigh numbers
+Experimental study of the influence of anisotropy on the inertial scales of turbulence
+Quantum versus classical dynamics in a driven barrier: The role of kinematic effects
+Response to Comment on “Universality in the Evolution of Orientation Columns in the Visual Cortex“
+Force–extension relation of cross-linked anisotropic polymer networks
+Bacteria Evolve to Go Against the Grain
+Heat transport by turbulent Rayleigh–Bénard convection for Pr ≃ 0.8 and 3 × 10 12 ≲ Ra ≲ 1015: aspect ratio Γ = 0.50
+Dissipation-induced macroscopic entanglement in an open optical lattice
+Network representations of nonequilibrium steady states: Cycle decompositions, symmetries, and dominant paths
+KP solitons, higher Bruhat and Tamari orders
+Genealogies in rapidly adapting populations
+Photon sorters and QND detectors using single photon emitters
+Drying Dip-Coated Colloidal Films
+Instability, semantic dynamics and modeling brain data
+Performance of Polarization-based Stereoscopy Screens
+On integral length scales in anisotropic turbulence
+Stability of Freely Falling Granular Streams
+Limits in Planar PIV Due to Individual Variations of Particle Image Intensities
+Reduced glass transition temperatures in thin polymer films: Surface effect or artifact?
+Size dependence of the propulsion velocity for catalytic Janus-sphere swimmers
+Length scale dependence of DNA mechanical properties
+Diffusivity maximum in a reentrant nematic phase
+Hydrophobic nanoconfinement suppresses fluctuations in supercooled water
+Slippage and nanorheology of thin liquid polymer films
+Stochastic sensing of polynucleotides using patterned nanopores
+Capillary-driven flow induced by a stepped perturbation atop a viscous film
+Numerical solutions of thin-film equations for polymer flows
+Chiral structure of F-actin bundle formed by multivalent counterions
+Translocation through environments with time dependent mobility
+Synchronizing noncontact rack-and-pinion devices
+Self-similarity and energy dissipation in stepped polymer films
+Non-coalescence of sessile drops from different but miscible liquids: Hydrodynamic analysis of the twin drop contour as self stabilizing, traveling wave
+Nonintrusive optical visualization of surface nanobubbles
+Defect topologies in a nematic liquid crystal near a patchy colloid
+Locating the trailing edge of the circumbinary ring In the KH 15D system
+Hydrodynamic synchronization between objects with cyclic rigid trajectories
+Collective behavior of thermally active colloids
+Mobility gradient induces cross-streamline migration of semiflexible polymers
+Logarithmic temperature profiles in turbulent Rayleigh-Bénard convection
+A new approach to assess gold nanoparticle uptake by mammalian cells: Combining optical dark-field and transmission electron microscopy
+Dynamics of a driven oscillator carrying a freely sliding mass
+Manifold learning approach for chaos in the dripping faucet
+Mutual information rate and bounds for it
+Spatial clustering of polydisperse inertial particles in turbulence: II. Comparing simulation with experiment
+Effect of pressure on the anomalous response functions of a confined water monolayer at low temperature
+Membrane waves driven by forces from actin filaments
+Spatial clustering of polydisperse inertial particles in turbulence: I. Comparing simulation with theory
+Focus on new perspectives in high-Rayleigh-number turbulent convection
+Stimulated emission depletion live-cell super-resolution imaging shows proliferative remodeling of T-tubule membrane structures after myocardial infarction.
+Negative curvature boundaries as wave emitting sites for the control of biological excitable media
+African trypanosomes as model system for functional analyses of microbial motility
+Trypanosome motion represents an adaptation to the crowded environment of the vertebrate bloodstream
+Nelkin scaling for the Burgers equation and the role of high-precision calculations
+Classifying cardiac biosignals using ordinal pattern statistics and symbolic dynamics
+Theory and computation of covariant Lyapunov vectors

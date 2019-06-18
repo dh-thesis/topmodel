@@ -1,0 +1,2 @@
+A weighted and directed interareal connectivity matrix for macaque cerebral cortex
+Membrane resonance enables stable and robust gamma oscillations

@@ -1,0 +1,95 @@
+Contractile characteristics of gastrocnemius-soleus muscle in the SOD1G93A ALS mouse model
+Epigenetic and in vivo comparison of diverse MSC sources reveals an endochondral signature for human hematopoietic niche formation
+LD score regression distinguishes confounding from polygenicity in genome-wide association studies :
+Transcallosal projections require glycoprotein M6-dependent neurite growth and guidance
+A brief review of recent Charcot-Marie-Tooth research and priorities
+The polarity protein scribble regulates myelination and remyelination in the central nervous system
+Neuroligin-1 regulates excitatory synaptic transmission, LTP and EPSP-spike coupling in the dentate gyrus in vivo
+The emerging functions of oligodendrocytes in regulating neuronal network behaviour
+Immunoglobulin G antibodies to the N-Methyl-D-Aspartate receptor are distinct from immunoglobulin M responses. Reply
+A critical appraisal of the what-where-when episodic-like memory test in rodents: Achievements, caveats and future directions
+Effects of erythropoietin on hippocampal volume and memory in mood disorders
+Multifunctional phosphate-based inorganic-organic hybrid nanoparticles
+Chronic alcohol consumption results in greater damage to the pancreas than to the liver in the rats
+HECT-type E3 ubiquitin ligases in nerve cell development and synapse physiology
+Exocytosis from chromaffin cells: hydrostatic pressure slows vesicle fusion
+Enhanced memory consolidation in mice lacking the circadian modulators Sharp1 and -2 caused by elevated Igf2 signaling in the cortex
+Unconventional molecular regulation of synaptic vesicle replenishment in cochlear inner hair cells
+A coding variant of ANO10, affecting volume regulation of macrophages, is associated with Borrelia seropositivity
+Dynamics of the peripheral membrane protein P2 from human myelin measured by neutron scattering - a comparison between wild-type protein and a hinge mutant
+Hypertension accelerates the progression of Alzheimer-like pathology in a mouse model of the disease
+Response to letter regarding article "Preexisting serum autoantibodies against the NMDAR subunit NR1 modulate evolution of lesion size in acute ischemic stroke"
+A transgenic mouse line expressing the red fluorescent protein tdTomato in GABAergic neurons
+Data calibration and reduction allows to visualize behavioural profiles of psychosocial influences in mice towards clinical domains
+Glycogen pathways in disease: new developments in a classical field of medical genetics
+In-depth evaluation of software tools for data-independent acquisition-based label-free quantification
+Nerve regeneration: specific metabolic demands?
+Regulation of neuronal survival and morphology by the E3 ubiquitin ligase RNF157
+Voltage-dependent gating of KCNH potassium channels lacking a covalent link between voltage-sensing and pore domains
+Glucocorticoids attenuate acute graft-versus-host disease by suppressing the cytotoxic capacity of CD8+ T cells
+Cholesterol in myelin biogenesis and hypomyelinating disorders
+Haptoglobin-α1, -α2, vitamin D-binding protein and apolipoprotein C-III as predictors of etanercept drug response in rheumatoid arthritis
+A presequence-binding groove in Tom70 supports import of Mdl1 into mitochondria :
+Functionalized synchrotron in-line phase-contrast computed tomography: a novel approach for simultaneous quantification of structural alterations and localization of barium-labelled alveolar macrophages within mouse lung samples
+Phase-contrast zoom tomography reveals precise locations of macrophages in mouse lungs
+Phase-contrast computed tomography for quantification of structural changes in lungs of asthma mouse models of different severity
+Recombinant human erythropoietin to target cognitive dysfunction in bipolar disorder: a double-blind, randomized, placebo-controlled phase 2 trial : Reply
+Phenothiazine-derived antipsychotic drugs inhibit dynamin and clathrin-mediated endocytosis
+Complexin stabilizes newly primed synaptic vesicles and prevents their premature fusion at the mouse calyx of held synapse
+M³⁺[amaranth]³⁻(M = La, Gd): a novel sulfonate-based inorganic-organic hybrid nanomaterial for multimodal imaging
+Role of Munc13 isoforms in regulating large dense core vesicle exocytosis in chromaffin cells
+Lipid binding defects and perturbed synaptogenic activity of a collybistin R290H mutant that causes epilepsy and intellectual disability
+Nutrition-dependent changes of mouse adipose tissue compostions monitored by NMR, MS, and chromatographic methods
+A novel NHE1-centered signaling cassette drives epidermal growth factor receptor-dependent pancreatic tumor metastasis and is a target for combination therapy
+Fast cerebellar reflex circuitry requires synaptic vesicle priming by Munc13-3
+Contribution of genetic and environmental factors to symptomatology in psychiatric disorders
+In vivo integrity of polymer-coated gold nanoparticles
+Additive effects on the energy barrier for synaptic vesicle fusion cause supralinear effects on the vesicle fusion rate
+Gpm6b deficiency impairs sensorimotor gating and modulates the behavioral response to a 5-HT2A/C receptor agonist
+STAT3 represents a molecular switch possibly inducing astroglial instead of oligodendroglial differentiation of oligodendroglial progenitor cells in Theiler's murine encephalomyelitis
+Preexisting serum autoantibodies against the NMDAR subunit NR1 modulate evolution of lesion size in acute ischemic stroke
+AP-1/σ1B-dependent SV protein recycling is regulated in early endosomes and is coupled to AP-2 endocytosis
+Myelinophagy: Schwann cells dine in
+Glial activation is associated with L-DOPA induced dyskinesia and blocked by a nitric oxide synthase inhibitor in a rat model of Parkinson's disease
+The protein corona of nanoparticles: distinct proteins regulate the cellular uptake
+Thymocyte-derived BDNF influences T-cell maturation at the DN3/DN4 transition stage
+Extracellular vesicle sorting of α-synuclein is regulated by sumoylation
+Brg1-dependent chromatin remodelling is not essentially required during oligodendroglial differentiation
+CD133 expression is not synonymous to immunoreactivity for AC133 and fluctuates throughout the cell cycle in glioma stem-like cells
+Loss of the neuron-specific F-box protein FBXO41 models an ataxia-like phenotype in mice with neuronal migration defects and degeneration in the cerebellum
+Long lasting activity of nociceptive muscular afferents facilitates bilateral flexion reflex pattern in the feline spinal cord
+Cognitive deficits in Calsyntenin-2 deficient mice associated with reduced GABAergic transmission
+Autism beyond diagnostic categories : characterization of autistic phenotypes in schizophrenia :
+Erythropoietin dampens injury-induced microglial motility :
+Monitoring G protein-coupled receptor activation using the protein fragment complementation technique split TEV
+Kν10.1 opposes activity-dependent increase in Ca²⁺ influx into the presynaptic terminal of the parallel fibre-Purkinje cell synapse
+The multispecific thyroid hormone transporter OATP1C1 mediates cell-specific sulforhodamine 101-labeling of hippocampal astrocytes
+Sensing cardiac electrical activity with a cardiac myocyte-targeted optogenetic voltage indicator
+Are cyclooxygenase-2 and nitric oxide involved in the dyskinesia of Parkinson's disease induced by L-DOPA?
+Oligodendrocytes: myelination and axonal support
+Kraepelin revisited: schizophrenia from degeneration to failed regeneration
+Pathways to personalized treatment strategies for depressive disorders
+Sodium channels
+Layer 5 pyramidal neurons' dendritic remodeling and increased microglial density in primary motor cortex in a murine model of facial paralysis
+Neurotoxocarosis alters myelin protein gene transcription and expression
+Metabolism and functions of lipids in myelin
+Rab3-interacting molecules 2α and 2β promote the abundance of voltage-gated Caν1.3 Ca²⁺ channels at hair cell active zones
+Chemotherapy of WAP-T mouse mammary carcinomas aggravates tumor phenotype and enhances tumor cell dissemination
+Sip1 downstream effector ninein controls neocortical axonal growth, ipsilateral branching, and microtubule growth and stabiblity
+The NG2 proteoglycan protects oligodendrocyte precursor cells against oxidative stress via interaction with OMI/HtrA2
+Accumulated common variants in the broader fragile X gene family modulate autistic phenotypes
+Identification of a Munc13-sensitive step in chromaffin cell large dense-core vesicle exocytosis
+Functional analysis of the CNS-specific F-box protein FBXO41 in cerebellar development
+Synergistic SNARE modulators of neurotransmission: Complexins and SNAP-29
+Gene therapy for deafness: how close are we?
+Split protein biosensor assays in molecular pharmacological studies
+Role of microglia in myelin turnover
+Alternative spliced isoforms of Kν10.1 potassium channels modulate channel properties and can activate cyclin-dependent kinase in Xenopus oocytes
+Analysis of myelin membrane growth in oligodendrocytes
+Molecular signatures of psychosocial stress and cognition are modulated by chronic lithium treatment
+Support immersion endoscopy in post-extraction alveolar bone chambers: a new window for microscopic bone imaging in Vivo
+Dynamic changes in cytosolic ATP levels in cultured glutamatergic neurons during NMDA-induced synaptic activity supported by glucose or lactate
+Crosstalk of signaling and metabolism mediated by the NAD+/NADH redox state in brain cells
+Selective expression of a constitutively active erythropoietin receptor in GABAergic neurons alters hippocampal network properties without affecting cognition
+Brain energy metabolism: conserved functions of glycolytic glial cells
+Curcumin therapy in a Plp1 transgenic mouse model of Pelizaeus-Merzbacher disease

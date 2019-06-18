@@ -1,0 +1,178 @@
+The Sequence Reconstruction Problem
+Dimensionality reduction of multistable biological systems
+Serine acts as metabolic signal for the transcriptional control of photorespiration-related genes in Arabidopsis thaliana
+Regulation of Flowering by Trehalose-6-Phosphate Signaling in Arabidopsis thaliana
+Design of chimeric expression elements that confer high-level gene activity in chromoplasts
+Perspectives on plant photorespiratory metabolism
+Evolution of the biochemistry of the photorespiratory C2 cycle
+In search for new players of the oxidative stress network by phenotyping an Arabidopsis T-DNA mutant collection on reactive oxygen species-eliciting chemicals
+Metabolic engineering of tomato fruit organic Acid content guided by biochemical analysis of an introgression line
+Phloem-mobile signals affecting flowers: applications for crop breeding
+OrganellarGenomeDRAW-a suite of tools for generating physical maps of plastid and mitochondrial genomes and visualizing expression data sets
+Principal components analysis
+Comprehensive classification and perspective for modelling photorespiratory metabolism
+Activation of R-mediated innate immunity and disease susceptibility is affected by mutations in a cytosolic O-acetylserine (thiol) lyase in Arabidopsis
+Asr1 Mediates Glucose-Hormone Crosstalk by Affecting Sugar Trafficking in Tobacco Plants
+Identification of candidate genes for phenolic accumulation in tomato fruit
+An endogenous artificial microRNA system for unraveling the function of root endosymbioses related genes in Medicago truncatula
+Engineering photorespiration: current state and future possibilities
+Two Pdk1 phosphorylation sites on the plant cell death suppressor Adi3 contribute to substrate phosphorylation
+Promotion of growth by elevated carbon dioxide is coordinated through a flexible transcriptional network in Arabidopsis
+PLGG1, a plastidic glycolate glycerate transporter, is required for photorespiration and defines a unique class of metabolite transporters
+Analysis of the interface between primary and secondary metabolism in Catharanthus roseus cell cultures using 13C-stable isotope feeding and coupled mass spectrometry
+Over-expression of the trehalase gene AtTRE1 leads to increased drought stress tolerance in Arabidopsis and is involved in ABA-induced stomatal closure
+Recent Applications of Metabolomics Toward Cyanobacteria
+Investigating associations between milk metabolite profiles and milk traits of Holstein cows
+Tuning a ménage à trois: co-evolution and co-adaptation of nuclear and organellar genomes in plants
+Comprehensive Dissection of Spatiotemporal Metabolic Shifts in Primary, Secondary, and Lipid Metabolism during Developmental Senescence in Arabidopsis
+Metabolic Changes in Synechocystis PCC6803 upon Nitrogen-Starvation: Excess NADPH Sustains Polyhydroxybutyrate Accumulation
+Network analysis: tackling complex data to study plant metabolism
+Impact of the carbon and nitrogen supply on relationships and connectivity between metabolism and biomass in a broad panel of Arabidopsis accessions
+Dual targeting of a mature plastoglobulin/fibrillin fusion protein to chloroplast plastoglobules and thylakoids in transplastomic tobacco plants
+Diurnal changes of polysome loading track sucrose content in the rosette of wildtype Arabidopsis and the starchless pgm mutant
+The REIL1 and REIL2 proteins of Arabidopsis thaliana are required for leaf growth in the cold
+Annotating unknown components from GC/EI-MS-based metabolite profiling experiments using GC/APCI(+)-QTOFMS
+Network-Based Segmentation of Biological Multivariate Time Series
+An upstream regulator of the 26S proteasome modulates organ size in Arabidopsis thaliana
+NAC transcription factor ORE1 and senescence-induced BIFUNCTIONAL NUCLEASE1 (BFN1) constitute a regulatory cascade in Arabidopsis
+Plasmodesmata: intercellular tunnels facilitating transport of macromolecules in plants
+New insights into photorespiration obtained from metabolomics
+The plant transcriptome – from integrating observations to models
+Galacturonosyltransferase 4 silencing alters pectin composition and carbon partitioning in tomato
+Metabolic profiling reveals coordinated switches in primary carbohydrate metabolism in grape berry (Vitis vinifera L.), a non-climacteric fleshy fruit
+Systemic Analysis of Inducible Target of Rapamycin Mutants Reveal a General Metabolic Switch Controlling Growth in Arabidopsis thaliana
+Arabidopsis thaliana root elongation growth is sensitive to lunisolar tidal acceleration and may also be weakly correlated with geomagnetic variations
+Differential Regulation of Carbon Partitioning by the Central Growth Regulator Target of Rapamycin (TOR)
+Milk metabolites and their genetic variability
+Shikimate and phenylalanine biosynthesis in the green lineage
+Functional redundancy and divergence within the Arabidopsis RETICULATA-RELATED gene family
+Metabolic Fluxes in an Illuminated Arabidopsis Rosette
+Systematic evaluation of reference protein normalization in proteomic experiments
+The Spatial Organization of Metabolism Within the Plant Cell
+The flavonoid biosynthetic pathway in Arabidopsis: Structural and genetic diversity
+The Metabolic Interplay between Plants and Phytopathogens
+Phylogenetic aspects of the sulfate assimilation genes from Thalassiosira pseudonana
+Strategies for metabolic pathway engineering with multiple transgenes
+Long-Distance Signaling in bypass1 Mutants: Bioassay Development Reveals the bps Signal to Be a Metabolite
+PhosPhAt goes kinases--searchable protein kinase target information in the plant phosphorylation site database PhosPhAt
+ORE1 balances leaf senescence against maintenance by antagonizing G2-like-mediated transcription
+The Central Carbon and Energy Metabolism of Marine Diatoms
+Regulation of the mitochondrial tricarboxylic acid cycle
+Xyloglucan endotransglucosylase/hydrolase (XTH) overexpression affects growth and cell wall mechanics in etiolated Arabidopsis hypocotyls
+EBE, an AP2/ERF Transcription Factor Highly Expressed in Proliferating Cells, Affects Shoot Architecture in Arabidopsis thaliana
+Virus-induced gene silencing of pea CHLI and CHLD affects tetrapyrrole biosynthesis, chloroplast development and the primary metabolic network
+The combinatorics of cis-regulatory elements: from cooperatively acting motifs to gene regulatory networks
+Engineering plastid transgenes for high level protein expression
+Molecular Regulation of Fruit Ripening
+Developmental regulation of primary carbohydrate metabolism in grape berry (Vitis vinifera L.) cv. Cabernet Sauvignon
+Efficient metabolic pathway engineering in transgenic tobacco and tomato plastids with synthetic multigene operons
+The evolution of phenylpropanoid metabolism in the green lineage
+Transcriptional regulation of tocopherol biosynthesis in tomato
+Dissecting Rice Polyamine Metabolism under Controlled Long-Term Drought Stress
+Gas-Chromatography Mass-Spectrometry (GC-MS) Based Metabolite Profiling Reveals Mannitol as a Major Storage Carbohydrate in the Coccolithophorid Alga Emiliania huxleyi
+On the relation between reactions and complexes of (bio)chemical reaction networks
+Function of calcium-dependent protein kinase CPK28 of Arabidopsis thaliana in plant stem elongation and vascular development
+Trichoderma-Plant Root Colonization: Escaping Early Plant Defense Responses and Activation of the Antioxidant Machinery for Saline Stress Tolerance
+The form of nitrogen nutrition affects resistance against Pseudomonas syringae pv. phaseolicola in tobacco
+A diminution in ascorbate oxidase activity affects carbon allocation and improves yield in tomato under water deficit
+Importance of adenosine-to-inosine editing adjacent to the anticodon in an Arabidopsis alanine tRNA under environmental stress
+Chloroplast-localized 6-phosphogluconate dehydrogenase is critical for maize endosperm starch accumulation
+The arbuscular mycorrhizal symbiosis influences sulfur starvation responses of Medicago truncatula
+Analysis of metabolic flux using dynamic labeling and metabolic modeling
+Dual Resistance of Melon to Fusarium oxysporum Races 0 and 2 and to Papaya ring-spot virus is Controlled by a Pair of Head-to-Head-Oriented NB-LRR Genes of Unusual Architecture
+Orchestration of Thiamin Biosynthesis and Central Metabolism by Combined Action of the Thiamin Pyrophosphate Riboswitch and the Circadian Clock in Arabidopsis
+BRAHMA ATPase of the SWI/SNF Chromatin Remodeling Complex Acts as a Positive Regulator of Gibberellin-Mediated Responses in Arabidopsis
+Patterning and life-time of plasma membrane localized cellulose synthase is dependent on actin organization in Arabidopsis interphase cells
+Involvement of the hexose transporter gene LeHT1 and of sugars in resistance of tomato to Tomato yellow leaf curl virus
+Alteration of the interconversion of pyruvate and malate in the plastid or cytosol of ripening tomato fruit invokes diverse consequences on sugar but similar effects on cellular organic Acid, metabolism, and transitory starch accumulation
+Metabolic alterations triggered by silicon nutrition: Is there a signaling role for silicon?
+Arabidopsis nanodomain-delimited ABA signaling pathway regulates the anion channel SLAH3
+Light-dependent, plastome-wide association of the plastid-encoded RNA polymerase with chloroplast DNA
+Pentalysine Clusters Mediate Silica Targeting of Silaffins in Thalassiosira pseudonana
+The PHOTOSYNTHESIS AFFECTED MUTANT68-LIKE Protein Evolved from a PSII Assembly Factor to Mediate Assembly of the Chloroplast NAD(P)H Dehydrogenase Complex in Arabidopsis
+A Rapid Ribosome Profiling Method Elucidates Chloroplast Ribosome Behavior in Vivo
+Metabolic Labeling and Membrane Fractionation for Comparative Proteomic Analysis of Arabidopsis thaliana Suspension Cell Cultures.
+EXO modifies sucrose and trehalose responses and connects the extracellular carbon status to growth
+Engineering specialized metabolic pathways-is there a room for enzyme improvements?
+Identification of Metabolic Pathways Influenced by the G-Protein Coupled in Aspergillus nidulans
+Design and analysis of metabolic pathways supporting formatotrophic growth for electricity-dependent cultivation of microbes
+A note on the kinetics of enzyme action: A decomposition that highlights thermodynamic effects
+Multiple Checkpoints for the Expression of the Chloroplast-Encoded Splicing Factor MatK
+Glycolytic strategy as a tradeoff between energy yield and protein cost
+Spanning high-dimensional expression space using ribosome-binding site combinatorics
+ETHYLENE RESPONSE FACTOR6 Acts as a Central Regulator of Leaf Growth under Water-Limiting Conditions in Arabidopsis
+Arabidopsis CURVATURE THYLAKOID1 Proteins Modify Thylakoid Architecture by Inducing Membrane Curvature
+Reverse genetics in complex multigene operons by co-transformation of the plastid genome and its application to the open reading frame previously designated psbN
+Systems-integration of plant metabolism: means, motive and opportunity
+Mutation of the pentatricopeptide repeat-SMR protein SVR7 impairs accumulation and translation of chloroplast ATP synthase subunits in Arabidopsis thaliana
+PGRL1 Is the Elusive Ferredoxin-Plastoquinone Reductase in Photosynthetic Cyclic Electron Flow
+Does acetogenesis really require especially low reduction potential?
+Extensive Modulation of the Transcription Factor Transcriptome during Somatic Embryogenesis in Arabidopsis thaliana
+The use of metabolomic approaches to study Trichoderma-plant interactions.
+Pyrophosphate levels strongly influence ascorbate and starch content in tomato fruit
+Feedback inhibition of starch degradation in Arabidopsis leaves mediated by trehalose 6-phosphate
+Sustainable forest management of Natura 2000 sites: a case study from a private forest in the Romanian Southern Carpathians
+Could ROS signals drive tissue-specific clocks?
+Double knock-out mutants of Arabidopsis thaliana grown under normal conditions reveal that the plastidial phosphorylase isozyme (PHS1) participates in transitory starch metabolism
+NAC Transcription Factor SPEEDY HYPONASTIC GROWTH Regulates Flooding-Induced Leaf Movement in Arabidopsis
+Deciphering the metabolic pathways influencing heat and cold responses during post-harvest physiology of peach fruit
+Differential Regulation of Carbon Partitioning by the Central Growth Regulator Target of Rapamycin (TOR)
+Genome-Wide Identification of Regulatory Elements and Reconstruction of Gene Regulatory Networks of the Green Alga Chlamydomonas reinhardtii under Carbon Deprivation
+Molecular regulation of fruit ripening
+Suppression of the External Mitochondrial NADPH Dehydrogenase, NDB1, in Arabidopsis thaliana Affects Central Metabolism and Vegetative Growth
+New insights into Chlamydomonas reinhardtii hydrogen production processes by combined microarray/RNA-seq transcriptomics
+Structural control of metabolic flux
+The Phosphorylated Pathway of Serine Biosynthesis Is Essential Both for Male Gametophyte and Embryo Development and for Root Growth in Arabidopsis
+Plant cell shape: modulators and measurements
+Genome of an arbuscular mycorrhizal fungus provides insight into the oldest plant symbiosis
+Towards revealing the functions of all genes in plants
+Systems analysis of metabolic phenotypes – what have we learnt?
+Metabolic analysis of kiwifruit (Actinidia deliciosa) berries from extreme genotypes reveals hallmarks for fruit starch metabolism
+MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways
+A Mediator of Singlet Oxygen Responses in Chlamydomonas reinhardtii and Arabidopsis Identified by a Luciferase-Based Genetic Screen in Algal Cells
+Loss of Starch Granule Initiation Has a Deleterious Effect on the Growth of Arabidopsis Plants Due to an Accumulation of ADP-Glucose
+Involvement of microRNA-related regulatory pathways in the glucose-mediated control of Arabidopsis early seedling development.
+Resolution by recombination: breaking up Solanum pennellii introgressions
+The essential role of the phosphorylated pathway of serine biosynthesis in Arabidopsis
+The Function and Evolution of Closely Related COR/LEA (Cold-Regulated/Late Embryogenesis Abundant) Proteins in Arabidopsis thaliana
+Transcriptomic Analysis of the Role of Carboxylic Acids in Metabolite Signaling in Arabidopsis Leaves
+Swarms, swarming and entanglements of fungal hyphae and of plant roots
+Synthetic lethal metabolic targeting of cellular senescence in cancer therapy
+Interactions of the amphiphiles arbutin and tryptophan with phosphatidylcholine and phosphatidylethanolamine bilayers in the dry state
+Sucrose-induced receptor kinase SIRK1 regulates a plasma membrane aquaporin in Arabidopsis
+Calcium-dependent protein kinase/NADPH oxidase activation circuit is required for rapid defense signal propagation
+Analysis of phylogenetic signal in protostomial intron patterns using Mutual Information
+Unraveling Sterol-dependent Membrane Phenotypes by Analysis of Protein Abundance-ratio Distributions in Different Membrane Fractions Under Biochemical and Endogenous Sterol Depletion.
+The Evolutionarily Conserved Iron-Sulfur Protein INDH Is Required for Complex I Assembly and Mitochondrial Translation in Arabidopsis
+Comparative metabolic profiling of Haberlea rhodopensis, Thellungiella halophyla, and Arabidopsis thaliana exposed to low temperature
+Reconstruction and analysis of nutrient-induced phosphorylation networks in Arabidopsis thaliana
+TIME FOR COFFEE is an essential component in the maintenance of metabolic homeostasis in Arabidopsis thaliana.
+Evolution of a Complex Locus for Terpene Biosynthesis in Solanum
+Overexpression of AtWRKY30 enhances abiotic stress tolerance during early growth stages in Arabidopsis thaliana
+Metabolic labeling and membrane fractionation for comparative proteomic analysis of Arabidopsis thaliana suspension cell cultures.
+Metabolic profiling and network analysis reveal coordinated changes in grapevine water stress response
+Plastic, fantastic! Phenotypic variance in the transcriptional landscape of the grape berry
+Arabidopsis poly(A) polymerase PAPS1 limits founder-cell recruitment to organ primordia and suppresses the salicylic acid-independent immune response downstream of EDS1/PAD4
+Auxin and Its Role in Plant Senescence
+Low levels of ribosomal RNA partly account for the very high photosynthetic phosphorus-use efficiency of Proteaceae species
+Arabidopsis BPM Proteins Function as Substrate Adaptors to a CULLIN3-Based E3 Ligase to Affect Fatty Acid Metabolism in Plants
+A Step-by-Step Protocol for Formaldehyde-Assisted Isolation of Regulatory Elements (FAIRE) from Arabidopsis thaliana
+Nighttime Sugar Starvation Orchestrates Gibberellin Biosynthesis and Plant Growth in Arabidopsis
+Systematic evaluation of reference protein normalization in proteomic experiments.
+A fluorometric assay for trehalose in the picomole range
+Phosphatidylinositol 4,5-Bisphosphate Influences PIN Polarization by Controlling Clathrin-Mediated Membrane Trafficking in Arabidopsis
+Data Integration through Proximity-Based Networks Provides Biological Principles of Organization across Scales
+The maize leaf lipidome shows multilevel genetic control and high predictive value for agronomic traits
+Differential physiological responses of different rice (Oryza sativa) cultivars to elevated night temperature during vegetative growth
+Incorrectly annotated keratin derived peptide sequences lead to misleading MS/MS data interpretation
+Functional Characterization of the Plastidial 3-Phosphoglycerate Dehydrogenase Family in Arabidopsis
+Systems-Level Analysis of Nitrogen Starvation-Induced Modifications of Carbon Metabolism in a Chlamydomonas reinhardtii Starchless Mutant
+Starch synthase 4 is essential for coordination of starch granule formation with chloroplast division during Arabidopsis leaf expansion
+Large-scale modeling provides insights into Arabidopsis's acclimation to changing light and temperature conditions
+Subcellular alterations in leaves upon down-regulation on PRORP1 in Arabidopsis
+Overexpression of a pectin methylesterase inhibitor in Arabidopsis thaliana leads to altered growth morphology of the stem and defective organ separation
+Comprehensive dissection of spatio-temporal metabolic shifts in primary, secondary and lipid metabolism during developmental senescence in Arabidopsis thaliana
+Transcriptome sequencing and microarray design for functional genomics in the extremophile Arabidopsis relative Thellungiella salsuginea (Eutrema salsugineum)
+Metabolic Analysis of Adaptation to Short-Term Changes in Culture Conditions of the Marine Diatom Thalassiosira pseudonana
+Special issue on plant computational biology
+SALT-RESPONSIVE ERF1 Regulates Reactive Oxygen Species-Dependent Signaling during the Initial Response to Salt Stress in Rice

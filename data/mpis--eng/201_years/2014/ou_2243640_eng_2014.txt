@@ -1,0 +1,41 @@
+The protein tyrosine phsphatase PTP1B is a negative regulator of CD40 and BAFF-R signaling and controls B cell autoimmunity
+Production of IgG autoantibody requires expression of activation-induced deaminase in early-developing B cells in a mouse model of SLE
+Heme Oxygenase-1 Drives Metaflammation and Insulin Resistance in Mouse and Man
+MOF-associated complexes ensure stem cell identity and Xist repression
+Establishment and Maintenance of B cell Identity
+SILAC-Based Quantitative Proteomics Approach to Identify Transcription Factors Interacting with a Novel Cis-Regulatory Element
+A lipid zipper triggers bacterial invasion
+Enzymatic Fuel Cells Solely Supplied with Unpurified Cellbiose Dehydrogenase and Laccase in Microorganism's Culture Supernatants
+CopraRNA and IntaRNA: predicting small RNA targets, networks and interaction domains
+Revealing long noncoding RNA architecture and functions using domain-specific chromatin isolation by RNA purification
+Cell type specific gene expression analysis of prostate needle biopsies resolves tumor tissue heterogeneity
+Integrated genomic analysis identifies recurrent mutations and evolution patterns driving the initiation and progression of follicular lymphoma
+PDK1 regulates B cell differentiation and homeostasis
+Inducible expression of hyperactive Syk in B cells activates Blimp-1-dependent terminal differentiation
+Structural analysis of the KANSL1/WDR5/KANSL2 complex reveals that WDR5 is requried for efficient assembly and chromatin targeting of the NSL complex
+Characterization of molecular and cellular functions of the cyclin-dependent kinase CDK9 using a novel specific inhibitor
+Bioinformatics of prokaryotic RNAs
+Suv39h-Dependent H3K9me3 Marks Intact Retrotransposons and Silences LINE Elements in Mouse Embryonic Stem Cells
+Canonical and non-canonical Hedgehog signalling and the control of metabolism
+MZB1 is a GRP94 cochaperone that enables proper immunoglobulin heavy chain biosynthesis upon ER stress
+The Ligand-Binding Domain of Siglec-G Is Crucial for Its Selective Inhibitory Function on B1 Cells
+The nanoscale organization of the B lymphocyte membrane
+Critical role of lysine 134 methylation on histone H2AX for γ-H2AX production and DNA repair
+The RNA-binding protein Rbfox2: an essential regulator of EMT-driven alternative splicing and a mediator of cellular invasion
+Acetylation of histone H3 at lysine 64 regulates nucleosome dynamics and facilitates transcription
+B cell activation involves nanoscale receptor reorganizations and inside-out signaling by Syk
+Suboptimal B-cell antigen receptor signaling activity in vivo elicits germinal center counterselection mechanisms
+Dynamic DNA methylation orchestrates cardiomyocyte development, maturation and disease
+The protein tyrosine phosphatase PTP1B is a negative regulator of CD40 and BAFF-R signaling an controls B cell autoimmunity
+Cutting Edge: The Transcription Factor Bob1 Counteracts B Cell Activation and Regulates miR-146a in B cells
+Origin and Evolution of Adaptive Immunity
+The Role of the Syk/Shp-1 Kinase-Phosphatase Equilibrium in B Cell Development and Signaling
+Paternal Diet Defines Offspring Chromatin State and Intergenerational Obesity
+Methylation of histone H4 at aspartate 24 by Protein L-isoaspartate O-methyltransferase (PCMT1) links histone modification with protein homeostasis
+MIF Promotes B Cell Chemotaxis through the Receptors CXCR4 and CD74 and ZAP-70 Signaling
+Signaling Circuits in Early B-Cell Development
+The Quantitative Nuclear Matrix Proteome as a Biochemical Snapshot of Nuclear Organization
+Structural analysis of the KANSL1/WDR5/KANSL2 complex reveals that WDR5 is required for efficient assembly and chromatin targeting of the NSL complex
+Antigen Receptors Tail Clue
+deep Tools: a flexible platform for exploring deep-sequencing data
+The AP-1 transcription factor Fra1 ihhibits follicular B cell differentiation into plasma cells

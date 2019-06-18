@@ -1,0 +1,132 @@
+The population biology of fungal invasions
+Extreme selective sweeps independently targeted the X chromosomes of the great apes
+Anthropogenic and natural drivers of gene flow in a temperate wild fruit tree: a basis for conservation and breeding programs in apples
+Classification of phenotypic subpopulations in isogenic bacterial cultures by triple promoter probing at single cell level
+Natural variants of ELF3 affect thermomorphogenesis by transcriptionally modulating PIF4-dependent auxin response genes
+Cyclical succession in grazed ecosystems: The importance of interactions between different-sized herbivores and different-sized predators
+Localization and evolution of putative triose phosphate translocators in the Diatom Phaeodactylum tricornutum
+Means to optimize protein expression in transgenic plants
+Adaptive gene introgression after secondary contact
+Composition and variation of the skin microbiota in sympatric species of European newts (Salamandridae)
+Chromatin analyses of Zymoseptoria tritici: methods for chromatin immunoprecipitation followed by high-throughput sequencing (ChIP-seq)
+Identification of candidate mimicry proteins involved in parasite-driven phenotypic changes
+From gametes to species: Genetic and non-genetic effects in parasite-mediated selection
+Repeatability of evolution on epistatic landscapes
+Learning process in public goods games
+Diversity, specificity and speciation in larval Diplostomidae (Platyhelminthes: Digenea) in the eyes of freshwater fish, as revealed by \DNA\ barcodes
+An analysis of factors affecting genotyping success from museum specimens reveals an increase of genetic and morphological variation during a historical range expansion of a European spider
+Efficient estimation of evolutionary distances
+Fast evolutionary response of house mice to anthropogenic disturbance on a Sub-Antarctic island
+Modeling evolutionary games in populations with demographic structure
+Environmental fluctuations restrict eco-evolutionary dynamics in predator–prey system
+Partners or rivals? Strategies for the iterated Prisoner’s dilemma
+Aspiration dynamics in structured population acts as if in a well-mixed one
+Once upon multivariate analyses: when they tell several stories about biological evolution
+Density-dependent adjustment of inducible defenses
+Most Undirected Random Graphs Are Amplifiers of Selection for Birth-Death Dynamics, but Suppressors of Selection for Death-Birth Dynamics
+Eco-Genomic analysis of the poleward range expansion of the wasp spider Argiope bruennichi shows rapid adaptation and genomic admixture
+The light-dependent magnetic compass
+Experimental evolution reveals hidden diversity in evolutionary pathways
+Rapidly Evolving Genes Are Key Players in Host specialization and virulence of the fungal wheat pathogen Zymoseptoria tritici (Mycosphaerella graminicola)
+Comprehensive analysis of telomere biology in patients with aplastic anemia and Hypoplastic Myelodysplastic Syndrome: further evidence for a common mechanism
+Transposition, insertion, deletion and recombination drive variability in the type 3 secretome of pseudomonas syringae pv. Actinidiae, the transition from global effector comparisons to kiwifruit resistance breeding strategies
+Honest signaling in trust interactions: smiles rated as genuine induce trust and signal higher earning opportunities
+Evolving synergetic interactions
+Response of bacterial colonization in Nematostella vectensis to development, environment and biogeography1
+Sequential karyotyping in Burkitt lymphoma reveals a linear clonal evolution with increase in karyotype complexity and a high frequency of recurrent secondary aberrations
+Adenylate cyclase 5 is required for melanophore and male pattern development in the guppy (Poecilia reticulata).
+Adenylate cyclase 5 is required for melanophore and male pattern development in the guppy (Poecilia reticulata)
+Transcontinental migratory connectivity predicts parasite prevalence in breeding populations of the European barn swallow
+RNA-seq-Based gene annotation and comparative genomics of four fungal grass pathogens in the genus Zymoseptoria identify novel orphan genes and species-specific invasions of transposable elements
+Inferring evolution
+Eco-evolutionary dynamics of social dilemmas
+The interaction of Saccharomyces paradoxus with its natural competitors on oak bark
+Tracing reinforcement through asymmetrical partner preference in the European common vole Microtus arvalis
+Social exclusion changes histone modifications H3K4me3 and H3K27ac in liver tissue of wild house mice
+Analysis of intestinal microbiota in hybrid house mice reveals evolutionary divergence in a vertebrate hologenome
+When parasites disagree: Evidence for parasite-induced sabotage of host manipulation
+Modelling the dynamics of crime and punishment. Comment on “Statistical physics of crime: A review” byM.R.D’Orsogna andM. Perc
+Role of the transporter-like sensor kinase CbrA in histidine uptake and signal transduction
+Molecular mechanisms of xylose utilization by Pseudomonas fluorescens: overlapping genetic responses to xylose, xylulose, ribose and mannito
+Eurasian house mouse (Mus musculus L.) differentiation at microsatellite loci identifies the Iranian plateau as a phylogeographic hotspot
+Selective sweeps versus introgression - population genetic dynamics of the murine leukemia virus receptor Xpr1 in wild populations of the house mouse (Mus musculus)
+Identification and functional evaluation of Leishmania braziliensis Nicotinamide Mononucleotide Adenylyltransferase
+Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence
+Transcription in space – environmental vs. genetic effects on differential immune gene expression
+Mapping of craniofacial traits in outbred mice identifies major developmental genes involved in shape determination
+Cryptic Female Choice in Crustaceans
+Geographical patterns of the standing and active human gut microbiome in health and IBD
+Expression of the Blood-Group-Related Gene B4galnt2 Alters Susceptibility to Salmonella Infection
+Divergence patterns of genic copy number variation in natural populations of the house mouse (Mus musculus domesticus) reveal three conserved genes with major population-specific expansions
+Polymorphisms of large effect explain the majority of the host genetic contribution to variation of HIV-1 virus load
+Fitness-based models and pairwise comparison models of evolutionary games are typically different - even in unstructured populations
+Use of ddPCR in experimental evolution studies
+Hidden biosphere in an oxygen-deficient Atlantic open-ocean eddy: future implications of ocean deoxygenation on primary production in the eastern tropical North Atlantic
+Hybridization in Parasites: Consequences for Adaptive Evolution, Pathogenesis, and Public Health in a Changing World
+Eco-evolutionary dynamics in plankton communities
+Ecological transcriptomics - a non-lethal sampling approach for endangered fire salamanders
+The natural ecology of Saccharomyces yeasts
+Characterization of contact structures for the spread of infectious diseases in a pork supply chain in Northern Germany by dynamic network analysis of yearly and monthly networks
+Most Undirected Random Graphs Are Amplifiers of Selection for Birth-Death Dynamics, but Suppressors of Selection for Death-Birth Dynamics
+Bistability in a metabolic network underpins the De Novo Evolution of colony switching in pseudomonas fluorescens
+Hybrid Breakdown in Cichlid Fish
+Population genomics of natural and experimental populations of guppies (Poecilia reticulata)
+Endogenous murine leukemia retroviral variation across wild European and inbred strains of house mouse
+Population Dynamics with epistatic interactions and its applications to mathematical models of cancer
+Context specific ultrasonic vocalizations in female house mice (Mus musculus domesticus)
+Ecology: Tribal Warfare Maintains Microbial Diversity
+Evolutionary dynamics of collective action in spatially structured populations
+Chromatin-based control of effector gene expression in plant-associated fungi
+Host-parasite coevolution in populations of constant and variable size
+New possibilities arise for studies of hybridization: SNP-based markers for the multi-species Daphnia longispina complex derived from transcriptome data
+Clinical utilization of genomics data produced by the international Pseudomonas aeruginosa consortium
+Hybridization in parasites: consequences for adaptive evolution, pathogenesis, and public health in a changing world
+May gen. n. (Araneae: Sparassidae): A unique lineage from southern Africa supported by morphological and molecular features
+Using Microevolution to explain the macroevolutionary observations for the evolution of sex
+New possibilities arise for studies of hybridization: SNP-based markers for the multi-species Daphnia longispina complex derived from transcriptome data
+Evolutionary ecology of host manipulation by parasites
+Determinants of virulence in a cestode fish system
+Genetic and evolutionary analysis of diversification and reproductive isolation in yeast
+The evolution and functional impact of human deletion variants shared with archaic hominin genomes
+When the mean is not enough: calculating fixation time distributions in birth-death processes
+Mathematical universality and direct applicability of evolutionary games Comment on “Universal scaling for the dilemma strength inevolutionary games”, by Z. Wang et al.
+Systemic immunity shapes the oral microbiome and susceptibility to bisphosphonate‑associated osteonecrosis of the jaw
+Saccharomyces cerevisiae: a nomadic yeast with no niche?
+Widespread non-additive and interaction effects within HLA loci modulate the risk of autoimmune diseases
+Engaging scientists: An online survey exploring the experience of innovative biotechnological approaches to controlling vector-borne diseases
+Assessing the phylogeographic history of the montane caddisfly Thremma gallicum using mitochondrial and restriction-site-associated DNA (RAD) mar
+Estimating stem cell fractions in hierarchically organized tumors
+The influence of blood-group-related antigens on the intestinal microbiome
+Modes of migration and multilevel selection in evolutionary multiplayer games
+Stochastic game dynamics under demographic fluctuations
+Skin microbiota-associated inflammation precedes autoantibody induced tissue damage in experimental epidermolysis bullosa acquisita
+Speed of evolution on graphs
+Host-parasite coevolution with mulitiple types
+Evolutionary performance of zero-determinant strategies in multiplayer games
+Bistability in a metabolic network underpins the de novo evolution of colony switching in Pseudomonas fluorescens
+Transcription in space – environmental vs. genetic effects on differential immune gene expression
+Genetic architecture of craniofacial shape in the house mouse: a genetic and morphological perspective
+Optimization of sequence alignments according to the number of sequences vs. number of sites trade-off
+Phylogeography of the prickly sculpin (Cottus asper) in north-western North America reveals parallel phenotypic evolution across multiple coastal–inland colonizations
+Apolipoprotein E (APOE) genotype regulates body weight and fatty acid utilization-Studies in gene-targeted replacement mice
+Composition of bacterial communities associated with Aurelia aurita changes with compartment, life stage, and population
+Morphological and molecular taxonomic analysis of Pseudopoda Jäger, 2000 (Araneae: Sparassidae: Heteropodinae) in Sichuan Province, China
+Genomics of divergence along a continuum of parapatric population differentiation
+Molecular and phenotypic distinction of the very recently evolved insular subspecies Mus musculus helgolandicus ZIMMERMANN, 1953
+Pheomelanin in fish?
+The APSES transcription factor LmStuA is required for sporulation, pathogenic development and effector gene expression in Leptosphaeria maculans
+Additive and interaction effects at three amino acid positions in HLA-DQ and HLA-DR molecules drive type 1 diabetes risk
+A model of smiling as a costly signal of cooperation opportunities
+Exact numerical calculation of fixation probability and time on graphs
+Reconstructing the in vivo dynamics of 1 hematopoietic stem cells from telomere 2 length distributions
+Experimental Evolution of Species Recognition
+High-throughput, Amplicon-Based sequencing of the CREBBP gene as a tool to develop a universal platform-independent assay
+Origins of multicellular evolvability in snowflake yeast
+The contribution of post-copulatory mechanisms to incipient ecological speciation in sticklebacks
+Which games are growing bacterial populations playing?
+Precarious development: The uncertain social life of cellular slime molds (Commentary)
+Ectodysplasin signalling genes and phenotypic evolution in sculpins (Cottus)
+Age-related cellular changes in the long-lived bivalve A. islandica
+Effects of mating order and male size on embryo survival in a pipefish
+Hypsopanchax stiassnyae, a new poeciliid fish from Lulua River (Democratic Republic of Congo) (Teleostei: Cyprinodontiformes)
+Histone modifications rather than the novel regional centromeres of Zymoseptoria tritici distinguish core and accessory chromosomes

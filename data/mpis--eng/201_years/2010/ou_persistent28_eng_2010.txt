@@ -1,0 +1,365 @@
+Noradrenaline inhibits exocytosis via the G protein βγ subunit and refilling of the readily releasable granule pool via the αi1/2 subunit.
+The transcription elongation factor Bur1-Bur2 interacts with replication protein A and maintains genome stability during replication stress
+RNA polymerase I contains a TFIIF-related DNA-binding subcomplex
+APPL proteins FRET at the BAR: Direct observation of APPL1 and APPL2 BAR domain-mediated interactions on cell membranes using FRET microscopy.
+The relation between the interfacial contact and SiO2 coating efficiency and properties in the case of two clarithromycin polymorphs.
+NMR spectroscopy in the milli-Tesla regime: Measurement of H-1 chemical-shift differences below the line width.
+Optimum levels of exchangeable protons in perdeuterated proteins for proton detection in MAS solid-state NMR spectroscopy.
+Identification of hydroxyl protons, determination of their exchange dynamics, and characterization of hydrogen bonding in a microcrystallin protein.
+Towards molecular systems biology of gene transcription and regulation
+Deceleration of neutral molecules in macroscopic traveling traps.
+Post-CMOS fabrication of working electrodes for on-chip recordings of transmitter release.
+The role of the transmembrane domain of synaptobrevin in exocytosis.
+Narrow carbonyl resonances in proton-diluted proteins facilitate NMR assignments in the solid-state.
+Direct synthesis of quaternized polymer brushes and their applications for guiding neuronal growth.
+Of bits and bugs - On the use of bioinformatics and a bacterial crystal structure to solve a eukaryotic repeat-protein structure.
+Evolution of outer membrane beta-barrels from an ancestral beta beta hairpin.
+Systematic synthesis of functional unsymmetric FeZn model complexes for plant purple acid phosphatases.
+Preparation and topology of the Mediator middle module
+Architecture of the RNA polymerase II–TFIIF complex revealed by cross‐linking and mass spectrometry
+Molecular basis of RNA polymerase III transcription repression by Maf1
+Synthesis and properties of novel Ba(II)Fe(III) layered double hydroxides.
+Assignment of dynamic regions in biological solids enabled by spin-state selective NMR experiments.
+A galaxy of folds.
+Cryo-EM structure and rRNA model of a translating eukaryotic 80S ribosome at 5.5-angstrom resolution.
+Localization of eukaryote-specific ribosomal proteins in a 5.5-angstrom cryo-EM map of the 80S eukaryotic ribosome.
+A tandem SH2 domain in transcription elongation factor Spt6 binds the phosphorylated RNA polymerase II C-terminal repeat domain (CTD)
+Nonhydrolyzable ubiquitin-isopeptide isosteres as deubiquitinating enzyme probes.
+Ion-size effect within the aqueous solution interface at the Pt(111) surface: Molecular dynamics studies.
+The 20S proteasome splicing activity discovered by SpliceMet.
+Paths from weak to strong coupling in NMR.
+Comparison of solid-state dipolar couplings and solution relaxation data provides insight into protein backbone dynamics.
+Sheet-like carbon particles with graphene structures obtained from a Bunsen flame.
+Targeted photoswitchable probe for nanoscopy of biological structures.
+Uniform transitions of the general RNA polymerase II transcription complex.
+Structural evolution of indomethacin particles upon milling: Time-resolved quantification and localization of disordered structure studied by IGC and DSC.
+Combined in situ small- and wide-angle X-ray scattering studies of particle formation processes in reactive systems using a new detector prototype.
+Push-and-pull regulation of the fusion pore by synaptotagmin-7.
+Role of the synaptobrevin C-terminus in fusion pore formation.
+Hormonal inhibition of endocytosis: novel roles for noradrenaline and G protein Gz.
+Spt4/5 stimulates transcription elongation through the RNA polymerase clamp coiled-coil motif
+The archaeo-eukaryotic primase of plasmid pRN1 requires a helix bundle domain for faithful primer synthesis
+The molecular cell death machinery in the simple cnidarian Hydra includes an expanded caspase family and pro- and anti-apoptotic Bcl-2 proteins.
+ABC-SysBio-approximate Bayesian computation in Python with GPU support.
+Minimizing light exposure with the programmable array microscope.
+Highly preorganized pyrazolate-bridged palladium(II) and nickel(II) complexes in bimetallic norbornene polymerization.
+Peptide ligands selected with CD4-induced epitopes on native dualtropic HIV-1 envelope proteins mimic extracellular coreceptor domains and bind to HIV-1 gp120 independently of coreceptor usage.
+What is rate-limiting during sustained synaptic activity: vesicle supply or the availability of release sites.
+Dsl1p/Zw10: common mechanisms behind tethering vesicles and microtubules.
+An ancient mechanism for splicing control: U11 snRNP as an activator of alternative splicing.
+Magnetic resonance imaging in real time: Advances using radial FLASH.
+Birefringent device converts a standard scanning microscope into a STED microscope that also maps molecular orientation.
+Ab initio studies of ultrafast x-ray scattering of the photodissociation of iodine.
+Probing secondary structures of spin-labeled RNA by pulsed EPR spectroscopy.
+The sugar ring of the nucleoside is required for productive substrate positioning in the active site of human deoxycytidine kinase (dCK): Implications for the development of dCK-activated acyclic guanine analogues.
+Hearing requires otoferlin-dependent efficient replenishment of synaptic vesicles in hair cells.
+A conserved activation element in BMP signaling during Drosophila development.
+Dynamics and energetics of solute permeation through the Plasmodium falciparum aquaglyceroporin.
+Structural and thermodynamic determinants of chain-melting transition temperatures for phospholipid and glycolipids membranes.
+Photoluminescence properties of a molecular organic switching system.
+Reprogramming into pancreatic endocrine cells based on developmental cues.
+Specific visualization of glioma cells in living low-grade tumor tissue.
+Absolute and relative quantification of proteins in large protein-RNA assemblies by mass spectrometry.
+Photodimerization of crystalline 9-anthracenecarboxylic acid: A nontopotactic autocatalytic transformation.
+Thermodynamic and kinetic framework of selenocysteyl-tRNA(Sec) recognition by elongation factor SelB.
+Toward a consensus model of the hERG potassium channel.
+Myelin mapping in the living mouse brain using manganese-enhanced magnetization transfer MRI.
+Cryonegative staining of macromolecular assemblies.
+Rab3 proteins involved in vesicle biogenesis and priming in embryonic mouse chromaffin cells.
+Development of a multipurpose vacuum chamber for serial optical and diffraction experiments with free electron laser radiation.
+Multicolor fluorescence nanoscopy in fixed and living cells by exciting conventional fluorophores with a single wavelength.
+Human PRP4 kinase is required for stable tri-snRNP association during spliceosomal B complex formation.
+Far-field autofluorescence nanoscopy.
+Diffraction properties of periodic lattices under free electron laser radiation.
+The ribosome-bound initiation factor 2 recruits initiator tRNA to the 30S initiation complex.
+ERK nuclear translocation is dimerization-independent but controlled by the rate of phosphorylation.
+Metastable dark states enable ground state depletion microscopy of nitrogen vacancy centers in diamond with diffraction-unlimited resolution.
+Synaptic membrane proteins form stable microdomains in early endosomes.
+Single-molecule STED microscopy with photostable organic fluorophores.
+Enzyme reaction in the pores of CaCO3 particles upon ultrasound disruption of attached substrate-filled liposomes.
+STED microscopy with compact light sources.
+Triplet imaging of oxygen consumption during the contraction of a single smooth muscle cell (A7r5).
+Spin-label EPR for determining polarity and proticity in biomolecular assemblies: Transmembrane profiles.
+Modular architecture of Munc13/calmodulin complexes: Dual regulation by Ca2+ and possible function in short-term synaptic plasticity.
+Molecular basis of the light-driven switching of the photochromic fluorescent protein padron.
+Exon definition complexes contain the tri-snRNP and can be directly converted into B-like precatalytic splicing complexes.
+Regulation of exosome secretion by Rab35 and its GTPase-activating proteins TBC1D10A–C.
+DDX6 recruits translational silenced human reticulocyte 15-lipoxygenase mRNA to RNP granules.
+Molecular volumes of phospholipids and glycolipids in membranes.
+Intramolecular charge transfer with 1-tert-butyl-6-cyano-1,2,3,4-tetrahydroquinoline (NTC6) and other aminobenzonitriles. A comparison of experimental vapor phase spectra and crystal structures with calculations.
+Ligand docking and binding site analysis with PyMOL and Autodock/Vina.
+The crystal structure of PPIL1 bound to cyclosporine A suggests a binding mode for a linear epitope of the SKIP protein.
+Real-time cardiovascular magnetic resonance at high temporal resolution: radial FLASH with nonlinear inverse reconstruction.
+Adrenal glucocorticoids have a key role in circadian resynchronization in a mouse model of jet lag.
+Primary changes of the mechanical properties of Southern Bean Mosaic Virus upon calcium removal.
+Phosphorylation of synucleins by members of the polo-like kinase family.
+The architecture of an excitatory synapse.
+Essential role of a trypanosome U4-specific Sm core protein in small nuclear ribonucleoprotein assembly and splicing.
+Targeted cellular delivery of Quantum Dots loaded on and in biotinylated liposomes.
+Characterization of tailor-made copolymers of oligo(ethylene glycol) methyl ether methacrylate and N,N-dimethylaminoethyl methacrylate as nonviral gene transfer agents: Influence of macromolecular structure on gene vector particle properties and transfection efficiency.
+Mapping the binding site of snurportin 1 on native U1 snRNP by cross-linking and mass spectrometry.
+Amyloid-like interactions within nucleoporin FG hydrogels.
+Stimulated emission depletion nanoscopy of living cells using SNAP-tag fusion proteins.
+Intramolecular charge transfer with fluorazene and N-phenylpyrrole.
+Protein refolding is required for assembly of the type three secretion needle.
+Multivesicular release differentiates the reliability of synaptic transmission between the visual cortex and the somatosensory cortex.
+Chemomechanical regulation of SNARE proteins studied with molecular dynamics simulations.
+Hydrophilic linkers and polar contacts affect aggregation of FG repeat peptides.
+Fast molecular tracking maps nanoscale dynamics of plasma membrane lipids.
+Target-dependent feedforward inhibition mediated by short-term synaptic plasticity in the cerebellum.
+Signal/noise analysis of FRET-based sensors.
+Fluorescent ratiometric MFC probe sensitive to early stages of α-synuclein aggregation.
+Quantitative analysis of synaptic vesicle Rabs uncovers distinct yet overlapping roles for Rab3a and Rab27b in Ca2+-triggered exocytosis.
+Drug design for G-protein-coupled receptors by a ligand-based NMR method.
+Analytical description of STED microscopy performance.
+Automatic deconvolution in 4Pi-microscopy with variable phase.
+Extraction of proteins from formalin-fixed, paraffin-embedded tissue using the Qproteome extraction technique and preparation of tryptic peptides for liquid chromatography/mass spectrometry analysis.
+Regulation of Rap2A by the ubiquitin ligase Nedd4-1 controls neurite development.
+Synaptobrevin N-terminally bound to syntaxin–SNAP-25 defines the primed vesicle state in regulated exocytosis.
+The intronic splicing code: Multiple factors involved in ATM pseudoexon definition.
+Fine tuning of the E-coli NusB: NusE complex affinity to BoxA RNA is required for processive antitermination.
+Characterization of coupled ground state and excited state equilibria by fluorescence spectral deconvolution.
+Determination of protein stoichiometry within protein complexes using absolute quantification and multiple reaction monitoring.
+Phosphorylation at S87 is enhanced in synucleinopathies, inhibits α-synuclein oligomerization and influences synuclein-membrane interactions.
+The crystal structure of unmodified tRNAPhe from Escherichia coli.
+Systematic analysis of human protein complexes identifies chromosome segregation proteins.
+Supramolecular interactions probed by 13C−13C solid-state NMR spectroscopy.
+Potentials of mean force and permeabilities for carbon dioxide, ammonia, and water flux across a Rhesus protein channel and lipid membranes.
+Roles of the ubiquitin-proteosome system in neurogenesis.
+Bassoon and the synaptic ribbon organize Ca2+ channels and vesicles to add release sites and promote refilling.
+Elevated phosphatidylinositol 3,4,5-trisphosphate in glia triggers cell-autonomous membrane wrapping and myelination.
+Pancreatic beta-cells: From generation to regeneration.
+Ultrafast potential softening of 1-dimensional organic conductors revealed by picosecond time-resolved Laue crystallography
+Protein thermostability calculations using alchemical free energy simulations.
+Dynamic imaging of colloidal-crystal nanostructures at 200 frames per second.
+Conformational transitions upon ligand binding: Holo-structure prediction from apo conformations.
+New fluorinated rhodamines for optical microscopy and nanoscopy.
+The Candida albicans cell wall protein Rhd3/Pga29 is abundant in the yeast form and contributes to virulence.
+A “Force Buffer” protecting immunoglobulin titin.
+Red-emitting rhodamine dyes for fluorescence microscopy and nanoscopy.
+Mutations at the accommodation gate of the ribosome impair RF2-dependent translation termination.
+An unusual hydrophobic core confers extreme flexibility to HEAT repeat proteins.
+First steps towards probing chemical systems and dynamics with free-electron laser radiation-–case studies at the FLASH facility.
+Pseudo-neutral-loss scan for selective detection of phosphopeptides and N-glycopeptides using liquid chromatography coupled with a hybrid linear ion-trap/orbitrap mass spectrometer.
+Rhodamines NN: A novel class of caged fluorescent dyes
+GraFix: Stabilization of fragile macromolecular complexes for single particle Cryo-EM
+The MIS12 complex is a protein interaction hub for outer kinetochore assembly.
+Crystal structure of an intramolecular chaperone mediating triple–β-helix folding.
+Spectroscopic rationale for efficient stimulated-emission depletion microscopy fluorophores.
+PERILIPIN-dependent control of lipid droplet structure and fat storage in Drosophila.
+NES consensus redefined by structures of PKI-type and Rev-type nuclear export signals bound to CRM1.
+Structural and functional analysis of exportin-cargo recognition.
+Atomic-resolution three-dimensional structure of HET-s(218−289) amyloid fibrils by solid-state NMR spectroscopy.
+Quantitative structural analysis of importin-β flexibility: Paradigm for solenoid protein structures.
+High- and low-mobility stages in the synaptic vesicle cycle.
+Phylogenetic studies of the vesicular fusion machinery.
+VGLUTs—potential targets for the treatment of seizures?
+Large-format, high-speed, X-ray pnCCDs combined with electron and ion imaging spectrometers in a multipurpose chamber for experiments at 4th generation light sources.
+Protein dynamics detected in a membrane-embedded potassium channel using two-dimensional solid-state NMR spectroscopy.
+Nonlinear inverse reconstruction for real-time MRI of the human heart using undersampled radial FLASH.
+Spontaneous quaternary and tertiary T-R transitions of human hemoglobin in molecular dynamics simulation.
+Molecular architecture of the human Prp19/CDC5L complex.
+Light-induced structural changes in a photosynthetic reaction center caught by Laue diffraction.
+Comparing video-rate STED nanoscopy and confocal microscopy of living neurons.
+Structure parameters of synaptic vesicles quantified by small-angle x-ray scattering.
+A plate reader-based method for cell water permeability measurement.
+Computer simulations of photobiological processes: The effect of the protein environment
+Water 1H relaxation dispersion analysis on a nitroxide radical provides information on the maximal signal enhancement in Overhauser dynamic nuclear polarization experiments.
+Characterization of horizontal lipid bilayers as a model system to study lipid phase separation.
+Allosteric control of promoter DNA bending by cyclic AMP receptor and cyclic AMP.
+A fluorescence-based in vitro assay for investigating early endosome dynamics.
+In vitro study of interaction of synaptic vesicles with lipid membranes.
+Induction of terminal differentiation in melanoma cells on downregulation of β-amyloid precursor protein.
+Limited intermixing of synaptic vesicle components upon vesicle recycling.
+One SNARE complex is sufficient for membrane fusion.
+Quantitative comparison of glutamatergic and GABAergic synaptic vesicles unveils selectivity for few proteins including MAL2, a novel synaptic vesicle protein.
+The ribosome goes Nobel.
+Shuttle DNP spectrometer with a two-center magnet.
+The native conformation of the human VDAC1 N terminus.
+Two-color STED microscopy reveals different degrees of colocalization between hexokinase-I and the three human VDAC isoforms.
+An approach for de novo structure determination of dynamic molecular assemblies by electron cryomicroscopy.
+Ribosome dynamics and tRNA movement by time-resolved electron cryomicroscopy.
+Nanosecond dynamics of photoexcited lyotropic liquid crystal structures.
+A genetic system to assess in vivo the functions of histones and histone modifications in higher eukaryotes.
+Lipid droplets: A dynamic organelle moves into focus.
+Nanoscale engineering and optical addressing of single spins in diamond.
+Energy homeostasis regulation in Drosophila: A lipocentric perspective.
+Structure and dynamics of a two-helix SNARE complex in live cells.
+Complexin2 null mutation requires a ‘second hit’ for induction of phenotypic changes relevant to schizophrenia.
+Probing water accessibility in HET-s(218–289) amyloid fibrils by solid-state NMR.
+Merging molecular electron microscopy and mass spectrometry by carbon film-assisted endoproteinase digestion.
+Biological dose estimation of UVA laser microirradiation utilizing charged particle-induced protein foci.
+Structural and kinetic characterization of human deoxycytidine kinase variants able to phosphorylate 5-substituted deoxycytidine and thymidine analogues.
+miR-212 and miR-132 are required for epithelial stromal interactions necessary for mouse mammary gland development.
+Real-time MRI at a resolution of 20 ms.
+Highly specific antibodies for co-detection of human choline kinase α1 and α2 isoforms.
+Entacapone and Tolcapone, two catechol-O-methyltransferase inhibitors (ICOMT), block fibril formation of {alpha}-synuclein and {beta}-amyloid and protect against amyloid-induced toxicity.
+Distribution of resting and ligand-bound ErbB1 and ErbB2 receptor tyrosine kinases in living cells using number and brightness analysis.
+Tailored low-power cross-polarization under fast magic-angle spinning.
+Estimating absolute configurational entropies of macromolecules: The minimally coupled subspace approach.
+A Syd-1 homologue regulates pre- and postsynaptic maturation in Drosophila.
+Automated pipeline for atlas-based annotation of gene expression patterns: Application to postnatal day 7 mouse brain.
+Fast STED microscopy with continuous wave fiber lasers.
+Protein Tpr is required for establishing nuclear pore-associated zones of heterochromatin exclusion.
+Reconstruction and dissection of the entire human visual pathway using diffusion tensor MRI.
+Ultrathin nucleoporin FG repeat films and their interaction with nuclear transport receptors.
+Coilin-dependent snRNP assembly is essential for zebrafish embryogenesis.
+Liquid-ordered phases induced by cholesterol: A compendium of binary phase diagrams.
+Membrane microheterogeneity: Förster resonance energy transfer characterization of lateral membrane domains.
+Probing molecular motion by double-quantum (13C,13C) solid-state NMR spectroscopy: application to ubiquitin.
+Identification of hoxb1b downstream genes: hoxb1b as a regulatory factor controlling transcriptional networks and cell movement during zebrafish gastrulation.
+Optimization of dynamic nuclear polarization experiments in aqueous solution at 15 MHz/9.7 GHz: a comparative study with DNP at 140 MHz/94 GHz.
+Protein synthesis meets ABC ATPases: new roles for Rli1/ABCE1
+Effects in 94 GHz orientation-selected PELDOR on a rigid pair of radicals with non-collinear axes.
+g_membed: Efficient insertion of a membrane protein into an equilibrated lipid bilayer with minimal perturbation.
+Fast vesicle fusion in living cells requires at least three SNARE complexes.
+Scrutinizing molecular mechanics force fields on the submicrosecond timescale with NMR data.
+A versatile route to red-emitting carbopyronine dyes for optical microscopy and nanscopy.
+Evolution of CASK into a Mg2+-sensitive kinase.
+Electron spin resonance in membrane research: protein-lipid interactions from challenging beginnings to state of the art.
+Role of the synaptobrevin C terminus in fusion pore formation.
+Dynamics of SRP-ribosome interactions.
+Functional principles of the permeability barrier that guards vertebrate nuclear pore complexes.
+Macaque ganglion cell responses to probe stimuli on modulated backgrounds.
+Reflectivity measurements on liquid water with free electron laser radiation.
+Paraffin-embedded and frozen sections of Drosophila adult muscles.
+Functional analysis of mitochondrial sirtuins in C. elegans and mammalian cells
+Enhanced generation of single optically active spins in diamond by ion implantation.
+Nickel related optical centres in diamond created by ion implantation.
+Complex formation and light activation in membrane-embedded sensory rhodopsin II as seen by solid-state NMR spectroscopy.
+Time averaging of NMR chemical shifts in the MLF peptide in the solid state.
+What stabilizes the 314-helix in beta3-peptides? A conformational analysis using molecular simulation.
+Energy dissipation in microfluidic beam resonators.
+Synaptic vesicles studied by SAXS: Derivation and validation of a model form factor.
+Binding of glutamate to the umami receptor.
+Quantitative analysis of Förster resonance energy transfer from spectrally resolved fluorescence measurements.
+Vibrational overtone excitation in electron mediated energy transfer at metal surfaces.
+Site-specific photocatalytic splitting of methanol on TiO2(110).
+Absolute configuration and docking study of canescensterone, a potent phytoecdysteroid, with non-lepidopteran ecdysteroid receptor selectivity.
+SNARE protein recycling by alpha SNAP and beta SNAP supports synaptic vesicle priming.
+The binding mode of side chain- and C3-modified epothilones to tubulin.
+Bicoid - morphogen function revisited.
+Mutual capture of dipolar molecules at low and very low energies. I. Approximate analytical treatment.
+Formation of a Bazooka-Stardust complex is essential for plasma membrane polarity in epithelia.
+Bioinorganic chemistry of Parkinson's disease: Structural determinants for the copper-mediated amyloid formation of Alpha-Synuclein.
+Ultrafast intramolecular charge transfer with N-(4-cyanophenyl)carbazole. Evidence for a LE precursor and dual LE plus ICT fluorescence.
+The transcription factor HNF1 alpha regulates expression of chloride-proton exchanger ClC-5 in the renal proximal tubule.
+Spectral properties of molecular charge-transfer probe QMOM.
+Functional dynamics in the voltage-dependent anion channel.
+Pentacyano-N,N-dimethylaniline in the excited state. Only locally excited state emission, in spite of the large electron affinity of the pentacyanobenzene subgroup.
+Characterization of LIN-61 methyl mark binding and its function in C. elegans vulva development.
+Towards a recombinant in vitro translation system from wheat.
+Effects of heterochromatin protein 1 on chromatin transcription and architecture
+Generation of tunable narrow bandwidth nanosecond pulses in the deep ultraviolet for efficient optical pumping and high resolution spectroscopy.
+In situ real-time monitoring of Pt-VO2 nanoparticle-nanowire assembly by GISAXS.
+Temperature and pressure dependence of the reaction 2CF(3) (+ M) double left right arrow C2F6 (+ M).
+Shock wave study of the thermal decomposition of CF3 and CF2 radicals.
+Induction of terminal differentiation in melanoma cells on downregulation of beta-amyloid precursor protein.
+A coiled coil trigger site is essential for rapid binding of synaptobrevin to the SNARE acceptor complex.
+Effect of the Delta Phe residue configuration on a didehydropeptides conformation: A combined CD and NMR study.
+Experimental and modeling study of thermal rate coefficients and cross sections for electron attachment to C60
+Applicability of an EM-CCD for spatially resolved TIR-ICS.
+The modulation of synaptic transmission at the Calyx of Held synapse.
+Quantum register based on coupled electron spins in a room-temperature solid.
+Electron capture by finite-size polarizable molecules and clusters.
+2-aminopurine incorporation perturbs the dynamics and structure of DNA.
+A new approach to fluorescence microscopy.
+Erucylphosphohomocholine, the first intravenously applicable alkylphosphocholine, is cytotoxic to acute myelogenous leukemia cells through JNK- and PP2A-dependent mechanisms.
+Retinal connectivity and primate vision.
+Cortical domain correction repositions the polarity boundary to match the cytokinesis furrow in C. elegans embryos.
+3D cryo-EM structure of an active step I spliceosome and localization of its catalytic core.
+Structural and functional analysis of the NusB-S10 complex shared between transcription and translation.
+Chromatin methylation activity of Dnmt3a and Dnmt3a/3L is guided by interaction of the ADD domain with the histone H3 tail.
+Quantum chemical characterization of low-lying excited states of an aryl peroxycarbonate: Mechanistic implications for photodissociation.
+Assignment of carotene S* state features to the vibrationally hot ground electronic state.
+A novel Nop5–sRNA interaction that is required for efficient archaeal box C/D sRNP formation.
+Furin-mediated proteolytic activation of Drosophila FGF homologue branchless.
+Erufosine, a novel alkylphosphocholine, induces apoptosis in CLL through a caspase-dependent pathway.
+Circadian clocks and metabolism
+TiO2 nanowire growth driven by phosphorus-doped nanocatalysis.
+Substrate binding on the APC/C occurs between the coactivator Cdh1 and the processivity factor Doc1.
+Functional organization of the Sm core in the crystal structure of human U1 snRNP.
+Some currently neglected aspects of cholinergic function.
+E2F1-inducible microRNA 449a/b suppresses cell proliferation and promotes apoptosis.
+Endosomal sorting of readily releasable synaptic vesicles.
+Far-field optical imaging and manipulation of individual spins with nanoscale resolution.
+Voltage-regulated water flux through aquaporin channels in silico.
+Identification of novel spinal cholinergic genetic subtypes disclose Chodl and Pitx2 as markers for fast motor neurons and partition cells.
+Sound-driven fluid dynamics in pressurized carbon dioxide.
+Automatic assignment of the intrinsically disordered protein Tau with 441-residues.
+The β-ketoadipate pathway of Acinetobacter baylyi undergoes carbon catabolite repression, cross-regulation and vertical regulation, and is affected by Crc.
+Contribution of the radical-complex mechanism to the rate of the reaction CH3 + O-2 (+ M) -> CH3O2 (+ M) at high pressures.
+Detection and identification of protein-phosphorylation sites in histidines through HNP correlation patterns.
+Q&A: Single-molecule localization microscopy for biological imaging.
+Organization and properties of a novel amphiphilic crown-ether dye in monolayers at the air/water interface.
+Mechanobiology: Correlation between mechanical stability of microcapsules studied by AFM and impact of cell-induced stresses.
+Sub-optical resolution of single spins using magnetic resonance imaging at room temperature in diamond.
+Necessary and sufficient conditions for linear convergence of ℓ1-regularization.
+Opposing functions of two sub-domains of the SNARE-complex in neurotransmission.
+Complexin: Does it deserve its name?
+The mechanisms underlying synaptic transmission at the layer 4 of sensory cortical areas.
+Epigenetic markers and their cross-talk.
+Chemical synthesis of modified RNA.
+Sparsity in inverse geophysical problems.
+Sensing ligands by periplasmic sensing histidine kinases with sensory PAS domains.
+How the cholinesterases got their modern names.
+VDAC, a multi-functional mitochondrial protein regulating cell life and death.
+NMR characterization of long-range order in intrinsically disordered proteins.
+Characterization of purified human Bact spliceosomal complexes reveals compositional and morphological changes during spliceosome activation and first step catalysis.
+Sensing by the membrane-bound sensor kinase DcuS: Exogenous versus endogenous sensing of C-4-dicarboxylates in bacteria.
+Combinatorial mutation interference analysis reveals functional nucleotides required for DNA catalysis.
+Reaction networks for interstellar chemical modelling: Improvements and challenges.
+MicroRNA-449a levels increase by several orders of magnitude during mucociliary differentiation of airway epithelia.
+Optimization of speed and accuracy of decoding in translation.
+The cross-sectional GRAS sample: A comprehensive phenotypical data collection of schizophrenic patients.
+The absolute configuration of dibromopalau'amine.
+Size of thermosensitive liposomes influences content release.
+Correlation of Car S1 -> Chl with Chl -> Car S1 energy transfer supports the excitonic model in quenched light harvesting complex II.
+Functional analysis of transcription factor mScrt2 in cortical neurogenesis.
+1H, 13C and 15N resonance assignments of the Calmodulin-Munc13-1 peptide complex.
+Rotational and vibrational cooling in pulsed high-pressure molecular beam expansions from 3 bar into the supercritical regime.
+Correlation of electronic carotenoid-chlorophyll interactions and fluorescence quenching with the aggregation of native LHC II and chlorophyll deficient mutants.
+Identification and characterization of novel classes of macrophage migration inhibitory factor (MIF) inhibitors with distinct mechanisms of action.
+Locus ceruleus controls Alzheimer's disease pathology by modulating microglial functions through norepinephrine.
+Characterization of amyloid fibrils of human beta-2-microglobulin by high-resolution magic-angle spinning NMR.
+Interaction of Epothilone B (Patupilone) with microtubules as detected by two-dimensional solid-state NMR spectroscopy.
+Tin-oxide-nanowire-based electronic nose using heterogeneous catalysis as a functionalization strategy.
+Surface three-dimensional velocity map imaging: A new technique for the study of photodesorption dynamics.
+First steps towards probing chemical systems and dynamics with free-electron laser radiation–case studies at the FLASH facility.
+A common origin of synaptic vesicles undergoing evoked and spontaneous fusion.
+Proteomic basics — quantification and post-translational modifications of proteins: The 3rd European Summer School in Kloster Neustift.
+Drosophila as a lipotoxicity model organism - more than a promise?
+Protein localization in electron micrographs using fluorescence nanoscopy.
+Molecular orientation affects localization accuracy in superresolution far-field fluorescence microscopy.
+Quantum dot blueing and blinking enables fluorescence nanoscopy.
+g_wham-A free weighted histogram analysis implementation including robust error and autocorrelation estimates.
+Ribosome dynamics and tRNA movement by time-resolved electron cryomicroscopy
+Ultrafast solvation dynamics of 12′-apo-β-carotenoic-12′-acid in [C6mim]+[Tf2N]−.
+The role and regulation of Dystrophin glycoprotein complex in muscular dystrophy development in Drosophila.
+On the self-regularization property of the EM algorithm for Poisson inverse problems.
+Locking of the intrinsic angular momentum in the capture of quadrupole diatoms by ions.
+Intrinsic shape analysis: Geodesic principal component analysis for Riemannian manifolds modulo Lie group actions. Discussion paper with rejoinder.
+Chemical RNA modifications for studies of RNA structure and dynamics.
+Sleep, immunity, and circadian clocks: A mechanistic model.
+The intermembrane space domain of Tim23 is intrinsically disordered with a distinct binding region for presequences.
+TRIM24 links a non-canonical histone signature to breast cancer.
+Stimulated emission depletion microscopy with stimulated Raman scattering light sources.
+High sensitivity magnetic imaging using an array of spins in diamond.
+Crystal structure analysis of selenocysteine biosynthesis components.
+Identification and characterization of ADNP as a novel heterochromatin component.
+Mixed monolayers of a rhodamine derivative.
+Rapid FlAsH labelling in the budding yeast Saccharomyces cerevisiae.
+Toward attogram mass measurements in solution with suspended nanochannel resonators.
+Spatiotemporally restricted regulation of generic motor neuron programs by miR-196-mediated repression of Hoxb8.
+Quantum-classical modeling of photoisomerization of polyatomic molecules.
+t-SNARE protein conformations patterned by the lipid microenvironment.
+Modeling the growth of fingerprints improves matching for adolescents.
+The Akt-inhibitor Erufosine induces apoptotic cell death in prostate cancer cells and increases the short term effects of ionizing radiation.
+cAMP modulates intracellular Ca2+ sensitivity of fast-releasing synaptic vesicles at the calyx of Held synapse.
+Molten globule precursor states are conformationally correlated to amyloid fibrils of human β-2-microglobulin.
+Thermal stability of the human immunodeficiency virus type 1 (HIV-1) receptors, CD4 and CXCR4, reconstituted in proteoliposomes.
+Quantification of protein-lipid selectivity using FRET.
+Growth direction determination of a single RuO2 nanowire by polarized Raman spectroscopy.
+A surface femtosecond two-photon photoemission spectrometer for excited electron dynamics and time-dependent photochemical kinetics.
+The ribosome goes Nobel
+Detection of fast diffusing molecules in the membrane of living cells.

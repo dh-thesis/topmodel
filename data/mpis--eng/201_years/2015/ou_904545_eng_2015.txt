@@ -1,0 +1,73 @@
+Absolute measurement of radiative and Auger rates of K-shell-vacancy states in highly charged Fe ions
+Collinear Laser Spectroscopy on Neutron-rich Mn Isotopes Approaching N = 40
+TRIGA-SPEC: the prototype of MATS and LaSpec
+Kinematically complete study of low-energy electron-impact ionization of neon: Internormalized cross sections in three-dimensional kinematics
+Penning trap mass measurements utilizing highly charged ions as a path to benchmark isospin-symmetry breaking corrections in 74Rb
+Observation of a crossover of S2n in the island of inversion from precision mass spectrometry
+Storage ring cross section measurements for electron impact ionization of Fe7+
+Deceleration, precooling, and multi-pass stopping of highly charged ions in Be+ Coulomb crystals
+Mass Measurements Demonstrate a Strong N = 28 Shell Gap in Argon
+Generation of neutral atomic beams utilizing photodetachment by high power diode laser stacks
+Indirect mass determination for the neutron-deficient nuclides 44V, 48Mn, 52Co and 56Cu
+Signatures and control of strong-field dynamics in a complex system
+Magnetism of an Excited Self-Conjugate Nucleus: Precise Measurement of the g Factor of the 21+ State in 24Mg
+Attosecond XUV absorption spectroscopy of doubly excited states in helium atoms dressed by a time-delayed femtosecond infrared laser
+Negative Ions in Cold Storage
+The g-factor of highly charged ions
+Dressing Effects in the Attosecond Transient Absorption Spectra of Doubly Excited States in Helium
+Precision Test of Many-Body QED in the Be+ 2p Fine Structure Doublet Using Short-Lived Isotopes
+Probing calculated O2+ potential-energy curves with an XUV-IR pump-probe experiment
+Electron-impact-induced dissociation of small argon clusters
+Linear polarization of x-ray transitions due to dielectronic recombination in highly charged ions
+The electron mass from g-factor measurements on hydrogen-like carbon 12C5+
+Collinear laser spectroscopy of atomic cadmium
+The TITAN in-trap decay spectroscopy facility at TRIUMF
+Single-photon excitation of Kα in heliumlike Kr34+: Results supporting quantum electrodynamics predictions
+Unified model for cosmic rays above 1017 eV and the diffuse gamma-ray and neutrino backgrounds
+Investigation of the momentum compaction factor of the ESR thorough Schottky mass measurements
+Nuclear astrophysics experiments at storage rings: midterm perspectives at GSI
+Towards ultrahigh-resolution multi-reflection time-of-flight mass spectrometry at ISOLTRAP
+APPA at FAIR: From fundamental to applied research
+H.E.S.S. reveals a lack of TeV emission from the supernova remnant Puppis A
+Creation and survival of autoionizing states in strong laser fields
+Between atomic and nuclear physics: radioactive decays of highly-charged ions
+Radioactive decays of highly-charged ions
+Probing the N = 32 Shell Closure below the Magic Proton Number Z = 20: Mass Measurements of the Exotic Isotopes 52,53K
+Experimental and theoretical study of electron-impact ionization plus excitation of aligned H2
+High-precision comparison of the antiproton-to-proton charge-to-mass ratio
+Evidence for Increased neutron and proton excitations between 51−63Mn
+A reservoir trap for antiprotons
+Investigation of the heavy-ion mode in the FAIR High Energy Storage Ring
+Identification of the Predicted 5s−4f Level Crossing Optical Lines with Applications to Metrology and Searches for the Variation of Fundamental Constants
+An Investigation of the Accuracy of the PI-ICR Technique at SHIPTRAP by a measurement of the mass difference between 132Xe and 131Xe
+Schottky mass spectrometry on 152Sm projectile fragments
+Preparatory studies for a high-precision Penning-trap measurement of the 163Ho electron capture Q-value
+Aufbau einer neuen XUV-Quelle und 2D Simulation von Wellenpaketdynamik in H+2 -Molekülen
+First measurement of the 96Ru( p,γ )97Rh cross section for the p process with a storage ring
+Polarization measurement of dielectronic recombination transitions in highly charged krypton ions
+Isotope shift of 40,42,44,48Ca in the 4s2S1/2→4p2P3/2 transition
+First isochronous mass measurements with two time-of-flight detectors at CSRe
+Direct Measurement of the Mass Difference of 163Ho and 163Dy Solves the Q-Value Puzzle for the Neutrino Mass Determination
+Precision mass measurements of short-lived nuclides at the heavy-ion storage ring in Lanzhou
+Increased isomeric lifetime of hydrogen-like 192mOs
+Mass Measurement of 56Sc Reveals a Small A = 56 Odd-Even Mass Staggering, Implying a Cooler Accreted Neutron Star Crust
+Cryogenic micro-calorimeters for mass spectrometric identification of neutral molecules and molecular fragments
+Spreading times of ion-bunches in the Cryogenic Trap forFast ion beams
+Precision Mass Measurements of 129–131Cd and Their Impact on Stellar Nucleosynthesis via the Rapid Neutron Capture Process
+Electron detachment and fragmentation of laser-excited rotationally hot Al4−
+BASE – the baryon antibaryon symmetry experiment
+Negative Ion Chemistry in the Early Universe
+Ground-state electromagnetic moments of calcium isotopes
+Comment on ‘‘Atomic mass compilation 2012’’ by B. Pfeiffer, K. Venkataramaniah, U. Czok, C. Scheidenberger
+High-resolution (e, 2e + ion) study of electron-impact ionization and fragmentation of methane
+The electron-impact double ionization of helium: Dynamical variational treatment
+Origin of Symmetric PMNS and CKM Matrices
+Direct mass measurements of neutron-rich 86Kr projectile fragments and the persistence of neutron magic number N=32 in Sc isotopes
+Report on a computer-controlled automatic test platform for precision RF cavity characterizations
+Study of projectile fragmentation reaction with isochronous mass spectrometry
+Experiments with Stored Highly Charged Ions at the Border between Atomic and Nuclear Physics
+Coulomb crystallization of highly charged ions
+Spins and magnetic moments of 58,60,62,64Mn ground states and isomers
+An efficient, movable single-particle detector for use in cryogenic ultra-high vacuum environments
+Absolute measurement of radiative and Auger rates of K−shell−vacancy states in highly charged Fe ions
+Low-Background In-Trap Decay Spectroscopy with TITAN at TRIUMF

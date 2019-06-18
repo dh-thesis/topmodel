@@ -1,0 +1,31 @@
+Integrative Analysis of microarray data - a path for systems toxicology.
+Human box C/D snoRNAs with miRNA like functions : expanding the range of regulatory RNAs
+Copy-number variations involving the IHH locus are associated with syndactyly and craniosynostosis.
+NOA1 is an essential GTPase required for mitochondrial protein synthesis
+The expression pattern of dormancy-associated genes in multiple life-history stages in the rotifer Brachionus plicatilis
+ConsensusPathDB : toward a more complete picture of cell biology
+Genome-wide expression profiling of urinary bladder implicates desmosomal and cytoskeletal dysregulation in the bladder exstrophy-epispadias complex
+Ortho2ExpressMatrix--a web server that interprets cross-species gene expression data by gene family information
+ConsensusPathDB: toward a more complete picture of cell biology
+Epigenetic Analysis of Human Embryonic Stem Cells: Basics, Computational Methods, Applications
+Huntington's Disease: from Molecular Basis to Therapeutic Advances.
+Toll-like receptor (TLR-7/9), MYOD88, TIR8, dependent and independent autoantigens.
+Global molecular and cellular measurement technologies.
+JKTBP (HNRNPDL) is a novel toll7/9 dependent target in humans and animal models of inflammatory rheumatic diseases.
+Comparative Analysis of Human Embryonic Stem Cell and Induced Pluripotent Stem Cell-Derived Hepatocyte-Like Cells Reveals Current Drawbacks and Possible Strategies for Improved Differentiation
+The KRAB-containing zinc-finger transcriptional regulator ZBRK1 activates SCA2 gene transcription through direct interaction with its gene product, ataxin-2
+Mutations in the Sarcomere Protein Gene MYH7 in Ebstein's Anomaly
+Diversity visualization by endonuclease: A rapid assay to monitor diverse nucleotide libraries.
+Network-like Impact of MicroRNAs on Neuronal Lineage Differentiation of Unrestricted Somatic Stem Cells from Human Cord Blood (USSC)
+Alzheimer's Disease-Associated Ubiquilin-1 Regulates Presenilin-1 Accumulation and Aggresome Formation.
+Modeling read counts for CNV detection in exome sequencing data
+Quantitative analysis of transient and sustained transforming growth factor-β signaling dynamics
+The Cardiac Transcription Network Modulated by Gata4, Mef2a, Nkx2.5, Srf, Histone Modifications, and MircoRNAs
+Time-dependent quantitative multicomponent control of the G1-S network by the stress-activated protein kinase Hog1 upon osmostress
+Rnf12 – A Jack of All Trades in X Inactivation
+Probing the SELEX Process with Next-Generation Sequencing
+Rnf12--a jack of all trades in X inactivation?
+Sensitivity analysis approaches applied to systems biology models
+Lipoic acid synthetase deficiency causes neonatal-onset epilepsy, defective mitochondrial energy metabolism, and glycine elevation
+SBML-PET-MPI: a parallel parameter estimation tool for Systems Biology Markup Language based models
+Global Analysis of Ubiquitination

@@ -1,0 +1,86 @@
+Type I IFN signaling triggers immunopathology in tuberculosis-susceptible mice by modulating lung phagocyte dynamics
+Post-transcriptional silencing of UIS4 in Plasmodium berghei sporozoites is important for host switch
+The Balancing Act of Neutrophils
+Bacterial itaconate degradation promotes pathogenicity
+Combined efforts in immunology and vaccinology will lead to effective vaccines against HIV, tuberculosis and malaria
+The Plasmodium protein P113 supports efficient sporozoite to liver stage conversion in vivo
+Human RORγt+CD34+ Cells Are Lineage-Specified Progenitors of Group 3 RORγt+ Innate Lymphoid Cells
+Comparison of Etests and Vitek 2® to broth microdilution for the susceptibility testing of Cryptococcus neoformans
+Dynamin-mediated lipid acquisition is essential for Chlamydia trachomatis development
+The promise and challenge of high-throughput sequencing of the antibody repertoire
+Single-cell based high-throughput sequencing of full-length immunoglobulin heavy and light chain genes
+Adult Stem Cell Niches — Stem Cells in the Female Reproductive System
+Chlamydia infection depends on a functional ​MDM2-​p53 axis
+A Myeloperoxidase-Containing Complex Regulates Neutrophil Elastase Release and Actin Dynamics during NETosis
+Feeling at home from arrival to departure: protein export and host cell remodelling during Plasmodium liver stage and gametocyte maturation
+HIV Subtype Influences HLA-B*07:02-Associated HIV Disease Outcome
+Lack of microbiota reduces innate responses and enhances adaptive immunity against Listeria monocytogenes infection
+The BCG replacement vaccine VPM1002: from drawing board to clinical trial
+Genetic crosses and complementation reveal essential functions for the Plasmodium stage-specific actin2 in sporogonic development
+Improved Plaque Assay Identifies a Novel Anti-Chlamydia Ceramide Derivative with Altered Intracellular Localization
+Chlamydia trachomatis remodels stable microtubules to coordinate Golgi stack recruitment to the chlamydial inclusion surface
+Comparison of Amplicor and GeneXpert MTB/RIF Tests for Diagnosis of Tuberculous Meningitis
+NKT Cells Determine Titer and Subtype Profile of Virus-Specific IgG Antibodies during Herpes Simplex Virus Infection
+On One Leg: Trehalose Monoesters Activate Macrophages in a Mincle-Dependant Manner
+Environments of B cell development
+AhR sensing of bacterial pigments regulates antibacterial defence
+CisMiner: Genome-Wide In-Silico Cis-Regulatory Module Prediction by Fuzzy Itemset Mining
+Central Memory CD4+ T Cells Are Responsible for the Recombinant Bacillus Calmette-Guérin ΔureC::hly Vaccine's Superior Protection Against Tuberculosis
+The Fitness Landscape of HIV-1 Gag: Advanced Modeling Approaches and Validation of Model Predictions by In Vitro Testing
+Communication between human dendritic cell subsets in tuberculosis: requirements for naive CD4+ T cell stimulation
+Antigen Export during Liver Infection of the Malaria Parasite Augments Protective Immunity
+Challenges and responses in human vaccine development
+Copper-transporting ATPase is important for malaria parasite fertility
+Crosstalk between human DC subsets promotes antibacterial activity and CD8+ T-cell stimulation in response to bacille Calmette-Guérin
+DoMosaics: software for domain arrangement visualization and domain-centric analysis of proteins
+Compartmentalization of innate immune responses in the central nervous system during cryptococcal meningitis/HIV coinfection
+Tumor necrosis factor alpha in mycobacterial infection
+Nef-mediated down-regulation of CD4 and HLA class I in HIV-1 subtype C infection: Association with disease progression and influence of immune pressure
+Phosphatidylethanolamine Synthesis in the Parasite Mitochondrion Is Required for Efficient Growth but Dispensable for Survival of Toxoplasma gondii
+The amount of self-antigen determines the effector function of murine T cells escaping negative selection
+Host-directed therapy of tuberculosis: what is in it for microRNA?
+IcsA Is a Shigella flexneri Adhesin Regulated by the Type III Secretion System and Required for Pathogenesis
+Immunity to Mycobacterium tuberculosis
+Serologic diagnosis of tuberculosis by combining Ig classes against selected mycobacterial targets
+Evidence of natural Wolbachia infections in field populations of Anopheles gambiae
+Identification of Vital and Dispensable Sulfur Utilization Factors in the Plasmodium Apicoplast
+TRANSVAC workshop on standardisation and harmonisation of analytical platforms for HIV, TB and malaria vaccines: ‘How can big data help?’
+Transcriptome-wide analysis of microRNA expression in the malaria mosquito Anopheles gambiae
+Bällchen participates in proliferation control and prevents the differentiation of Drosophila melanogaster neuronal stem cells
+Macrophage arginase-1 controls bacterial growth and pathology in hypoxic tuberculosis granulomas
+Progress in tuberculosis vaccine development and host-directed therapies—a state of the art review
+Short Communication: Lower Baseline CD4 Count Is Associated with a Greater Propensity Toward Virological Failure in a Cohort of South African HIV Patients
+Differential gene expression of activating Fcγ receptor classifies active tuberculosis regardless of human immunodeficiency virus status or ethnicity
+CXCL5-secreting pulmonary epithelial cells drive destructive neutrophilic inflammation in tuberculosis
+TLR3 regulates mycobacterial RNA-induced IL-10 production through the PI3K/AKT signaling pathway
+Effects of selective digestive decontamination (SDD) on the gut resistome
+Lung-Residing Myeloid-derived Suppressors Display Dual Functionality in Murine Pulmonary Tuberculosis
+Analysis of protein species differentiation among mycobacterial low-Mr-secreted proteins by narrow pH range Immobiline gel 2-DE-MALDI-MS
+In Vivo IFN-γ Secretion by NK Cells in Response to Salmonella Typhimurium Requires NLRC4 Inflammasomes
+Dietary Pyridoxine Controls Efficacy of Vitamin B6-Auxotrophic Tuberculosis Vaccine Bacillus Calmette-Guérin ΔureC::hly Δpdx1 in Mice
+Reverse translation in tuberculosis: neutrophils provide clues for understanding development of active disease
+Platelets Direct Monocyte Differentiation Into Epithelioid-Like Multinucleated Giant Foam Cells With Suppressive Capacity Upon Mycobacterial Stimulation
+The Cofilin Phosphatase Slingshot Homolog 1 (SSH1) Links NOD1 Signaling to Actin Remodeling
+Combined immunodeficiency develops with age in Immunodeficiency-centromeric instability-facial anomalies syndrome 2 (ICF2)
+Mycobacterium tuberculosis in the Proteomics Era
+Induction and Quantification of Neutrophil Extracellular Traps
+The proteomics quantification dilemma
+Eimeria falciformis infection of the mouse caecum identifies opposing roles of IFNγ-regulated host pathways for the parasite development
+Signatures of malaria vaccine efficacy in ageing murine immune memory
+Tuberculosis vaccine development at a divide
+IL-35-producing B cells are critical regulators of immunity during autoimmune and infectious diseases
+Novel Vaccination Strategies against Tuberculosis
+Selection bias at the heterosexual HIV-1 transmission bottleneck
+Cellular Requirements for Systemic Control of Salmonella enterica Serovar Typhimurium Infections in Mice
+Mosquito defenses against Plasmodium parasites
+Introduction
+Chlamydia trachomatis Inhibits Inducible NO Synthase in Human Mesenchymal Stem Cells by Stimulating Polyamine Synthesis
+Perspectives on host adaptation in response to Mycobacterium tuberculosis: Modulation of inflammation
+The Spatiotemporal Dynamics and Membranous Features of the Plasmodium Liver Stage Tubovesicular Network
+A female gametocyte-specific ABC transporter plays a role in lipid metabolism in the malaria parasite
+Regulatory T Cells Expanded from HIV-1-Infected Individuals Maintain Phenotype, TCR Repertoire and Suppressive Capacity
+Combination of gene expression patterns in whole blood discriminate between tuberculosis infection states
+Recent advances towards tuberculosis control: vaccines and biomarkers
+Analysis of T4SS-induced signaling by H. pylori using quantitative phosphoproteomics
+Histone supply regulates S phase timing and cell cycle progression
+Helicobacter pylori vacA genotype is a predominant determinant of immune response to Helicobacter pylori CagA

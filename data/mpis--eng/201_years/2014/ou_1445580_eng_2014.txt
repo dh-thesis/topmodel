@@ -1,0 +1,174 @@
+Semiempirical Quantum Chemistry on High-Performance Heterogeneous Computers
+Solvent-induced conformational changes in cyclic peptides: a vibrational circular dichroism study
+Toward QM/MM Simulation of Enzymatic Reactions with the Drude Oscillator Polarizable Force Field
+Assessing the density functional theory-based multireference configuration interaction (DFT/MRCI) method for transition metal complexes
+A Novel Boron Heterocycle Comprised of an Inner Boronium/Borate Adduct
+Crystal Structures of Homoleptic Propynyloargentates AI[Ag(C3H3)2] with AI = Ag, Li, Na Solved and Refined from X-ray Powder Diffraction Data
+A Study on the Growth of Cr2O3 in Ordered Mesoporous Silica and Its Replication
+Toward Molecular Recognition: Three-Point Halogen Bonding in the Solid State and in Solution
+Bifunctional nanoparticle–SILP catalysts (NPs@SILP) for the selective deoxygenation of biomass substrates
+Direct observation and analysis of york-shell materials using low-voltage high-resolution scanning electron microscopy: Nanometal-particles encapsulated in metal-oxide, carbon, and polymer
+Surface Hopping Dynamics with Correlated Single-Reference Methods: 9H-Adenine as a Case Study
+Obituary Hellmut G. Karge (1931–2013)
+Development and Application of Hybrid Quantum Mechanical/Molecular Mechanical Methods with an Emphasis on the Implementation of a Fully Polarizable Model
+Enhancing hydrogen production of microalgae by redirecting electrons from photosystem I to hydrogenase
+Basic Tilted Helix Bundle – A new protein fold in human FKBP25/FKBP3 and HectD1
+Directed evolution of stereoselective enzymes based on genetic selection as opposed to screening systems
+Crystal structure and microstructural changes of molybdenum nitrides traces during catalytic reaction by in situ X-ray diffraction studies.
+Increasing the activity and enantioselectivity of lipases by sol–gel immobilization: further advancements of practical interest.
+Palladium-Catalysed Amination of Aryl- and Heteroaryl Halides Using tert-Butyl Tetraisopropylphosphorodiamidite as an Easily Accessible and Air-Stable Ligand
+Oxidation of Bioethanol using Zeolite-Encapsulated Gold Nanoparticles
+Ruthenium-Catalyzed Reductive Methylation of Imines Using Carbon Dioxide and Molecular Hydrogen
+Ordered mesoporous Cu–Ce–O catalysts for CO preferential oxidation in H2-rich gases: Influence of copper content and pretreatment conditions
+What Matters?
+Plant Biomass Fractionation Meets Catalysis
+One Hundred Years of the Max‐Planck‐Institut für Kohlenforschung.
+Organocatalytic Asymmetric Hydrolysis of Epoxides
+Confined-Space Alloying of Nanoparticles for the Synthesis of Efficient PtNi Fuel-Cell Catalysts
+Synthesis of non-siliceous mesoporous oxides
+Rapid Access to β-Trifluoromethyl-Substituted Ketones: Harnessing Inductive Effects in Wacker-Type Oxidations of Internal Alkenes
+Role of Two Alternate Water Networks in Compound I Formation in P450eryF
+Generalized trajectory surface-hopping method for internal conversion and intersystem crossing
+Synthesis, Structure, and Applications of Pyridiniophosphines
+Ruthenium-Catalyzed trans-Selective Hydrostannation of Alkynes
+Gold Carbenoids: Lessons Learnt from a Transmetalation Approach
+Coordination Chemistry of Cyclopropenylidene-Stabilized Phosphenium Cations: Synthesis and Reactivity of Pd and Pt Complexes
+Ruthenium catalyzed synthesis of γ-valerolactone and 2-methyltetrahydrofuran from lignocellulosic-based compounds
+Efficient, solvent-free hydrogenation of α-angelica lactone catalysed by Ru/C at atmospheric pressure and room temperature
+Photochemical Deactivation Process of HCFC-133a (C2H2F3Cl): A Nonadiabatic Dynamics Study
+Activation of Carboxylic Acids in Asymmetric Organocatalysis
+Catalyst-Controlled Wacker-Type Oxidation: Facile Access to Functionalized Aldehydes
+Platinum-cobalt bimetallic nanoparticles in hollow carbon nanospheres for hydrogenolysis of 5-hydroxymethylfurfural
+Asymmetric Disulfonimide-Catalyzed Synthesis of δ-Amino-β-Ketoester Derivatives by Vinylogous Mukaiyama–Mannich Reactions
+On the Solvent-free Structure of a Jäger-type Cobalt(II) N2O2-Chelate
+Observation of Nano-Dewetting in Colloidal Crystal Drying
+Catalytic Asymmetric Torgov Cyclization: A Concise Total Synthesis of (+)-Estrone
+PhenoFluor: Practical Synthesis, New Formulation, and Deoxyfluorination of Heteroaromatics
+Flexibility versus rigidity: what determines the stability of zeolite frameworks? A case study
+Highly microporous monodisperse silica spheres synthesized by the Stöber process
+Guanidine and guanidinium cation in the excited state—theoretical investigation
+Highly Versatile Catalytic Hydrogenation of Carboxylic and Carbonic Acid Derivatives using a Ru-Triphos Complex: Molecular Control over Selectivity and Substrate Scope
+Online normal-phase high-performance liquid chromatography/Fourier transform ion cyclotron resonance mass spectrometry: Effects of different ionization methods on the characterization of highly complex crude oil mixtures
+Hydrogenolysis of Cellulose over Cu-Based Catalysts—Analysis of the Reaction Network
+The Chelation-controlled Mukaiyama Aldol Reaction of Chiral α- and β-Alkoxy Aldehydes
+Alkyne Metathesis
+ɑ-Cationic Phosphines: Synthesis and Applications
+Bispidine Analogues of Cisplatin, Carboplatin, and Oxaliplatin. Synthesis, Structures, and Cytotoxicity
+Isomorphous free-base, Ni(II)- and Cu(II)-5,10,15,20-tetra(4-hydroxyphenyl)porphyrin nitrobenzene hexasolvates with tetragonal 3D hydrogen-bonded network structures
+Gold(III) compounds containing a chelating, dicarbanionic ligand derived from 4,4′-di-tert-butylbiphenyl
+Rapid Asymmetric Synthesis of Highly Functionalized Indanols via a Michael/Henry Organocascade with Submol% Squaramide Catalyst Loadings
+Extreme Synergistic Mutational Effects in the Directed Evolution of a Baeyer–Villiger Monooxygenase as Catalyst for Asymmetric Sulfoxidation
+Reversible P3HT/Oxygen Charge Transfer Complex Identification in Thin Films Exposed to Direct Contact with Water
+Late-Stage Fluorination: From Fundamentals to Application
+Photo-stability of peptide-bond aggregates: N-methylformamide dimers
+Predicted Incorporation of Non-native Substrates by a Polyketide Synthase Yields Bioactive Natural Product Derivatives
+Cross-Metathesis of Terminal Alkynes
+Reactivity of Metal Catalysts in Glucose–Fructose Conversion
+Catalysis-Based Total Synthesis of Putative Mandelalide A
+A Polyphenylene Support for Pd Catalysts with Exceptional Catalytic Activity
+Carotenoids as a Shortcut for Chlorophyll Soret-to-Q Band Energy Flow
+Polyfluorinated Cyclopentadienones as Lewis Acids
+Synthesis, Molecular Editing, and Biological Assessment of the Potent Cytotoxin Leiodermatolide
+Photorelaxation Induced by Water–Chromophore Electron Transfer
+Electron transport in crystalline PCBM-like fullerene derivatives: a comparative computational study
+Formal Total Synthesis of Kendomycin by Way of Alkyne Metathesis/Gold Catalysis
+Effects of the second hydration shell on excited-state multiple proton transfer: dynamics simulations of 7-azaindole:(H2O)1-5 clusters in the gas phase
+Photophysics of Flavin Derivatives Absorbing in the Blue-Green Region: Thioflavins as Potential Cofactors of Photoswitches
+Semiempirical quantum–chemical methods
+Nonequilibrium H/D Isotope Effects from Trajectory-Based Nonadiabatic Dynamics
+Preface, recent progresses in the area of photocatalysis research
+Plutonium sorption to nanocast mesoporous carbon
+From Understanding to Prediction: Gold- and Platinum-Based π-Acid Catalysis for Target Oriented Synthesis
+Correction: Deciphering ‘water-soluble lignocellulose’ obtained by mechanocatalysis: new insights into the chemical processes leading to deep depolymerization
+Newton-X: a surface-hopping program for nonadiabatic molecular dynamics
+Synthesis and Imaging Validation of [18F]MDL100907 Enabled by Ni-Mediated Fluorination
+Acid-Catalyzed Oxidative Radical Addition of Ketones to Olefins
+Synthesis of Antiviral Tetrahydrocarbazole Derivatives by Photochemical and Acid-catalyzed C-H Functionalization via Intermediate Peroxides (CHIPS)
+Synthesis, characterization and p–n type gas sensing behaviour of CuFeO2 delafossite type inorganic wires using Fe and Cu complexes as single source molecular precursors
+Comment on “Hydration and Mobility of Trehalose in Aqueous Solution”
+Towards High-Performance Lewis Acid Organocatalysis
+Reductive Amination without an External Hydrogen Source
+Control of Solid Catalysts Down to the Atomic Scale: Where is the Limit?
+Catalytic Processes that Changed the World: 100 Years Max-Planck-Institut für Kohlenforschung
+Influence of Fe Doping on Structure and Water Oxidation Activity of Nanocast Co3O4
+Surface modification of PDMS microfluidic devices by controlled sulfuric acid treatment and the application in chip electrophoresis
+Differences between the adsorption of NO2 and NO on modified activated carbon / Unterschiede bei der Adsorption von NO2 und NO an modifizierter Aktivkohle
+Impacts of Geometry, Symmetry, and Morphology of Nanocast Co3O4 on Its Catalytic Activity for Water Oxidation
+Beneficial effects of stoichiometry and nanostructure for a LiBH4–MgH2 hydrogen storage system
+Nonadiabatic dynamics study of methaniminium with ORMAS: Challenges of incomplete active spaces in dynamics simulations
+A Brønsted Acid Catalyzed Redox Arylation
+Recent progress in scanning electron microscopy for the characterization of fine structural details of nano materials
+Preface to Special Issue of Chinese Journal of Catalysis on the 2nd International Congress on Catalysis for Biorefineries (CatBior 2013)
+Encapsulation Strategies in Energy Conversion Materials
+Exploring the Triplet Excited State Potential Energy Surfaces of a Cyclometalated Pt(II) Complex: Is There Non-Kasha Emissive Behavior?
+Hydrogen: Economics and its Role in Biorefining
+Assessment of approximate computational methods for conical intersections and branching plane vectors in organic molecules
+Photophysics of Flavin Derivatives Absorbing in the Blue-Green Region: Thioflavins As Potential Cofactors of Photoswitches
+Quantum Mechanics/Molecular Mechanics Study of Oxygen Binding in Hemocyanin
+A Practical Procedure for Iron-Catalyzed Cross-Coupling Reactions of Sterically Hindered Aryl-Grignard Reagents with Primary Alkyl Halides
+Concerted Asynchronous Hula-Twist Photoisomerization in the S65T/H148D Mutant of Green Fluorescent Protein
+Computational Reference Data for the Photochemistry of Cyclobutane Pyrimidine Dimers
+Electronic Structure of N2P2 Four-Membered Rings
+Catalytic Asymmetric Synthesis of Thiols
+Asymmetric Catalysis on the Nanoscale: The Organocatalytic Approach to Helicenes
+Electronic structure of fullerene-squaraine complexes for photovoltaic devices
+Biosynthesis with Fluorine
+Carbon-Based Yolk–Shell Materials for Fuel Cell Applications
+Aluminium alloy based hydrogen storage tank operated with sodium aluminium hexahydride Na3AlH6
+Special Issue: Dedicated to Professor Michael Linscheid on the Occasion of his 65th Birthday
+Deciphering ‘water-soluble lignocellulose’ obtained by mechanocatalysis: new insights into the chemical processes leading to deep depolymerization
+Mechanical Pretreatment in a Screw Press Affecting Chemical Pulping of Lignocellulosic Biomass
+Conversion of sugars to ethylene glycol with nickel tungsten carbide in a fed-batch reactor: high productivity and reaction network elucidation
+Frustrated Lewis Pairs: An Elegant Concept for Catalysis
+Special Issue of the 2nd International Congress on Catalysis for Biorefineries (CatBior 2013) Preface
+Metallocene Supported on Porous and Nonporous Polyurethane Particles for Ethylene Polymerization
+Multidiagnostic analysis of silicate speciation in clear solutions/sols for zeolite synthesis
+Asymmetric Catalysis Using Chiral, Enantiopure Disulfonimides
+Flexibility versus rigidity: what determines the stability of zeolite frameworks? A case study
+Tailoring mesoscopically structured H-ZSM5 zeolites for toluene methylation
+Computational Catalysis—Past, Present, and Future
+Photocatalytic hydrogen production over various sodium tantalates
+Design of Nano-Sized Model Systems for Multi-Functional Materials with Hierarchical Structure
+Correction: Crystal structure and microstructural changes of molybdenum nitrides traces during catalytic reaction by in situ X-ray diffraction studies. (Correction)
+Oxidative coupling reactions for the functionalisation of C–H bonds using oxygen
+Catalysis for Total Synthesis: A Personal Account
+On the role of aggregation effects in the performance of perylene-diimide based solar cells
+Bis- and Tris(pyrazolyl)borate/Methane-Stabilized PIII-Centered Cations
+Intersystem Crossing Enables 4-Thiothymidine to Act as a Photosensitizer in Photodynamic Therapy: An Ab Initio QM/MM Study
+Spiroaminals – Crystal Structure and Computational Investigation of Conformational Preferences and Tautomerization Reactions
+Origin of Inversion versus Retention in the Oxidative Addition of 3-Chloro-cyclopentene to Pd(0)Ln
+Structure–Function Relationships of High-Electron Mobility Naphthalene Diimide Copolymers Prepared Via Direct Arylation
+Mapping Orientational Order of Charge-Probed Domains in a Semiconducting Polymer
+Nature of Charge Carriers in a High Electron Mobility Naphthalenediimide Based Semiconducting Copolymer
+Combined Experimental and Theoretical Investigation of Ligand and Anion Controlled Complex Formation with Unprecedented Structural Features and Photoluminescence Properties of Zinc(II) Complexes
+Assessment of Franck–Condon Methods for Computing Vibrationally Broadened UV–vis Absorption Spectra of Flavin Derivatives: Riboflavin, Roseoflavin, and 5-Thioflavin
+Structure of a Reactive Gold Carbenoid
+Total Synthesis of the Biphenyl Alkaloid (−)-Lythranidine
+Solvent-free γ-valerolactone hydrogenation to 2-methyltetrahydrofuran catalysed by Ru/C: a reaction network analysis
+Support of academic synthetic chemistry using separation technologies from the pharmaceutical industry
+Unexpected Beneficial Effect of ortho-Substituents on the (S)-Proline-Catalyzed Asymmetric Aldol Reaction of Acetone with Aromatic Aldehydes
+Resolving anisotropic distributions of correlated vibrational motion in protein hydration water
+Quantum chemistry structures and properties of 134 kilo molecules
+Reaction Progress Kinetic Analysis of a Copper-Catalyzed Aerobic Oxidative Coupling Reaction with N-Phenyl Tetrahydroisoquinoline
+Catalytic Biorefining of Plant Biomass to Non-Pyrolytic Lignin Bio-Oil and Carbohydrates through Hydrogen Transfer Reactions
+1,2-Selective Hydrosilylation of Conjugated Dienes
+Chemoselective Intermolecular α-Arylation of Amides
+Inside Cover: Catalytic Biorefining of Plant Biomass to Non-Pyrolytic Lignin Bio-Oil and Carbohydrates through Hydrogen Transfer Reactions
+Cytochrome P450 Catalyzed Oxidative Hydroxylation of Achiral Organic Compounds with Simultaneous Creation of Two Chirality Centers in a Single C-H Activation Step
+Effect of preparation of iron-infiltrated activated carbon catalysts on nitrogen oxide conversion at low temperature
+Nitrogen-Doped Hollow Carbon Spheres as a Support for Platinum-Based Electrocatalysts
+Improved Conditions for the Proline-Catalyzed Aldol Reaction of Acetone with Aliphatic Aldehydes
+QM/MM Studies of Structure and Reactivity of Cytochrome P450 Enzymes: Methodology and Selected Applications
+On the Preparation and Structure of Caesium Aluminium Tetrahydride
+Cobalt-Oxide-Based Materials as Water Oxidation Catalyst: Recent Progress and Challenges
+CH-activating oxidative hydroxylation of 1-tetralones and related compounds with high regio- and stereoselectivity
+Studying ultra-complex crude oil mixtures by using High Field Asymmetric Waveform Ion Mobility Spectrometry (FAIMS) coupled to an ESI-LTQ-Orbitrap Mass Spectrometer
+Oxygenated Metabolites of n-3 Polyunsaturated Fatty Acids as Potential Oxidative Stress Biomarkers: Total Synthesis of 8-F3t-IsoP, 10-F4t-NeuroP and [D4]-10-F4t-NeuroP
+Role of Two Alternate Water Networks in Compound I Formation in P450eryF
+Correlated Ab Initio and Density Functional Studies on H2 Activation by FeO+
+π-Conjugation and End Group Effects in Long Cumulenes: Raman Spectroscopy and DFT Calculations
+The Benzylperoxyl Radical as a Source of Hydroxyl and Phenyl Radicals
+The Highly Reactive Benzhydryl Cation Isolated and Stabilized in Water Ice
+Atomistic Simulations of P(NDI2OD-T2) Morphologies: From Single Chain to Condensed Phases
+The Catalytic Asymmetric α-Benzylation of Aldehydes
+Enhanced E → Z photoisomerisation in 2-aminoazobenzene

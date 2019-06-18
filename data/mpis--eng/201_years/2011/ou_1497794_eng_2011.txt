@@ -1,0 +1,12 @@
+Learning from past treatments and their outcome improves prediction of In Vivo response to anti-HIV therapy
+Vigor in the face of fluctuating rates of reward: An experimental examination
+Model-based influences on humans' choices and striatal prediction errors
+Long-term effects of motor training on resting-state networks and underlying brain structure
+Microstructural parcellation of the human cerebral cortex: From Brodmann's post-mortem map to in vivo mapping with high-field magnetic resonance imaging
+Predicting and memorizing observed action: Differential premotor cortex involvement
+Exploring functional relations between brain regions from fMRI meta-analysis data: Comments on Ramsey, Spirtes, and Glymour
+Action dominates valence in anticipatory representations in the human striatum and dopaminergic midbrain
+Neural language networks at birth
+Functional localization in the human brain: gradient-echo, spin-echo, and arterial spin-labeling fMRI compared with neuronavigated TMS
+A software tool for interactive exploration of intrinsic functional connectivity opens new perspectives for brain surgery
+Disentangling the roles of approach, activation and valence in instrumental and pavlovian responding

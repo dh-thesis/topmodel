@@ -1,0 +1,186 @@
+Metabolome Dynamics of Smutted Sugarcane Reveals Mechanisms Involved in Disease Progression and Whip Emission
+Thermal adaptation strategies of the extremophile bacterium Thermus filiformis based on multi-omics analysis
+Adjustment of the Arabidopsis circadian oscillator by sugar signalling dictates the regulation of starch metabolism
+Comparative genomics reveals high biological diversity and specific adaptations in the industrially and medically important fungal genus Aspergillus
+Trichoderma
+Metabolic robustness in young roots underpins a predictive model of maize hybrid performance in the field
+Leaf Starch Turnover Occurs in Long Days and in Falling Light at the End of the Day
+Starch synthase 4 and plastidal phosphorylase differentially affect starch granule number and morphology
+Metabolic Flexibility Underpins Growth Capabilities of the Fastest Growing Alga
+Alzheimer's brains show inter-related changes in RNA and lipid metabolism
+Defense-Related Transcriptional Reprogramming in Vitamin E-Deficient Arabidopsis Mutants Exposed to Contrasting Phosphate Availability
+Tight control of sulfur assimilation: an adaptive mechanism for a plant from a severely phosphorus-impoverished habitat
+A Simple Fractionated Extraction Method for the Comprehensive Analysis of Metabolites, Lipids, and Proteins from a Single Sample
+Comparative proteomic and metabolomic studies between Prunus persica genotypes resistant and susceptible to Taphrina deformans suggest a molecular basis of resistance
+Photosynthate Partitioning to Starch in Arabidopsis is Insensitive to Light Intensity but Sensitive to Photoperiod due to a Restriction on Growth in the Light in Short Photoperiods
+Beyond Genomics: Studying Evolution with Gene Coexpression Networks
+PlaMoM: a comprehensive database compiles plant mobile macromolecules
+Accurate quantification of laminarin in marine organic matter with enzymes from marine microbes
+Comparison of mitochondrial gene expression and polysome loading in different tobacco tissues
+Two Complementary Mechanisms Underpin Cell Wall Patterning during Xylem Vessel Development
+Genome-Wide Association Mapping Reveals That Specific and Pleiotropic Regulatory Mechanisms Fine-Tune Central Metabolism and Growth in Arabidopsis
+Canalization of Tomato Fruit Metabolism
+Proteogenomic analysis reveals alternative splicing and translation as part of the abscisic acid response in Arabidopsis seedlings
+Phytochrome A and B Regulate Primary Metabolism in Arabidopsis Leaves in Response to Light
+Engineered Assimilation of Exogenous and Endogenous Formate in Escherichia coli
+Novel allelic variants in ACD6 cause hybrid necrosis in local collection of Arabidopsis thaliana
+To set or not to set: New tools to study the control of cucumber fruit set
+The conserved domain in MORF proteins has distinct affinities to the PPR and E elements in PPR RNA editing factors
+Rootstock Sub-Optimal Temperature Tolerance Determines Transcriptomic Responses after Long-Term Root Cooling in Rootstocks and Scions of Grafted Tomato Plants
+Parallel analysis of arabidopsis circadian clock mutants reveals different scales of transcriptome and proteome regulation
+Alzheimer's brains show inter-related changes in \RNA\ and lipid metabolism
+Templated and self-limiting calcite formation directed by coccolith organic macromolecules
+Regulation of ascorbate biosynthesis in green algae has evolved to enable rapid stress-induced response via the VTC2 gene encoding GDP-l-galactose phosphorylase
+Lettuce-produced hepatitis C virus E1E2 heterodimer triggers immune responses in mice and antibody production after oral vaccination
+Durum wheat roots adapt to salinity remodelling the cellular content of nitrogen metabolites and sucrose
+A genomic comparison of putative pathogenicity-related gene families in five members of the Ophiostomatales with different lifestyles
+Synthetic promoters and transcription factors for heterologous protein expression in Saccharomyces cerevisiae
+Genome-scale modeling of photorespiratory pathway manipulation
+The polyketide synthase OsPKS2 is essential for pollen exine and Ubisch body patterning in rice
+GC-TOF-MS analysis reveals salt stress-responsive primary metabolites in Casuarina glauca tissues
+Measurement of Tricarboxylic Acid Cycle Enzyme Activities in Plants
+Trace‐Element Incorporation into Intracellular Pools Uncovers Calcium‐Pathways in a Coccolithophore
+Distribution of polyploid plants in the common annual Brachypodium distachyon (s.l.) in Israel is not linearly correlated with aridity
+High serine:glyoxylate aminotransferase activity lowers leaf daytime serine levels, inducing the phosphoserine pathway in Arabidopsis
+Polyamine oxidase 5 loss-of-function mutations in Arabidopsis thaliana trigger metabolic and transcriptional reprogramming and promote salt stress tolerance
+Revisiting the Role of Xanthophylls in Nonphotochemical Quenching
+Isolation and characterization of three new PGPR and their effects on the growth of Arabidopsis and Datura plants
+A simple fractionated extraction method for the comprehensive analysis of metabolites, lipids, and proteins from a single sample
+The plastid-encoded PsaI subunit stabilizes photosystem I during leaf senescence in tobacco
+Bioinformatic and expression analysis of the Brassica napus L. cyclophilins
+Performance of Arabidopsis thaliana under different light qualities: comparison of light-emitting diodes to fluorescent lamp
+Phylogenomic analysis of gene co-expression networks reveals the evolution of functional modules
+Crops In Silico: Generating Virtual Crops Using an Integrative and Multi-scale Modeling Platform
+A Novel Mechanism, Linked to Cell Density, Largely Controls Cell Division in Synechocystis
+Effects of Grapevine leafroll-associated virus 3 on the physiology in asymptomatic plants of Vitis vinifera
+On the stability of nucleoside diphosphate glucose metabolites: implications for studies of plant carbohydrate metabolism
+Postharvest changes in LIN5-down-regulated plants suggest a role for sugar deficiency in cuticle metabolism during ripening
+Metabolism within the specialized guard cells of plants
+How Do Plants Regulate Their Behavior Based on Their Carbohydrate Resources?
+The dual role of LESION SIMULATING DISEASE 1 as a condition-dependent scaffold protein and transcription regulator
+The conserved domain in MORF proteins has distinct affinities to the PPR and E elements in PPR RNA editing factors
+Impaired Malate and Fumarate Accumulation Due to the Mutation of the Tonoplast Dicarboxylate Transporter Has Little Effects on Stomatal Behavior
+Different carotenoid conformations have distinct functions in light-harvesting regulation in plants
+Durum wheat seedling responses to simultaneous high light and salinity involve a fine reconfiguration of amino acids and carbohydrate metabolism
+Genome-Wide Association Mapping Reveals That Specific and Pleiotropic Regulatory Mechanisms Fine-Tune Central Metabolism and Growth in Arabidopsis
+Leaf Starch Turnover Occurs in Long Days and in Falling Light at the End of the Day
+Dynamics of lipids and metabolites during the cell cycle of Chlamydomonas reinhardtii
+13CO2 labeling and mass spectral analysis of photorespiration
+Investigating mixotrophic metabolism in the model diatom phaeodactylum tricornutum
+Photorespiration is crucial to the dynamic response of photosynthetic metabolism and stomatal movement to altered \CO2\ availability
+Plant-Derived Transcription Factors for Orthologous Regulation of Gene Expression in the Yeast Saccharomyces cerevisiae
+Central metabolite and sterol profiling divides tobacco male gametophyte development and pollen tube growth into eight metabolic phases
+Rapid transcriptional and metabolic regulation of the deacclimation process in cold acclimated Arabidopsis thaliana
+Trehalose 6-phosphate signal is closely related to sorbitol in apple (Malus domestica Borkh. Cv. Gala)
+Holistic bioengineering: Rewiring central metabolism for enhanced bioproduction
+Re-assessing Systems Biology Approaches on Analyzing Sulfate Metabolism
+Synthetic metabolism: metabolic engineering meets enzyme design
+Phenotyping sunflower genetic resources for sclerotinia head rot response: Assessing variability for disease resistance breeding
+Systems analysis of ethanol production in the genetically engineered cyanobacterium Synechococcus sp. PCC 7002
+Next-Generation Insect-Resistant Plants: RNAi-Mediated Crop Protection
+Engineering central metabolism - a grand challenge for plant biologists
+Double overexpression of DREB and PIF transcription factors improves drought stress tolerance and cell elongation in transgenic plants
+Computational Approaches to Study Gene Regulatory Networks
+Generation and characterization of a collection of knock-down lines for the chloroplast Clp protease complex in tobacco
+Combined GC- and UHPLC-HR-MS Based Metabolomics to Analyze Durable Anti-fungal Resistance Processes in Cereals
+PhiReX: a programmable and red light-regulated protein expression switch for yeast
+Circadian, Carbon, and Light Control of Expansion Growth and Leaf Movement
+A transatlantic perspective on 20 emerging issues in biological engineering
+Characterization of the Wheat Leaf Metabolome during Grain Filling and under Varied N-Supply
+Integrative field scale phenotyping for investigating metabolic components of water stress within a vineyard
+Crops In Silico: Generating Virtual Crops Using an Integrative and Multi-scale Modeling Platform
+IDENTIFYING PROTEINS IMPORTANT FOR COCCOLITH FORMATION IN EMILIANIA HUXLEYI
+Integration of transcriptomic and metabolic data reveals hub transcription factors involved in drought stress response in sunflower (Helianthus annuus L.)
+Unraveling early events in the Taphrina deformans – Prunus persica interaction: an insight into the differential responses in resistant and susceptible genotypes
+Coupling Radiotracer Experiments with Chemical Fractionation for the Estimation of Respiratory Fluxes
+Exploring priming responses involved in peach fruit acclimation to cold stress
+Cellulose Synthesis and Cell Expansion Are Regulated by Different Mechanisms in Growing Arabidopsis Hypocotyls
+Growth rate correlates negatively with protein turnover in Arabidopsis accessions
+System-wide organization of actin cytoskeleton determines organelle transport in hypocotyl plant cells
+Expression atlas and comparative coexpression network analyses reveal important genes involved in the formation of lignified cell wall in Brachypodium distachyon
+AssemblX: a user-friendly toolkit for rapid and reliable multi-gene assemblies.
+Revisiting ancestral polyploidy in plants
+A bifunctional aminoglycoside acetyltransferase/phosphotransferase conferring tobramycin resistance provides an efficient selectable marker for plastid transformation
+Metabolic robustness in young roots underpins a predictive model of maize hybrid performance in the field
+PlaNet: Comparative Co-Expression Network Analyses for Plants
+Investigating the role of the photorespiratory pathway in non-photosynthetic tissues
+Shine-Dalgarno Sequences Play an Essential Role in the Translation of Plastid mRNAs in Tobacco
+Triacylglycerol is produced from starch and polar lipids in the green alga Dunaliella tertiolecta
+Leveraging Natural Variance towards Enhanced Understanding of Phytochemical Sunscreens
+Analyses of transcriptome profiles and selected metabolites unravel the metabolic response to NH4+ and NO3− as signaling molecules in tea plant (Camellia sinensis L.)
+JUNGBRUNNEN1 Confers Drought Tolerance Downstream of the HD-Zip I Transcription Factor AtHB13
+Thioredoxins Play a Crucial Role in Dynamic Acclimation of Photosynthesis in Fluctuating Light
+The Unprecedented Versatility of the Plant‎ Thioredoxin System
+The transcription factor bZIP14 regulates the TCA cycle in the diatom Phaeodactylum tricornutum
+Overexpression of the triose phosphate translocator (TPT) complements the abnormal metabolism and development of plastidial glycolytic glyceraldehyde-3-phosphate dehydrogenase mutants
+Corrigendum: Arabidopsis Fructokinases Are Important for Seed Oil Accumulation and Vascular Development
+Spatially resolved metabolic analysis reveals a central role for transcriptional control in carbon allocation to wood
+Metabolic Pathway Assignment of Plant Genes based on Phylogenetic Profiling-A Feasibility Study
+Arbuscular mycorrhizal symbiosis with Arundo donax decreases root respiration and increases both photosynthesis and plant biomass accumulation
+Regulatory-associated protein of TOR (RAPTOR) alters the hormonal and metabolic composition of Arabidopsis seeds, controlling seed morphology, viability and germination potential
+Loopholes for smuggling DNA into pollen
+The Photorespiratory Metabolite 2-Phosphoglycolate Regulates Photosynthesis and Starch Accumulation in Arabidopsis
+Affinity purification with metabolomic and proteomic analysis unravels diverse roles of nucleoside diphosphate kinases
+Commonalities and differences in plants deficient in autophagy and alternative pathways of respiration on response to extended darkness
+Metabolite Profiling in Plants
+The SAL-PAP Chioroplast Retrograde Pathway Contributes to Plant Immunity by Regulating Glucosinolate Pathway and Phytohormone Signaling
+Omics-based hybrid prediction in maize
+Citrulline metabolism in plants
+Photosynthetic and metabolic acclimation to repeated drought events play key roles in drought tolerance in coffee
+Haplotype-resolved sweet potato genome traces back its hexaploidization history
+Current understanding of the pathways of flavonoid biosynthesis in model and crop plants
+De Novo Assembly of a New Solanum pennellii Accession Using Nanopore Sequencing
+Photorespiration: Methods and Protocols
+Translation and Co-Translational Membrane Engagement of Plastid-Encoded Chlorophyll-Binding Proteins are not Influenced by Chlorophyll Availability in Maize
+Intrinsically Disordered Stress Protein COR15A Resides at the Membrane Surface during Dehydration
+Postharvest changes in LIN5-down-regulated plants suggest a role for sugar deficiency in cuticle metabolism during ripening
+Witnessing Genome Evolution: Experimental Reconstruction of Endosymbiotic and Horizontal Gene Transfer
+The Genetics of Plant Metabolism
+Arabidopsis NAC Transcription Factor JUNGBRUNNEN1 Exerts Conserved Control Over Gibberellin and Brassinosteroid Metabolism and Signaling Genes in Tomato
+Expression Profile of the Serine Acetyltransferase (SERAT) and O-Acetylserine (thiol)lyase (OASTL) Gene Families in Arabidopsis
+Stoichiometric Correlation Analysis: Principles of Metabolic Functionality from Metabolomics Data
+Coupling radiotracer experiments with chemical fractionation for the estimation of respiratory fluxes
+Measurement of tricarboxylic acid cycle enzyme activities in plants
+Rapid in situ 13C tracing of sucrose utilization in Arabidopsis sink and source leaves
+Corrigendum: Transcriptomic Analysis in Strawberry Fruits Reveals Active Auxin Biosynthesis and Signaling in the Ripe Receptacle
+Lipidomics analysis unravels the effect of nitrogen fertilization on lipid metabolism in tea plant (Camellia sinensis L.)
+Impact of seasonal warming on overwintering and spring phenology of blackcurrant
+Integrated transcriptomic and metabolomic analysis shows that disturbances in metabolism of tumor cells contribute to poor survival of RCC patients.
+GeSeq - versatile and accurate annotation of organelle genomes
+Lipidome determinants of maximal lifespan in mammals
+ERF105 is a transcription factor gene of Arabidopsis thaliana required for freezing tolerance and cold acclimation
+Integrated analysis of rice transcriptomic and metabolomic responses to elevated night temperatures identifies sensitivity- and tolerance-related profiles.
+From chromatogram to analyte to metabolite. How to pick horses for courses from the massive web resources for mass spectral plant metabolomics
+Differentially evolved glucosyltransferases determine natural variation of rice flavone accumulation and UV-tolerance
+Phenotyping Sunflower Genetic Resources for Sclerotinia Head Rot Response: Assessing Variability for Disease Resistance Breeding
+Floral Metabolism of Sugars and Amino Acids: Implications for Pollinators’ Preferences and Seed and Fruit Set
+Autophagy Deficiency Compromises Alternative Pathways of Respiration following Energy Deprivation in Arabidopsis thaliana
+Identification and characterization of a stable intermediate in photosystem I assembly in tobacco
+Photometric assay of maltose and maltose-forming enzyme activity by using 4-alpha-glucanotransferase (DPE2) from higher plants
+In vivo Assembly in Escherichia coli of Transformation Vectors for Plastid Genome Engineering
+Protein-protein interactions and metabolite channelling in the plant tricarboxylic acid cycle
+Chlorosis caused by two recessively interacting genes reveals a role of RNA helicase in hybrid breakdown in Arabidopsis thaliana
+Folding of intrinsically disordered plant LEA proteins is driven by glycerol-induced crowding and the presence of membranes
+The Sexual Advantage of Looking, Smelling, and Tasting Good: The Metabolic Network that Produces Signals for Pollinators
+Changes in lipidome composition during brain development in humans, chimpanzees, and macaque monkeys
+METHYLENE BLUE SENSITIVITY 1 (MBS1) is required for acclimation of Arabidopsis to singlet oxygen and acts downstream of β-cyclocitral
+Getting back to nature: a reality check for experiments in controlled environments.
+Stop the Clock: Optimized Carbon Fixation and Circadian Rhythm in a CAM Plant
+Drought stress-induced changes in starch yield and physiological traits in potato
+The genome and phenome of the green alga Chloroidium sp. UTEX 3007 reveal adaptive traits for desert acclimatization
+Horizontal Transfer of a Synthetic Metabolic Pathway between Plant Species
+Shine-Dalgarno Sequences Play an Essential Role in the Translation of Plastid mRNAs in Tobacco
+Trehalose 6-phosphate is involved in triggering axillary bud outgrowth in garden pea (Pisum sativum L.)
+System-wide detection of protein-small molecule complexes suggests extensive metabolite regulation in plants
+Measurements of Electron Partitioning Between Cytochrome and Alternative Oxidase Pathways in Plant Tissues
+Resolving the central metabolism of Arabidopsis guard cells
+An assay for entry of secreted fungal effectors into plant cells
+Quantification of photorespiratory intermediates by mass spectrometry-based approaches
+Haplotype-resolved sweet potato genome traces back its hexaploidization history
+Measurements of electron partitioning between cytochrome and alternative oxidase pathways in plant tissues
+Protein phosphatase AP2C1 negatively regulates basal resistance and defense responses to Pseudomonas syringae
+Arabidopsis fructokinases are important for seed oil accumulation and vascular development
+On the effects of alternative optima in context-specific metabolic model predictions
+Comparative proteomic and metabolomic studies between Prunus persica genotypes resistant and susceptible to Taphrina deformans suggest a molecular basis of resistance
+Transcriptomic and metabolomics responses to elevated cell wall invertase activity during tomato fruit set
+Synthetic Promoters and Transcription Factors for Heterologous Protein Expression in Saccharomyces cerevisiae

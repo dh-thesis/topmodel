@@ -1,0 +1,89 @@
+Direct patterning of vortex generators on a fiber tip using a focused ion beam
+Tuning mesenchymal stem cell response onto Titanium-Niobium-Hafnium alloy by recombinant fibronectin fragments
+Functional fusion of living systems with synthetic electrode interfaces
+Novel roles for well-known players: from tobacco mosaic virus pests to enzymatically active assemblies
+Devising self-assembled-monolayers for surface-enhanced infrared spectroscopy of pH-driven poly-L-lysine conformational changes
+Collaborative Action of Surface Chemistry and Topography in the Regulation of Mesenchymal and Epithelial Markers and the Shape of Cancer Cells
+Nanoscale and mechanical properties of the physiological cell–ECM microenvironment
+Vitamin D effects on osteoblastic differentiation of mesenchymal stem cells from dental tissues
+Primary cilia are critical for Sonic hedgehog-mediated dopaminergic neurogenesis in the embryonic midbrain
+Substrate engagement of integrins α5β1 and αvβ3 is necessary, but not sufficient, for high directional persistence in migration on fibronectin
+In vitro cancer cell–ECM interactions inform in vivo cancer treatment
+Effect of microstructure on the mechanical and damping behaviour of dragonfly wing veins
+Nano- and microstructured materials for in vitro studies of the physiology of vascular cells
+Challenges in imaging cell surface receptor clusters
+Anti-reflective and anti-bacterial properties of biomimetic nanostructures
+Selective binding and lateral clustering of α5β1 and αvβ3 integrins: Unraveling the spatial requirements for cell spreading and focal adhesion assembly
+Charged triazole cross-linkers for hyaluronan-based hybrid hydrogels
+Leukocyte responses to immobilized patterns of CXCL8
+Fabrication of porous silicon-based optical sensors using metal-assisted chemical etching
+Cobalt cross-linked redox-responsive PEG hydrogels: from viscoelastic liquids to elastic solids
+Dynamic-SERS optophysiology: a nanosensor for monitoring cell secretion events
+Establishing a work flow to objectively characterise the dynamic structure of collectively migrating epithelial cell sheets
+High content image analysis of focal adhesion-dependent mechanosensitive stem cell differentiation
+Chemical modification strategies for the preparation of bioactive interphases
+Controlled immobilization strategies to probe short hyaluronan-protein interactions
+Hyaluronan hydrogel modified intraocular implants for glaucoma treatment
+Cobalt(III)-mediated permanent and stable immobilization of histidine-tagged proteins on NTA-functionalized surfaces
+Characterization and redox regulation of Plasmodium falciparum methionine adenosyltransferase
+Tuning cellular responses to BMP-2 with material surfaces
+Exploiting noncovalent interactions in an imine-based covalent organic framework for quercetin delivery
+Bottom-up fabrication of hybrid plasmonic sensors: gold-capped hydrogel microspheres embedded in periodic metal hole arrays
+Why do proton conducting polybenzimidazole phosphoric acid membranes perform well in high-temperature PEM fuel cells?
+Bridging the gap: wound healing in insects restores mechanical strength by targeted cuticle deposition
+Synthesis of binary nanopatterns on hydrogels for initiating cellular responses
+Precise AuxPt1-x alloy nanoparticle array of tunable composition for catalytic applications
+A comparative study of the effects of constructional elements on the mechanical behaviour of dragonfly wings
+Grin2A (N596S): a new murine model for Audiogenic Seizure (AGS) and Attention-deficit hyperactivity disorder (ADHD)
+Coupling of retrograde flow to force production during malaria parasite migration
+Characterization of anammox hydrazine dehydrogenase, a key N2-producing enzyme in the global nitrogen cycle
+Characterizing Active Site Conformational Heterogeneity along the Trajectory of an Enzymatic Phosphoryl Transfer Reaction
+Adenosine-to-inosine RNA editing by ADAR1 is essential for normal murine erythropoiesis
+Protein structure determination by single-wavelength anomalous diffraction phasing of X-ray free-electron laser data
+Evidence for tautomerisation of glutamine in BLUF blue light receptors by vibrational spectroscopy and computational chemistry
+Femtosecond and nanometre visualization of structural dynamics in superheated nanoparticles
+Knockout of NMDA-receptors from parvalbumin interneurons sensitizes to schizophrenia-related deficits induced by MK-801
+D4 receptor activation differentially modulates hippocampal basal and apical dendritic synapses in freely moving mice
+F-O-G ring formation in glycopeptide antibiotic biosynthesis is catalysed by OxyE
+Template-assisted extrusion of biopolymer nanofibers under physiological conditions
+Getting a grip on collective cell migration
+The antidepressant effect of ketamine: Mediated by AMPA receptors?
+Serial femtosecond crystallography and ultrafast absorption spectroscopy of the photoswitchable fluorescent protein IrisFP
+Tumor suppression in mice lacking GABARAP, an Atg8/LC3 family member implicated in autophagy, is associated with alterations in cytokine secretion and cell death
+Regulation of the P450 oxygenation cascade involved in glycopeptide antibiotic biosynthesis
+A classification system for virophages and satellite viruses
+Catalytic promiscuity of glycopeptide N-methyltransferases enables bio-orthogonal labelling of biosynthetic intermediates
+A tribute to Peter H. Seeburg (8.21.1944–8.22.2016)
+Causal interrogation of neuronal networks and behavior through virally transduced ivermectin receptors
+In vitro reconstitution of the final steps involved in teicoplanin aglycone production
+Blue light-dependent gene regulation mediated by BLUF and LOV photoreceptors
+Singlehydrogen bond donation from flavin N5 to proximal asparagine ensures FAD reduction in DNA photolyase
+General anesthetic conditions induce network synchrony and disrupt sensory processing in the cortex
+A new population of parvocellular oxytocin neurons controlling magnocellular neuron activity and inflammatory pain processing
+Spatially segregated feedforward and feedback neurons support differential odor processing in the lateral entorhinal cortex
+Understanding the twist-bend nematic phase: the characterisation of 1-(4-cyanobiphenyl-4′-yloxy)-6-(4-cyanobiphenyl-4′-yl)hexane (CB6OCB) and comparison with CB7CB
+Facile synthetic access to glycopeptide antibiotic precursor peptides for the investigation of cytochrome P450 action in glycopeptide antibiotic biosynthesis
+3'-Nadp and 3'-Naadp - two metabolites formed by the bacterial type III effector AvrRxo1
+The N-terminal domain of the GluN3A subunit determines the efficacy of glycine-activated NMDA receptors
+Loss of glycine receptors containing the α3 subunit compromises auditory nerve activity, but not outer hair cell function
+Host genome integration and giant virus-induced reactivation of the virophage mavirus
+Nanostructured stealth surfaces for visible and near-infrared light
+Structural and mechanistic investigations of proteins from anaerobic ammonium-oxidizing bacteria
+Biochemical characterisation of the amino acid side chain cross-linking reactions in the biosynthesis of glycopeptide antibiotics
+Insights into an efficient light-driven hybrid P450 BM3 enzyme from crystallographic, spectroscopic and biochemical studies
+More than just recruitment: the X-domain influences catalysis of the first phenolic coupling reaction in A47934 biosynthesis by Cytochrome P450 StaH
+Application of synthetic biology approaches for understanding encounters between cells and their microenvironment
+Giant viruses come of age
+Charge transfer in dissociating iodomethane and fluoromethane molecules ionized by intense femtosecond X-ray pulses
+Sympathetic innervation controls homeostasis of neuromuscular junctions in health and disease
+Age-dependent degeneration of mature dentate gyrus granule cells following NMDA receptor ablation
+Single-shot diffraction data from the Mimivirus particle using an X-ray free-electron laser.
+Flexible, AAV-equipped genetic modules for inducible control of gene expression in mammalian brain
+Biochemical and structural characterisation of the second oxidative crosslinking step during the biosynthesis of the glycopeptide antibiotic A47934
+Enhancing NMR of insensitive nuclei by transfer of SABRE spin hyperpolarization
+Engineering extrinsic disorder to control protein activity in living cells
+Hippocampal GluA1 expression in Gria1−/− mice only partially restores spatial memory performance deficits
+LOVTRAP: an optogenetic system for photoinduced protein dissociation
+Type II toxin: antitoxin systems. More than small selfish entities?
+Facilitated c-Fos induction in mice deficient for the AMPA receptor-associated protein Ckamp44
+Biochemistry: Blue light-induced LOV domain dimerization enhances the affinity of Aureochrome 1a for its target DNA sequence

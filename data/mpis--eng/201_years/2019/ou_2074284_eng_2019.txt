@@ -1,0 +1,121 @@
+Metacognition across sensory modalities: Vision, warmth, and nociceptive pain
+Impaired generalization of reward but not loss in obsessive-compulsive disorder
+Retrospective model-based inference guides model-free credit assignment
+Disentangling the genetics of lean mass
+A mechanistic account of bodily resonance and implicit bias
+Epigenetic clock and relative telomere length represent largely different aspects of aging in the Berlin Aging Study II (BASE-II)
+Sex-specific differences in the association of vitamin D with low lean mass and frailty: Results from the Berlin Aging Study II
+Older adults fail to form stable task representations during model-based reversal inference
+Dorsal striatal dopamine D1 receptor availability predicts an instrumental bias in action learning
+Change, stability, and instability in the Pavlovian guidance of behaviour from adolescence to young adulthood
+Test DS MPIB
+Deviation from the matching law reflects an optimal strategy involving learning over multiple timescales
+Oxytocin modulates social value representations in the amygdala
+The role of the hippocampus in weighting expectations during inference under uncertainty
+Cost evaluation during decision-making in patients at early stages of psychosis
+Forming global estimates of self-performance from local confidence
+The trolley, the bull bar, and why engineers should care about the ethics of autonomous cars
+Improving the reliability of model-based decision-making estimates in the two-stage decision task with reaction-times and drift-diffusion modeling
+Obsessive-compulsive disorder: Puzzles and prospects
+Influence of nutritional tyrosine on cognition and functional connectivity in healthy old humans
+Development of frontoparietal connectivity predicts longitudinal symptom changes in young people with autism spectrum disorder
+Mapping risk perceptions in dynamic risk-taking environments
+Three gaps and what they may mean for risk preference
+New analyses of an old topic: Effects of intelligence and motivation on academic achievement
+Young children's ability to distinguish thematic relations: Development and predictive value for early reading
+Memory enhancements from active control of learning emerge across development
+Early development of self-guided strategy improvements in children
+Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences
+Preference accumulation as a process model of desirability ratings
+Children use rules to coordinate in a social dilemma
+Combinations of symptoms in emergency presentations: Prevalence and outcome
+Childhood socio-economic disadvantage predicts reduced myelin growth across adolescence and young adulthood
+Extending the wisdom of crowds: How to harness the wisdom of the inner crowd
+The modulatory effect of gender and cytomegalovirus-seropositivity on circulating inflammatory factors and cognitive performance in elderly individuals
+How far reaches the power of personality? Personality predictors of terminal decline in well-being
+A developmental perspective on option generation and selection
+Can I eat that too? 18-month-olds generalize social information about edibility to similar looking plants
+Introduction
+Formr: A study framework allowing for automated feedback generation and complex longitudinal experience-sampling studies using R
+Rating the quality of teamwork: A comparison of novice and expert ratings using the Team Emergency Assessment Measure (TEAM) in simulated emergencies
+Introduction: Architectural history of emotions - emotional history of democracy
+The repeated name penalty effect in children's natural reading: Evidence from eye tracking
+Precise slow oscillation-spindle coupling promotes memory consolidation in younger and older adults
+A self-guided internet-based intervention for individuals with gambling problems: Study protocol for a randomized controlled trial
+The computational basis of following advice in adolescents
+Framing climate uncertainty: Frame choices reveal and influence climate change beliefs
+Neural pattern similarity differentially affects memory performance of younger and older adults
+Age differences in hemispheric lateralization in spatial and verbal visual working memory
+Hyper-frequency network topology changes during choral singing
+Incidental covariation learning leading to strategy change
+The development of music competencies in preschool children: Effects of a training program and the role of environmental factors
+Pathways to cognitive design
+Where have the persons gone? An illustration of individual score methods in autoregressive panel models
+Probability matching does not decrease under cognitive load: A preregistered failure to replicate
+Morphological processing in single-word and sentence reading
+From sister to co-worker: New patterns of feminization of labor in Turkey
+Machine behaviour
+Time ambiguity during intertemporal decision-making is aversive, impacting choice and neural value coding
+Building Bonn: Affects, politics, and architecture in postwar West Germany
+Fact Box decision support tools reduce decisional conflict about antibiotics for pneumonia and artificial hydration in advanced dementia: A randomized controlled trail
+Tropospheric ozone and skin aging: Results from two German cohort studies
+Human children but not chimpanzees make irrational decisions driven by social comparison
+(Only) time can tell: Age differences in false memory are magnified at longer delays
+Heterogeneity in dynamic panel models with individual parameter contribution regression
+The subhedar's son: A narrative of Brahmin-Christian conversion from nineteenth-century Maharashtra
+Dopamine D2/3 binding potential modulates neural signatures of working memory in a load-dependent fashion
+Age differences in hindsight bias: A meta-analysis
+C957T-mediated variation in ligand affinity affects the association between 11C-raclopride binding potential and cognition
+Nonlinear decision weights or moment-based preferences? A model competition involving described and experienced skewness
+Adult age differences in the benefit of syntactic and semantic constraints for sentence processing
+Physicians' interactions with peers: Empathic accuracy during shift handovers on intensive-care units
+A practical guide to variable selection in structural equation modeling by using regularized multiple-indicators, multiple-causes models
+Humans strategically shift decision bias by flexibly adjusting sensory evidence accumulation
+On the dynamics of social hierarchy: A longitudinal investigation of the rise and fall of prestige, dominance, and social rank in naturalistic task groups
+Effects of preschoolers' storybook exposure and literacy environments on lower level and higher level language skills
+Compound reading in German: Effects of constituent frequency and whole-word frequency in children and adults
+The ecological rationality of situations: Behavior = f(adaptive toolbox, environment)
+The role of attitudes in diet, eating, and body weight
+No effect of birth order on adult risk taking
+Moral economies
+Moral economies of love and labor in the GDR: Family values and work ethics in advice correspondence, circa 1960
+Numeracy and risk literacy: What have we learned so far?
+The seeds of social learning: Infants exhibit more social looking for plants than other object types
+Music, body and emotion between well-being, manipulation and torture in the twentieth century
+Cognitive reappraisal and expressive suppression of negative emotion in combat-related posttraumatic stress disorder: A functional MRI study
+Neural structure mapping in human probabilistic reward learning
+Architecture, democracy, and emotions: The politics of feeling since 1945
+Who finds what repugnant and why?
+Pubertal testosterone correlates with adolescent impatience and dorsal striatal activity
+The immune system and its dysregulation with aging
+How should autonomous cars drive? A preference for defaults in moral judgments under risk and uncertainty
+Quorums enable optimal pooling of independent judgements
+Societal change and educational trajectories of women and men born between 1919 and 1986 in (West) Germany
+Reply to: Mechanisms underlying resilience in ageing
+Oscillatory mechanisms of successful memory formation in younger and older adults are related to structural integrity
+Changes in anterior and posterior hippocampus differentially predict item-space, item-time, and item-item memory improvement
+How the "Wisdom of the Inner Crowd" can boost accuracy of confidence judgments
+Statistical context dictates the relationship between feedback-related EEG signals and learning
+[Review of the book Discourses of anger in the early modern period by K. A. E. Enenkel and A. Traninger]
+Stressful life events are associated with striatal dopamine receptor availability in alcohol dependence
+Using the Dirichlet process to form clusters of people's concerns in the context of future party identification
+A state representation for reinforcement learning and decision-making in the orbitofrontal cortex
+Comment: History of emotions
+Effects of reading and spelling predictors before and after school entry: Evidence from a German longitudinal study
+The truth about lies: A meta-analysis on dishonest behavior
+Noradrenergic responsiveness preserves selective attention across the adult life span
+ADHD traits in German school-aged children: Validation of the German strengths and weaknesses of ADHS symptoms and normal behavior (SWAN-DE) scale
+Hacking the brain: Dimensions of cognitive enhancement
+What shapes the probability weighting function? Influence of affect, numeric competencies, and information formats
+Design components of clinical work environments with computerized decision support systems
+Cognitive success: A consequentialist account of rationality in cognition
+Coupled cognitive changes in adulthood: A meta-analysis
+Effect of tabular and icon fact box formats on comprehension of benefits and harms of prostate cancer screening: A randomized trial
+Food rejection in young children: Validation of the Child Food Rejection Scale in English and cross-cultural examination in the UK and France
+Memory quality modulates the effect of aging on memory consolidation during sleep: Reduced maintenance but intact gain
+LIONESS Lab: A free web-based platform for conducting interactive experiments online
+Secularizing silent bodies: Emotional practices in the minute's silence
+Fit body, fit mind?
+Within-person adaptivity in frugal judgments from memory
+Moral economies, present and past: Social practices and intellectual controversies
+Toward understanding the impact of artificial intelligence on labor

@@ -1,0 +1,96 @@
+Hydrogels with precisely nano-functionalized micro-topography for cell guidance
+The effect of substrate elasticity and actomyosin contractility on different forms of endocytosis
+α5β1-integrin and MT1-MMP promote tumor cell migration in 2D but not in 3D fibronectin microenvironments
+Model systems for studying cell adhesion and biomimetic actin networks
+Fabrication, properties and applications of gold nanopillars
+Elastic free energy drives the shape of prevascular solid tumors
+Optical characterization of porous silicon monolayers decorated with hydrogel microspheres
+Support and challenges to the melanosomal casing model based on nanoscale distribution of metals within iris melanosomes detected by X-ray fluorescence analysis
+Possible mechanism of adhesion in a mica supported phospholipid bilayer
+The receptor for advanced glycation end-products (RAGE) plays a key role in the formation of nanotubes (NTs) between peritoneal mesothelial cells and in murine kidneys.
+Nano-scale morphology of melanosomes revealed by small-angle X-ray scattering
+Bioactivity of xerogels as modulators of osteoclastogenesis mediated by connexin 43
+A photoactivatable nanopatterned substrate for analyzing collective cell migration with precisely tuned cell-extracellular matrix ligand interactions
+Combined effects of PEG hydrogel elasticity and cell-adhesive coating on fibroblast adhesion and persistent migration
+Modulating T Cell Activation by Nanopatterned and Micro-Nanopatterned Antigen Arrays
+Gold nanoparticle-decorated glass microspheres in fabrication of active scaffold for soft tissue engineering
+Stable biochemically micro-patterned hydrogel layers control specific cell adhesion and allow long term cyclic tensile strain experiments
+Investigation of early cell–surface interactions of human mesenchymal stem cells on nanopatterned β-type titanium–niobium alloy surfaces
+Bottom-up fabrication of nanohole arrays loaded with gold nanoparticles: extraordinary plasmonic sensors
+Biomimetic macroporous PEG hydrogels as 3D scaffolds for the multiplication of human hematopoietic stem and progenitor cells
+Top-up fabrication of gold nanorings
+Nanoscale integrin ligand patterns determine melanoma cell behavior
+Interface immobilization chemistry of cRGD-based peptides regulates integrin mediated cell adhesion
+Synthesis of pyridine acrylates and acrylamides and their corresponding pyridinium ions as versatile cross-linkers for tunable hydrogels
+Preparation of stable micropatterns of gold on cell-adhesion-resistant hydrogels assisted by a hetero-bifunctional macromonomer linker
+Characterization of the fluorescence correlation spectroscopy (FCS) standard Rhodamine 6G and calibration of its diffusion coefficient in aqueous solutions
+Soft/Elastic Nanopatterned Biointerfaces in the Service of Cell Biology
+Seeding growth approach to gold nanoparticles with diameters ranging from 10 to 80 nanometers in organic solvent
+Nanoparticle tension probes patterned at the nanoscale: impact of integrin clustering on force transmission
+Engineering of synthetic cellular microenvironments: implications for immunity
+Biophysical regulation of hematopoietic stem cells
+Modulating T cell activation with tunable stimulatory nano-arrays
+Plerixafor induces the rapid and transient release of stromal cell-derived factor-1 alpha from human mesenchymal stromal cells and influences the migration behavior of human hematopoietic progenitor cells
+Conditioning of self-assembled monolayers at two static immersion test sites along the east coast of Florida and its effect on early fouling development
+UV-triggered dopamine polymerization: control of polymerization, surface coating, and photopatterning
+Direct three-dimensional imaging of polymer-water interfaces by nanoscale hard X-ray phase tomography
+Membrane nanotubes between peritoneal mesothelial cells: functional connectivity and crucial participation during inflammatory reactions
+Plasmonic nanopipette biosensor
+Dual-functionalized nanostructured biointerfaces by click chemistry
+Bottom-Up Synthesis of Nanosized Objects
+Getting real: influence of structural disorder on the performance of plasmonic hole array sensors fabricated by a bottom-up approach
+Active mechanics and dynamics of cell spreading on elastic substrates
+Physical principles of fluid-mediated insect attachment - Shouldn’t insects slip?
+Optimizing the fabrication of diffractive optical elements using a focused ion beam system
+Automated identification and classification of single particle serial femtosecond X-ray diffraction data
+D4 dopamine receptor-mediated modulation of hippocampal synaptic efficacy and network activity in behaving mice
+Editorial introduction to “Giant Viruses“ special issue of Virology
+Serial time-resolved crystallography of photosystem II using a femtosecond X-ray laser
+Independent control of gamma and theta activity by distinct interneuron networks in the olfactory bulb
+Magnetic field dependent long-lived spin states in amino acids and dipeptides
+Pioneers in CNS inhibition: 1. Ivan M. Sechenov, the first to clearly demonstrate inhibition arising in the brain
+Correlating nuclear frequencies by two-dimensional ELDOR-detected NMR spectroscopy
+Conditional inactivation of neuropeptide Y Y1 receptors unravels the role of Y1 and Y5 receptors coexpressing Neurons in anxiety
+Classification of object size in retinotectal microcircuits
+Protein crystal structure obtained at 2.9 Å resolution from injecting bacterial cells into an X-ray free-electron laser beam
+Rescuing DNA repair activity by rewiring the H-atom transfer pathway in the radical SAM enzyme, spore photoproduct lyase
+A facile Fmoc solid phase synthesis strategy to access pimerization-prone biosynthetic intermediates of glycopeptide antibiotics
+Ultrafast coherent diffractive imaging of nanoparticles using X-ray free electron laser radiation
+Molecular neuroanatomy and chemoarchitecture of the neurosecretory preoptic-hypothalamic area in zebrafish larvae
+Aureochrome 1 illuminated: structural changes of a transcription factor probed by molecular spectroscopy
+Imaging charge transfer in iodomethane upon x-ray photoabsorption
+Immunosuppression by NMDA-receptor antagonists is mediated through inhibition of Kv1.3 and KCa3.1 channels in T cells
+Elements in nucleotide sensing and hydrolysis of the AAA+ disaggregation machine ClpB: a structure-based mechanistic dissection of a molecular motor
+Hippocampal NMDA receptors are important for behavioural inhibition but not for encoding associative spatial memories.
+The effects of neonatal cryoanaesthesia-induced hypothermia on adult emotional behaviour and stress markers in C57BL/6 mice.
+Coexpressed auxiliary subunits exhibit distinct modulatory profiles on AMPA receptor function.
+Coherent diffractive imaging; Photoreceptors; Analytical Protein Biochemistry; Coherent diffractive imaging
+CKAMP44 interacts with AMPARs via different protein domains and modulates neuronal morphogenesis
+Proteomic analysis of glycine receptor β subunit (GlyRβ)-interacting proteins: evidence for syndapin I regulating synaptic glycine receptors
+Structure and function of type VI secretion system dependent amidase effector/immunity proteins from pathogenic bacteria.
+Formation of cholinergic synapse-like specializations at developing murine muscle spindles
+Hippocampal synaptic plasticity, spatial memory and anxiety
+Neuroprotection by rAAV-mediated gene transfer of bone morphogenic protein 7
+Hexicon 2: automated processing of hydrogen-deuterium exchange mass spectrometry data with improved deuteration distribution estimation
+Rare earth metals are essential for methanotrophic life in volcanic mudpots
+Separation of photo-induced radical pair in cryptochrome to a functionally critical distance
+A vertebrate-conserved cis-regulatory module for targeted expression in the main hypothalamic regulatory region for the stress response
+trans-acting arginine residues in the AAA+ chaperone ClpB allosterically regulate the activity through inter- and intradomain communication
+The symptom complex of familial sinus node dysfunction and myocardial noncompaction is associated with mutations in the HCN4 channel
+In vitro analysis of human immunodeficiency virus particle dissociation: gag proteolytic processing influences dissociation kinetics
+Using 15N-ammonium to characterise and map potassium binding sites in proteins by NMR spectroscopy
+Structural and functional studies on the human DEAD-box helicase DDX1
+RNA specificity and regulation of catalysis in the eukaryotic polynucleotide kinase clp1
+The structure of a transient complex of a nonribosomal peptide synthetase and a cytochrome P450 monooxygenase
+Characterization of elements involved in allosteric light regulation of phosphodiesterase activity by comparison of different functional BlrP1 states
+Expression, purification and crystallization of CTB-MPR, a candidate mucosal vaccine component against HIV-1
+Impact of adolescent GluA1 AMPA receptor ablation in forebrain excitatory neurons on behavioural correlates of mood disorders.
+Space-time wiring specificity supports direction selectivity in the retina
+Visualizing a protein quake with time-resolved X-ray scattering at a free-electron laser
+Allosteric regulation of the motor subunits of the AAA+ disaggregation machine ClpB.
+Phenotype of mice with inducible ablation of GluA1 AMPA receptors during late adolescence: Relevance for mental disorders
+Femtosecond x-ray photoelectron diffraction on gas-phase dibromobenzene molecules
+Cytochrome P450 OxyBtei catalyzes the first phenolic coupling step in teicoplanin biosynthesis
+NMR discrimination in nonrigid prochiral solutes dissolved in chiral liquid crystals: symmetry considerations
+Neural basis of benzodiazepine reward: Requirement for α2 containing GABAA receptors in the nucleus accumbens.
+Imaging molecular structure through femtosecond photoelectron diffraction on aligned and oriented gas-phase molecules

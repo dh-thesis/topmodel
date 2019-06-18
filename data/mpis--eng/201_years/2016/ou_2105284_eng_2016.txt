@@ -1,0 +1,97 @@
+R-Susceptibility: An IR-Centric Approach to Assessing Privacy Risks for Users in Online Communities
+R-Droid: Leveraging Android App Analysis with Static Slice Optimization
+Reasoning about Fences and Relaxed Atomics
+Validating Optimizations of Concurrent C/C++ Programs
+Partial Order Reduction for Event-Driven Multi-threaded Programs
+Anonymous RAM
+Supervisory Controller Synthesis for Decomposable Deterministic Context Free Specification Languages
+On Modular and Fully-Abstract Compilation
+On the Feasibility of TTL-Based Filtering for DRDoS Mitigation
+Simulating the Large-Scale Erosion of Genomic Privacy Over Time
+Computing Distances between Reach Flowpipes
+Identifying the Scan and Attack Infrastructures Behind Amplification DDoS Attacks
+Influence Estimation and Maximization in Continuous-Time Diffusion Networks
+On Access Control, Capabilities, Their Equivalence, and Confused Deputy Attacks
+A Blocking Bound for Nested FIFO Spin Locks
+The Road to Popularity: The Dilution of Growing Audience on Twitter
+POPL'16
+Listening to Whispers of Ripple: Linking Wallets and Deanonymizing Transactions in the Ripple Network
+Progress-Sensitive Security for SPARK
+Sparsity Preserving Algorithms for Octagons
+A Note on the Period Enforcer Algorithm for Self-Suspending Tasks
+Smart Broadcasting: Do you Want to Be Seen?
+Taming Release-acquire Consistency
+Causally Consistent Dynamic Slicing
+A Type Theory for Incremental Computational Complexity with Control Flow Changes
+Privacy Capsules: Preventing Information Leaks by Mobile Apps
+RamCrypt: Kernel-based Address Space Encryption for User-mode Processes
+Light-weight Contexts: An OS Abstraction for Safety and Performance
+On the Wisdom of Experts vs. Crowds: Discovering Trustworthy Topical News in Microblogs
+Delegatable Functional Signatures
+Probabilistic CTL*: The Deductive Way
+From Zoos to Safaris -- From Closed-World Enforcement to Open-World Assessment of Privacy
+Boxify: Bringing Full-Fledged App Sandboxing to Stock Android
+Symbolic Model Checking for Factored Probabilistic Models
+A Program Logic for C11 Memory Fences
+Infinite Factorial Unbounded-State Hidden Markov Model
+Oblivious Multi-Party Machine Learning on Trusted Processors
+Distilling Information Reliability and Source Trustworthiness from Digital Traces
+On Demystifying the Android Application Framework: Re-Visiting Android Permission Specification Analysis
+OSoMe: The IUNI Observatory on Social Media
+Analyzing the Targets of Hate in Online Social Media
+Distinguishing between Topical and Non-Topical Information Diffusion Mechanisms in Social Media
+How to Make ASLR Win the Clone Wars: Runtime Re-Randomization
+Supervisory Control Synthesis for Deterministic Context Free Specification Languages
+Global Scheduling Not Required: Simple, Near-Optimal Multiprocessor Real-Time Scheduling with Semi-Partitioned Reservations
+PROSA: A Case for Readable Mechanized Schedulability Analysis
+Many Suspensions, Many Problems: A Review of Self-Suspending Tasks in Real-Time Systems
+Lightweight Real-Time Synchronization under P-EDF on Symmetric and Asymmetric Multiprocessors
+Explaining Relaxed Memory Models with Program Transformations
+On Profile Linkability despite Anonymity in Social Media Systems
+SandPrint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion
+Computational Soundness for Dalvik Bytecode
+You Get Where You're Looking for: The Impact of Information Sources on Code Security
+Implementation-level Analysis of the JavaScript Helios Voting Client
+I-Pic: A Platform for Privacy-Compliant Image Capture
+Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
+Thoth: Comprehensive Policy Compliance in Data Retrieval Systems
+Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification
+Modeling the Dynamics of Online Learning Activity
+Quantifying the Effect of Period Ratios on Schedulability of Rate Monotonic
+Asymmetric Secure Multi-execution with Declassification
+Infinite Continuous Feature Model for Psychiatric Comorbidity Analysis
+Reliable Third-Party Library Detection in Android and its Security Applications
+LLSPLAT: Improving Concolic Testing by Bounded Model Checking
+Hitting Families of Schedules for Asynchronous Programs
+Detecting Hardware-Assisted Virtualization
+Membership Privacy in MicroRNA-based Studies
+Multiprocessor Real-Time Scheduling with Hierarchical Processor Affinities
+On the Problem of Finding Optimal Harmonic Periods
+Higher-order Ghost State
+Smart Broadcasting: Do You Want to be Seen?
+Lightweight Verification of Separate Compilation
+Recurrent Marked Temporal Point Processes: Embedding Event History to Vector
+Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles
+A Survey on Routing in Anonymous Communication Protocols
+The Case for Process Fairness in Learning: Feature Selection for Fair Decision Making
+The Case for Temporal Transparency: Detecting Policy Change Events in Black-Box Decision Making Systems
+Message Impartiality in Social Media Discussions
+Scalable Influence Maximization for Multiple Products in Continuous-Time Diffusion Networks
+Statistically Profiling Memory in OCaml
+Compositional Synthesis of Finite State Abstractions
+Geo-Replication: Fast If Possible, Consistent If Necessary
+Moral Lineage Tracing
+Parameterized Verification of Asynchronous Shared-Memory Systems
+SoK: Lessons Learned From Android Security Research For Appified Software Platforms
+Improved MHP Analysis
+Robots at the Edge of the Cloud
+What Cannot be Read, Cannot be Leveraged? Revisiting Assumptions of JIT-ROP Defenses
+Forgetting in Social Media: Understanding and Controlling Longitudinal Exposure of Socially Shared Data
+Efficient Cryptographic Password Hardening Services from Partially Oblivious Commitments
+Safety Verification of Continuous-Space Pure Jump Markov Processes
+Strengthening Weak Identities Through Inter-Domain Trust Transfer
+On the Efficiency of the Information Networks in Social Media
+Model Checking Population Protocols
+Learning and Forecasting Opinion Dynamics in Social Networks
+Uncovering the Dynamics of Crowdlearning and the Value of Knowledge
+Estimating Diffusion Networks: Recovery Conditions, Sample Complexity and Soft-thresholding Algorithm

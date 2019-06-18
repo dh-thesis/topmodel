@@ -1,0 +1,252 @@
+Magnetic properties of exchange-spring composite films
+Atomic transport mechanisms in thin oxide films grown on zirconium by thermal oxidation, As-derived from 18O-tracer experiments
+EELS and EFTEM of surface plasmons in metallic nanostructures
+Field of experts
+Salt-induced changes of colloidal interactions in critical mixtures
+The Stuttgart Center for Electron Microscopy at the Max Planck Institute for Metals Research
+Influence of texture on the ferromagnetic properties of nanograined ZnO films
+Hydrogen physisorption in high SSA microporous materials - A comparison between AX-21_33 and MOF-177 at cryogenic conditions
+Label-free spectroscopic detection of vesicles in water using vibrational sum frequency scattering
+The orientation and charge of water at the hydrophobic oil droplet - water interface
+Tailoring the stress-depth profile in thin films; the case of γ’-Fe4N1-x
+Inverse dynamics control of floating-base robots with external constraints: a unified view
+Magnetic layered structure for the production of polarized neutron microbeams
+Nanoscale discontinuities at the boundary of flowing liquids: a look into structure
+Phase formation at the Sn/Cu interface during room temperature aging: microstructural evolution, whiskering, and interface thermodynamics
+Pulling and pushing a cargo with a catalytically active carrier
+The kinetics of a polytypic Laves phase transformation in TiCr2
+Orbital reflectometry of oxide heterostructures
+Epitaxial layered cobaltite NaxCoO2 thin films grown on planar and vicinal cut substrates
+Softening of PMMA brushes upon collapse/swelling transition. A combined neutron reflectivity and nanomechanical cantilever sensor study
+Intelligent induction of active biosystem responses at interfaces
+Magnetic vortex core reversal by rotating magnetic fields generated on micrometer length scales
+Direct assessment of living cell mechanical responses during deformation inside microchannel restrictions
+Comment on "Influence of Noise and Force Measurements" Reply
+Wetting transition of grain boundaries in the Sn-rich part of the Sn-Bi phase diagram
+Frequency dependent magnetization of superconductor strip
+Control of spin configuration in half-metallic La0.7Sr0.3MnO3 nano-structures
+Inversed solid-phase grain boundary wetting in the Al-Zn system
+Determination of anisotropic pinning force by measuring critical current density in an inclined magnetic field
+Comparison of various sol-gel derived metal oxide layers for inverted organic solar cells
+Magnetic vortex core reversal by excitation of spin waves
+Quantitative analysis of layering and in-plane structural ordering at an alumina-aluminum solid-liquid interface
+Self-diffusion in silicon - Change of a paradigm
+Kinetics of the austenite-ferrite transformation with and without applied stress
+Study of ππ correlations at LHC and RHIC energies in pp collisions within the quark-gluon string model
+Tunable symmetry and periodicity in binary supramolecular nanostructures
+Stable cation inversion at the MgAl(2)O(4)(100) surface
+STOMP: Stochastic trajectory optimazation for motion planning
+On the discardability of data in Support Vector Classification problems
+Space-resolved dynamics of a tracer in a disordered solid
+On AgRhO2, and the new quaternary delafossites AgLi1/3Ms2/3O2, syntheses and analyses of real structures
+The different initial oxidation kinetics of Zr(0001) and Zr(10-10) surfaces
+Potential explanation of charge response of magnetization in nanoporous systems
+Causal inference on discrete data using additive noise models
+Formation of two amorphous phases in the Ni60Nb18Y22 alloy after high pressure torsion
+Self-assembled plasmonic core shell clusters with an isotropic magnetic dipole response in the visible range
+Theory of optical second-harmonic and sum-frequency scattering from arbitrarily shaped particles
+Large hidden orbital moments in magnetite
+Surface plasmon modes of a single silver nanorod: an electron energy loss study
+Structure and properties of nanograined Fe-C alloys after severe plastic deformation
+Experimental characterization of tumor spheroids for studies of the energetics of tumor growth
+Influence of dot size and annealing on the magnetic properties of large-area L10-FePt nanopatterns
+Nanopatterning by block copolymer micelle nanolithography and bioinspired applications
+Suppression of geometrical barrier in Bi2Sr2CaCu2O8-δ crystals by Josephson vortex stacks
+Magnetic proximity effects in V/Fe superconductor/ferromagnet single bilayer revealed by waveguide-enhanced polarized neutron reflectometry
+Kinetic effect of boron on the crystallization of Si3 N4 in Si-B-C-N polymer-derived ceramics
+Electron theory of fast and ultrafast dissipative magnetization dynamics
+Magnetism studied with circularly polarized X-rays
+Cr magnetization reversal at the CrO2/RuO2 interface: Origin of the reduced GMR effect
+Steerable random fields for image restoration and inpainting
+The filamentary growth of metals
+Information, learning and falsification
+Increased flux pinning in YBa2Cu3O7-δ thin-film devices through embedding of Au nano crystals
+The temperature-dependent magnetization profile across an epitaxial bilayer of ferromagnetic La2/3Ca1/3MnO3 and superconducting YBa2Cu3O7-δ
+On the laboratory rearing of green dock leaf beetles Gastrophysa viridula (Coleoptera: Chrysomelidae)
+Nonlinear spectroscopy of bio-inferfaces
+Solid state phase transformation kinetics: evaluation of the modular transformation model
+Microstructural and surface residual stress development during low-temperature gaseous nitriding of Fe-3.07at.%Mo alloy
+Path integral reinforcement learning
+Large-area hard magnetic L10-FePt nanopatterns by nanoimprint lithography
+Precipitation of Co from supersaturated Au90Co10: microstructure and kinetics
+Crystalline wax coverage of the cuticle in easy bleeding sawfly larvae
+Diffraction analysis of grain growth in nanocrystalline Ni-W powders prepared by mechanical milling
+Of fluctuations and cross-correlations: finding order in disorder
+Online movement adaptation based on previous sensor experiences
+X-ray diffraction investigations on gas nitrided nickel and cobalt
+Dimensionality control of electronic phase transitions in nickel-oxide superlattices
+Learning force control policies for compliant manipulation
+Age-dependent changes in microscale stiffness and mechanoresponses of cells
+Proceedings of the Twelfth European Powder Diffraction Conference
+Learning to grasp under uncertainty
+Nanoscale engineering of exciton dissociating interfaces in organic photovoltaics
+Crystalline silcion carbide Y junctions induced by catalysts coalescence
+Movement segmentation using a primitive library
+Optimization for Machine Learning
+In situ X-ray of drying temperature influence on the structural evolution of bulk-heterojunction polymer-fullerene solar cells processed by doctor-blading
+The kinetics of grain-boundary nucleated phase-transformations: simulations and modelling
+Criticality and phase separation in a two-dimensional binary colloidal fluid induced by the solvent critical behavior
+Friction force reduction triggers feet grooming behaviour in beetles
+Moving through the phase diagramm: Morphology formation in solution cast polymer-fullerene blend films for organic solar cells
+In vitro observation of dynamic ordering processes in the extracellular matrix of living, adherent cells
+Attractive vortex interaction and the intermediate-mixed state of superconductors
+Extraordinary long range order in self-healing non-close packed 2D arrays
+Shock waves in capillary collapse of colloids: a model system for two-dimensional screened Newtonian gravity
+Hearing what you cannot see and visualizing what you hear: interpreting quartz crystal microbalance data from solvated interfaces
+Phase and microphase separation of polymer thin films dewetted from Silicon-A spin-echo resolved grazing incidence neutron scattering study
+Ideally weak nitriding kinetics during gaseous nitriding of Fe-2at.%Si alloy
+Characterization of dentine, dentinal tubules and dentine-enamel junction in human teeth by advanced analytical TEM
+Amorphous grain boundary layers in the ferromagnetic nanograined ZnO films
+Polytypic transformations of the HfCr2 laves phase – part I: structural evolution as a function of temperature, time and composition
+Multiple Kernel Learning: A Unifying Probabilistic Viewpoint
+High-resolution core-level spectroscopy study of the ultrathin aluminum oxide film on NiAl(110)
+Interaction strength between proteins and polyelectrolyte brushes: A small angle X-ray scattering study
+Structural investigation of thin diblock copolymer films using time-of-flight grazing-incidence small-angle neutron scattering
+Capillary interactions in Pickering emulsions
+Magnetic patterning perpendicular anisotropy FePd alloy films by masked ion irradiation
+Shape-and pose-invariant correspondences using probabilistic geodesic surface embedding
+Spectral analysis by XANES reveals that GPNMB influences the chemical composition of intact melanosomes
+Reinforcement learning of impedance control in stochastic force fields
+Path integral control and bounded rationality
+Critical Casimir forces steered by patterned substrates
+Flow conditions in the vicinity of microstructured interfaces studied by holography and implications for the assembly of artificial actin networks
+Solvation forces in Ising films with long-range boundary fields: density-matrix renormalization-group study
+Microswimmers in patterned environments
+COLT 2011, 24th Annual Conference on Learning Theory-
+Probing nanoscopic droplet interfaces in aqueous solution with vibrational sum-frequency scattering: a study of the effects of path length, droplet density and pulse energy
+Combining wireless neural recording and video capture for the analysis of natural gait
+The sweet coat of living cells - from supramolecular structure and dynamics to biological function
+Elucidating gating effects for hydrogen sorption in MFU-4-type triazolate-based metal-organic frameworks featuring different pore sizes
+Measuring forces between two single actin filaments during Bundle formation
+Transmission electron microscopy investigation of boundaries between amorphous "grains" in Ni50Nb20Y30 alloy
+Home 3D body scans from noisy image and range data
+Modification of deeply buried hydrophobic interfaces by ionic surfactants
+Visualization of multipolar longitudinal and transversal surface plasmon modes in nanowire dimers
+Route to a family of robust, non-interpenetrated metal-organic frameworks with pto-like topology
+Electron theory of magnetoelectric effects in metallic ferromagnetic nanostructures
+Benzyl alcohol and block copolymer micellar lithography: A versatile route to assembling gold and in situ generated titania nanoparticles into uniform binary nanoarrays
+Initial stages of growth of iron on silicon for spin injection through Schottky barrier
+The structure and melting transition of two-dimensional colloidal alloys
+Impact of local versus global ligand density on cellular adhesion
+Multilayer Fresnel zone plate for soft X-ray microscopy resolves sub-39 nm structures
+Size control of PtPb intermetallic nanoparticles prepared via microemulsions
+Dynamic behavior of nanometer-scale amorphous intergranular film in silicon nitride by in situ high-resolution transmission electron microscopy
+The kinetics of the precipitation of Co from supersaturated Cu-Co alloy
+Biomimetic formation of titania thin films: effect of amino acids on the deposition process
+Cyclic stretch increases splicing noise rate in cultured human fibroblasts
+Soft lithography detects partial mechano-sensoric blindness to micrometre topography in cultured aged and diseased cells
+Metal-catalyzed growth of semiconductor nanostructures without solubility and diffusivity constraints
+Direct comparison of phase-sensitive vibrational sum frequency generation with maximum entropy method: case study of water
+The role of plasmons and interband transitions in the color of AuAl2, AuIn2, and AuGa2
+Time-resolved stroboscopic neutron scattering of vortex lattice dynamics in superconducting niobium
+Characterization of hydrogen/deuterium adsorption sites in nanoporous Cu-BTC by low-temperature thermal-desorption mass spectroscopy
+Microemulsions as reaction media for the synthesis of Pt nanoparticles
+Analysis of Cu(In,Ga)(S,Se)2 thin-film solar cells by means of electron microscopy
+Shear thinning and local melting of colloidal crystals
+Microstructured platforms to study nanotube-mediated long-distance cell-to-cell connections
+Actin fusion proteins alter the dynamics of mechanically induced cytoskeleton rearrangement
+Thermal stability of Al/nanocrystalline-Si bilayers investigated by in situ heating energy-filtered transmission electron microscopy
+Anomalous transport of a tracer on percolating clusters
+Nanoscale planar faulting in nanocrystalline Ni-W thin films: grain growth, segregation, and residual stress
+Bayesian robot system identification with input and output noise
+BET specific surface area and pore structure of MOFs determined by hydrogen adsorption at 20 K
+Elastic modulus of tree frog adhesive toe pads
+The vortex lattice in type-II superconductors: ideal or distorted, in bulk and films
+Elastic moduli of living epithelial pancreatic cancer cells and their skeletonized keratin intermediate filament network
+Pattern formation in colloidal explosions
+COLDDIAG: A cold vacuum chamber for diagnostics
+Magnetic antivortex-core reversal by rotating magnetic fields
+The inflammation-associated protein TSG-6 cross-links hyaluronan via hyaluronan-induced TSG-6 oligomers
+Stress relaxation mechanisms of Sn and SnPb coatings electrodeposited on Cu: avoidance of whiskering
+Fe3O4/ZnO: A high-quality magnetic oxide-semiconductor heterostructure by reactive deposition
+Generalized Gilbert equation including inertial damping: derivation from an extended breathing Fermi surface model
+Neural control of cursor trajectory and click by a human with tetraplegia 1000 days after implant of an intracortical microelectrode array
+Resonant wedge-plasmon modes in single-crystalline gold nanoplatelets
+Hybridized metal slit eigenmodes as an illustration of Babinet's principle
+Stability of the current-carrying state in nonhomogeneous MgB2 films
+High contrast magnetic and nonmagnetic sample current microscopy for bulk and transparent samples using soft X-rays
+Flux-line pinning by point defects in anisotropic biaxial type-II superconductors. (Erratum to Physical Review B 79, 020506(R) (2009))
+Second harmonic light scattering from spherical polyelectrolyte brushes
+First measurement of the heat effect of the grain boundary wetting phase transition
+Non-stationary Correction of Optical Aberrations
+Spontaneous epigenetic variation in the Arabidopsis thaliana methylome
+Force measurement in the presence of Brownian noise: Equilibrium-distribution method versus drift method
+Structural evolution of magnesium difluoride: from an amorphous deposit to a new polymorph
+Effect of photovoltaic polymer/fullerene blend composition ratio on microstructure evolution during film sollidification investigated in real time by X-ray Diffraction
+Modulating surface density of proteins via caged surfaces and controlled light exposure
+Effective interactions and equilibrium configurations of colloidal particles on a sessile droplet
+Thermodynamic limits of dynamic cooling
+Magnetization of multicomponent ferrofluids
+Fe-Cr-V ferritic steels for possible nuclear applications
+Learning motion primitive goals for robust manipulation
+Nanotube action between human mesothelial cells reveals novel aspects of inflammatory responses
+Noble gases and microporous frameworks; from interaction to application
+Annealing of single lamella nanoparticles of polyethylene
+Fractal plasmonics: subdiffraction focusing and broadband spectral response by a Sierpinski nanocarpet
+Lammellar solid-liquid mesophase nucleated by Josephson vortices at the melting of the vortex lattice in Bi2Sr2CaCu2O8+δ Superconductor
+The lattice parameter of nanocrystalline Ni as function of crystallite size
+Effects of cuticle structure and crystalline wax coverage on the coloration in young and old males of Calopteryx splendens and Calopteryx virgo
+Dedicated beamlines for in-situ investigations of materials in reduced dimensions
+Complexation of beta-lactoglobulin fibrils and sulfated polysaccharides
+Kinetics of the allotropic hcp-fcc phase transformation in cobalt.
+Kinetics of interface-controlled phase transformations: atomistic and mesoscopic simulations
+Skill learning and task outcome prediction for manipulation
+Direct detection of vesicle bilayer asymmetry in catanionic vesicles using vibrational sum frequency scattering
+The kink-pair mechanism and low-temperature flow-stress behaviour of strontium titanate single crystals
+Breakthroughs in understanding elastic grain interaction and whisker formation made possible by advances in X-ray powder diffraction
+Normal and excess nitrogen uptake by iron-based Fe-Cr-Al alloys: the role of the Cr/Al atomic ratio
+Toward quantitative core-loss EFTEM tomography
+Core–Shell Nanocrystals
+Induction of malaria parasite migration by synthetically tunable microenvironments
+Coupled vortex oscillations in spatially separated permalloy squares
+Electric conduction properties of boron-doped ceria
+Simulation of the kinetics of grain-boundary nucleated phase transformations
+Low-dose strain mapping by dark-field inline electron holography
+Environmental constraints guide migration of malaria parasites during transmission
+Hybrid nanostructures for enhanced light-harvesting: plasmon induced increase in fluorescence from individual photosynthetic pigment protein complexes
+Learning variable impedance control
+Benchmark datasets for pose estimation and tracking
+Perspectives on biological growth and remodeling
+Influence of rotational force fields on the determination of the work done on a driven Brownian particle
+Reply to comments on the absence of a stable hexagonal Laves phase modification (NbCr2) in the Nb-Cr System
+Kinetic fingerprint discriminates similar cell populations subjected to uniaxial cyclic tensile strain on flexible substrates
+Fabrication of multi-parametric platforms based on nanocone arrays for determination of cellular response
+Hydrogen storage by cryoadsorption in ultrahigh-porosity metal-organic frameworks
+Spatially resolved photoconductivity of thin films formed by colloidal octapod-shaped CdSe/CdS nanocrystals
+Contruction of basis functions with crystal symmetry for the spin-cluster expansion of the magnetic energy on the atomic scale
+Magnetocaloric effect, magnetic domain structure and spin-reorientation transitios in HoCo5 single crystals
+Signal transfer in a chain of stray-field coupled ferromagnetic squares
+A database and evaluation methodology for optical flow
+Evaluating the automated alignment of 3D human body scans
+Single cell force spectroscopy of T cells recognizing a myelin-derived peptide on antigen presenting cells
+Phase behavior of colloidal monolayers on quasiperiodic substrates
+Surface structure of sodium dodecyl sulfate surfactant and oil at the oil-in-water droplet liquid/liquid interface: a manifestation of a nonequilibrum surface state
+Growth mechanisms of phtalocyanine nanowires induced by Au nanoparticle templates
+Spin interactions in bcc and fcc Fe beyond the Heisenberg model
+Precipitation of Co in supersaturated Au-based Au-Co alloys; microstructural evolution and transformation kinetics
+PAC-Bayesian Analysis of Martingales and Multiarmed Bandits
+Kernel Methods in Bioinformatics
+Learning, planning, and control for quadruped locomotion over challenging terrain
+Frequency-dependent critical current and transport ac loss of superconductor strip and Roebel cable
+Debye-Scherrer rings from block copolymer films with powder-like order
+Reversible shape changes of Pd nanoparticles on MgO(100)
+Valence-band and chemical-state analyses of Zr and O in thermally grown thin zirconium-oxide films: an XPS study
+Always on the bright side: the climbing mechanism of Galium aparine
+What we can learn from single molecule trajectories?
+Combination of a reflectometer and a nonmagnetic waveguide for experiments with polarized neutron microbeams
+Collective dynamics of colloids at fluid interfaces
+Critical Casimir forces for Ising films with variable boundary fields
+Photovoltaic response to structural modifications on a series of conjugated polymers based on 2 - aryl - 2H -benzotriazoles
+Polytypic transformations of the HfCr2 laves phase – part II: kinetics of the polymorphic C14 → C15 transformation
+An iterative path integral stochastic optimal control approach for learning robotic tasks
+Ordered and disordered states in NiAs/Ni2/In-type Ni1+δSn: crystallography and order formation
+Dynamics of colloids in confined geometries
+Micro-rheology on (polymer-grafted) colloids using optical tweezers
+Simon Charles Moss
+Electrostatic interactions in critical solvents
+Synthesis-real structure-property: the showcase of silver-rich Ag2Se
+Long-wavelength anomalies in the asymptotic behavior of mode-coupling theory
+Quantification of protein-protein interactions within membranes by fluorescence correlation spectroscopy
+Oligomerization and pore formation by equinatoxin II inhibit endocytosis and lead to plasma membrane reorganization
+The oxidation of Fe(111)
+High-resolution x-ray absorption spectroscopy of BaTiO3: Experiment and first-principles calculations

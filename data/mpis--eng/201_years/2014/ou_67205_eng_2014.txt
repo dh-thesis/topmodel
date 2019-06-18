@@ -1,0 +1,58 @@
+Transcriptional control of FLOWERING LOCUS T in Arabidopsis
+Induced and natural variation of promoter length modulates the photoperiodic response of FLOWERING LOCUS T
+NATURAL VARIATION IN EPIGENETIC GENE REGULATION AND ITS EFFECTS ON PLANT DEVELOPMENTAL TRAITS
+Effector Specialization in a Lineage of the Irish Potato Famine Pathogen
+The Arabidopsis ZINC FINGER PROTEIN3 Interferes with Abscisic Acid and Light Signaling in Seed Germination and Plant Development
+The Heat Shock Factor A4A Confers Salt Tolerance and Is Regulated by Oxidative Stress and the Mitogen-Activated Protein Kinases MPK3 and MPK6
+Genotype x environment interaction QTL mapping in plants: lessons from Arabidopsis
+Syntaxin of Plant Proteins SYP123 and SYP132 Mediate Root Hair Tip Growth in Arabidopsis thaliana
+Genome-wide quantitative analysis of DNA methylation from bisulfite sequencing data
+Network types and their application in natural variation studies in plants
+The Genomics of Powdery Mildew Fungi: Past Achievements, Present Status and Future Prospects
+Osmotic stress at the barley root affects expression of circadian clock genes in the shoot
+Natural variation reveals that intracellular distribution of ELF3 protein is associated with function in the circadian clock
+Evolutionary conservation of cold-induced antisense RNAs of FLOWERING LOCUS C in Arabidopsis thaliana perennial relatives
+Connections between circadian clocks and carbon metabolism reveal species-specific effects on growth control
+The TRANSPLANTA collection of Arabidopsis lines: a resource for functional analysis of transcription factors based on their conditional overexpression
+Contrasting Roles of the Apoplastic Aspartyl Protease APOPLASTIC, ENHANCED DISEASE SUSCEPTIBILITY1-DEPENDENT1 and LEGUME LECTIN-LIKE PROTEIN1 in Arabidopsis Systemic Acquired Resistance
+Elevated salicylic acid levels conferred by increased expression of ISOCHORISMATE SYNTHASE 1 contribute to hyperaccumulation of SUMO1 conjugates in the Arabidopsis mutant early in short days 4
+Meristem-specific expression of epigenetic regulators safeguards transposon silencing in Arabidopsis
+Genetic Control of Plant Development by Overriding a Geometric Division Rule
+The role of papain-like cysteine proteases of tomato in pathogen defense
+Functional analysis of COP1 and SPA orthologs from Physcomitrella and rice during photomorphogenesis of transgenic Arabidopsis reveals distinct evolutionary conservation
+Stimulus analysis of BetP activation under in vivo conditions
+Leaf Shape Evolution Through Duplication, Regulatory Diversification, and Loss of a Homeobox Gene
+Non-Cell-Autonomous Regulation of Root Hair Patterning Genes by WRKY75 in Arabidopsis
+The roles of polyamines during the lifespan of plants: from development to stress
+Extending the model of Arabidopsis telomere length and composition across Brassicaceae
+Conserved histidine of metal transporter AtNRAMP1 is crucial for optimal plant growth under manganese deficiency at chilling temperatures
+Diurnal and circadian expression profiles of glycerolipid biosynthetic genes in Arabidopsis
+Mechanical constraints imposed by 3D cellular geometry and arrangement modulate growth patterns in the Arabidopsis embryo
+Genotypeenvironment interactions affecting preflowering physiological and morphological traits of Brassica rapa grown in two watering regimes
+Post-fertilization expression of FLOWERING LOCUS T suppresses reproductive reversion
+Auxin Depletion from the Leaf Axil Conditions Competence for Axillary Meristem Formation in Arabidopsis and Tomato
+Cardamine hirsuta: a versatile genetic system for comparative studies
+Structural Basis for Assembly and Function of a Heterodimeric Plant Immune Receptor
+The Arabidopsis PEPR pathway couples local and systemic plant immunity
+Interaction of a Blumeria graminis f. sp hordei effector candidate with a barley ARF-GAP suggests that host vesicle trafficking is a fungal pathogenicity target
+Genetic Control of Reproductive Development in Temperate Cereals
+miR824-Regulated AGAMOUS-LIKE16 Contributes to Flowering Time Repression in Arabidopsis
+CHOLINE TRANSPORTER-LIKE1 is required for sieve plate development to mediate long-distance cell-to-cell communication
+Induced Deactivation of Genes Encoding Chlorophyll Biosynthesis Enzymes Disentangles Tetrapyrrole-Mediated Retrograde Signaling
+Exact likelihood computation in Boolean networks with probabilistic time delays, and its application in signal network reconstruction
+Towards the discovery of novel genetic component involved in stress resistance in Arabidopsis thaliana
+Dynamic hydrolase activities precede hypersensitive tissue collapse in tomato seedlings
+Microarray-based ultra-high resolution discovery of genomic deletion mutations
+EXPRSS: an Illumina based high-throughput expression-profiling method to reveal transcriptional dynamics
+Selection of Higher Order Regression Models in the Analysis of Multi-Factorial Transcription Data
+Analysis of TTG1 function in Arabis alpina
+Mechanisms Underlying Robustness and Tunability in a Plant Immune Signaling Network
+A Conserved KIN17 Curved DNA-Binding Domain Protein Assembles with SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE7 to Adapt Arabidopsis Growth and Development to Limiting Copper Availability
+Arabidopsis florigen FT binds to diurnally oscillating phospholipids that accelerate flowering
+SHORT VEGETATIVE PHASE reduces gibberellin biosynthesis at the Arabidopsis shoot apex to regulate the floral transition
+p53 and TAp63 Promote Keratinocyte Proliferation and Differentiation in Breeding Tubercles of the Zebrafish
+ER bodies in plants of the Brassicales order: biogenesis and association with innate immunity
+Managing potato wart: a review of present research status and future perspective
+The SERRATE protein is involved in alternative splicing in Arabidopsis thaliana
+Loss of Cytosolic Phosphoglucose Isomerase Affects Carbohydrate Metabolism in Leaves and Is Essential for Fertility of Arabidopsis
+ER-mediated control for abundance, quality, and signaling of transmembrane immune receptors in plants

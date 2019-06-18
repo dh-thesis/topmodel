@@ -1,0 +1,179 @@
+'Fuelled' motion: Phoretic motility and collective behaviour of active colloids
+Multiple phoretic mechanisms in the self-propulsion of a Pt-insulator Janus swimmer
+Pattern formation by curvature-inducing proteins on spherical membranes
+Cusp-shaped elastic creases and furrows
+Shape of the growing front of biofilms
+Frontiers of chaotic advection
+Shape of a sessile drop on a flat surface covered with a liquid film
+Exothermicity is not a necessary condition for enhanced diffusion of enzymes
+Focusing and sorting of ellipsoidal magnetic particles in microchannels
+High-speed 4D computational microscopy of bacterial surface motility
+Dynamical theory of the inverted cheerios effect
+Diffusion of an enzyme: The role of fluctuation-induced hydrodynamic coupling
+Marangoni contraction of evaporating sessile droplets of binary mixtures
+Origin of life: Division for multiplication
+Vapor and gas-bubble growth dynamics around laser-irradiated, water-immersed plasmonic nanoparticles
+Modelling of Dictyostelium discoideum movement in a linear gradient of chemoattractant
+Mechanism of signal propagation in Physarum polycephalum
+Flagella-mediated unspecific adhesion of Chlamydomonas to surfaces is switchable by light
+Simultaneous quantification of spatially siscordant alternans in voltage and intracellular calcium in Langendorff-perfused rabbit hearts and inconsistencies with models of cardiac action potentials and Ca transients
+Roughness-facilitated local 1/2 scaling does not imply the onset of the ultimate regime of thermal convection
+Drying paint: From micro-scale dynamics to mechanical instabilities
+NLS breathers, rogue waves, and solutions of the Lyapunov equation for Jordan blocks
+Self-assembled three-dimensional chiral colloidal architecture
+Electromechanical optical mapping
+Evaporating pure, binary and ternary droplets: Thermal effects and axial symmetry breaking
+Channeling of branched flow in weakly scattering anisotropic media
+Theory of light-matter interaction in nematic liquid crystals and the second Painleve equation
+Orbiting pairs of walking droplets: Dynamics and stability
+Is turbulent facilitated ignition through differential diffusion independent of spark gap?
+Gossip algorithms in quantum networks
+How tetraspanins shape endothelial and leukocyte nano-architecture during inflammation
+Gender bias in scholarly peer review
+Hydrodynamic turbulence in quasi-Keplerian rotating flows
+Modes of failure in disordered solids
+Percolation thresholds and fractal dimensions for square and cubic lattices with long-range correlated defects
+Model-free inference of direct network interactions from nonlinear collective dynamics
+Spatial mapping reveals multi-step pattern of wound healing in Physarum polycephalum
+Large-scale flow and Reynolds numbers in the presence of boiling in locally heated turbulent convection
+Introduction to focus issue: Complex cardiac dynamics
+Mean temperature profiles in turbulent thermal convection
+DynamicalBilliards.jl : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions
+Self-wrapping of an ouzo drop induced by evaporation on a superamphiphobic surface
+Measuring thin films using quantitative frustrated total internal reflection (FTIR)
+Effects of developmental variability on the dynamics and self-organization of cell populations
+Critical noise can make the minority candidate win: The US presidential election cases
+Emergent dynamics of spatio-temporal chaos in a heterogeneous excitable medium
+Working memory requires a combination of transient and attractor-dominated dynamics to process unreliably timed inputs
+Fast dynamical coupling enhances frequency adaptation of oscillators for robotic locomotion control
+Ultimate-state transition of turbulent Rayleigh-Benard convection
+Collective interactions in the nucleation and growth of surface droplets.
+Generalized Volterra lattices: Binary Darboux transformations and self-consistent sources.
+Chemotaxis and autochemotaxis of self-propelling droplet swimmers
+Cross-talk between topological defects in different fields revealed by nematic microfluidics
+Characterizing rare fluctuations in soft particulate flows
+A new, low-energy defibrillation strategy: Use of multiple electric field directions to reshape scroll wave filaments
+Comparative statistics of selected subgrid-scale models in large-eddy simulations of decaying, supersonic magnetohydrodynamic turbulence
+Changes in the boundary-layer structure at the edge of the ultimate regime in vertical natural convection
+Local pore size correlations determine flow distributions in porous media
+Mechanisms of vortices termination in the cardiac muscle
+Theory of light-matter interaction in nematic liquid crystals and the second Painlevé equation
+A universal order parameter for synchrony in networks of limit cycle oscillators
+Trophallaxis-inspired model for distributed transport between randomly interacting agents
+Analysis and modelling of a 9.3 kyr palaeoflood record: correlations, clustering, and cycles
+Random matrix theory approach to chaotic Coherent Perfect Absorbers
+Emergence of non-Gaussianity in turbulence
+Geometrical factors in propagation block and spiral wave initiation
+Weakly and strongly coupled Belousov-Zhabotinsky patterns
+Shear force-based genetic screen reveals negative regulators of cell adhesion and protrusive activity
+Competition brings out the best: Modelling the frustration between curvature energy and chain stretching energy of lyotropic liquid crystals in bicontinuous cubic phases
+Escape routes, weak links, and desynchronization in fluctuation-driven networks
+Self-localization of Bose–Einstein condensates in optical lattices
+Forces directing germ-band extension in Drosophila embryos.
+Heat transport in horizontal and inclined convection
+Segregation in dissolving binary-component sessile droplets
+Influence of humidity on tribo-electric charging and segregation in shaken granular media
+Can hail and rain nucleate cloud droplets?
+The role of local instabilities in fluid invasion into permeable media
+Combined scanning X-ray diffraction and holographic imaging of cardiomyocytes
+Collision energy dependence of state-to-state differential cross sections for rotationally inelastic scattering of H2O by He
+Charging changes contact composition in binary sphere packings
+The impact of colloidal surface-anchoring on the smectic A phase
+Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice
+Noise-constrained switching times for heteroclinic computing
+Pressure-induced melting of confined ice
+Vocal repertoire of long-finned pilot whales (Globicephala melas) in northern Norway
+Modelling far field pacing for terminating spiral waves pinned to ischaemic heterogeneities in cardiac tissue
+Confined Rayleigh-Bénard, rotating Rayleigh-Bénard, and double diffusive convection: A unifying view on turbulent transport enhancement through coherent structure manipulation
+Mass and moment of inertia govern the transition in the dynamics and wakes of freely rising and falling cylinders
+Transition barrier at a first-order phase transition in the canonical and microcanonical ensemble
+Direct determination of enzyme kinetic parameters from single reactions using a new progress curve analysis tool
+Sustainable computational science: The ReScience initiative
+Controlling percolation with limited resources
+Origin of spray formation during impact on heated surfaces
+Simultaneous quantification of spatially discordant alternans in voltage and intracellular calcium in Langendorff-perfused rabbit hearts and inconsistencies with models of cardiac action potentials and Ca transients
+Fast dynamics of water droplets freezing from the outside in
+Dual theory of transmission line outages
+Dynamics of spiral waves rotating around an obstacle and the existence of a minimal obstacle
+Transition to reconstructibility in weakly coupled networks
+Breakdown of local information processing may underlie isoflurane anesthesia effects
+SK3 channel overexpression in mice causes hippocampal shrinkage associated with cognitive impairments.
+Printing functional 3D microdevices by laser-induced forward transfer.
+A dual method for computing power transfer distribution factors.
+Partial information decomposition as a unified approach to the specification of neural goal functions
+Food distribution in ant colonies: Trophallaxis and self-organization
+Sparse convolutional coding for neuronal assembly detection
+Drying in a microfluidic chip: experiments and simulations
+The smectic order of wrinkles
+Long-term information storage by the interaction of synaptic and structural plasticity
+Cycle flows and multistability in oscillatory networks
+Curvature effects on the velocity profile in turbulent pipe flow
+Features of chaotic transients in excitable media governed by spiral and scroll waves
+Convergence of self-organizing pulse-coupled oscillator synchronization in dynamic networks
+Nucleated dewetting in supported ultra-thin liquid films with hydrodynamic slip
+Life stages of wall-bounded decay of Taylor-Couette turbulence
+Critical transitions and perturbation growth directions
+Detection and characterization of intermittent complexity variations in cardiac arrhythmia
+Noise- constrained switching times for heteroclinic computing
+Quantifying information modification in developing neural networks via partial information decomposition
+Leidenfrost drops cooling surfaces: Theory and interferometric measurement
+Compressible effect on the cavitating flow: A numeric study
+Fast propagation regions cause self-sustained reentry in excitable media
+Extremes of fractional noises: A model for the timings of arrhythmic heart beats in post-infarction patients
+Mean flow structure in horizontal convection
+Fluctuating thermal boundary layers and heat transfer in turbulent Rayleigh–Bénard convection
+Recent advances in phase transitions and critical phenomena
+Apparatus to control and visualize the impact of a high-energy laser pulse on a liquid target
+NET: A new framework for the vectorization and examination of network data
+Criticality meets learning: Criticality signatures in a self-organizing recurrent neural network
+Formation of surface nanodroplets facing a structured microchannel wall
+Network susceptibilities: Theory and applications
+Phenomenological Nusselt-Rayleigh scaling of turbulent thermal convection
+Scaling laws for random walks in long-range correlated disordered media
+A theory for spiral wave drift induced by ac and polarized electric fields in chemical excitable media
+A parallel interaction potential approach coupled with the immersed boundary method for fully resolved simulations of deformable interfaces and membranes
+5 kHz Transcranial alternating urrent stimulation: Lack of cortical excitability changes when grouped in a theta burst pattern
+Where grains and fluids meet: The complex physics of wet granular matter
+Spontaneous termination of reentrant activity under myocardial acute ischemia: Role of cellular conductivity and its relation to ischemic heterogeneities.
+Phase separation in driven granular gases: Exploring the elusive character of nonequilibrium steady states.
+Heat transport in horizontal and inclined convection
+Hydrodynamic cavitation in Stokes flow of anisotropic fluids
+Classical synchronization indicates persistent entanglement in isolated quantum systems
+Fracture of a model cohesive granular material
+Impact of spatially correlated pore-scale heterogeneity on drying porous media
+A laser sheet self-calibration method for scanning PIV
+Synchronization as a mechanism for low-energy anti-fibrillation pacing
+Spontaneous core rotation in ferrofluid pipe flow
+Revealing physical interaction networks from statistics of collective dynamics
+Quantifying enzyme activity in living cells
+A dual communicator and dual grid-resolution algorithm for petascale simulations of turbulent mixing at high Schmidt number
+Surface lattice dynamics and electron-phonon interaction in cesium ultra-thin films
+Subsampling scaling
+Numerical simulation of artificial microswimmers driven by Marangoni flow
+Dissipative effects on inertial-range statistics at high reynolds numbers
+Statistics of turbulence in the energy-containing range of Taylor-Couette compared to canonical wall-bounded flows
+Large-scale sweeping of small-scale eddies in turbulence: A filtering approach
+Growth and detachment of oxygen bubbles induced by gold-catalyzed decomposition of hydrogen peroxide
+A highly scalable particle tracking algorithm using partitioned global address space (PGAS) programming for extreme-scale turbulence simulations
+The relevant role of SR Ca leak in the development of heart failure
+Molecular dynamics study of multicomponent droplet dissolution in a sparingly miscible liquid
+Lagrangian intermittency based on an ensemble of Gaussian velocity time series
+Universal nanodroplet branches from confining the Ouzo effect
+Edge anisotropy and the geometric perspective on flow networks
+Curing critical links in oscillator networks as power flow models
+Scaling relations in large-Prandtl-number natural thermal convection
+Radar for tracer particles
+Flexible information routing by transient synchrony
+Sustainability, collapse and oscillations in a simple World-Earth model
+Deformable ellipsoidal bubbles in Taylor-Couette flow with enhanced Euler-Lagrangian tracking
+Impact of viscoelastic coupling on the synchronization of symmetric and asymmetric self-sustained oscillators
+Entrapment of interfacial nanobubbles on nano-structured surfaces
+Transition to turbulence in pulsating pipe flow
+Universality of the energy-containing structures in wall-bounded turbulence
+Solvent exchange leading to nanobubble nucleation: A molecular dynamics study
+Experimental investigation of the turbulence induced by a bubble swarm rising within incident turbulence
+Convective instability and boundary driven oscillations in a reaction-diffusion-advection model
+Disentangling the origins of torque enhancement through wall roughness in Taylor-Couette turbulence.
+Variability and order in cytoskeletal dynamics of motile amoeboid cells
+Elastocapillary levelling of thin viscous films on soft substrates
+Coordinated cell area fluctuations drive junction extension in epithelial cell quadruplets

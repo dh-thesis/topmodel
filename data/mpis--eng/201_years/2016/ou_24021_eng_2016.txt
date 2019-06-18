@@ -1,0 +1,46 @@
+Surface Analysis and Dynamics (SAND)
+Synergetic Impact of Synergetics - Remembrances of a Chemist
+Preface: Surface analysis and dynamics
+Resolving the fundamentals of magnetotransport in metals with ultrafast terahertz spectroscopy
+The Electronic Structure of Iridium Oxide Electrodes Active in Water Splitting
+Reducing the V2O3(0001) surface through electron bombardment – a quantitative structure determination with I/V-LEED
+High-Field High-Repetition-Rate Sources for the Coherent THz Control of Matter
+Energy dissipation from a correlated system driven out of equilibrium
+The electronic structure of iridium and its oxides
+Research Progress on the Indirect Hydrogenation of Carbon Dioxide to Methanol
+Obituary: Walter Kohn (1923–2016)
+Systematic construction of density functionals based on matrix product state computations
+Selektive Alkanoxidation an Manganoxid: isolierte, kettenförmige MnOx-Zentren an der Oberfläche von MnWO4-Nanostäbchen
+Characterization of neutral boron-silicon clusters using infrared spectroscopy: The case of Si6B
+Selective Alkane Oxidation by Manganese Oxide: Site Isolation of MnOx Chains at the Surface of MnWO4 Nanorods
+Preparation of silica films on Ru(0001): A LEEM/PEEM study
+GlycoMob: an ion mobility-mass spectrometry collision cross section database for glycomics
+Reverse Water-Gas Shift or Sabatier Methanation on Ni(110)? Stable Surface Species at Near-Ambient Pressure
+Probing the electrooxidation of weakly adsorbed formic acid on Pt(1 0 0)
+Turning Perspective in Photoelectrocatalytic Cells for Solar Fuels
+Foreword
+Electron stimulated hydroxylation of a metal supported silicate film
+Hydrothermal synthesis of bi-functional nanostructured manganese tungstate catalysts for selective oxidation
+Surface Analysis of Zeolites: An XPS, Variable Kinetic Energy XPS, and Low Energy Ion Scattering Study
+Precision of collective oscillations in complex dynamical systems with noise
+Protons and Hydroxide Ions in Aqueous Systems
+Infrared Photodissociation Spectroscopy of C4N−, C6N− and C8N−
+Foam Decay with Incomparable Lorenz Curves
+Experimentally probing the libration of interfacial water: the rotational potential of water is stiffer at the air/water interface than in bulk liquid
+Modeling quantum nuclei with perturbed path integral molecular dynamics
+Exploring the incorporation of nitrogen in titanium and its influence on the electrochemical corrosion resistance in acidic media
+Magnetism and exchange interaction of small rare-earth clusters; Tb as a representative
+Oxidation of the Ru(0001) surface covered by weakly bound, ultrathin silicate films
+The Emergence of Covalent On-Surface Polymerization
+Ultrafast Surface Magnetoelastic Waves
+Ultrafast spintronics roadmap: from femtosecond spin current pulses to terahertz non-uniform spin dynamics via nano-confined spin transfer torques
+Strong metal-support interaction and alloying in Pd/ZnO catalysts for CO oxidation
+Density-functional theory with screened van der Waals interactions applied to atomic and molecular adsorbates on close-packed and non-close-packed surfaces
+Modification of the carbide microstructure by N- and S-functionalization of the support in MoxC/CNT catalysts
+ALD SnO2 protective decoration enhances the durability of a Pt based electrocatalyst
+Synthesis and Assembly of Dipolar Heterostructured Tetrapods: Colloidal Polymers with “Giant tert-butyl” Groups
+Prospects for quantum computing with an array of ultracold polar paramagnetic molecules
+Localization-dependent charge separation efficiency at an organic/inorganic hybrid interface
+Electron angular distributions of noble gases in sequential two-photon double ionization
+Nanofocused Plasmon-Driven Sub-10 fs Electron Point Source
+Supports and modified nano-particles for designing model catalysts

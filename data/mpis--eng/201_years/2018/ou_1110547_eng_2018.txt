@@ -1,0 +1,44 @@
+Pathogenicity of human antibodies against myelin oligodendrocyte glycoprotein
+Preservation with alpha(1)-antitrypsin improves primary graft function of murine lung transplants
+Building a Better Brain
+Full reconstruction of large lobula plate tangential cells in Drosophila from a 3D EM dataset
+Small Molecule Antagonists of NAADP-Induced Ca2+ Release in T-Lymphocytes Suggest Potential Therapeutic Agents for Autoimmune Disease
+Topography of a Visuomotor Transformation
+Dietary Conjugated Linoleic Acid Supplementation Modulates CNS Autoimmunity
+Complex and spatially segregated auditory inputs of the mouse superior colliculus
+Consequences of cathepsin C inactivation for membrane exposure of proteinase 3, the target antigen in autoimmune vasculitis
+Gut molecules control brain inflammation
+Increased Pancreatic Protease Activity in Response to Antibiotics Impairs Gut Barrier and Triggers Colitis
+Color Processing in the Early Visual System of Drosophila
+Ready, set, go: the bridging of attention to action by acetylcholine in prefrontal cortex
+Biological Motion as an Innate Perceptual Mechanism Driving Social Affiliation
+Glutamate Signaling in the Fly Visual System
+A biophysical mechanism for preferred direction enhancement in fly motion vision
+Revisiting the developmental and cellular role of the pigmentation gene yellow in Drosophila using a tagged allele
+Epithelial Sodium Channel Regulates Adult Neural Stem Cell Proliferation in a Flow-Dependent Manner
+Non-uniform weighting of local motion inputs underlies dendritic computation in the fly visual system
+Projections of the Diencephalospinal Dopaminergic System to Peripheral Sense Organs in Larval Zebrafish (Danio rerio)
+Exploiting the S4-S5 Specificity of Human Neutrophil Proteinase 3 to Improve the Potency of Peptidyl Di(chlorophenyl)-phosphonate Ester Inhibitors: A Kinetic and Molecular Modeling Analysis
+How the Barn Owl Computes Auditory Space
+Bi-directional Control of Walking Behavior by Horizontal Optic Flow Sensors
+Food and water restriction lead to differential learning behaviors in a head-fixed two-choice visual discrimination task for mice
+Eph Receptor Effector Ephexin Mediates Olfactory Dendrite Targeting in Drosophila
+Quantitative Analysis of the Spatial Organization of Synaptic Inputs on the Postsynaptic Dendrite
+Progress and remaining challenges in high-throughput volume electron microscopy
+High-yield in vitro recordings from neurons functionally characterized in vivo
+Precisely timed inhibition facilitates action potential firing for spatial coding in the auditory brainstem
+Inhibition of oxidative stress in cholinergic projection neurons fully rescues aging-associated olfactory circuit degeneration in Drosophila
+Internal State Dependent Odor Processing and Perception-The Role of Neuromodulation in the Fly Olfactory System
+Dietary supplementation with conjugated linoleic acid influences central nervous system autoimmunity via the gut-central nervous system axis
+Imaging-Based Screening Platform Assists Protein Engineering
+DIsulfide Mapping PLanner Software Tool
+Orphan receptor GPR158 controls stress-induced depression
+A carbon nanotube tape for serial-section electron microscopy of brain ultrastructure
+Multiple Nonsense-Mediated mRNA Processes Require Smg5 in Drosophila
+BReDi mouse: A novel transgenic mouse strain to track and deplete Bcells.
+Organellar Proteomics and Phospho-Proteomics Reveal Subcellular Reorganization in Diet-Induced Hepatic Steatosis
+Optogenetic precision toolkit to reveal form, function and connectivity of single neurons
+High-precision automated reconstruction of neurons with flood-filling networks
+Dietary non-fermentable fiber prevents autoimmune neurological disease by changing gut metabolic and immune status
+The locus coeruleus drives disinhibition in the midline thalamus via a dopaminergic mechanism
+Visual Projection Neurons Mediating Directed Courtship in Drosophila

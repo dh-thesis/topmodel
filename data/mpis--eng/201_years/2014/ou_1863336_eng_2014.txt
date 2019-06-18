@@ -1,0 +1,231 @@
+Atomistic simulations of the interaction of alloying elements with grain boundaries in Mg
+Control of recombination pathways in TiO2 nanowire hybrid solar cells using Sn4+ dopants
+Narrow-band red-emitting Sr[LiAl3N4]:Eu2+ as a next-generation LED-phosphor material
+Platinum-cobalt catalysts for the oxygen reduction reaction in high temperature proton exchange membrane fuel cells - Long term behavior under ex-situ and in-situ conditions
+Tin doping speeds up hole transfer during light-driven water oxidation at hematite photoanodes
+Nanoprobe crystallographic orientation studies of isolated shield elements of the coccolithophore species Emiliania huxleyi
+A 3D insight on the catalytic nanostructuration of few-layer graphene
+Ca[LiAl3N4]:Eu2+-A narrow-band red-emitting nitridolithoaluminate
+Bonding behavior and chemical stability of silica-based nanotubes and their 3D assembly
+Influence of thermal post-curing on the degradation of a cross-linked polybenzimidazole-based membrane for high temperature polymer electrolyte membrane fuel cells
+Macroporous indium tin oxide electrode layers as conducting substrates for immobilization of bulky electroactive guests
+TEM preparation methods and influence of radiation damage on the beam sensitive CaCO3 shell of Emiliania huxleyi
+High-resolution spectroscopy of bonding in a novel BeP2N4 compound
+New insights into single-grain mechanical behavior from temperature-dependent 3-D coherent X-ray diffraction
+Cation exchange synthesis and optoelectronic properties of type II CdTe-Cu2-xTe nano-heterostructures
+Attosecond broadband multilayer mirrors for the water window spectral range
+Quantitative Understanding of the Optical Properties of a Single, Complex-Shaped Gold Nanoparticle from Experiment and Theory
+Influence of the size and shape of silica nanoparticles on the properties and degradation of a PBI-based high temperature polymer electrolyte membrane
+A novel, single phase, non-equiatomic FeMnNiCoCr high-entropy alloy with exceptional phase stability and tensile ductility
+Enhanced superplasticity in an Al-alloyed multicomponent Mn–Si–Cr–C steel
+Solar Nanocomposites with Complementary Charge Extraction Pathways for Electrons and Holes: Si Embedded in ZnS
+Cu-Rich Precursors Improve Kesterite Solar Cells
+Effect of Deformation Induced Transformation of ε-Martensite on Ductility Enhancement in a Fe–12 Mn Steel at Cryogenic Temperatures
+Damage evolution during cyclic tension-tension loading of micron-sized Cu lines
+Thermogravimetry and insitu mass spectrometry at high temperatures compared to theoretical modelling - The weight loss during selective decarburisation at 800 °C
+Thermodynamic modelling of crystalline unary phases
+Rational design of the electrode morphology for oxygen evolution - enhancing the performance for catalytic water oxidation
+Composition-Dependent Oxygen Reduction Activity and Stability of Pt–Cu Thin Films
+Study of polymer coating delamination kinetics on zinc modified with zinc oxide in different morphologies
+Hollow and Yolk-Shell Iron Oxide Nanostructures on Few-Layer Graphene in Li-Ion Batteries
+Recovery of electrical resistance in copper films on polyethylene terephthalate subjected to a tensile strain
+Influence of the dislocation core on the glide of the ½<111>{110} edge dislocation in bcc-iron: An embedded atom method study
+Hydrogen-assisted decohesion and localized plasticity in dual-phase steel
+Effect of surface roughness on optical heating of metals
+Atomic-scale analysis of carbon partitioning between martensite and austenite by atom probe tomography and correlative transmission electron microscopy
+The liquidus surface of the Cr–Al–Nb system and re-investigation of the Cr–Nb and Al–Cr phase diagrams
+Ductility improvement of Mg alloys by solid solution: Ab initio modeling, synthesis and mechanical properties
+Effect of the primary heat treatment on the bond formation in cold welding of aluminum and steel by cold forging
+Atom probe tomography study of ultrahigh nanocrystallization rates in FeSiNbBCu soft magnetic amorphous alloys on rapid annealing
+Atomic-scale quantification of grain boundary segregation in nanocrystalline material
+On the Spheroidized Carbide Dissolution and Elemental Partitioning in High Carbon Bearing Steel 100Cr6
+Temperature Effect on Twin Formation Kinetics and Deformation Behavior of Fe–18Mn-0.6C TWIP Steel
+The impact of dissolved gases on platinum dissolution in acidic media
+Kikuchi bandlet method for the accurate deconvolution and localization of Kikuchi bands in Kikuchi diffraction patterns
+Long-term microstructural stability of oxide-dispersion strengthened Eurofer steel annealed at 800°C
+Ultrastructural organization and micromechanical properties of shark tooth enameloid
+Magnetic Properties of Fe56.7Ni10Si33.3
+Precipitation and austenite reversion behavior of a maraging steel produced by selective laser melting
+Negatively charged ions on Mg(0001) surfaces: Appearance and origin of attractive adsorbate-adsorbate interactions
+Stereochemistry of bistricyclic aromatic enes and related polycyclic systems
+Germanium nanoparticles with non-diamond core structures for solar energy conversion
+Heterogeneous nucleation and microstructure formation: Steps towards a system and scale bridging understanding
+Effect of interfacial ion structuring on range and magnitude of electric double layer, hydration, and adhesive interactions between mica surfaces in 0.05-3 M Li+ and Cs+ electrolyte solutions
+Structure of rapidly quenched (Cu0.5Zr0.5)100-xAgx alloys (x=0-40 at.%)
+Microstructure-magnetic property relations in grain-oriented electrical steels: quantitative analysis of the sharpness of the Goss orientation
+Elemental partitioning and mechanical properties of Ti- and Ta-containing Co–Al–W-base superalloys studied by atom probe tomography and nanoindentation
+Early stages of oxidation observed by in situ thermogravimetry in low pressure atmospheres
+Design criteria for stable Pt/C fuel cell catalysts
+Grain boundaries and interfaces in slip transfer
+Linear interfacial polymerization: Theory and simulations with dissipative particle dynamics
+Chemistry-dependent X-ray-induced surface charging
+Nitrogen-doped hollow carbon spheres as a support for platinum-based electrocatalysts
+Theory and application of electron channelling contrast imaging under controlled diffraction conditions
+Investigation of the diffusion behavior of sodium in Cu(In,Ga)Se2 layers
+Ab initio study of H-vacancy interactions in fcc metals: Implications for the formation of superabundant vacancies
+Impact of nanodiffusion on the stacking fault energy in high-strength steels
+Sequential growth of zinc oxide nanorod arrays at room temperature via a corrosion process: Application in visible light photocatalysis
+Alloy Design, Combinatorial Synthesis, and Microstructure-Property Relations for Low-Density Fe–Mn–Al–C Austenitic Steels
+Breakdown of the Arrhenius law in describing vacancy formation energies: The importance of local anharmonicity revealed by Ab initio thermodynamics
+Modeling and finite element simulation of loading-path-dependent hardening in sheet metals during forming
+Low-copy number protein detection by electrode nanogap-enabled dielectrophoretic trapping for surface-enhanced Raman spectroscopy and electronic measurements
+Atomistic simulation of the a0 <1 0 0> binary junction formation and its unzipping in body-centered cubic iron
+Localization of submicron inclusion re-equilibration at healed fractures in host garnet
+Ingot metallurgy and microstructural characterization of Ti–Ta alloys
+Thiocyanate Anchors for Salt-like Iron(II) Complexes on Au(111): Promises and Caveats
+Sour corrosion – Investigation of iron sulfide layer growth in saturated H2S solutions
+Correlations of plasticity in sheared glasses
+Elastic and plastic effects on heterogeneous nucleation and nanowire formation
+Texture Evolution as Determined by In situ Neutron Diffraction During Annealing of Iron Deformed by Equal Channel Angular Pressing
+On the nucleation of Laves phase particles during high-temperature exposure and creep of tempered martensite ferritic steels
+Large recovery strain in Fe–Mn–Si-based shape memory steels obtained by engineering annealing twin boundaries
+Isothermal solidification in peritectic systems
+Origins of electrostatic potential wells at dislocations in polycrystalline Cu(In,Ga)Se2 thin films
+Macroscopic elastic properties of textured ZrN–AlN polycrystalline aggregates
+New insights into the austenitization process of low-alloyed hypereutectoid steels: Nucleation analysis of strain-induced austenite formation
+Angstrom-resolved real-time dissection of electrochemically active noble metal interfaces
+Separating strain from composition in unit cell parameter maps obtained from aberration corrected high resolution transmission electron microscopy imaging
+Scale bridging between atomistic and mesoscale modelling: Applications of amplitude equation descriptions
+An electrochemical calibration unit for hydrogen analysers
+Impact of the spatial distribution of morphological patterns on the efficiency of electrocatalytic gas evolving reactions
+Coupling of a scanning flow cell with online electrochemical mass spectrometry for screening of reaction selectivity
+Temperature-dependent dissolution of polycrystalline platinum in sulfuric acid electrolyte
+Multi-element-resolved electrochemical corrosion analysis. Part I. Dissolution behavior and passivity of amorphous Fe50 Cr15 Mo14 C15 B6
+Degradation of Fe/N/C catalysts upon high polarization in acid medium
+Dissolution of noble metals during oxygen evolution in acidic media
+Role of Nb in glass formation of Fe–Cr–Mo–C–B–Nb BMGs
+Ductile film delamination from compliant substrates using hard overlayers
+High-concentration graphene dispersions with minimal stabilizer: A scaffold for enzyme immobilization for glucose oxidation
+Corrosive delamination and ion transport along stretch-formed thin conversion films on galvanized steel
+Hydrogen embrittlement associated with strain localization in a precipitation-hardened Fe–Mn–Al–C light weight austenitic steel
+Understanding size effects on the strength of single crystals through high-temperature micropillar compression
+Template-free synthesis of novel, highly-ordered 3D hierarchical Nb3O7(OH) superstructures with semiconductive and photoactive properties
+A generalized plane-wave formulation of k · p formalism and continuum-elasticity approach to elastic and electronic properties of semiconductor nanostructures
+Superplastic Mn–Si–Cr–C duplex and triplex steels: Interaction of microstructure and void formation
+Designing quadplex (four-phase) microstructures in an ultrahigh carbon steel
+Smaller is less stable: Size effects on twinning vs. transformation of reverted austenite in TRIP-maraging steels
+Integrated experimental–simulation analysis of stress and strain partitioning in multiphase alloys
+Strain localization and damage in dual phase steels investigated by coupled in-situ deformation experiments and crystal plasticity simulations
+Study of dislocation substructures in high-Mn steels by electron channeling contrast imaging
+Computational Thermodynamics: Recent developments and future potential and prospects
+Long bone cortices in a growth series of Apatosaurus sp. (Dinosauria: Diplodocidae): Geometry, body mass, and crystallite orientation of giant animals
+Light scattering from coupled plasmonic nanospheres on a stretchable substrate for application as a biosensor or mechanical sensor
+Deciphering the scaling of single-molecule interactions using Jarzynski's equality
+The incommensurate crystal structure of the Pd5b1-z phase; B ordering driven by elastic interaction between B atoms
+Synthesis of ultrathin poly(methyl methacrylate) model coatings bound via organosilanes to zinc and investigation of their delamination kinetics
+Ductile tearing: Applicability of a modular approach using cohesive zones and damage mechanics
+The influence of manganese content on the stacking fault and austenite/epsilon-martensite interfacial energies in Fe–Mn–(Al–Si) steels investigated by experiment and theory
+Electrochemical control of specific adhesion between amine functionalized polymers and noble metal electrode interfaces
+The sandia fracture challenge: Blind round robin predictions of ductile tearing
+Lambda transitions in materials science: Recent advances in CALPHAD and first-principles modelling
+Role of the mesoscale in migration kinetics of flat grain boundaries
+Stability of nanostructured iridium oxide electrocatalysts during oxygen evolution reaction in acidic environment
+Ab initio study of point defects in NiTi-based alloys
+Perspectives on point defect thermodynamics
+Sustainable generation of hydrogen using chemicals with regional oversupply - Feasibility of the electrolysis in acido-alkaline reactor
+Differences in deformation behavior of bicrystalline Cu micropillars containing a twin boundary or a large-angle grain boundary
+Multiple reentrant glass transitions in confined hard-sphere glasses
+Texture and microstructure evolution during non-crystallographic shear banding in a plane strain compressed Cu–Ag metal matrix composite
+Hierarchical nanoporous films obtained by surface cracking on Cu–Au and ethanethiol on Au(001)
+On the faradaic selectivity and the role of surface inhomogeneity during the chlorine evolution reaction on ternary Ti–Ru–Ir mixed metal oxide electrocatalysts
+Oxygen electrochemistry as a cornerstone for sustainable energy conversion
+Crystallization, phase evolution and corrosion of Fe-based metallic glasses: an atomic-scale structural and chemical characterization study
+Structural and functional characterization of enamel pigmentation in shrews
+Crack deflection in multi-layered four-point bending samples
+The role of water-surface interactions of platinum based catalysts in electrochemical methanol oxidation
+A new method for polychromatic X-ray μLaue diffraction on a Cu pillar using an energy-dispersive pn-junction charge-coupled device
+Ordering phenomena and formation of nanostructures in InxGa1−xN layers coherently grown on GaN(0001)
+Intermetallic phase selection during homogenisation for AA6082 alloy
+Model for hydrothermal growth of rutile wires and the associated development of defect structures
+Artificial chemical and magnetic structure at the domain walls of an epitaxial oxide
+Composition Dependance of Phase Stability, Deformation Mechanisms, and Mechanical Properties of the CoCrFeMaNi High-Entropy Alloy System
+Microstructure and mechanical properties of Fe–Al–Ti–B alloys with additions of Mo and W
+Impact of the vapour pressure of water on the equilibrium shape of ZnO nanoparticles: An ab-initio study
+Recovery and Recrystallization: Phenomena, Physics, Models, Simulation
+Interaction of cobalt nanoparticles with oxygen- and nitrogen- functionalized carbon nanotubes and impact on nitrobenzene hydrogenation catalysis
+Special edition on the occasion of the 60th birthday of Martin Stratmann
+Oxygen adsorbates on the Si(111)4x1-In metallic atomic wire: Scanning tunneling microscopy and density-functional theory calculations
+Effect of annealing on point defect population in cold-drawn pearlitic steel wires
+Correlation between structure, phonon spectra, thermal expansion, and thermomechanics of single-layer MoS2
+Isotope effects on the vibrational, Invar, and Elinvar properties of pristine and hydrogenated graphene
+Applying the texture analysis for optimizing thermo-mechanical treatment of high manganese twinning-induced plasticity steel
+Microshear deformation of gold single crystals
+Temperature dependent transition of intragranular plastic to intergranular brittle failure in electrodeposited Cu micro-tensile samples
+Proceedings of the 2nd High Mangenese Steels Conference 2014 (2nd HMnS)
+Glass-formation and corrosion properties of Fe–Cr–Mo–C–B glassy ribbons with low Cr content
+Dislocation density distribution around an indent in single-crystalline nickel: Comparing nonlocal crystal plasticity finite-element predictions with experiments
+First-principles calculations for point defects in solids
+Comparative study of the mechanical properties of nanostructured thin films on stretchable substrates
+Atom probe tomography observation of hydrogen in high-Mn steel and silver charged via an electrolytic route
+Zn–Mg and Zn–Mg–Al alloys for improved corrosion protection of steel: Some new aspects
+Effect of retained beta layer on slip transmission in Ti–6Al–2Zr–1Mo–1V near alpha titanium alloy during tensile deformation at room temperature
+A comparative study on gold and platinum dissolution in acidic and alkaline media
+In situ Raman studies on growth of ZnO nanowires
+Extending the concept of defect chemistry from semiconductor physics to electrochemistry
+Segregation stabilizes nanocrystalline bulk steel with near theoretical strength
+In situ observation of collective grain-scale mechanics in Mg and Mg-rare earth alloys
+Electrochemical reductive desorption of alkyl self-assembled monolayers studied in situ by spectroscopic ellipsometry: Evidence for formation of a low refractive index region after desorption
+Role of intermetallics and copper in the deposition of ZrO2-based conversion coatings on AA6014
+Ab initio based study of finite-temperature structural, elastic and thermodynamic properties of FeTi
+A novel approach to measure grain boundary segregation in bulk polycrystalline materials in dependence of the boundaries’ five rotational degrees of freedom
+High strength and ductile low density austenitic FeMnAlC steels: Simplex and alloys strengthened by nanoscale ordered carbides
+The maximum separation cluster analysis algorithm for atom-probe tomography: Parameter determination and accuracy
+Impact of Mn on the solution enthalpy of hydrogen in austenitic Fe–Mn alloys: A first-principles study
+Origin of the unusually strong luminescence of a-type screw dislocations in GaN
+Influence of molecular dipole orientations on long-range exponential interaction forces at hydrophobic contacts in aqueous solutions
+Temperature dependent magnon-phonon coupling in bcc Fe from theory and experiment
+Quantum-mechanical study of single-crystalline and polycrystalline elastic properties of Mg-substituted calcite crystals
+On the velocity-strengthening behavior of dry friction
+Designing Heusler nanoprecipitates by elastic misfit stabilization in Fe–Mn maraging steels
+Effect of ordering of PtCu3 nanoparticle structure on the activity and stability for the oxygen reduction reaction
+Carbon-based yolk-shell materials for fuel cell applications
+Investigating the real time dissolution of Mg using online analysis by ICP-MS
+Impact of the vapour pressure of water on the equilibrium shape of ZnO nanoparticles: An ab-initio study
+Rheology of dense suspensions of elastic capsules: Normal stresses, yield stress, jamming and confinement effects
+Enhanced Quantum Confined Stark Effect in a mesoporous hybrid multifunctional system
+Interaction of silicene and germanene with non-metallic substrates
+Enhanced ductility and toughness in an ultrahigh-strength Mn–Si–Cr–C steel: The great potential of ultrafine filmy retained austenite
+Fracture behaviors of the rolled isotactic polypropylene
+Interface reactions of Ag@TiO2 nanocomposite films
+In situ micropillar compression reveals superior strength and ductility but an absence of damage in lamellar bone
+Shear-induced mixing governs codeformation of crystalline-amorphous nanolaminates (Erratum: Physical Review Letters (2014) 113 (035501))
+Nanoscale understanding of bond formation during cold welding of aluminum and steel
+Revealing the strain-hardening mechanisms of advanced high-Mn steels by multi-scale microstructure characterization
+Potential-resolved dissolution of Pt–Cu: A thin-film material library study
+Using a Surface-Forces-Apparatus to measure force distance profiles across confined ionic liquids
+Prove of hydrogen formation through direct potential measurements in the rolling slit during cold rolling
+Corrosion of Zinc and Zn–Mg Alloys with Varying Microstructures and Magnesium Contents
+Confined-space alloying of nanoparticles for the synthesis of efficient PtNi fuel-cell catalysts
+Shear-induced mixing governs codeformation of crystalline-amorphous nanolaminates
+Grain boundary characterization in multicrystalline silicon using joint EBSD, EBIC, and atom probe tomography
+Structural stability and thermodynamics of CrN magnetic phases from ab initio calculations and experiment
+Laue Microdiffraction at the ESRF
+Erratum: Spin-wave method for the total energy of paramagnetic state (Phys. Rev. B (2012) 85 (174407))
+Slip system analysis in the cold rolling of a Ni3Al single crystal
+Modelling of dendritic growth during alloy solidification under natural convection
+Grain boundary segregation engineering in metallic alloys: A pathway to the design of interfaces
+Effect of strain rate on twinning in a Zr alloy
+Correlation between morphology and local thermal properties of iron (II) phthalocyanine thin layers
+A microstructural study of the structure of plasma electrolytically oxidized titanium foils
+A novel high manganese austenitic steel with higher work hardening capacity and much lower impact deformation than Hadfield manganese steel
+Phase-field modeling of grain-boundary premelting using obstacle potentials
+Ab Initio Predicted Impact of Pt on Phase Stabilities in Ni–Mn–Ga Heusler alloys
+Lattice strain across Na–K interdiffusion fronts in alkali feldspar: An electron back-scatter diffraction study
+Reliability evaluation of thermophysical properties from first-principles calculations
+Ab initio based understanding of the segregation and diffusion mechanisms of hydrogen in steels
+Intrinsic and extrinsic size effects in the deformation of amorphous CuZr/nanocrystalline Cu nanolaminates
+Damage evolution during cyclic tension–tension loading of micron-sized Cu lines
+Growth mechanism of Al2Cu precipitates during in situ TEM heating of a HPT deformed Al–3wt.%Cu alloy
+Effect of temperature on gold dissolution in acidic media
+Achieving realistic interface kinetics in phase field models with a diffusional contrast
+Understanding and controlling indium incorporation and surface segregation on InxGa1-xN surfaces: An ab initio approach
+Influence of short-range forces on melting along grain boundaries
+Hydrogen transport in non-ideal crystalline materials
+Function-related adaptations of ultrastructure, mineral phase distribution and mechanical properties in the incisive cuticle of mandibles of Porcellio scaber Latreille, 1804
+Exotic phase Si nanoparticles and Si–ZnS nanocomposites: New paradigms to improve the efficiency of MEG solar cells
+Plastic anisotropy of electro-deposited pure alpha-iron with sharp crystallographic <1 1 1>// texture in normal direction: Analysis by an explicitly dislocation-based crystal plasticity model
+Nano-scale characterization of thin-film solar cells
+On the influence of the aliphatic linker on fabrication of highly ordered and orientated self-assembled monolayers of aromatic selenols on AU(111)
+Effect of grain refinement by ECAP on creep of pure Cu
+The transitions from glassy state to long-range-ordered state in ferroic glasses
+Deformation mechanisms in an austenitic single-phase duplex microstructured steel with nanotwinned grains

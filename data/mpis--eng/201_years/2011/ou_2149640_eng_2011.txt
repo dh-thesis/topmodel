@@ -1,0 +1,93 @@
+Mutations in the DDR2 kinase gene identify a novel therapeutic target in squamous cell lung cancer
+IGF signaling directs ventricular cardiomyocyte proliferation during embryonic heart development
+Imaging bone morphogenetic protein 7 induced cell cycle arrest in experimental gliomas
+Selection of independent components representing event-related brain potentials: A data-driven approach for greater objectivity
+Continuous theta-burst stimulation (cTBS) over the lateral prefrontal cortex alters reinforcement learning bias
+Response assessment in neuro-oncology (a report of the RANO group): assessment of outcome in trials of diffuse low-grade gliomas
+Deep brain stimulation for the treatment of addiction
+Oxygen therapy improves energy metabolism in focal cerebral ischemia
+Posterior medial frontal cortex activity predicts post-error adaptations in task-related visual and motor areas
+Spatio-temporal dynamics, differentiation and viability of human neural stem cells after implantation into neonatal rat brain
+The role of the contralesional motor cortex for motor recovery in the early days after stroke assessed with longitudinal fMRI
+Benchmarking of mutation diagnostics in clinical lung cancer specimens
+The brain in myotonic dystrophy 1 and 2: Evidence for a predominant white matter disease
+Elevated GH/IGF-I, due to somatotrope-specific loss of both IGF-I and insulin receptors, alters glucose homeostasis and insulin sensitivity in a diet-dependent manner
+Interleukin-10 signaling in regulatory T cells Is required for suppression of Th17 cell-mediated inflammation
+Mesopic luminance assessed with minimum motion photometry
+A common visual metric for approximate number and density
+A crucial requirement for Hedgehog signaling in small cell lung cancer
+Blood-based gene expression signatures in non-small cell lung cancer
+What is for me is not for you: brain correlates of intertemporal choice for self and other
+A critical re-examination of the intraluminal filament MCAO model: Impact of external carotid artery transection
+Approaches for the integrated analysis of structure, function and connectivity of the human brain
+Inhibitory stimulation of the ventral premotor cortex temporarily interferes with musical beat rate preference
+Dynamic causal modeling of cortical activity from the acute to the chronic stage after stroke
+Effects of repetitive transcranial magnetic stimulation in aphasic stroke: A randomized controlled pilot study
+Wohlgemuth was right: Distracting attention from the adapting stimulus does not decrease the motion after-effect
+Dynamic interactions in the fronto-parietal network during a manual stimulus-response
+The role of long-range connectivity for the characterization of the functional–anatomical organization of the cortex
+Differential stringent control of Escherichia coli rRNA promoters: Effects of ppGpp, DksA and the initiating nucleotides
+Imaging herpes simplex virus type 1 amplicon vector-mediated gene expression in human glioma spheroids
+Successful deep brain stimulation of the nucleus accumbens in severe alcohol dependence is associated with changed performance monitoring
+Early prediction of nonprogression in advanced non-small-cell lung cancer treated with erlotinib by using [18F] fluorodeoxyglucose and [ 18F] fluorothymidine positron emission tomography
+Imaging in neurology research I: neurooncology
+Insights into ALK-driven cancers revealed through development of novel ALK tyrosine kinase inhibitors
+Noradrenergic enhancement improves motor network connectivity in stroke patients
+Caudate nucleus signals for breaches of expectation in a movement observation paradigm
+Features and the 'primal sketch'
+NPHP4, a cilia-associated protein, negatively regulates the Hippo pathway
+Event-related potential correlates of performance-monitoring in a lateralized time-estimation task
+Functional connectivity in the rat at 11.7 T: Impact of physiological noise in resting state fMRI
+Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling
+Masked auditory feedback affects speech motor learning of a plosive duration contrast
+How do we assess regenerative success after stem cell implantation? An experimental approach
+Obesity-induced over expression of miRNA-143 inhibits insulin-stimulated AKT activation and impairs glucose metabolism
+Strategy-effects in prefrontal cortex during learning of higher-order S-R rules
+Quantitative analysis of response to treatment with Erlotinib in advanced non–small cell lung cancer using 18F-FDG and 39-deoxy-39-18F-fluorothymidine PET
+Challenges towards MR imaging of the peripheral inflammatory response in the subacute and chronic stages of transient focal ischemia
+Distinct spatiotemporal patterns of spreading depolarizations during early infarct evolution: evidence from real-time imaging
+Evidence for a subtractive component in motion adaptation
+The speed-accuracy tradeoff in the elderly brain: A structural model-based approach
+Multimodality assessment of brain tumors and tumor recurrence
+Role for insulin signaling in catecholaminergic neurons in control of energy homeostasis
+Model-based feature construction for multivariate decoding
+Heterogeneity in the penumbra
+Mutant Huntingtin causes metabolic imbalance by disruption of hypothalamic neurocircuits
+Uncertainties in the assessment of cortical flow by perfusion-weighted MRI in acute stroke
+A non-verbal turing test: Differentiating mind from machine in gaze-based social interaction
+Thalamocingulate interactions in performance monitoring
+Hierarchical information-based clustering for connectivity-based cortex parcellation
+NUMB does not impair growth and differentiation status of experimental gliomas
+In-vivo visualization of tumor microvessel density and response to anti-angiogenic treatment by high resolution MRI in mice
+Imaging of non-or very subtle contrast-enhancing malignant gliomas with [ 11C]-methionine positron emission tomography
+Error awareness revisited: Accumulation of multimodal evidence from central and autonomic nervous systems
+In vivo tracking of human neural stem cells with 19F magnetic resonance imaging
+Impairment of auditory-motor timing and compensatory reorganization after ventral premotor cortex stimulation
+Imaging derived cortical thickness reduction in high-functioning autism: Key regions and temporal slope
+Efficiencies for the statistics of size discrimination
+Leptin augments cerebral hemodynamic reserve after three-vessel occlusion: distinct effects on cerebrovascular tone and proliferation in a nonlethal model of hypoperfused rat brain
+Dopamine-mediated reinforcement learning signals in the striatum and ventromedial prefrontal cortex underlie value-based choices
+Synthesis and biological evaluation of 7-substituted-1-(3-bromophenylamino)isoquinoline-4-carbonitriles as inhibitors of myosin light chain kinase and epidermal growth factor receptor
+Whiskers area as extracerebral reference tissue for quantification of rat brain metabolism using 18F-FDG PET: application to focal cerebral ischemia
+Reorganization of cerebral networks after stroke: new insights from neuroimaging with connectivity approaches
+The ischemic penumbra: correlates in imaging and implications for treatment of ischemic stroke. The Johann Jacob Wepfer Award 2011
+Clinical relevance of cortical spreading depression in neurological disorders: migraine, malignant stroke, subarachnoid and intracranial hemorrhage, and traumatic brain injury
+Do we mind other minds when we mind other minds' actions? A functional magnetic resonance imaging study
+L1CAM protein expression is associated with poor prognosis in non-small cell lung cancer
+Predicting and memorizing observed action: Differential premotor cortex involvement
+High-fat feeding promotes obesity via insulin receptor/PI3k-dependent inhibition of SF-1 VMH neurons
+Functional localization in the human brain: gradient-echo, spin-echo, and arterial spin-labeling fMRI compared with neuronavigated TMS
+Loss of Roquin induces early death and immune deregulation but not autoimmunity
+Exploring the detection of associatively novel events using fMRI
+Experimental stroke research: The contributions of in vivo MRI
+Tc-99m-MIBI-negative parathyroid adenoma in primary hyperparathyroidism detected by C-11-methionine PET/CT after previous thyroid surgery
+Medial prefrontal gray matter volume reductions in users of amphetamine-type stimulants revealed by combined tract-based spatial statistics and voxel-based morphometry
+FLT PET for non-invasive monitoring of early response to gene therapy in experimental gliomas
+Imaging of microglia activation in stroke
+Crossed cerebellar diaschisis after stroke: can perfusion-weighted MRI show functional inactivation?
+Dynamic causal models and physiological inference: A validation study using isoflurane anaesthesia in rodents
+ALK mutations conferring differential resistance to structurally diverse ALK inhibitors
+Specific biomarkers of receptors, pathways of inhibition and targeted therapies: Pre-clinical developments
+Post-error adjustments
+Why you think Milan is larger than Modena: Neural correlates of the recognition heuristic
+Specific biomarkers of receptors, pathways of inhibition and targeted therapies: clinical applications

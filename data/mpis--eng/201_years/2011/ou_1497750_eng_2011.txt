@@ -1,0 +1,86 @@
+TransCom continuous experiment: comparison of 222Rn transport at hourly time scales at three stations in Germany
+Assessment of the regional atmospheric impact of wildfire emissions based on CO observations at the ZOTTO tall tower station in central Siberia
+Improving the predictability of global CO2 assimilation rates under climate change
+Importance of fossil fuel emission uncertainties over Europe for CO2 modeling: model intercomparison
+Light and nitrogen competition limit Lolium perenne in experimental grasslands of increasing plant diversity
+Identifying population- and community-level mechanisms of diversity-stability relationships in experimental grasslands
+Relating the X-band opacity of a tropical tree canopy to sapflow, rain interception and dew formation
+Empirical relationship between leaf wax n-alkane δ D and altitude in the Wuyi, Shennongjia and Tianshan Mountains, China: Implications for paleoaltimetry
+Impact of rainfall and topography on the distribution of clays and major cations in granitic catenas of southern Africa
+Community assembly during secondary forest succession in a Chinese subtropical forest
+How accurately can soil organic carbon stocks and stock changes be quantified by soil inventories?
+Variable effects of labile carbon on the carbon use of different microbial groups in black slate degradation
+Carbon benefits of anthropogenic reactive nitrogen offset by nitrous oxide emissions
+Habitat use of large ungulates in northeastern Germany in relation to forest management
+Phosphorus partitioning in grassland and forest soils of Germany as related to land-use type, management intensity, and land use-related pH
+The relative importance of seed competition, resource competition and perturbations on community structure
+Sample preparation and current applications of liquid chromatography for the determination of non-structural carbohydrates in plants
+Plant resource-use characteristics as predictors for species contribution to community biomass in experimental grasslands
+Oxygen isotopic signature of CO2 from combustion processes
+Carbon, nitrogen and Greenhouse gases budgets over a four years crop rotation in northern France
+Quantifying land use and disturbance intensity in forestry, based on the self-thinning relationship
+Restoration of Pasture to Forest in Brazil's Mata Atlantica: The Roles of Herbivory, Seedling Defenses, and Plot Design in Reforestation
+Improving assessment and modelling of climate change impacts on global terrestrial biodiversity
+Impacts of changes in climate variability on regional vegetation in China: NDVI-based analysis from 1982 to 2000
+Spatial and temporal variation of CO2 efflux along a disturbance gradient in a miombo woodland in Western Zambia
+Plant effects on soil N mineralization are mediated by the composition of multiple soil organic fractions
+Drought and ecosystem carbon cycling
+Soil water repellency and its implications for organic matter decomposition - is there a link to extreme climatic events?
+Adjustment to the light environment in small-statured forbs as a strategy for complementary resource use in mixtures of grassland species
+HESS Opinions: Hydrologic predictions in a changing environment: behavioral modeling
+Group size does not influence territory size and overlap in a habituated population of a cooperative breeding Himalayan Galliforme species
+Carbon-nitrogen interactions on land at global scales: current understanding in modelling climate biosphere feedbacks
+Inverse modelling of European N2O emissions: assimilating observations from different networks
+Global intercomparison of 12 land surface heat flux estimates
+The model-data fusion pitfall: assuming certainty in an uncertain world
+Dissolved carbon leaching from soil is a crucial component of the net ecosystem carbon balance
+Fame, glory and neglect in meta-analyses
+Pyrosequencing-Based Assessment of Bacterial Community Structure Along Different Management Types in German Forest and Grassland Soils
+Plant species diversity and composition of experimental grasslands affect genetic differentiation of Lolium perenne populations
+Contribution of climate change and rising CO2 to terrestrial carbon balance in East Asia: A multi-model analysis
+Net precipitation and soil water dynamics in clearings, old secondary and old-growth forests in the montane rain forest belt of Mount Kilimanjaro, Tanzania
+Response to 'The European nitrogen cycle: response to Schulze et al, Global Change Biology (2010) 16, pp. 1451-1469'
+A Bayesian inversion estimate of N2O emissions for western and central Europe and the assessment of aggregation errors
+Selection for monoculture and mixture genotypes in a biodiversity experiment
+Optimization and evaluation of the ANTHRO-BGC model for winter crops in Europe
+A quantitative evaluation of major plant defense hypotheses, nature versus nurture, and chemistry versus ants
+Response to Comment on "Global Convergence in the Temperature Sensitivity of Respiration at Ecosystem Level"
+Organic sediment formed during inundation of a degraded fen grassland emits large fluxes of CH4 and CO2
+Global patterns of land-atmosphere fluxes of carbon dioxide, latent heat, and sensible heat derived from eddy covariance, satellite, and meteorological observations
+A generic structure for plant trait databases
+Fungal communities in bulk soil and stone compartments of different forest and soil types as revealed by a barcoding ITS rDNA and a functional laccase encoding gene marker
+Feedback of carbon and nitrogen cycles enhances carbon sequestration in the terrestrial biosphere
+New global observations of the terrestrial carbon cycle from GOSAT: Patterns of plant fluorescence with gross primary productivity
+Land use/land cover changes and climate: modeling analysis and observational evidence
+Evaluation of the JRC-TIP 0.01° products over a mid-latitude deciduous forest site
+Estimating the carbon balance of central Siberia using a landscape-ecosystem approach, atmospheric inversion and Dynamic Global Vegetation Models
+Soils of Amazonia with particular reference to the RAINFOR sites
+Amplification and dampening of soil respiration by changes in temperature variability
+Assessing and improving the representativeness of monitoring networks: The European flux tower network example
+A new estimation of the recent tropospheric molecular hydrogen budget using atmospheric observations and variational inversion
+Variations in Amazon forest productivity correlated with foliar nutrients and modelled rates of photosynthetic carbon supply
+Plant community diversity influences allocation to direct chemical defence in Plantago lanceolata
+Atmospheric CO2 inversion validation using vertical profile measurements: Analysis of four independent inversion models
+The role of climate and plant functional trade-offs in shaping global biome and biodiversity patterns
+N2 fixation and performance of 12 legume species in a 6-year grassland biodiversity experiment
+Does terrestrial drought explain global CO2 flux anomalies induced by El Nino?
+Modeling Free Energy Availability from Hadean Hydrothermal Systems to the First Metabolism
+Frontiers and challenges in soil respiration research: from measurements to model-data integration
+Introduction to production, transport, and emission of trace gases from the vadose zone to the atmosphere
+Effect of precipitation regime on δ D values of soil n-alkanes from elevation gradients - Implications for the study of paleo-elevation
+Temporal and spatial variability of the stable isotopic composition of atmospheric molecular hydrogen: observations at six EUROHYDROS stations
+Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data
+Relationships among net primary productivity, nutrients and climate in tropical rain forest: a pan-tropical analysis
+Implications for the hydrologic cycle under climate change due to the expansion of bioenergy crops in the Midwestern United States
+Response of δ D values of sedimentary n-alkanes to variations in source water isotope signals and climate proxies at lake Nam Co, Tibetan Plateau
+Will a 385 million year-struggle for light become a struggle for water and for carbon? - How trees may cope with more frequent climate change-type drought events
+Measured deuterium in water vapour concentration does not improve the constraint on the partitioning of evapotranspiration in a tall forest canopy, as estimated using a soil vegetation atmosphere transfer model
+Drying/rewetting cycles mobilize old C from deep soils from a California annual grassland
+Using digital repeat photography and eddy covariance data to model grassland phenology and photosynthetic CO2 uptake
+Phenological monitoring of grassland and larch in the Alps from Terra and Aqua MODIS images
+Carbon Inputs and Water Uptake in Deep Soils of an Eastern Amazon Forest
+The hyperspectral irradiometer, a new instrument for long-term and unattended field spectroscopy measurements
+A method for measuring methane oxidation rates using low-levels of 14C-labeled methane and accelerator mass spectrometry
+Can N2O stable isotopes and isotopomers be useful tools to characterize sources and microbial pathways of N2O production and consumption in tropical soils?
+Sources, seasonal variability, and trajectories of atmospheric aerosols over central Siberian forest ecosystems
+Aerosol particle number size distributions and particulate light absorption at the ZOTTO tall tower (Siberia), 2006-2009

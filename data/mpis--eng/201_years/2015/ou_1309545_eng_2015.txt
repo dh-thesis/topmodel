@@ -1,0 +1,421 @@
+Carbohydrate-Based Nanocarriers Exhibiting Specific Cell Targeting with Minimum Influence from the Protein Corona
+High Electrokinetic Energy Conversion Efficiency in Charged Nanoporous Nitrocellulose/Sulfonated Polystyrene Membranes
+Non-aqueous synthesis of blue light emitting gamma-Ga2O3 and c-In2O3 nanostructures from their ethylene glycolate precursors
+Tailoring of viscoelastic properties and light-induced actuation performance of triblock copolymer composites through surface modification of carbon nanotubes
+Construction of single-crystalline supramolecular networks of perchlorinated hexa-peri-hexabenzocoronene on Au(111)
+Thermal convection in a nonlinear non-Newtonian magnetic fluid
+Modeling of Organic Light Emitting Diodes: From Molecular to Device Properties
+Transparent Conductive Electrodes from Graphene/PEDOT:PSS Hybrid Inks for Ultrathin Organic Photodetectors
+Multicomponent Self-Assembly with a Shape-Persistent N-Heterotriangulene Macrocycle on Au(111)
+Hierarchical multicolor nano-pixel matrices formed by coordinating luminescent metal ions to a conjugated poly(4′-octyl-2′,6′-bispyrazoyl pyridine) film via contact printing
+Determination of nanoparticles using UV-Vis spectra
+Two-Dimensional Soft Nanomaterials: A Fascinating World of Materials
+Controlled Formation of Polymer Nanocapsules with High Diffusion-Barrier Properties and Prediction of Encapsulation Efficiency
+Ultrafast Vibrational Dynamics of Water Disentangled by Reverse Nonequilibrium Ab Initio Molecular Dynamics Simulations
+Trap-Assisted Non-Radiative Recombination in Organic-Inorganic Perovskite Solar Cells
+Water-mediated interactions between trimethylamine-N-oxide and urea
+A Heteroleptic Push-Pull Substituted Iron(II) Bis(tridentate) Complex with Low-Energy Charge-Transfer States
+Amine functionalized ZrO2 nanoparticles as biocompatible and luminescent probes for ligand specific cellular imaging
+Adsorption of Anionic Thiols on Silver Nanoparticles
+Torrent Frog-Inspired Adhesives: Attachment to Flooded Surfaces
+Semiflexible polymer brushes and the brush-mushroom crossover
+Molecular Structure and Pronounced Conformational Flexibility of Doxorubicin in Free and Conjugated State within a Drug-Peptide Compound
+Hybrid Poly(urethane-urea)/Silica Nanocapsules with pH-Sensitive Gateways
+Molecular characterization of large polycyclic aromatic hydrocarbons in solid petroleum pitch and coal tar pitch by high resolution MALDI ToF MS and insights from ion mobility separation
+Upconverting-Nanoparticle-Assisted Photochemistry Induced by Low-Intensity Near-Infrared Light: How Low Can We Go?
+Effect of Mesoscale Ordering on the Density of States of Polymeric Semiconductors
+Thermomechanical Behavior and Local Dynamics of Dendronized Block Copolymers and Constituent Homopolymers
+Macroscopic behavior of ferrocholesteric liquid crystals and ferrocholesteric gels and elastomers
+Human Neuronal SHSY5Y Cells on PVDF: PTrFE Copolymer Thin Films
+Cationic Copolymerization of 3,3-Bis(hydroxymethyl)oxetane and Glycidol: Biocompatible Hyperbranched Polyether Polyols with High Content of Primary Hydroxyl Groups
+Tetragonal tungsten bronzes Nb8-xW9+xO47-delta: optimization strategies and transport properties of a new n-type thermoelectric oxide
+Synthesis of conjugates combining macromolecular brushes and rigid macrocycles
+Differential Effects of Nanoparticle Surface-Functionalization on the Polarization Profiles of M1 and M2 Macrophages
+Microanalytical methods for in-situ high-resolution analysis of rock varnish at the micrometer to nanometer scale
+Conjugated Polymers As Molecular Gates for Light-Controlled Release of Gold Nanoparticles
+On the short circuit resilience of organic solar cells: prediction and validation
+Polyurethane Dispersions with Peptide Corona: Facile Synthesis of Stimuli-Responsive Dispersions and Films
+Ab Initio Liquid Water Dynamics in Aqueous TMAO Solution
+Donor-Acceptor Polymers
+Ammonia Decomposition over Iron Phthalocyanine-Based Materials
+Molecular structure and local dynamic in impact polypropylene copolymers studied by preparative TREF, solid state NMR spectroscopy, and SFM microscopy
+Unveiling the hyperbolic thermal behaviour of poly(p-phenylene alkylene)s
+Analysis of Nanoporosity in Moisture Permeation Barrier Layers by Electrochemical Impedance Spectroscopy
+Sudden death of organic light-emitting diodes
+Heterophase Photocatalysts from Water-Soluble Conjugated Polyelectrolytes: An Example of Self-Initiation under Visible Light
+Large-Area, Free-Standing, Two-Dimensional Supramolecular Polymer Single-Layer Sheets for Highly Efficient Electrocatalytic Hydrogen Evolution
+A generalized-Yvon-Born-Green method for coarse-grained modeling Advances, Challenges, and Insight
+Amorphous Phase Change Materials: Structure, Stability and Relation with Their Crystalline Phase
+How morphology influences relaxivity - comparative study of superparamagnetic iron oxide-polymer hybrid nanostructures
+Controlled Synthesis of N-Doped Carbon Nanospheres with Tailored Mesopores through Self-Assembly of Colloidal Silica
+Molecular Tracer Diffusion in Nondilute Polymer Solutions: Universal Master Curve and Glass Transition Effects
+Control of Energy Relaxation Pathways in Graphene: Carrier-Carrier Scattering vs Phonon Emission
+Photovoltaic Polymer-Fullerene Blends: Terahertz Carrier Dynamics and Device Performance
+Nanoprobing the acidification process during intracellular uptake and trafficking
+Tetrabenzo[a,f,j,o]perylene: A Polycyclic Aromatic Hydrocarbon With An Open-Shell Singlet Biradical Ground State
+Structure-Building Forces in Biphenyl-Substituted Alkanethiolate Self-Assembled Monolayers on GaAs(001): The Effect of the Bending Potential
+Branch-Induced Heterogeneous Chain Motion in Precision Polyolefins
+Efficient formation of excitons in a dense electron-hole plasma at room temperature
+Attachment of Poly(l-lactide) Nanoparticles to Plasma-Treated Non-Woven Polymer Fabrics Using Inkjet Printing
+Polylactide-Based Nanoparticles with Tailor-Made Functionalization
+Freezing point depression in model Lennard-Jones solutions
+Transmembrane-Peptide Structure Formation from Coarse-Grained Simulations
+Contact Forces between TiO2 Nanoparticles Governed by an Interplay of Adsorbed Water Layers and Roughness
+Ferroelectric domain engineering by focused infrared femtosecond pulses
+Direct Equilibration and Characterization of Polymer Melts for Computer Simulations
+End Capping Does Matter: Enhanced Order and Charge Transport in Conjugated Donor-Acceptor Polymers
+Kinetics of Ice Nucleation Confined in Nanoporous Alumina
+Hydroxyethyl starch nanocapsules as a potent drug-delivery system for targeted cancer immunotherapy
+Exciton diffusion in organic semiconductors
+On-Surface Synthesis of Rylene-Type Graphene Nanoribbons
+Synthesis and thermotropic behavior of side chain polysiloxane bearing triphenylene moiety
+Ultralow-intensity near-infrared light induces drug delivery by upconverting nanoparticles
+Interaction between Air Bubbles and Superhydrophobic Surfaces in Aqueous Solutions
+Dual-compartment nanofibres: separation of two highly reactive components in close vicinity
+The surface roughness, but not the water molecular orientation varies with temperature at the water-air interface
+Discovery and Characterization of an Endogenous CXCR4 Antagonist
+Nanocarrier for Oral Peptide Delivery Produced by Polyelectrolyte Complexation in Nanoconfinement
+Fluorescence Correlation Spectroscopy in Dilute Polymer Solutions: Effects of Molar Mass Dispersity and the Type of Fluorescent Labeling
+Self-assembling process of Oxalamide compounds and their nucleation efficiency in bio-degradable Poly(hydroxyalkanoate)s
+Resolving Atomic Connectivity in Graphene Nanostructure Junctions
+Stabilization of Insulin by Adsorption on a Hydrophobic Silane Self-Assembled Monolayer
+Heparin-Based Nanocapsules as Potential Drug Delivery Systems
+Solvation of fluoro-acetonitrile in water by 2D-IR spectroscopy: A combined experimental-computational study
+Tunable release of hydrophilic compounds from hydrophobic nanostructured fibers prepared by emulsion electrospinning
+Effect of Charge Transfer in Magnetic-Plasmonic Au@MOx (M = Mn, Fe) Heterodimers on the Kinetics of Nanocrystal Formation
+Toward ab initio molecular dynamics modeling for sum-frequency generation spectra; an efficient algorithm based on surface-specific velocity-velocity correlation function
+Charge trapping at the polymer- metal oxide interface as a first step in the electroforming of organic-inorganic memory diodes
+Electrochemical oxidation of tramadol in low-salinity reverse osmosis concentrates using boron-doped diamond anodes
+Nanoscale evidence of contrasted processes for root-derived organic matter stabilization by mineral interactions depending on soil depth
+Synthesis and Conformation of 3,6-Connected Cyclohexadiene Chains
+Improvement in Solubility and Molecular Assembly of Cyclopentadithiophene-Benzothiadiazole Polymer
+Low frequency 2D Raman-THz spectroscopy of ionic solution: A simulation study
+Perspective on terahertz spectroscopy of graphene
+Disclosing boron's thinnest side
+Reversible Local and Global Switching in Multicomponent Supramolecular Networks: Controlled Guest Release and Capture at the Solution/Solid Interface
+Microstructured organic ferroelectric thin film capacitors by solution micromolding
+Evidence of a molecular boundary lubricant at snakeskin surfaces
+Hierarchical Transition-Metal Dichalcogenide Nanosheets for Enhanced Electrocatalytic Hydrogen Evolution
+Assembly of New Merocyanine Chromophores with a 1,8-Naphthalimide Core by a New Method for the Synthesis of the Methine Function
+Nanoscale Heterogeneity of the Molecular Structure of Individual hIAPP Amyloid Fibrils Revealed with Tip-Enhanced Raman Spectroscopy
+Molecular Structural Design of Conjugated Microporous Poly(Benzooxadiazole) Networks for Enhanced Photocatalytic Activity with Visible Light
+On the Ultrastructure and Function of Rhogocytes from the Pond Snail Lymnaea stagnalis
+Carbon-Coated Anatase TiO2 Nanotubes for Li- and Na-Ion Anodes
+Ternary MoS2/SiO2/graphene hybrids for high-performance lithium storage
+Colloidal Polymers with Controlled Sequence and Branching Constructed from Magnetic Field Assembled Nanoparticles
+Homogeneous Nucleation of Predominantly Cubic Ice Confined in Nanoporous Alumina
+Enhanced Sampling of Coarse-Grained Transmembrane-Peptide Structure Formation from Hydrogen-Bond Replica Exchange
+Ionic Conductivity and Self-Assembly in Poly(isoprene-b-ethylene oxide) Electrolytes Doped with LiTf and EMITf
+Nanostructured medical sutures with antibacterial properties
+Hematopoietic and mesenchymal stem cells: polymeric nanoparticle uptake and lineage differentiation
+The Generation Effect: Cavity Accessibility in Dense-Shell Polyphenylene Dendrimers
+Bimolecular Crystals with an Intercalated Structure Improve Poly(p-phenylenevinylene)-Based Organic Photovoltaic Cells
+Electron-phonon interaction and thermal boundary resistance at the crystal-amorphous interface of the phase change compound GeTe
+Interaction of a Patterned Amphiphilic Polyphenylene Dendrimer with a Lipid Mono layer: Electrostatic Interactions Dominate
+Size-Dependent Self-Assembly of Anisotropic Silica-Coated Hybrid Nanoparticles
+Repair of defects in photoactive layer of organic solar cells
+Particle-Based Optical Sensing of Intracellular Ions at the Example of Calcium - What Are the Experimental Pitfalls?
+Ionic Liquids: Not only Structurally but also Dynamically Heterogeneous
+Morphological studies of the toe pads of the rock frog, Staurois parvus (family: Ranidae) and their relevance to the development of new biomimetically inspired reversible adhesives
+Fluorescence Correlation Spectroscopy Monitors the Hydrophobic Collapse of pH-Responsive Hairy Nanoparticles at the Individual Particle Level
+Increasing 3D Supramolecular Order by Decreasing Molecular Order. A Comparative Study of Helical Assemblies of Dendronized Nonchlorinated and Tetrachlorinated Perylene Bisimides
+Thermal transport in free-standing silicon membranes: influence of dimensional reduction and surface nanostructures
+Tuning Thermal Transport in Ultrathin Silicon Membranes by Surface Nanoscale Engineering
+Interplay Between Side Chain Pattern, Polymer Aggregation, and Charge Carrier Dynamics in PBDTTPD:PCBM Bulk-Heterojunction Solar Cells
+Amino-Acid-Based Chiral Nanoparticles for Enantioselective Crystallization
+Solid-liquid interfaces of ionic liquid solutions-Interfacial layering and bulk correlations
+Hypersulfonated polyelectrolytes: preparation, stability and conductivity
+Folding and insertion thermodynamics of the transmembrane WALP peptide
+Soft matter food physics - the physics of food and cooking
+Scaling of Polymer Dynamics at an Oil-Water Interface in Regimes Dominated by Viscous Drag and Desorption-Mediated Flights
+Folding of small knotted proteins: Insights from a mean field coarse-grained model
+Charge carrier mobilities in organic semiconductors: crystal engineering and the importance of molecular contacts
+Polymer brush functionalized SiO2 nanoparticle based Nafion nanocomposites: a novel avenue to low-humidity proton conducting membranes
+Chemical encoding of amphiphilic copolymers for a dual controlled release from their assemblies
+Self-Assembly of an Amphiphilic pi-Conjugated Dyad into Fibers: Ultrafast and Ultrasensitive Humidity Sensor
+The accumulation of diffusive charges in organic light-emitting diodes
+Underlying Mechanism of Inkjet Printing of Uniform Organic Semiconductor Films Through Antisolvent Crystallization
+Photo-Induced Assembly of Nanostructures Triggered by Short-Lived Proton Transfers in the Excited-State
+Tuning the Electronic Structure of Graphene by Molecular Dopants: Impact of the Substrate
+Sub-ns triplet state formation by non-geminate recombination in PSBTBT: PC70BM and PCPDTBT:PC60BM organic solar cells
+High-performance deformable photoswitches with p-doped graphene as the top window electrode
+Reversible activation of pH-sensitive cell penetrating peptides attached to gold surfaces
+Phenanthrene Condensed Thiadiazoloquinoxaline Donor-Acceptor Polymer for Phototransistor Applications
+Multifunctional poly(phosphoester)s with two orthogonal protective groups
+A spiro-bifluorene based 3D electron acceptor with dicyanovinylene substitution for solution-processed non-fullerene organic solar cells
+meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone
+A new approach for crystallization of copper(II) oxide hollow nanostructures with superior catalytic and magnetic response
+Super liquid-repellent layers: The smaller the better
+Vinyl ether functional polyurethanes as novel photopolymers
+Quantifying transient interactions between amide groups and the guanidinium cation
+Reversible Janus particle assembly via responsive host-guest interactions
+Structure control in polymer/inorganic hybrid nanomaterials
+Synthesis of Mesoporous Supraparticles on Superamphiphobic Surfaces
+Conjugated porous polymers for heterogeneous visible light photocatalysis
+Interplay between singlet and triplet excited states in a conformationally locked donor-acceptor dyad
+Tertiary Carbonate Side Chains: Easily Tunable Thermo-labile Breaking Points for Controlling the Solubility of Conjugated Polymers
+Targeting the brain with protein mimicking nanoparticles
+Protein Corona of Nanoparticles: Distinct Proteins Regulate the Cellular Uptake
+New insights into the elasticity and multi-level relaxation of filler network with studies on the rheology of isotactic polypropylene/carbon black nanocomposite
+Mechanical Tuning of Thermal Transport in a Molecular Junction
+Terahertz probes of magnetic field induced spin reorientation in YFeO3 single crystal
+Redox-responsive polymeric membranes via supermolecular host-guest interactions
+Alternating Donor-Acceptor Arrays from Hexa-peri-hexabenzocoronene and Benzothiadiazole: Synthesis, Optical Properties, and Self-Assembly
+"Tschitschibabin type biradicals'': benzenoid or quinoid?
+High-quality graphene on single crystal Ir(111) films on Si(111) wafers: Synthesis and multi-spectroscopic characterization
+Bottom-Up Synthesis of Chemically Precise Graphene Nanoribbons
+Tailoring the stealth properties of biocompatible polysaccharide nanocontainers
+Solvent-Free Liquid Crystals and Liquids Based on Genetically Engineered Supercharged Polypeptides with High Elasticity
+Surfactant-Free Polyurethane Nanocapsules via Inverse Pickering Miniemulsion
+Size-dependent reinforcement of composite rubbers
+Effect of Sol-Gel Reaction Time on the Morphology Transition in Mesoporous Titania/PS-b-PEO Composite Films
+Heat transition during magnetic heating treatment: Study with tissue models and simulation
+Full membrane spanning self-assembled monolayers as model systems for UHV-based studies of cell-penetrating peptides
+Synchronized cell attachment triggered by photo-activatable adhesive ligands allows QCM-based detection of early integrin binding
+Molecular Structure and Dynamics of Water at the Water-Air Interface Studied with Surface-Specific Vibrational Spectroscopy
+Elucidating the Impact of Molecular Packing and Device Architecture on the Performance of Nanostructured Perylene Diimide Solar Cells
+IM30 triggers membrane fusion in cyanobacteria and chloroplasts
+High-Performance TiO2 Nanoparticle/DOPA-Polymer Composites
+Energy and Charge Transfer in Nanoscale Hybrid Materials
+Single Molecule Studies of a Ladder Type Conjugated Polymer: Vibronic Spectra, Line Widths, and Energy Transfer
+Triplet State Formation in Photovoltaic Blends of DPP-Type Copolymers and PC71BM
+Hydrophobic Encapsulated Phosphonium Salts - Synthesis of Weakly Coordinating Cations and their Application in Wittig Reactions
+Transferable Atomic Multipole Machine Learning Models for Small Organic Molecules
+Conjugated Microporous Poly(Benzochalcogenadiazole)s for Photocatalytic Oxidative Coupling of Amines under Visible Light
+Better Together: Lipopeptide Micelle Formation Enhances Antimicrobial Selectivity
+In Vivo Gene-Silencing in Fibrotic Liver by siRNA-Loaded Cationic Nanohydrogel Particles
+Synthesis and Selective Loading of Polyhydroxyethyl Methacrylate-l-Polysulfone Amphiphilic Polymer Conetworks
+Size, shape, and diffusivity of a single Debye-Hückel polyelectrolyte chain in solution
+Relative resolution: A hybrid formalism for fluid mixtures
+Inherent Resistivity of Graphene to Strong THz Fields
+Controlled Folding of Graphene: GraFold Printing
+Accessing the fundamentals of magnetotransport in metals with terahertz probes
+Controlling the on/off current ratio of ferroelectric field-effect transistors
+Adaptive resolution simulation of a biomolecule and its hydration shell: Structural and dynamical properties
+Biologizing titanium alloy implant material with morphogenetically active polyphosphate
+Reply to comments by R. Klein on Advantages and challenges in coupling an ideal gas to atomistic models in adaptive resolution simulations
+Click functionalization of phenyl-capped bithiophene on azide-terminated self-assembled monolayers
+Ionic Conductivity, Self-Assembly, and Viscoelasticity in Poly(styrene-b-ethylene oxide) Electrolytes Doped with LiTf
+Strong frequency dependence of vibrational relaxation in bulk and surface water reveals sub-picosecond structural heterogeneity
+Double Redox-Responsive Release of Encoded and Encapsulated Molecules from Patchy Nanocapsules
+Fasted-State Simulated Intestinal Fluid "FaSSIF-C", a Cholesterol Containing Intestinal Model Medium for In Vitro Drug Delivery Development
+Facilitated diffusion of proteins through crumpled fractal DNA globules
+Synthesis and Thermal Curing of Benzoxazine Functionalized Polyurethanes
+Low frequency electric current noise in glioma cell populations
+Phoxonic Hybrid Superlattice
+Ultrastrong composites from dopamine modified-polymer-infiltrated colloidal crystals
+Sub-Nanometer Width Armchair Graphene Nanoribbon Energy Gap Atlas
+Enhanced Performance of Self-Assembled Monolayer Field-Effect Transistors with Top-Contact Geometry through Molecular Tailoring, Heated Assembly, and Thermal Annealing
+Triple-Stimuli-Responsive Ferrocene-Containing PEGs in Water and on the Surface
+Two Types of Water at the Water-Surfactant Interface Revealed by Time-Resolved Vibrational Spectroscopy
+High-temperature in situ crystallographic observation of reversible gas sorption in impermeable organic cages
+Charge versus Energy Transfer Effects in High-Performance Perylene Diimide Photovoltaic Blend Films
+Graphene flakes at the SiO2/organic-semiconductor interface for high-mobility field-effect transistors
+Role of Ion-Pairs in Bronsted Acid Catalysis
+Controlling the mobility in nanostructured environments by stimuli-responsive polymers
+Investigation of hydrodynamics at the wall and in the bulk with RICM
+The (non-)local density of states of electronic excitations in organic semiconductors
+A multiscale approach to the adsorption of core-shell nanoparticles at fluid interfaces
+Toward Cove-Edged Low Band Gap Graphene Nanoribbons
+Efficient Coupling of Nanoparticles to Electrochemically Exfoliated Graphene
+Chemical Vapor Deposition of High Quality Graphene Films from Carbon Dioxide Atmospheres
+Influence of different factors on the interaction between polymeric nanomaterials and blood plasma proteins
+Exfoliation of graphene via wet chemical routes
+Parameter-free continuous drift-diffusion models of amorphous organic semiconductors
+Free-Standing Mono layer Two-Dimensional Supramolecular Organic Framework with Good Internal Order
+Solution-Processable n-Type Organic Semiconductors Based on Angular-Shaped 2-(12H-Dibenzofluoren-12-ylidene)malononitrilediimide
+Controlled surface mineralization of metal oxides on nanofibers
+Biomimetic vaterite formation at surfaces structurally templated by oligo(glutamic acid) peptides
+Molecular metal-N-x centres in porous carbon for electrocatalytic hydrogen evolution
+Improvements in production and storage of HP-129Xe
+Magnetoresistance and Charge Transport in Graphene Governed by Nitrogen Dopants
+Derivation of coarse-grained simulation models of chlorophyll molecules in lipid bilayers for applications in light harvesting systems
+Thin film morphology and charge carrier mobility of diketopyrrolopyrrole based conjugated polymers
+pi-extended [12]cycloparaphenylenes: from a hexaphenylbenzene cyclohexamer to its unexpected C-2-symmetric congener
+Emission Turn-On and Solubility Turn-Off in Conjugated Polymers: One- and Two-Photon-Induced Removal of Fluorescence-Quenching Solubilizing Groups
+A new class of tunable hypersonic phononic crystals based on polymer-tethered colloids
+A Polyphenylene Dendrimer Drug Transporter with Precisely Positioned Amphiphilic Surface Patches
+Advances in Colloidal Assembly: The Design of Structure and Hierarchy in Two and Three Dimensions
+Poly(phosphonate)-mediated Horner-Wadsworth-Emmons reactions
+Versatile Colorant Syntheses by Multiple Condensations of Acetyl Anilines with Perylene Anhydrides
+Soft Nanocomposites-From Interface Control to Interphase Formation
+Monophosphoryl lipid A coating of hydroxyethyl starch nanocapsules drastically increases uptake and maturation by dendritic cells while minimizing the adjuvant dosage
+Overtone and combination features of G and D peaks in resonance Raman spectroscopy of the C78H26 polycyclic aromatic hydrocarbon
+Multiscale Effects of Interfacial Polymer Confinement in Silica Nanocomposites
+Deposition of drops containing surfactants on liquid pools: Movement of the contact line, Marangoni ridge, capillary waves and interfacial particles
+Surface Modification of TiO2 Photoanodes with Fluorinated Self-Assembled Mono layers for Highly Efficient Dye-Sensitized Solar Cells
+3D-Morphology Reconstruction of Nanoscale Phase-Separation in Polymer Memory Blends
+Accurate Diffusion Coefficients of Organosoluble Reference Dyes in Organic Media Measured by Dual-Focus Fluorescence Correlation Spectroscopy
+Deformation and shape of flexible, microscale helices in viscous flow
+Advantages and challenges in coupling an ideal gas to atomistic models in adaptive resolution simulations
+A statistical mechanical approach to the Payne effect in filled rubbers
+The Precise Synthesis of Phenylene-Extended Cyclic Hexa-peri-hexabenzocoronenes from Polyarylated [n]Cycloparaphenylenes by the Scholl Reaction
+Boosting Power Conversion Efficiencies of Quantum-Dot-Sensitized Solar Cells Beyond 8% by Recombination Control
+Self-assemblies of amphiphilic homopolymers: synthesis, morphology studies and biomedical applications
+Aliphatic Polyethers: Classical Polymers for the 21st Century
+Conjugated Microporous Polymers with Dimensionality-Controlled Heterostructures for Green Energy Devices
+Semiflexible macromolecules in quasi-one-dimensional confinement: Discrete versus continuous bond angles
+Natural liposomes and synthetic polymeric structures for biomedical applications
+Electrospun Aligned Fibrous Arrays and Twisted Ropes: Fabrication, Mechanical and Electrical Properties, and Application in Strain Sensors
+Efficient gating of epitaxial boron nitride monolayers by substrate functionalization
+Lipid Reservoir Remodeling During Plant Germination
+Torands Revisited: Metal Sequestration and Self-Assembly of Cyclo-2,9-tris-1,10-phenanthroline Hexaaza Macrocycles
+Precursor Polymers for the Carbon Coating of Au@ZnO Multipods for Application as Active Material in Lithium-Ion Batteries
+Charge Carrier Transport and Photogeneration in P3HT:PCBM Photovoltaic Blends
+Synthesis of Triplet-Triplet Annihilation Upconversion Nanocapsules Under Protective Conditions
+Ceria/Polymer Hybrid Nanoparticles as Efficient Catalysts for the Hydration of Nitriles to Amides
+The Impact of Donor-Acceptor Phase Separation on the Charge Carrier Dynamics in pBTTT:PCBM Photovoltaic Blends
+Polymethacrylates with Polyhedral Oligomeric Silsesquioxane (POSS) Moieties: Influence of Spacer Length on Packing, Thermodynamics, and Dynamics
+Nonmonotonic fracture behavior of polymer nanocomposites
+Isothermal Titration Calorimetry of Chiral Polymeric Nanoparticles
+Thermal Evaporation versus Spin-Coating: Electrical Performance in Columnar Liquid Crystal OLEDs
+Siliceous spicules enhance fracture-resistance and stiffness of pre-colonial Amazonian ceramics
+The effect of extracellular matrix proteins on the cellular response of HUVECS and HOBS after covalent immobilization onto titanium
+Influence of ligands in metal nanoparticle electrophoresis for the fabrication of biofunctional coatings
+Force and heat current formulas for many-body potentials in molecular dynamics simulations with applications to thermal conductivity calculations
+Unique Curing Properties through Living Polymerization in Crosslinking Materials: Polyurethane Photopolymers from Vinyl Ether Building Blocks
+X-Band DNP Hyperpolarization of Viscous Liquids and Polymer Melts
+Reactive poly(phosphoester)-telechelics
+The polar side of polyphenylene dendrimers
+On-Surface Synthesis of BN-Substituted Heteroaromatic Networks
+Switching dynamics in ferroelectric P(VDF-TrFE) thin films
+Up-Scaling Graphene Electronics by Reproducible Metal-Graphene Contacts
+Biomimetic Growth of Ultrathin Silica Sheets Using Artificial Amphiphilic Peptides
+Photo-generated carriers lose energy during extraction from polymer-fullerene solar cells
+Octreotide-Mediated Tumor-Targeted Drug Delivery via a Cleavable Doxorubicin Peptide Conjugate
+Communication: One size fits all: Equilibrating chemically different polymer liquids through universal long-wavelength description
+Hierarchically Structured Metal Oxide/Silica Nanofibers by Colloid Electrospinning
+Phosphonic Acid-Functionalized Polyurethane Dispersions with Improved Adhesion Properties
+Unipolar resistive switching in metal oxide/organic semiconductor non-volatile memories as a critical phenomenon
+Comparison of the Different Bandgap Cavities in a Metallic Four-Mode Plasmonic Structure
+Co-non-solvency: Mean-field polymer theory does not describe polymer collapse transition in a mixture of two competing good solvents
+Solution Processing of Polymer Semiconductor: Insulator Blends-Tailored Optical Properties Through Liquid-Liquid Phase Separation Control
+Dynamic Response of Anchored Poly(N-isopropylacrylamide-co-methacrylic acid-co benzophenone methacrylate) Terpolymer Hydrogel Layers to Physicochemical Stimuli
+A molecular nematic liquid crystalline material for high-performance organic photovoltaics
+Complex Columnar Hexagonal Polymorphism in Supramolecular Assemblies of a Semifluorinated Electron-Accepting Naphthalene Bisimide
+The forces and physical properties of polymer particulate monolayers at air/aqueous interfaces
+Light-triggered in vivo activation of adhesive peptides regulates cell adhesion, inflammation and vascularization of biomaterials
+A Crown Ether Decorated Dibenzocoronene Tetracarboxdiimide Chromophore: Synthesis, Sensing, and Self-Organization
+Photocatalytic inhibition of bacteria by TiO2 nanotubes-doped polyethylene composites
+Fast-field-cycling relaxometry enhanced by Dynamic Nuclear Polarization
+On enumeration of Hilbert-like curves
+Photocatalytic Suzuki Coupling Reaction Using Conjugated Microporous Polymer with Immobilized Palladium Nanoparticles under Visible Light
+Condensed Derivatives of Thiadiazoloquinoxaline as Strong Acceptors
+Functional Non-Nucleoside Adenylyl Cyclase Inhibitors
+J-aggregation, its impact on excited state dynamics and unique solvent effects on macroscopic assembly of a core-substituted naphthalenediimide
+Investigation of the structure-property relationship of thiadiazoloquinoxaline-based copolymer semiconductors via molecular engineering
+Perilipin 5 mediated lipid droplet remodelling revealed by coherent Raman imaging
+Vapor-Phase Transport Deposition, Characterization, and Applications of Large Nanographenes
+Electrochromic and liquid crystalline polycarbonates based on telechelic oligothiophenes
+Tuning the deposition of molecular graphene nanoribbons by surface functionalization
+Two Adhesive Sites Can Enhance the Knotting Probability of DNA
+Tuning the optoelectronic properties of dual-acceptor based low-bandgap ambipolar polymers by changing the thiophene-bridge length
+Water-soluble and redox-responsive hyperbranched polyether copolymers based on ferrocenyl glycidyl ether
+Photoswitching the mechanical properties in Langmuir layers of semifluorinated alkylazobenzenes at the air-water interface
+Temperature-Dependent Multidimensional Self-Assembly of Polyphenylene-Based "Rod-Coil" Graft Polymers
+Role of the environment in the stability of anisotropic gold particles
+Functional superhydrophobic surfaces made of Janus micropillars
+Tuning the Magnetic Properties of Carbon by Nitrogen Doping of Its Graphene Domains
+Advanced stimuli-responsive polymer nanocapsules with enhanced capabilities for payloads delivery
+Thermodynamic picture of ultrafast charge transport in graphene
+Generation of nitrile groups on graphites in a nitrogen RF-plasma discharge
+Charge transfer tuning by chemical substitution and uniaxial pressure in the organic complex tetramethoxypyrene-tetracyanoquinodimethane
+Carbohydrate nanocarriers in biomedical applications: functionalization and construction
+Materials science: Droplets leap into action
+Why does high pressure destroy co-non-solvency of PNIPAm in aqueous methanol?
+Direct observation of drops on slippery lubricant-infused surfaces
+Nano-holes vs Nano-cracks in Thin Gold Films: What Causes Anomalous THz Transmission?
+Morphology Control in Biphasic Hybrid Systems of Semiconducting Materials
+A Disulfide Intercalator Toolbox for the Site-Directed Modification of Polypeptides
+Highly Ordered Phenanthroline-Fused Azaacene
+Positional Isomers of Tetramethoxypyrene-based Mono- and Biradicals
+Dynamics of Ice/Water Confined in Nanoporous Alumina
+Molecular Mechanism of Water Evaporation
+Living Anionic Polymerization of Functional Aziridines
+Lipid Carbonyl Groups Terminate the Hydrogen Bond Network of Membrane-Bound Water
+Patterning two-dimensional free-standing surfaces with mesoporous conducting polymers
+Molecular scale simulation of hole mobility and current densities in amorphous tridecane
+Self-referenced Transient THz Spectroscopy with ABCD Detection
+Experimental Distinction between Femtosecond Transient Demagnetization and Spin Current Dynamics in Metals
+Preparation of Thermo-Responsive Poly(ionic liquid)s-Based Nanogels via One-Step Cross-Linking Copolymerization
+Bottom-Up Synthesis of Necklace-Like Graphene Nanoribbons
+Poly(phosphoester)s: A New Platform for Degradable Polymers
+Genotoxic effects of zinc oxide nanoparticles
+Superresolution imaging reveals structurally distinct periodic patterns of chromatin along pachytene chromosomes
+Nanoparticles and antigen-specific T-cell therapeutics: a comprehensive study on uptake and release
+Gauging and Tuning Cross-Linking Kinetics of Catechol-PEG Adhesives via Catecholamine Functionalization
+Phonon-Electron Scattering Limits Free Charge Mobility in Methylammonium Lead Iodide Perovskites
+Why Small Differences Matter: Elucidation of the Mechanisms Underlying the Transformation of 2OH- and 3OH-Carbamazepine in Contact with Sand Filter Material
+Organic Nanoparticles as Fragmentable Support for Ziegler-Natta Catalysts
+Reversible Activation of a Cell-Penetrating Peptide in a Membrane Environment
+Design of enzyme-immobilized polymer brush-grafted magnetic nanoparticles for efficient nematicidal activity
+Entropy-Driven Chiral Order in a System of Achiral Bent Particles
+Temperature dependence of surface reorganization characteristics of amphiphilic block copolymer in air and in water studied by scanning force microscopy
+Relative Entropy and Optimization-Driven Coarse-Graining Methods in VOTCA
+Chemistry in a Materials World
+Investigation of a Method to Efficiently Create Elastic Networks
+Synthesis and characterization of bifunctional dendrimers: preliminary use for the coating of gold surfaces and the proliferation of human osteoblasts (HOB)
+Application of hybrid blocking layers in solid-state dye-sensitized solar cells
+Sophorolipids: Expanding structural diversity by ring-opening cross-metathesis
+Impact of mesoscale order on open-circuit voltage in organic solar cells
+Solvent-free Liquid Crystals and Liquids from DNA
+Electronic band dispersion of graphene nanoribbons via Fourier-transformed scanning tunneling spectroscopy
+Invisible high workfunction materials on heterogeneous surfaces
+Poly(isobutylene) Nanoparticles via Cationic Polymerization in Nonaqueous Emulsions
+Proton Dissociation of Sulfonated Polysulfones: Influence of Molecular Structure and Conformation
+Electrical conduction of LiF interlayers in organic diodes
+Evolution of high-temperature molecular relaxations in poly(2-(2-methoxyethoxy)ethyl methacrylate) upon network formation
+A new polyphosphate calcium material with morphogenetic activity
+Photon Upconversion Lithography: Patterning of Biomaterials Using Near-Infrared Light
+Polarity Reversal of Nanoparticle Surfaces by the Use of Light-Sensitive Polymeric Emulsifiers
+Science and technology roadmap for graphene, related two-dimensional crystals, and hybrid systems
+Chemical Mapping of Silica Prepared via Sol-Gel Reaction in Rubber Nanocomposites
+Statistical mechanics of Hamiltonian adaptive resolution simulations
+Biodegradable Protein Nanocontainers
+Revealing the hidden correlated electronic structure of strained graphene
+Hydrogen Bond Dynamics in Primary Alcohols: A Femtosecond Infrared Study
+Synthetic Principles Determining Local Organization of Copolyesters Prepared from Lactones and Macrolactones
+Ultrathin Printable Graphene Supercapacitors with AC Line-Filtering Performance
+Automated Parametrization of the Coarse-Grained Martini Force Field for Small Organic Molecules
+Assessment of drag reduction at slippery, topographically structured surfaces
+Background-Free Fourth-Order Sum Frequency Generation Spectroscopy
+Nonenzymatic Transformation of Amorphous CaCO3 into Calcium Phosphate Mineral after Exposure to Sodium Phosphate in Vitro: Implications for in Vivo Hydroxyapatite Bone Formation
+Design Rules for Organic Donor-Acceptor Heterojunctions: Pathway for Charge Splitting and Detrapping
+Towards sugar-derived polyamides as environmentally friendly materials
+Electronic Structure and Stability of Fluorophore-Nitroxide Radicals from Ultrahigh Vacuum to Air Exposure
+Solvothermal synthesis of hierarchical Eu2O3 nanostructures templated by PS-b-PMAA: morphology control via simple variation of water contents
+Plasmonic Core-Satellite Assemblies as Highly Sensitive Refractive Index Sensors
+A Library of Well-Defined and Water-Soluble Poly(alkyl phosphonate)s with Adjustable Hydrolysis
+Alternating Stacked Graphene-Conducting Polymer Compact Films with Ultrahigh Areal and Volumetric Capacitances for High-Energy Micro-Supercapacitors
+Magnetic phase transition in DyFe0.6Mn0.4O3 crystal investigated with ultrafast spectroscopy
+Enzyme-responsive nanocomposites for wound infection prophylaxis in burn management: in vitro evaluation of their compatibility with healing processes
+Charge Carrier Generation Followed by Triplet State Formation, Annihilation, and Carrier Recreation in PBDTTT-C/PC60BM Photovoltaic Blends
+Electrical Characteristics of Field-Effect Transistors based on Chemically Synthesized Graphene Nanoribbons
+Regenerative Nano-Hybrid Coating Tailored for Autonomous Corrosion Protection
+Corrosion Inhibition of Two Brass Alloys by Octadecanethiol in Humidified Air with Formic Acid
+Amino acid-based poly(ester amide) nanofibers for tailored enzymatic degradation prepared by miniemulsion-electrospinning
+B2N2-Dibenzo[a,e]pentalenes: Effect of the BN Orientation Pattern on Antiaromaticity and Optoelectronic Properties
+Fluctuation spectra in polymer nematics and Frank elastic constants: a coarse-grained modelling study
+High open-circuit voltage small-molecule p-DTS(FBTTh2)(2):ICBA bulk heterojunction solar cells - morphology, excited-state dynamics, and photovoltaic performance
+Conjugated microporous polymer nanoparticles with enhanced dispersibility and water compatibility for photocatalytic applications
+Understanding cells communication : low frequency electric current measurements of cell populations
+Phenothiazine-functionalized redox polymers for a new cathode-active material
+Complementary analysis of the hard and soft protein corona: sample preparation critically effects corona composition
+Precursor-controlled and template-free synthesis of nitrogen-doped carbon nanoparticles for supercapacitors
+Molecular simulation of oligo-glutamates in a calcium-rich aqueous solution: insights into peptide-induced polymorph selection
+Supramolecular hydrogels constructed by red-light-responsive host-guest interactions for photo-controlled protein release in deep tissue
+Strengthening the acceptor properties of thiadiazoloquinoxalines via planarization
+New advances in nanographene chemistry
+Vinyl ferrocenyl glycidyl ether: an unprotected orthogonal ferrocene monomer for anionic and radical polymerization
+Sulfur-Annulated Hexa-peri-hexabenzocoronene Decorated with Phenylthio Groups at the Periphery
+Reversible oxygen addition on a triplet sensitizer molecule: protection from excited state depopulation
+Polycyclic aromatic azomethine ylides: a unique entry to extended polycyclic heteroaromatics
+Organic Radical-Assisted Electrochemical Exfoliation for the Scalable Production of High-Quality Graphene
+Bimetallic porous porphyrin polymer-derived non-precious metal electrocatalysts for oxygen reduction reactions
+New Techniques to Assess In Vitro Release of siRNA from Nanoscale Polyplexes
+Protein-polymer therapeutics: a macromolecular perspective
+Programming Bioactive Architectures with Cyclic Peptide Amphiphiles
+Polyamidoamine Dendrimers as Universal Pore-Blocking Binary Toxin Inhibitors
+DNA-Based Self-Assembly of Fluorescent Nanodiamonds
+A molecular tweezer antagonizes seminal amyloids and HIV infection
+Programmable Biopolymers for Advancing Biomedical Applications of Fluorescent Nanodiamonds

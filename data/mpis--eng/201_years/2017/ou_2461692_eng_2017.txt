@@ -1,0 +1,13 @@
+Understanding neural circuit development through theroy and models
+Local translation in neuronal compartments: how local is loca?
+Axonal synapse sorting in medial entorhinal cortex
+Function and evlution of the reptilian cerebral cortex
+GRIP1 binds to ApoER2 and EphrinB2 to induce activity-dependent AMPA receptor insertion at the synapse
+APP deletion accounts for age-dependent changes in the bioenergetic metabolism and in hyperphosphorylated CaMKII at stimulated hippocampal presynaptic active zones
+Network mechanisms of hippocampal laterality, place coding, and goal-directed navigaion
+How linear response shaped models of neural circuits and the quest for alternatives
+Activity-dependent spatially localized miRNA maturation in neuronal dendrites
+mRNA transport & local transaltion in neurons
+webKnossos: efficient online 3D data annotation for connectomics
+Cell-type-specific metabolic labeling of nascent proteomes in vivo
+SynEM, automated synapse detection for connectomics

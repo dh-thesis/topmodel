@@ -1,0 +1,131 @@
+Developmental switching in Physarum polycephalum: Petri net analysis of single cell trajectories of gene expression indicates responsiveness and genetic plasticity of the Waddington quasipotential landscape
+ALBORZ-REGATH: An efficient Lattice Boltzmann solver for reacting flows with multi-component transport and detailed chemistry
+Model-based optimization of the recombinant protein production in Pichia pastoris based on dynamic flux balance analysis and elementary process functions
+Optimality in cellular storage via the Pontryagin Maximum Principle
+Modelling of Dictyostelium discoideum movement in a linear gradient of chemoattractant
+Reconceptualizing fluorescence correlation spectroscopy for monitoring and analyzing periodically passing objects
+Highly integrated direct methanol fuel cell systems minimizing fuel loss with dynamic concentration control for portable applications
+Event-triggered actuator signal update using self-triggered sampled data for uncertain linear systems
+Effects of developmental variability on the dynamics and self-organization of cell populations
+Multi-objective optimisation of the model parameters for the realisable k-ε turbulence model
+Robust output feedback MPC for uncertain linear systems with reduced conservatism
+A Protocol for Generating and Exchanging (Genome-Scale) Metabolic Resource Allocation Models
+Fully-resolved prolate spheroids in turbulent channel flows: A lattice Boltzmann study
+Tomographic particle image velocimetry for the validation of hemodynamic simulations in an intracranial aneurysm
+Real time feasibility and performance of moving horizon estimation for Li-ion batteries based on first principles electrochemical models
+Combined event- and self-triggered control approach with guaranteed finite-gain L2L2 stability for uncertain linear systems
+Cell-free protein synthesis in micro compartments: building a minimal cell from biobricks.
+The Centrosome Is a Selective Condensate that Nucleates Microtubules by Concentrating Tubulin
+Comparison of pressure reconstruction approaches based on measured and simulated velocity fields
+Simulating separation of a multiphase liquid-liquid system in a horizontal settler by CFD
+Low latency output feedback model predictive control for constrained linear systems
+An Efficient Polynomial Chaos Expansion Strategy for Active Fault Identification of Chemical Processes
+Indirect measurement of heat release in hydrogen flames using species correlations
+Multi-objective Complexity Reduction for Set-based Fault Diagnosis
+Turbulence Structure Analysis of DNS Data Using DMD and SPOD: Mixing Jet and Channel Flow
+A Review of Hemolysis Prediction Models for Computational Fluid Dynamics
+Robust Design of Chemical Processes Based on a One-Shot Sparse Polynomial Chaos Expansion Concept
+Immersed Boundary lattice Boltzmann simulation of turbulent channel flows in the presence of spherical particles
+DNS Study of the Optimal Chemical Markers for Heat Release in Syngas Flames
+Stability limits of the single relaxation-time advection-diffusion lattice Boltzmann scheme
+Effect of polymer and fiber additives on pressure drop in a rectangular channel
+Probability of Hotspot Ignition and Ignition Spot Tracking in Turbulent Hydrogen-Air Mixtures Using Direct Numerical Simulations
+Model-based experimental data evaluation of separation efficiency of multistage coarse particle classification in a zigzag apparatus
+Efficient Set-based Process Monitoring and Fault Diagnosis
+Control of lipid domain organization by a biomimetic contractile actomyosin cortex
+Melting Behavior and Solubility Equilibria of (R)- and (S)-Mefenpyr-diethyl in Ethanol/Water Mixtures
+Efficient global optimization of a novel hydroformylation process
+Economic linear objective function approach for structure optimization of renewables-to-chemicals (R2Chem) networks
+A Contribution to the Solution Thermodynamics of Chiral Lactide
+Influence of the production system on the surface properties of influenza A virus particles
+Non-equimolar discrete compounds in binary chiral systems of organic substances
+Efficient simulation and equilibrium theory for adsorption processes with implicit adsorption isotherms – Mass action equilibria
+Noninvasive 4D Flow Characterization in a Stirred Tank via Phase-Contrast Magnetic Resonance Imaging
+Carotenoid Production Process Using Green Microalgae of the Dunaliella Genus: Model-Based Analysis of Interspecies Variability
+Analysis of Two-Component Non-Equilibrium Model of Linear Reactive Chromatography
+Rhodium-BiPhePhos catalyzed hydroformylation studied by operando FTIR spectroscopy: Catalyst activation and rate determining step
+Modelling Geometrical and Fluid-Dynamic Aspects of a Continuous Fluidized Bed Crystallizer for Separation of Enantiomers
+A dynamic two-zone model of continuous fluidized bed layering granulation with internal product classification
+Numerical study of liquid-liquid mixing in helical pipes
+Hydroformylation and tandem isomerization–hydroformylation of n-decenes using a rhodium-BiPhePhos catalyst: Kinetic modeling, reaction network analysis and optimal reaction control
+The thermochemistry of long chain olefin isomers during hydroformylation
+Estimation of aggregation kernels based on Laurent polynomial approximation
+Dynamic Optimization of Constrained Semi-Batch Processes using Pontryagin’s Minimum Principle and Parsimonious Parameterization
+Towards predictive numerical models for single crystal growth: validation of the velocity field
+Impact of Liquid-Phase Volume Changes on Estimating Reaction Rate Parameters: The Homogeneously Catalyzed Hydrolysis of Methyl Formate
+Membrane localization and dynamics of geranylgeranylated Rab5 hypervariable region
+A mononuclear iron carbonyl complex [Fe(μ-bdt)(CO)2(PTA)2] with bulky phosphine ligands: a model for the [FeFe] hydrogenase enzyme active site with an inverted redox potential
+Influence of the production system on the surface properties of influenza A virus particles
+Quantitative Assessment of Sialo-Glycoproteins and N-Glycans during Cardiomyogenic Differentiation of Human Induced Pluripotent Stem Cells
+Stirred tanks in cascades and plug-flow tubular bioreactors for continuous production of viral vaccines
+Use of CellNetAnalyzer in biotechnology and metabolic engineering
+CFD-DEM simulations of a fluidized bed crystallizer
+Experimental Investigation of the Reaction Network of Ethene to Propene over Ni/AlMCM-41 Catalysts
+Biological Insights of the Dopaminergic Stabilizer ACR16 at the Binding Pocket of Dopamine D2 Receptor
+Crystallization-Based Isolation of Pure Rutin from Herbal Extract of Sophora japonica L.
+Two-Dimensional Model for Reactive-Sorption Columns of Cylindrical Geometry: Analytical Solutions and Moment Analysis
+An efficient approximate moment method for multi-dimensional population balance models - Application to virus replication in multi-cellular systems.
+Dynamic Optimization of Constrained Semi-Batch Processes using Pontryagin's Minimum Principle - An effective Quasi-Newton Method
+Analysis of linear reactive general rate model of liquid chromatography considering irreversible and reversible reactions
+Solubility Study and Thermal Stability Analysis of Calcium Propionate
+Study of solubility and primary nucleation rates of calcium propionate in a water/ethanol solvent mixture
+Analysis of One-Dimensional Advection–Diffusion Model with Variable Coefficients Describing Solute Transport in a Porous medium
+Single Enantiomer’s Urge to Crystallize in Centrosymmetric Space Groups: Solid Solutions of Phenylpiracetam
+Analysis of the Glutamate Agonist LY404,039 Binding to Nonstatic Dopamine Receptor D2 Dimer Structures and Consensus Docking
+Systematic Method for Screening Ionic Liquids as Extraction Solvents Exemplified by an Extractive Desulfurization Process
+Theoretical analysis of the influence of forced and inherent temperature fluctuations in an adiabatic chromatographic column
+Process dynamics of continuous fluidised bed layering granulation
+Distal [FeS]-Cluster Coordination in [NiFe]-Hydrogenase Facilitates Intermolecular Electron Transfer
+Meneco, a Topology-Based Gap-Filling Tool Applicable to Degraded Genome-Wide Metabolic Networks
+Analysis of Linear General Rate Model of Reactive Chromatography for Core−Shell Adsorbents
+Thermodynamic Analysis and Optimization of RWGS Processes for Solar Syngas Production from CO2
+Immittance Data Validation using Fast Fourier Transformation (FFT) Computation – Synthetic and Experimental Examples
+Continuous Crystallization in a Helically Coiled Flow Tube: Analysis of Flow Field, Residence Time Behavior, and Crystal Growth
+Crystal Population Growth in a Continuous Helically Coiled Flow Tube Crystallizer
+Optimal Reactor Design via Flux Profile Analysis for an Integrated Hydroformylation Process
+COSMO-descriptor based computer-aided ionic liquid design for separation processes: Part II: Task-specific design for extraction processes
+Analysis of linear two-dimensional general rate model for chromatographic columns of cylindrical geometry
+Disorientation angle distribution of primary particles in potash alum aggregates
+Cover Image
+Industrial Crystallization: Classical Technology with Steadily Increasing Applications and Importance
+Online parameter identification for continuous fluidized bed spray granulation with external sieve-mill cycle
+Catalyst Layer Modeling
+Impact of minor amounts of hydroperoxides on rhodium-catalyzed hydroformylation of long-chain olefins
+Predicting Solvent Effects on the 1-dodecene Hydroformylation Reaction Equilibrium
+Bistability and Nonmonotonic Induction of the lac Operon in the Natural Lactose Uptake System
+Thermochemistry of racemic and enantiopure molecular crystals for predicting enantiomer separation
+Double Phosphorylation-Induced Structural Changes in the Signal-Receiving Domain of IκBα in Complex with NF-κB
+Control of Continuous Mixed-Solution Mixed-Product Removal Crystallization Processes
+FMNH2-dependent monooxygenases initiate catabolism of sulfonamides in Microbacterium sp. strain BR1 subsisting on sulfonamide antibiotics
+Trade-off and flexibility in the dynamic regulation of the cullin-RING ubiquitin ligase repertoire
+Efficient and stable production of Modified Vaccinia Ankara virus in two-stage semi-continuous and in continuous stirred tank cultivation systems
+The minimum information required for a glycomics experiment (MIRAGE) project: improving the standards for reporting glycan microarray-based data
+Non-human primate orthologues of TMPRSS2 cleave and activate the influenza virus hemagglutinin
+Sialylation Is Dispensable for Early Murine Embryonic Development in Vitro
+Probing the druggability of membrane-bound Rab5 by molecular dynamics simulations
+Efficient simulation of intrinsic, extrinsic and external noise in biochemical systems
+Specific ion effects on the particle size distributions of cell culture–derived influenza A virus particles within the Hofmeister series
+EColiCore2: a reference model of the central metabolism of Escherichia coli and the relationships to its genome-scale parent model
+Growth-coupled overproduction is feasible for almost all metabolites in five major production organisms.
+Challenges and perspectives of metaproteomic data analysis
+COSMO-descriptor based computer-aided ionic liquid design for separation processes. Part I: Modified group contribution methodology for predicting surface charge density profile of ionic liquids
+Understanding PEM fuel cell dynamics: The reversal curve
+Steric exclusion chromatography for purification of cell culture-derived influenza A virus using regenerated cellulose membranes and polyethylene glycol
+Vibrational scaling factors for RH(I) carbonyl compounds in homogeneous cataylsis
+Concentration-alternating frequency response: A new method for studying polymer electrolyte membrane fuel cell dynamics
+Set point tracking of a biogas plant coupled to a methanation reactor
+Experimental study of the deactivation of Ni/AlMCM-41 catalyst in the direct conversion of ethene to propene
+Process Optimization by Applying a Simultaneous Dynamic Method
+Special Issue: Fundamentals of Adsorption (FOA-12): Editorial
+Global optimization of distillation columns using surrogate models
+From elementary flux modes to elementary flux vectors: Metabolic pathway analysis with arbitrary linear flux constraints
+The signaling pathway of dopamine D2 receptor (D2R) activation using normal mode analysis (NMA) and the construction of pharmacophore models for D2R ligands
+Improvement of the glycoproteomic toolbox with the discovery of a unique C-terminal cleavage specificity of flavastacin for N-glycosylated asparagine
+Proteotyping of laboratory-scale biogas plants reveals multiple steady-states in community composition
+Advanced Operating Strategies to Extend the Applications of Simulated Moving Bed Chromatography
+Isomerization/hydroformylation tandem reaction of a decene isomeric mixture with subsequent catalyst recycling in thermomorphic solvent systems
+Influence of the autonomous oscillations and the CO concentration on the performance of an ECPrOx reactor
+Analysis of network motifs in cellular regulation: Structural similarities, input–output relations and signal integration
+Automatic model reduction of differential algebraic systems by proper orthogonal decomposition
+Bi-objective optimization of dynamic systems by continuation methods
+Process Concepts in Preparative Chromatography

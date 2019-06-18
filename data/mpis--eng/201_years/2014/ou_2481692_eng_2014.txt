@@ -1,0 +1,132 @@
+Uncoupling of Bacterial and Terrigenous Dissolved Organic Matter Dynamics in Decomposition Experiments
+Spatial distribution of diatom and cyanobacterial mats in the Dead Sea is determined by response to rapid salinity fluctuations
+Determination of dissimilatory sulfate reduction rates in marine sediment via radioactive S-35 tracer
+Protein Stable Isotope Fingerprinting: Multidimensional Protein Chromatography Coupled to Stable Isotope-Ratio Mass Spectrometry
+Microbial monoterpene transformations-a review
+Gene swapping in the dead zone Viruses can swap DNA between bacteria that live in regions of the oceans with little or no oxygen
+The R package otu2ot for implementing the entropy decomposition of nucleotide variation in sequence data
+The Dynamics of Plant-Mediated Sediment Oxygenation in Spartina anglica Rhizospheres—a Planar Optode Study
+Temperature response of denitrification and anaerobic ammonium oxidation rates and microbial community structure in Arctic fjord sediments
+Anaerobic methanotrophic community of a 5346-m-deep vesicomyid clam colony in the Japan Trench
+New highly fluorescent pH indicator for ratiometric RGB imaging of pCO2
+Seasonal oxygen, nitrogen and phosphorus benthic cycling along an impacted Baltic Sea estuary: regulation and spatial patterns
+Composition, Buoyancy Regulation and Fate of Ice Algal Aggregates in the Central Arctic Ocean
+Characterisation of Non-Autoinducing Tropodithietic Acid (TDA) Production from Marine Sponge Pseudovibrio Species
+Indications for algae-degrading benthic microbial communities in deep-sea sediments along the Antarctic Polar Front
+The environmental controls that govern the end product of bacterial nitrate respiration
+Ecological coherence of diversity patterns derived from classical fingerprinting and Next Generation Sequencing techniques
+Rapid Recovery of Cyanobacterial Pigments in Desiccated Biological Soil Crusts following Addition of Water
+Bacterial community structure and dissolved organic matter in repeatedly flooded subsurface karst water pools
+Massilia umbonata sp nov., able to accumulate poly-beta-hydroxybutyrate, isolated from a sewage sludge compost-soil microcosm
+Chemodiversity of dissolved organic matter in lakes driven by climate and hydrology
+Oxygen budgets in subtidal arctic (Kongsfjorden, Svalbard) and temperate (Helgoland, North Sea) microphytobenthic communities
+Dissimilatory nitrate reduction by Aspergillus terreus isolated from the seasonal oxygen minimum zone in the Arabian Sea
+Methane fluxes and carbonate deposits at a cold seep area of the Central Nile Deep Sea Fan, Eastern Mediterranean Sea
+Genomic Standards Consortium Projects
+Meeting Report: GBIF hackathon-workshop on Darwin Core and sample data (22-24 May 2013)
+Archaeal populations in two distinct sedimentary facies of the subsurface of the Dead Sea
+FastaValidator: an open-source Java library to parse and validate FASTA formatted sequences
+The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks
+Massive Regime Shifts and High Activity of Heterotrophic Bacteria in an Ice-Covered Lake
+Ecosystem-Specific Composition of Dissolved Organic Matter
+Sulfidization of lacustrine glacial clay upon Holocene marine transgression (Arkona Basin, Baltic Sea)
+Rapid succession of uncultured marine bacterial and archaeal populations in a denitrifying continuous culture
+Functional characterization of polysaccharide utilization loci in the marine Bacteroidetes 'Gramella forsetii' KT0803
+Diverse sulfate-reducing bacteria of the Desulfosarcina/Desulfococcus clade are the key alkane degraders at marine seeps
+A guide to statistical analysis in microbial ecology: a community-focused, living review of multivariate data analyses
+Discovery of Multiple Modified F-430 Coenzymes in Methanogens and Anaerobic Methanotrophic Archaea Suggests Possible New Roles for F-430 in Nature
+Benzoate mediates the simultaneous repression of anaerobic 4-methylbenzoate and succinate utilization in Magnetospirillum sp strain pMbN1
+Effect of high electron donor supply on dissimilatory nitrate reduction pathways in a bioreactor for nitrate removal
+Nitric oxide turnover in permeable river sediment
+Using stable Mg isotopes to distinguish dolomite formation mechanisms: A case study from the Peru Margin
+The Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): Illuminating the Functional Diversity of Eukaryotic Life in the Oceans through Transcriptome Sequencing
+Phylogenetic confirmation of the genus Robbea (Nematoda: Desmodoridae, Stilbonematinae) with the description of three new species
+Biogeochemistry of dissolved organic matter in an anoxic intertidal creek bank
+Effect of sulfate on low-temperature anaerobic digestion
+Genomic Encyclopedia of Bacteria and Archaea: Sequencing a Myriad of Type Strains
+Iron and manganese speciation and cycling in glacially influenced high-latitude fjord sediments (West Spitsbergen, Svalbard): Evidence for a benthic recycling-transport mechanism
+A Method Detection Limit for the Analysis of Natural Organic Matter via Fourier Transform Ion Cyclotron Resonance Mass Spectrometry
+Bacterial community structure influenced by Coscinodiscus sp in the Vistula river plume
+The founding charter of the Genomic Observatories Network
+Rhodopirellula lusitana sp nov and Rhodopirellula rubra sp nov., isolated from the surface of macroalgae
+Can primary production contribute non-labile organic matter in the sea: Amino acid enantiomers along the coast south of the Changjiang Estuary in May
+Investigating hypoxia in aquatic environments: diverse approaches to addressing a complex phenomenon
+Diversity and activity of marine bacterioplankton during a diatom bloom in the North Sea assessed by total RNA and pyrotag sequencing
+Development of a transformation system for Aspergillus sojae based on the Agrobacterium tumefaciens-mediated approach
+Intracellular Oceanospirillales inhabit the gills of the hydrothermal vent snail Alviniconcha with chemosynthetic, gamma-Proteobacterial symbionts
+Anaerobic Activation of p-Cymene in Denitrifying Betaproteobacteria: Methyl Group Hydroxylation versus Addition to Fumarate
+Recoding of the stop codon UGA to glycine by a BD1-5/SN-2 bacterium and niche partitioning between Alpha- and Gammaproteobacteria in a tidal sediment microbial community naturally selected in a laboratory chemostat
+Carbohydrate Catabolism in Phaeobacter inhibens DSM 17395, a Member of the Marine Roseobacter Clade
+Microbial consumption of zero-valence sulfur in marine benthic habitats
+Contrasted Saharan dust events in LNLC environments: impact on nutrient dynamics and primary production
+Exo-Metabolome of Pseudovibrio sp FO-BEG1 Analyzed by Ultra-High Resolution Mass Spectrometry and the Effect of Phosphate Limitation
+An improved medium for the anaerobic growth of Paracoccus denitrificans Pd1222
+Biogeochemical Consequences of the Sedimentary Subseafloor Biosphere
+Comparison of bacterial communities on limnic versus coastal marine particles reveals profound differences in colonization
+Functional structure of laminated microbial sediments from a supratidal sandy beach of the German Wadden Sea (St. Peter-Ording)
+Pathways and substrate-specific regulation of amino acid degradation in Phaeobacter inhibens DSM 17395 (archetype of the marine Roseobacter clade)
+Nature's microbiome: introduction
+Calcium-ammonium exchange experiments on clay minerals using a Ca-45 tracer technique in marine pore water
+Porosity variation below a fluid-porous interface
+Community Structure and Activity of a Highly Dynamic and Nutrient-Limited Hypersaline Microbial Mat in Um Alhool Sabkha, Qatar
+Epifluorescence, SEM, TEM and nanoSIMS image analysis of the cold phenotype of Clostridium psychrophilum at subzero temperatures
+High spatial resolution of distribution and interconnections between Fe- and N-redox processes in profundal lake sediments
+Uniting the classification of cultured and uncultured bacteria and archaea using 16S rRNA gene sequences
+The oxygen-independent metabolism of cyclic monoterpenes in Castellaniella defragrans 65Phen
+Close association of active nitrifiers with Beggiatoa mats covering deep-sea hydrothermal sediments
+Identification and activity of acetate-assimilating bacteria in diffuse fluids venting from two deep-sea hydrothermal systems
+Oxygenic photosynthesis as a protection mechanism for cyanobacteria against iron-encrustation in environments with high Fe2+ concentrations
+Modern applications for a total sulfur reduction distillation method - what's old is new again
+Recent sediment dynamics in hadal trenches: Evidence for the influence of higher-frequency (tidal, near-inertial) fluid dynamics
+Influence of the physical environment on polar phytoplankton blooms: A case study in the Fram Strait
+Corrosion of Iron by Sulfate-Reducing Bacteria: New Views of an Old Problem
+Permanent draft genome of Rhodopirellula rubra SWK7
+Permanent draft genomes of the two Rhodopirellula europaea strains 6C and SH398
+Colonization in the photic zone and subsequent changes during sinking determines bacterial community composition in marine snow
+Report of the 14th Genomic Standards Consortium Meeting, Oxford, UK, September 17-21, 2012.
+Two opposing effects of sulfate reduction on carbonate precipitation in normal marine, hypersaline, and alkaline environments Reply
+Eubostrichus fertilis sp n., a new marine nematode (Desmodoridae: Stilbonematinae) with an extraordinary reproductive potential from Belize, Central America
+Permanent draft genome of Rhodopirellula sallentina SM41
+Permanent draft genomes of the Rhodopirellula maiorica strain SM1
+O-17 excess traces atmospheric nitrate in paleo-groundwater of the Saharan desert
+Distribution of algal aggregates under summer sea ice in the Central Arctic
+The in situ light microenvironment of corals
+Influence of the Amazon River discharge on the biogeography of phytoplankton communities in the western tropical north Atlantic
+Bacterial taxa-area and distance-decay relationships in marine environments
+Evaluation of the 23S rRNA gene as target for qPCR based quantification of Frankia in soils
+Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria
+Metal concentrations in the tissues of the hydrothermal vent mussel Bathymodiolus: Reflection of different metal sources
+Halorhabdus tiamatea: proteogenomics and glycosidase activity measurements identify the first cultivated euryarchaeon from a deep-sea anoxic brine lake as potential polysaccharide degrader
+Anaerobic methane oxidation coupled to denitrification is the dominant methane sink in a deep lake
+Chironomus plumosus larvae increase fluxes of denitrification products and diversity of nitrate-reducing bacteria in freshwater sediment
+The Fate of Nitrate in Intertidal Permeable Sediments
+Microenvironments of reduced salinity harbour biofilms in Dead Sea underwater springs
+Dual symbiosis with co-occurring sulfur-oxidizing symbionts in vestimentiferan tubeworms from a Mediterranean hydrothermal vent
+Impact of depositional and biogeochemical processes on small scale variations in nodule abundance in the Clarion-Clipperton Fracture Zone
+Responses of the coastal bacterial community to viral infection of the algae Phaeocystis globosa
+Facets of diazotrophy in the oxygen minimum zone waters off Peru
+Are Iron-Phosphate Minerals a Sink for Phosphorus in Anoxic Black Sea Sediments?
+Carbon isotope equilibration during sulphate-limited anaerobic oxidation of methane
+Size-independent symmetric division in extraordinarily long cells
+The gill chamber epibiosis of deep-sea shrimp Rimicaris exoculata: an in-depth metagenomic investigation and discovery of Zetaproteobacteria
+Single-cell genomics reveals potential for magnetite and greigite biomineralization in an uncultivated multicellular magnetotactic prokaryote
+Stable Composition of the Nano- and Picoplankton Community during the Ocean Iron Fertilization Experiment LOHAFEX
+Distribution of a consortium between unicellular algae and the N-2 fixing cyanobacterium UCYN-A in the North Atlantic Ocean
+Multiple sulfur isotopes fractionations associated with abiotic sulfur transformations in Yellowstone National Park geothermal springs
+Microbial lipids reveal carbon assimilation patterns on hydrothermal sulfide chimneys
+Microscopic oxygen imaging based on fluorescein bleaching efficiency measurements
+Draft genome sequence of marine alphaproteobacterial strain HIMB11, the first cultivated representative of a unique lineage within the Roseobacter clade possessing an unusually small genome
+Benthic N-2 fixation in coral reefs and the potential effects of human- induced environmental change
+MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment
+Eruption of a deep-sea mud volcano triggers rapid sediment movement
+Sulfate reduction and sulfide oxidation in extremely steep salinity gradients formed by freshwater springs emerging into the Dead Sea
+Pep2Path: Automated Mass Spectrometry-Guided Genome Mining of Peptidic Natural Products
+Aquatic Respiration Rate Measurements at Low Oxygen Concentrations
+Spatial scales of bacterial community diversity at cold seeps (Eastern Mediterranean Sea).
+Spatial patterns and links between microbial community composition and function in cyanobacterial mats
+Permanent draft genomes of the three Rhodopirellula baltica strains SH28, SWK14 and WH47
+Sulfur and oxygen isotope fractionation during sulfate reduction coupled to anaerobic oxidation of methane is dependent on methane concentration
+Significance of fossilized microbes from the Cambrian stromatolites in the Tarim Basin, Northwest China
+Isolation of heterotrophic diazotrophic bacteria from estuarine surface waters
+Early diagenetic quartz formation at a deep iron oxidation front in the Eastern Equatorial Pacific - A modern analogue for banded iron/chert formations?
+Challenges to estimate surface- and groundwater flow in arid regions: The Dead Sea catchment

@@ -1,0 +1,53 @@
+Dynein light chain 8a of Toxoplasma gondii, a unique conoid-localized β-strand-swapped homodimer, is required for an efficient parasite growth
+Autophagy restricts Chlamydia trachomatis growth in human acrophages via IFNG-inducible guanylate binding proteins
+Immunity to intracellular bacteria
+Chlamydia trachomatis inhibits telomeric DNA damage signaling via transient hTERT upregulation
+Diagnostic biomarkers are hidden in the infected host’s epigenome
+miRNA Profiling Identifies Candidate miRNAs for Bladder Cancer Diagnosis and Clinical Outcome
+Deciphering the Intracellular Fate of Propionibacterium acnes in Macrophages
+Analysis of Host Responses to Mycobacterium tuberculosis Antigens in a Multi-Site Study of Subjects with Different TB and HIV Infection States in Sub-Saharan Africa
+AP-1/Fos-TGase2 Axis Mediates Wounding-induced Plasmodium falciparum Killing in Anopheles gambiae
+Rapid similarity search of proteins using alignments of domain arrangements
+The Mtb Proteome Library: A Resource of Assays to Quantify the Complete Proteome of Mycobacterium tuberculosis
+Critical role for miR-181a/b-1 in agonist selection of invariant natural killer T cells
+Loss-of-function analyses defines vital and redundant functions of the Plasmodium rhomboid protease family
+B-Cell Progenitors and Precursors Change Their Microenvironment in Fetal Liver During Early Development
+A universal TaqMan-based RT-PCR protocol for cost-efficient detection of small noncoding RNA
+The Molecular Fingerprint of High Grade Serous Ovarian Cancer Reflects Its Fallopian Tube Origin
+The Tuberculosis Vaccine Candidate Bacillus Calmette-Guérin ΔureC::hly Coexpressing Human Interleukin-7 or -18 Enhances Antigen-Specific T Cell Responses in Mice
+A Cross-Reactive Monoclonal Antibody to Nematode Haemoglobin Enhances Protective Immune Responses to Nippostrongylus brasiliensis
+Targeted Mutagenesis in the Malaria Mosquito Using TALE Nucleases
+High diversity of West African bat malaria parasites and a tight link with rodent Plasmodium taxa
+Expression Cloning of Human B Cell Immunoglobulins
+Silencing of Genes and Alleles by RNAi in Anopheles gambiae
+Tuberculosis vaccines: Time to think about the next generation
+Ability of HIV-1 Nef to downregulate CD4 and HLA class I differs among viral subtypes
+Low Levels of Peripheral CD161++CD8+ Mucosal Associated Invariant T (MAIT) Cells Are Found in HIV and HIV/TB Co-Infection
+Identification of Targets of CD8(+) T Cell Responses to Malaria Liver Stages by Genome-wide Epitope Profiling
+The common structural architecture of Shigella flexneri and Salmonella typhimurium type three secretion needles
+A New Algorithm for Integrated Analysis of miRNA-mRNA Interactions Based on Individual Classification Reveals Insights into Bladder Cancer
+Genome-Wide Profiling of the Activity-Dependent Hippocampal Transcriptome
+miR-221 redirects precursor B cells to the BM and regulates their residence
+Helicobacter pylori outer membrane protein HopQ identified as a novel T4SS-associated virulence factor
+The dual role of biomarkers for understanding basic principles and devising novel intervention strategies in tuberculosis
+A proposed role for neutrophil extracellular traps in cancer immunoediting
+Comparative genomics reveals distinct host-interacting traits of three major human-associated propionibacteria
+Nonclinical Development of BCG Replacement Vaccine Candidates
+O-Antigen Protects Gram-Negative Bacteria from Histone Killing
+Deletion of IL-4 Receptor Alpha on Dendritic Cells Renders BALB/c Mice Hypersusceptible to Leishmania major Infection
+Intracellular Shigella remodels its LPS to dampen the innate immune recognition and evade inflammasome activation
+Inflammation, Immunity, Vaccines for Helicobacter pylori infection
+Two putative protein export regulators promote Plasmodium blood stage development in vivo
+Back to the future—The value of single protein species investigations
+MicroRNA-223 controls susceptibility to tuberculosis by regulating lung neutrophil recruitment
+A sophisticated multi-step secretion mechanism: how the type 3 secretion system is regulated
+Improved Efficacy of Fosmidomycin against Plasmodium and Mycobacterium Species by Combination with the Cell-Penetrating Peptide Octaarginine
+Reduced drug uptake in phenotypically resistant nutrient-starved nonreplicating Mycobacterium tuberculosis
+Targeting multidrug-resistant tuberculosis (MDR-TB) by therapeutic vaccines
+Permeation through Phospholipid Bilayers, Skin-Cell Penetration, Plasma Stability, and CD Spectra of α- and β-Oligoproline Derivatives
+Chlamydia Infection Promotes Host DNA Damage and Proliferation but Impairs the DNA Damage Response
+Pilus Phase Variation Switches Gonococcal Adherence to Invasion by Caveolin-1-Dependent Host Cell Signaling
+Expression Profiling of Plasmodium berghei HSP70 Genes for Generation of Bright Red Fluorescent Parasites
+T cell–independent B cell activation induces immunosuppressive sialylated IgG antibodies
+Analyzing the Modification of the Shewanella oneidensis MR-1 Flagellar Filament
+Inhibitor of Cysteine Proteases Is Critical for Motility and Infectivity of Plasmodium Sporozoites

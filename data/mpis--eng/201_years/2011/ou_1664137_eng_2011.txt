@@ -1,0 +1,81 @@
+Pervasive post-transcriptional control of genes involved in amino acid metabolism by the Hfq-dependent GcvB small RNA
+Quantitative phosphoproteomics reveals link between Helicobacter pylori infection and RNA splicing modulation in host cells
+Glutamate utilization promotes meningococcal survival in vivo through avoidance of the neutrophil oxidative burst
+Arrested Oocyst Maturation in Plasmodium Parasites Lacking Type II NADH:Ubiquinone Dehydrogenase
+Critical role for a stage-specific actin in male exflagellation of the malaria parasite
+Influence of RET/PTC1 and RET/PTC3 oncoproteins in radiation-induced papillary thyroid carcinomas on amounts of cytoskeletal protein species
+Special issue on protein species. Introduction
+Long-Chain Lipids Are Required for the Innate Immune Recognition of Trehalose Diesters by Macrophages
+Induced Pluripotent Stem Cells Expressing Elevated Levels of Sox-2, Oct-4, and Klf-4 Are Severely Reduced in Their Differentiation from Mesodermal to Hematopoietic Progenitor Cells
+The majority of intestinal IgA(+) and IgG(+) plasmablasts in the human gut are antigen-specific
+Activation of the Raf-MEK-ERK pathway is required for neutrophil extracellular trap formation
+Cells as Factories for Humanized Encapsulation
+Neutrophil extracellular traps
+Prevalence of Propionibacterium acnes in diseased prostates and its inflammatory and transforming activity on prostate epithelial cells
+Induction of Antimalaria Immunity by Pyrimethamine Prophylaxis during Exposure to Sporozoites Is Curtailed by Parasite Resistance
+Analysis of the host microRNA response to Salmonella uncovers the control of major cytokines by the let-7 family
+A constitutive pan-hexose permease for the Plasmodium life cycle and transgenic models for screening of antimalarial sugar analogs
+Impact of inducible co-stimulatory molecule (ICOS) on T-cell responses and protection against Mycobacterium tuberculosis infection
+Neutrophil Elastase Enhances Sputum Solubilization in Cystic Fibrosis Patients Receiving DNase Therapy
+Do-it-yourself: construction of a custom cDNA macroarray platform with high sensitivity and linear range
+A Candidate Approach Implicates the Secreted Salmonella Effector Protein SpvB in P-Body Disassembly
+Granulysin-Expressing CD4+ T Cells as Candidate Immune Marker for Tuberculosis during Childhood and Adolescence
+Improved long-term protection against Mycobacterium tuberculosis Beijing/W in mice after intra-dermal inoculation of recombinant BCG expressing latency associated antigens
+HIF-1 alpha is involved in mediating apoptosis resistance to Chlamydia trachomatis-infected cells
+Actin regulation in the malaria parasite
+Targeting Plasmodium liver stages: better late than never
+Quantitative proteome analysis of the 20S proteasome of apoptotic Jurkat T cells
+Adaptation of proteomic techniques for the identification and characterization of protein species from murine heart
+Dietary phytoestrogen supplementation induces sex differences in the myocardial protein pattern of mice: A comparative proteomics study
+Myeloperoxidase is required for neutrophil extracellular trap formation: implications for innate immunity
+MicroRNA-155 Is Essential for the T Cell-Mediated Control of Helicobacter pylori Infection and for the Induction of Chronic Gastritis and Colitis
+Recombinant BCG Delta ureC hly plus Induces Superior Protection Over Parental BCG by Stimulating a Balanced Combination of Type 1 and Type 17 Cytokine Responses
+Crystal Structure of PrgI-SipD: Insight into a Secretion Competent State of the Type Three Secretion System Needle Tip and its Interaction with Host Ligands
+Comparative Genomics and Transcriptomics of Propionibacterium acnes
+The IFN-gamma-Inducible GTPase, Irga6, Protects Mice against Toxoplasma gondii but Not against Plasmodium berghei and Some Other Intracellular Pathogens
+Environmental Constraints Guide Migration of Malaria Parasites during Transmission
+The Puf-Family RNA-Binding Protein Puf2 Controls Sporozoite Conversion to Liver Stages in the Malaria Parasite
+Host Ferritin Translocates into the Chlamydial Inclusion: A Clear Alteration in its Subcellular Distribution as a Result of Infection
+Stage-specific depletion of myosin A supports an essential role in motility of malarial ookinetes
+Modulation of the CD4(+) T-Cell Response by Helicobacter pylori Depends on Known Virulence Factors and Bacterial Cholesterol and Cholesterol alpha-Glucoside Content
+Protein species
+Membrane-SPINE: An improved method to identify protein-protein interaction partners of membrane proteins in vivo
+Cell biology and immunology of malaria
+Human gene expression profiles of susceptibility and resistance in tuberculosis
+Tuberculosis vaccines-a new kid on the block
+Towards the analysis of protein species: an overview about strategies and methods
+Population structure of the Yersinia pseudotuberculosis complex according to multilocus sequence typing
+Fact and fiction in tuberculosis vaccine research: 10 years later
+Genome-Wide RNAi Screen for Viral Replication in Mammalian Cell Culture
+Methods for Investigation of Osteoclastogenesis Using Mouse Embryonic Stem Cells
+Autophagy-independent function of MAP-LC3 during intracellular propagation of Chlamydia trachomatis
+Activation of NF-kappa B by Neisseria gonorrhoeae is associated with microcolony formation and type IV pilus retraction
+Fosmidomycin Uptake into Plasmodium and Babesia-Infected Erythrocytes Is Facilitated by Parasite-Induced New Permeability Pathways
+Functional Correlations of Pathogenesis-Driven Gene Expression Signatures in Tuberculosis
+Phylogeography and Molecular Epidemiology of Yersinia pestis in Madagascar
+Targeting of a Chlamydial Protease Impedes Intracellular Bacterial Growth
+Salmonella-Induced Mucosal Lectin RegIII beta Kills Competing Gut Microbiota
+For better or for worse: the immune response against Mycobacterium tuberculosis balances pathology and protection
+Caspase-1 Activation of Interleukin-1 beta (IL-1 beta) and IL-18 Is Dispensable for Induction of Experimental Cerebral Malaria
+The Immune Response to Infection
+Single B cell antibody technologies
+Intracellular pathogens
+Immune intervention strategies against tuberculosis
+Protective immunity against malaria by 'natural immunization': a question of dose, parasite diversity, or both?
+Cigarette smoke extract induces prolonged endoplasmic reticulum stress and autophagic cell death in human umbilical vein endothelial cells
+Current & Emerging Diagnostics, Therapeutics & Vaccines for Tuberculosis
+The NLRP3 Inflammasome Is Differentially Activated by Pneumolysin Variants and Contributes to Host Defense in Pneumococcal Pneumonia
+Experimental Limitations Using Reprogrammed Cells for Hematopoietic Differentiation
+Determinants of GBP Recruitment to Toxoplasma gondii Vacuoles and the Parasitic Factors That Control It
+TLR9 in Peritoneal B-1b Cells Is Essential for Production of Protective Self-Reactive IgM To Control Th17 Cells and Severe Autoimmunity
+Differential regulation of self-reactivity discriminates between IgG(+) human circulating memory B cells and bone marrow plasma cells
+Helicobacter pylori genome evolution during human infection
+Reference genes for the relative quantification of microRNAs in renal cell carcinomas and their metastases
+Comparative efficacy of pre-erythrocytic whole organism vaccine strategies against the malaria parasite
+c-Rel promotes type 1 and type 17 immune responses during Leishmania major infection
+A concise guide to TB control
+Suppressor of cytokine signaling-3 is affected in T-cells from tuberculosisTB patients
+The Ontogeny of the Cells of the Innate and the Adaptive Immune System
+Inactivation of a Plasmodium apicoplast protein attenuates formation of liver merozoites
+Intracellular pathogens: living in an extreme environment
+E. coli Nissle 1917 Affects Salmonella Adhesion to Porcine Intestinal Epithelial Cells

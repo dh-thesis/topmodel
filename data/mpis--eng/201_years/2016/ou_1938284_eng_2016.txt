@@ -1,0 +1,180 @@
+Structural Dynamics and Atomic Motion in Thin Films Studied by Ultrafast Electron Diffraction and Transient Optical Spectroscopy
+SPM-enabled fiber laser source beyond 1.2 µm
+Fixed target combined with spectral mapping: approaching 100% hit rates for serial crystallography
+Femtosecond structural dynamics drives the trans/cis isomerization in photoactive yellow protein
+Metal Ion Based Probes for Imaging
+Ligand Layer Engineering To Control Stability and Interfacial Properties of Nanoparticles
+Time-resolved pump and probe x-ray absorption fine structure spectroscopy at beamline P11 at PETRA III
+In-liquid Electron Microscopy and Diffraction for real-time observation and structural analysis
+Femtosecond X-Ray Scattering Study of Ultrafast Photoinduced Structural Dynamics in Solvated [Co(terpy)2]2+
+87-W, 1018-nm Yb-fiber ultrafast seeding source for cryogenic Yb:YLF amplifier
+Helically confined Charged Particles: Dynamics and Vibrational Band Structure
+An investigation into the structure and specificity of a G-Quadruplex RNA-aptamer
+Coherent diffraction of single Rice Dwarf virus particles using hard X-rays at the Linac Coherent Light Source
+Light-induced Electronic Hole Dynamics and Its Application
+Electron diffraction and controlled molecules
+A multi-MHz single-shot data acquisition scheme with high dynamic range: pump–probe X-ray experiments at synchrotrons
+Macromolecular diffractive imaging using imperfect crystals
+Dynamics from noisy data with extreme timing uncertainty
+Kagome-fiber-based pulse compression of mid-infrared picosecond pulses from a Ho:YLF amplifier
+Plasma-driven ultrashort bunch diagnostics
+Stroboscopic prethermalization in weakly interacting periodically driven systems
+Ultra-fast photo-carrier relaxation in Mott insulators with short-range spin correlations
+Nonequilibrium variational-cluster approach to real-time dynamics in the Fermi-Hubbard model
+Few-qubit quantum-classical simulation of strongly correlated lattice fermions
+Electronic and Molecular Structure of the Transient Radical Photocatalyst Mn(CO)5 and Its Parent Compound Mn2(CO)10
+Time resolved photoelectron spectroscopy for femtosecond characterization of X-ray free-electron laser pulses
+Connecting structure, dynamics and viscosity in sheared soft colloidal liquids: a medley of anisotropic fluctuations
+Photoinduced Absorption within Single-Walled Carbon Nanotube Systems
+AXSIS: Exploring the frontiers in attosecond X-ray science, imaging and spectroscopy
+Competing covalent and ionic bonding in Ge-Sb-Te phase change materials
+Synchronised photoreversion of spirooxazine ring opening in thin crystals to uncover ultrafast dynamics
+Negative plasmon dispersion in 2H-NbS2 beyond the charge-density-wave interpretation
+Collective modes in three-dimensional magnonic vortex crystals
+Energy transfer in structured and unstructured environments: Master equations beyond the Born-Markov approximations
+Direct observation of isolated Damon-Eshbach and backward volume spin-wave packets in ferromagnetic microstripes
+Density functional theory study of the α−γ phase transition in cerium: Role of electron correlation and f-orbital localization
+Attosecond processes and X-ray spectroscopy: general discussion
+A data set from flash X-ray imaging of carboxysomes
+Role of heat accumulation in the multi-shot damage of silicon irradiated with femtosecond XUV pulses at a 1 MHz repetition rate
+Two-dimensional photon echoes reveal non-Markovian energy transfer in an excitonic dimer
+Adaptive optics for ultrashort pulse manipulation
+Intrinsic emittance and coherence of double-gate field emitter arrays
+High energetic and highly stable pulses from a Ho:YLF regenerative amplifier
+Exact nonadiabatic many-body dynamics: electron-phonon coupling in photoelectron spectroscopy and light-matter interactions in quantum electrodynamical density-functional theory
+New Insights into the Photophysics of DNA Nucleobases
+Measurement of transverse emittance and coherence of double-gate field emitter array cathodes
+Two-body problem of core-region coupled magnetic vortex stacks
+Complex multireference configuration interaction calculations for the K-vacancy Auger states of Nq+ (q = 2-5) ions
+A Comparative Study of Two Bicyclic Ethers, Eucalyptol and 1,4-Cineole, by Broadband Rotational Spectroscopy
+The elusive ≡C-H⋯O complex in the hydrogen bonded systems of Phenylacetylene: A Matrix Isolation Infrared and Ab Initio Study
+Water-Induced Structural Changes in Crown Ethers from Broadband Rotational Spectroscopy
+Taming singularities of the diagrammatic many-body perturbation theory
+Controllable vacuum-induced diffraction of matter-wave superradiance using an all-optical dispersive cavity
+Stochastic stimulated electronic x-ray Raman spectroscopy
+Chiral Analysis Using Broadband Rotational Spectroscopy
+Direct Time-Domain Observation of Conformational Relaxation in Gas-Phase Cold Collisions
+Ultrafast electron diffraction optimized for studying structural dynamics in thin films and monolayers
+Anisotropic electronic, mechanical, and optical properties of monolayer WTe2
+Comparative study of wound healing in rat skin following incision with a novel picosecond infrared laser (PIRL) and different surgical modalities
+Subwavelength topological structures resulting from surface two-plasmon resonance by femtosecond laser exposure solid surface
+Vibrational and condensed phase dynamics: general discussion
+Thermometry of ultracold atoms via nonequilibrium work distributions
+Optical Stark effect in 2D semiconductors
+Quantum plasmonics: from jellium models to ab initio calculations
+Disentangling Vacancy Oxidation on Metallicity-Sorted Carbon Nanotubes
+Ablation Plume Dynamics of DIVE Ablation at Water-Air Interfaces
+Non-equilibrium control of complex solids by nonlinear phononics
+On the Exciton Coupling between Two Chlorophyll Pigments in the Absence of a Protein Environment: Intrinsic Effects Revealed by Theory and Experiment
+Synthesis of Bidimensional Prussian Blue Analogue Using an Inverted Langmuir–Schaefer Method
+New Insight into Photophysics of DNA Nucleobases
+Stable Dirac semimetal in the allotropes of group-IV elements
+Possible light-induced superconductivity in K3C60 at high temperature
+Inverse spin-Hall effect voltage generation by nonlinear spin-wave excitation
+Atomic and electronic structure of trilayer graphene/SiC(0001): Evidence of Strong Dependence on Stacking Sequence and charge transfer
+Nonequilibrium dynamical cluster approximation study of the Falicov-Kimball model
+Optical fiber-based photocathode
+Ultrafast imaging of photochemical dynamics: roadmap to a new conceptual basis for chemistry
+Possible Light-induced Superconductivity in Metallic K3C60
+Exact maps in density functional theory for lattice models
+Analysis and Control of Transient Spectra Using Time-Dependent Density Functional Theory
+Closing the superconducting gap in small Pb nanoislands with high magnetic fields
+Attosecond photoionization dynamics with stimulated core-valence transitions
+Nanoscale Structure, Dynamics, and Aging Behavior of Metallic Glass Thin Films
+Time-resolved single dopant charge dynamics in silicon
+Interplay of Exciton Coupling and Large-Amplitude Motions in the Vibrational Circular Dichroism Spectrum of Dehydroquinidine
+Energy dissipation from a correlated system driven out of equilibrium
+Single-shot diffraction data from the Mimivirus particle using an X-ray free-electron laser
+Bandgap Modulation in Photoexcited Topological Insulator Bi2Te3 via Atomic Displacements
+How two-dimensional brick layer J-aggregates differ from linear ones: Excitonic properties and line broadening mechanisms
+Numerical study of spectral shaping in high energy Ho:YLF amplifiers
+Conditions for Describing Triplet States in Reduced Density Matrix Functional Theory
+Nonequilibrium self-energy functional approach to the dynamical Mott transition
+Systematic construction of density functionals based on matrix product state computations
+Dual Luminescence, Interligand Decay, and Nonradiative Electronic Relaxation of Cyclometalated Iridium Complexes in Solution
+First-principles calculations for initial electronic excitation in dielectrics induced by intense femtosecond laser pulses
+Determination of scattering time and of valley occupation in transition-metal dichalcogenides doped by field effect
+High-Field High-Repetition-Rate Sources for the Coherent THz Control of Matter
+Polyyne electronic and vibrational properties under environmental interactions
+Electronic-structural dynamics in graphene
+Impact of Vibrational Coherence on the Quantum Yield at a Conical Intersection
+Josephson plasmonics in layered superconductors
+Dynamical decoherence of the light induced interlayer coupling in YBa2Cu3O6+δ
+Stability of the Dirac cone in artificial graphene formed in quantum wells: a computational many-electron study
+Noncovalent Dimerization after Enediyne Cyclization on Au(111)
+Multi-Octave Supercontinuum Generation Driven by Few-Cycle Mid-IR Pulses in YAG, ZnSe and Sapphire
+Investigating Quantum Electronic or Vibronic Coherences via Energy Migration Dynamics in Light-Harvesting Complex II
+Towards Atomically-Resolved Structural Changes during a Solid State Geminate Recombination Reaction
+Laser-Limited Signatures of Quantum Coherence
+Brownian and advective dynamics in microflow studied by coherent X-ray scattering experiments
+Nonlinear phononics and structural control of strongly correlated materials
+Tracking reaction dynamics in solution by pump–probe X-ray absorption spectroscopy and X-ray liquidography (solution scattering)
+Effective doublon and hole temperatures in the photo-doped dynamic Hubbard model
+Homogenization of tissues via picosecond-infrared laser (PIRL) ablation: Giving a closer view on the in-vivo composition of protein species as compared to mechanical homogenization
+Tailored pump-probe transient spectroscopy with time-dependent density-functional theory: controlling absorption spectra
+The Conformational Map of Volatile Anesthetics: Enflurane Revisited
+Conformational flexibility and complex formation of biologically relevant molecules studied with high-resolution broadband rotational spectroscopy
+Communication: Structural locking mediated by a water wire: A high-resolution rotational spectroscopy study on hydrated forms of a chiral biphenyl derivative
+Aromatic embedding wins over classical hydrogen bonding – a multi-spectroscopic approach for the diphenyl ether–methanol complex
+Electronic Structure of Low-Dimensional Carbon π-Systems
+A full-field transmission x-ray microscope for time-resolved imaging of magnetic nanostructures
+Von Willebrand factor is dimerized by protein disulfide isomerase
+Confined linear carbon chains as a route to bulk carbyne
+Imaging single-molecule reaction intermediates stabilized by surface dissipation and entropy
+Quantum Mechanical Wave Packet Dynamics at a Conical Intersection with Strong Vibrational Dissipation
+Spectral Signatures of Ultrafast Spin Crossover in Single Crystal [FeII(bpy)3](PF6)2
+Theory of Enhanced Interlayer Tunneling in Optically Driven High-Tc Superconductors
+The adiabatic limit of the exact factorization of the electron-nuclear wave function
+Stable monolayer honeycomb-like structures of RuX2 (X=S, Se)
+Time-dependent density functional theory beyond Kohn–Sham Slater determinants
+Special issue on imaging the dynamic structure of matter
+Direct longitudinal laser acceleration of electrons in free space
+Proposed cavity Josephson plasmonics with complex-oxide heterostructures
+Generalized quantum master equations in and out of equilibrium: When can one win?
+Coupled motion of Xe clusters and quantum vortices in He nanodroplets
+Ultrafast energy- and momentum-resolved dynamics of magnetic correlations in the photo-doped Mott insulator Sr2IrO4
+Femtosecond and nanometre visualization of structural dynamics in superheated nanoparticles
+Femtosecond Electron diffraction Studies of Photoinduced Spin Crossover in Single Crystal [Fe(PM-AzA)2](NCS)2
+Dynamical Processes in Open Quantum Systems from a TDDFT Perspective: Resonances and Electron Photoemission
+Structural dynamics: general discussion
+Stability optimized, 4-mJ and 1.2-ps pulses from a Ho:YLF regenerative amplifier
+Monitoring electron-photon dressing in WSe2
+Charge localization in a diamine cation provides a test of energy functionals and self-interaction correction
+Capturing Functionally Relevant Protein Motions at the Atomic Level: Femtosecond Time Resolved Serial Crystallography of Ligand Dissociation of Carboxy-Myoglobin
+Restoring interlayer Josephson coupling in La1.885Ba0.115CuO4 by charge transfer melting of stripe order
+Molecular dynamics investigation of desorption and ion separation following picosecond infrared laser (PIRL) ablation of an ionic aqueous protein solution
+Isotopic and tunneling patterns in water clusters
+Universal steps in quantum dynamics with time-dependent potential-energy surfaces: Beyond the Born-Oppenheimer picture
+Non-linear quantum-classical scheme to simulate non-equilibrium strongly correlated fermionic many-body dynamics
+Protein species as diagnostic markers
+Concerted hydrogen-bond breaking by quantum tunneling in the water hexamer prism
+Structural and magnetic properties of FeMnx chains (x=1–6) supported on Cu2N / Cu (100)
+Stimulated X-ray Raman scattering – a critical assessment of the building block of nonlinear X-ray spectroscopy
+K-shell photoionization of Li, Be+ and B2+
+Simulating Spatial Microwave Manipulation of Polyatomic Asymmetric-Top Molecules Using a Multi-Level Approach
+The mechanical bond on carbon nanotubes: diameter-selective functionalization and effects on physical properties
+Slowdown of the Electronic Relaxation Close to the Mott Transition
+Generation and evolution of spin-, valley- and layer-polarized excited carriers in inversion-symmetric WSe2
+Improved ab initio calculation of surface second-harmonic generation from Si(111)(1×1):H
+Bilayer SnS2: Tunable stacking sequence by charging and loading pressure
+Theoretical Study of the Photophysics of 8-Vinylguanine, an Isomorphic Fluorescent Analogue of Guanine
+Matter-wave recombiners for trapped Bose-Einstein condensates
+Validity of power functionals for a homogeneous electron gas in reduced-density-matrix-functional theory
+Photoinduced gap closure in an excitonic insulator
+Intracavity gain shaping in millijoule-level, high gain Ho:YLF regenerative amplifiers
+Colloidal crystallite suspensions studied by high pressure small angle x-ray scattering
+Broadband terahertz spectroscopy of the insulator-metal transition driven by coherent lattice deformation at the SmNiO3/LaAlO3 interface
+Chirped pulse amplification in an extreme-ultraviolet free-electron laser
+TakeTwo: an indexing algorithm suited to still images with known crystal parameters
+Parametric amplification of a superconducting plasma wave
+Nonlinear light–matter interaction at terahertz frequencies
+Versatile, high-power femtosecond laser source at 1μm
+Time-Resolved X-ray Spectroscopy in the Water Window: Elucidating Transient Valence Charge Distributions in an Aqueous Fe(II) Complex
+Editorial: An issue dedicated to the Ψk Volker Heine Young Investigator Award*
+Theory of light-enhanced phonon-mediated superconductivity
+The Challenge of Thermal Deposition of Coordination Compounds: Insight into the Case of an Fe4 Single Molecule Magnet
+Nonlinear resonant Auger spectroscopy in CO using an x-ray pump-control scheme
+Wetting Camphor: Multi-Isotopic Substitution Identifies the Complementary Roles of Hydrogen Bonding and Dispersive Forces
+High-Resolution Rotational Spectroscopy Study of the Smallest Sugar Dimer: Interplay of Hydrogen Bonds in the Glycolaldehyde Dimer
+Flexibility unleashed in acyclic monoterpenes: conformational space of citronellal revealed by broadband rotational spectroscopy
+Dephasing-controlled particle transport devices

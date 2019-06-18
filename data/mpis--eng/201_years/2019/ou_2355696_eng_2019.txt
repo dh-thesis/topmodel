@@ -1,0 +1,18 @@
+Interference effects in hybrid cavity optomechanics
+Weak measurement enhanced spin Hall effect of light for particle displacement sensing
+Study of broadband multimode light via non-phase-matched sum frequency generation
+Overcoming inefficient detection in sub-shot-noise absorption measurement and imaging
+Mimicking Chiral Light-Matter Interaction
+Direct characterization of tuneable few-femtosecond dispersive-wave pulses in the deep UV
+Polarization-Tailored Raman Frequency Conversion in Chiral Gas-Filled Hollow-Core Photonic Crystal Fibers
+Laser refrigeration using exciplex resonances in gas filled hollow-core fibres
+A primary radiation standard based on quantum nonlinear optics
+Pulse-repetition-rate tuning of a harmonically mode-locked fiber laser using a tapered photonic crystal fiber
+Investigating the Optical Properties of a Laser Induced 3D Self‐Assembled Carbon–Metal Hybrid Structure
+Super- and subradiance of clock atoms in multimode optical waveguides
+Cavity Quantum Electrodynamics with Frequency-Dependent Reflectors
+Coherent coupling of single molecules to on-chip ring resonators
+Orbital-to-Spin Angular Momentum Conversion Employing Local Helicity
+Initialisation of single spin dressed states using shortcuts to adiabaticity
+Seeded and unseeded high-order parametric down-conversion
+Interferometric scattering microscopy reveals microsecond nanoscopic protein motion on a live cell membrane

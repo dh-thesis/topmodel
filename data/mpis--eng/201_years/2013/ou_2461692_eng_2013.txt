@@ -1,0 +1,15 @@
+Mutant methionyl-tRNA synthease from bacteria enables site-selective N-terminal labeling of proteins expressed in mammalian cells
+Protein synthesis-dependent associative long-term memory in larval zebrafish
+Role of N-Cadherin cis and trans interfaces in the dynamics of adherens junctions in living cells
+A method for closed-loop presentation of sensory stimuli conditional on the internal brain-state of awake animals
+Measuring information-transfer delays
+Transfer entropy as a tool for reconstructing interaction delays in neural signals
+Calcium channel-dependent molecular maturation of photoreceptor synapses
+Proteostasis in complex dendrites
+Energy-efficient encoding by shifting spikes in neocortical neurons
+Teaching old NCATs new tricks: using non-canonical amino acid tagging to study neuronal plasticity
+Delivery of continuously-varying stimuli using channelrhodopsin-2
+The rod pathway of the microbat retina has bistratified rod bipolar cells and tristratified All amacrine cells
+Synaptic protein and pan-neuronal gene expression and their regulation by Dicer-dependent mechanisms differ between neurons and neuroendocrine cells
+Axonal translation of ß-catenin regulates synaptic vesicle dynamics
+The central dogma decentralized: New perspectives on RNA function and local translation in neurons

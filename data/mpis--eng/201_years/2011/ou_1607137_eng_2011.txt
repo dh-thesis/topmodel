@@ -1,0 +1,258 @@
+Hypothalamic-pituitary-adrenal axis stress test in patients with early RA: role of corticotropin-releasing hormone promoter polymorphisms
+Effects of asiatic acid on passive and active avoidance task in male Spraque-Dawley rats
+Epigenetic aspects of posttraumatic stress disorder
+General Overview: Biomarkers In Neuroscience Research
+CITALOPRAM-MEDIATED ANXIOLYSIS AND DIFFERING NEUROBIOLOGICAL RESPONSES IN BOTH SEXES OF A GENETIC MODEL OF DEPRESSION
+Altered GABA Transmission in a Mouse Model of Increased Trait Anxiety
+Posttraumatic Stress Disorder Subtypes Invalid Reply
+Endocrine and metabolic changes during sleep
+Maternal care differs in mice bred for high vs. low trait anxiety: Impact of brain vasopressin and cross-fostering
+Proteomics and Metabolomics Analysis of a Trait Anxiety Mouse Model Reveals Divergent Mitochondrial Pathways
+REM sleep in patients with depression
+Affective Dysregulation and Reality Distortion: A 10-Year Prospective Study of Their Association and Clinical Relevance
+The ABRF Proteomics Research Group Studies: Educational exercises for qualitative and quantitative proteomic analyses
+Copy number variants in two mouse models of affective disorders
+Replication of association of 3p21.1 with susceptibility to bipolar disorder but not major depression Reply
+A mouse model of high trait anxiety shows reduced heart rate variability that can be reversed by anxiolytic drug treatment
+MEIS1 and BTBD9: genetic association with restless leg syndrome in end stage renal disease
+Role of PPARG Gene Variants in Inflammatory Bowel Disease
+The role of mental disorders in the risk and speed of transition to alcohol use disorders among community youth
+Resilient emotionality and molecular compensation in mice lacking the oligodendrocyte-specific gene Cnp1
+Quantitative proteomics for investigating psychiatric disorders
+Sleep spindles and hippocampal functional connectivity in human NREM sleep
+The neuronal transporter gene SLC6A15 confers risk to major depression
+Neuroprotective and neurodegenerative effects of the chronic expression of tumor necrosis factor alpha in the nigrostriatal dopaminergic circuit of adult mice
+Impact of antipsychotics on cytokine production in-vitro
+Astrocytes and neurons coordinate their responsiveness to antidepressant treatment to modulate synaptic plasticity
+Effects of mood stabilizers on adult dentate gyrus-derived neural precursor cells
+Antidepressant Drugs Diversely Affect Autophagy Pathways in Astrocytes and Neurons-Dissociation from Cholesterol Homeostasis
+The effect of treatment with ketoconazole on central CRH systems of depressed patients
+Tumor suppressor down-regulated in renal cell carcinoma 1 (DRR 1) is a stress-induced actin bundling factor that modulates synaptic efficacy and cognition
+Phenotypic and genetic characterization of a short-term selective breeding for anxiety-related behavior
+Towards brain-specific functions of histone deacetylases (HDACs) using genetic mouse models
+Structured Assessment of Hypopituitarism after Traumatic Brain Injury and Aneurysmal Subarachnoid Hemorrhage in 1242 Patients: The German Interdisciplinary Database
+Variation in stress reactivity affects cage-induced stereotypies in female CD-1 (ICR) mice
+Forebrain CRHR1 deficiency attenuates chronic stress-induced cognitive deficits and dendritic remodeling
+MALDI imaging - a new tool for mapping multiple sclerosis brain lesions
+Expression and regulation of the Fkbp5 gene in the adult mouse brain
+Absent cortisol response during stressful exposure therapy in patients with obsessive-compulsive disorder
+Post-traumatic stress disorder is associated with PACAP and the PAC1 receptor
+Early life stress impairs social recognition due to a blunted response of vasopressin release within the septum of adult male rats
+Novel experimental models and paradigms for neuropsychiatric disorders: Editorial
+Glucocorticoid induced FKBP5-gene expression in depressed patients and healthy controls
+An Examination of Single Nucleotide Polymorphism Selection Prioritization Strategies for Tests of Gene-Gene Interaction
+Increased anxiety-related behaviour in Hint1 knockout mice
+Atlas parcellation and voxel based whole brain functional connectivity analysis applied to major depression: group results and biomarker potential
+Interaction of pimpamperone, citalopram and genetic variables in the prediction of antidepressant response
+Role of the cannabinoid receptor 1 (CB1) in fear adaptation
+Risk conferring genes in multiple sclerosis
+Epigenetic modifications determining variability in antidepressant response: beyond genetic association studies
+The German Database on Hypopituitarism after Traumatic Brain Injury and Aneurysmal Subarachnoid Hemorrhage - Description, Objectives and Design
+Using Polymorphisms in FKBP5 to Define Biologically Distinct Subtypes of Posttraumatic Stress Disorder Evidence From Endocrine and Gene Expression Studies
+A Novel N-ethyl-N-nitrosourea-Induced Mutation in Phospholipase C gamma 2 Causes Inflammatory Arthritis, Metabolic Defects, and Male Infertility In Vitro in a Murine Model
+Fluoxetine impacts hypothalamic-pituitary-adrenal axis regulation and changes stress-coping behaviour in mice selectively bred for extremes in stress reactivity
+Biomarkers for anxiety disorders: proteomic and systems biology approaches
+vipR: variant identification in pooled DNA using R
+Altered synaptic plasticity and behavioral abnormalities in CNGA3-deficient mice
+TMEM132D, a new candidate for anxiety phenotypes: evidence from human and mouse studies
+Type 2 diabetes mellitus and medications for type 2 diabetes mellitus are associated with risk for and mortality from cancer in a German primary care cohort
+Dissecting the role of Corticotropin-releasing hormone receptor type 1 in Alzheimer's Disease
+Epistasis detection on quantitative phenotypes by exhaustive enumeration using GPUs
+The Glucose-Dependent Insulinotropic Polypeptide Receptor is Overexpressed Amongst GNAS1 Mutation-Negative Somatotropinomas and Drives Growth Hormone (GH)-Promoter Activity in GH3 Cells
+Large-scale functional brain networks in human non-rapid eye movement sleep: insights from combined electroencephalographic/functional magnetic resonance imaging studies
+Glutamatergic and Dopaminergic Neurons Mediate Anxiogenic and Anxiolytic Effects of CRHR1
+A Novel Approach to the Detection of Acromegaly: Accuracy of Diagnosis by Automatic Face Classification
+The neural correlates of negative prediction error signalling in human fear conditioning
+Adult neurogenesis in a mouse model of affective behavior: pharmacological and non-pharmacological interventions
+Major Depressive Disorder is associated with cardiovascular risk factors and Low Omega-3 Index
+Mechanistic aspects of cell type and drug specific inhibition of DNA methyltransferase 1
+Effectiveness of a standardized cognitive training in depression and the interaction with HPA-axis regulation
+FKBP ligands
+BDNF and NTRK2 polymorphisms and antidepressant treatment outcome
+The involvement of FKBP51 and FKBP52 in the behavioural and neuroendocrine effects of acute and chronic stress
+Discrimination between patients with melancholic depression and healthy controls: Comparison between 24-h cortisol profiles, the DST and the Dex/CRH test
+Enhanced Fear Expression in a Psychopathological Mouse Model of Trait Anxiety: Pharmacological Interventions
+Structural characterization of the PPIase domain of FKBP51, a cochaperone of human Hsp90
+Forebrain CRF(1) Modulates Early-Life Stress-Programmed Cognitive Deficits
+What does proteomics tell us about schizophrenia
+A double dissociation of memory impairments in major depression
+Expression and Regulation of the Fkbp5 Gene in the Adult Mouse Brain
+Quetiapine as antidepressant: a putative cellular mechanism through ERK1/2 activation and induction of GDNF Release in C6 Glioma Cells
+FK506 Binding Protein 5 Shapes Stress Responsiveness: Modulation of Neuroendocrine Reactivity and Coping Behavior
+Circulating Levels of Troponin Measured by a Highly Sensitive Assay for Cardiovascular Risk Assessment in Primary Prevention
+Genomewide Association Scan of Suicidal Thoughts and Behaviour in Major Depression
+RECONCILE THE NEUROGENESIS AND THE HPA HYPOTHESIS OF DEPRESSION AND OF ANTIDEPRESSANT ACTION
+Stress coping strategies and HPA axis regulation predict relapse risk in remitted depression
+Phenome-transcriptome correlation unravels anxiety and depression related pathways
+Evidence for associations between MDGA2 polymorphisms and harm avoidance - replication and extension of a genome-wide association finding
+Glucocorticoid Regulation of Astrocytic Fate and Function
+Mapping for Dyslexia and Related Cognitive Trait Loci Provides Strong Evidence for Further Risk Genes on Chromosome 6p21
+Pitx3 Is a Critical Mediator of GDNF-Induced BDNF Expression in Nigrostriatal Dopaminergic Neurons
+Corticotropin releasing factor receptor antagonists for major depressive disorder
+Searching for biomarkers in a historic sample of Amyotrophic Lateral Sclerosis - The Munich Historic Brain Bank Project
+The SHP-1 protein tyrosine phosphatase negatively modulates Akt signaling in the ghrelin/GHSR1a system
+Antidepressants encounter autophagy in neural cells
+Do cannabis and urbanicity co-participate in causing psychosis? Evidence from a 10-year follow-up cohort study
+Sleep-dependent memory consolidation of new task is inhibited in psychiatric patients
+Line bisection in unilateral homonymous visual field defects
+Antibodies to MOG are transient in childhood acute disseminated encephalomyelitis
+The epigenetic machinery of neural cells is modulated by psychoactive drugs
+Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4
+Neuropeptide S receptor gene-converging evidence for a role in panic disorder
+Relationship between Baseline Severity of Depression and Antidepressant Treatment Outcome
+Metabolite profiling of antidepressant drug action reveals novel drug targets beyond monoamine elevation
+Biomimetic screening of class B G protein-coupled receptors
+Biochemical and pharmacological characterization of PhTX-I a new myotoxic phospholipase A(2) isolated from Porthidium hyoprora snake venom
+Proteome Scale Turnover Analysis in Live Animals Using Stable Isotope Metabolic Labeling
+Differences in the insulin tolerance test in patients with brain damage depending on posture
+Genome-wide Association Study Identifies Genetic Variation in Neurocan as a Susceptibility Factor for Bipolar Disorder (vol 88, pg 372, 2011)
+Facing challenges in Proteomics today and in the coming decade: Report of Roundtable Discussions at the 4th EuPA Scientific Meeting, Portugal, Estoril 2010
+Voltage-sensitive dye imaging demonstrates an enhancing effect of corticotropin-releasing hormone on neuronal activity propagation through the hippocampal formation
+Reduced hippocampus volume in the mouse model of Posttraumatic Stress Disorder
+Involvement of intra-coerulear galanin in enhanced depression-related behaviour and antidepressant pharmacotherapy
+Continued cannabis use and risk of incidence and persistence of psychotic symptoms: 10 year follow-up cohort study
+Pituitary glucocorticoid receptor deletion reduces vulnerability to chronic stress
+Endocannabinoids and stress
+Nucleosome Positioning Patterns Derived from Human Apoptotic Nucleosomes
+The Role of Osteopontin (OPN/SPP1) Haplotypes in the Susceptibility to Crohn's Disease
+Profiling Trait Anxiety: Transcriptome Analysis Reveals Cathepsin B (Ctsb) as a Novel Candidate Gene for Emotionality in Mice
+Functional SFTPD Gene Variants Are Not Associated with Susceptibility to Inflammatory Bowel Disease in the German Population
+Somatization in major depression - clinical features and genetic associations
+Non-24-hour sleep-wake syndrome in a 38-year-old sighted male-to-female transsexual
+Proteomic analysis of dorsolateral prefrontal cortex indicates the involvement of cytoskeleton, oligodendrocyte, energy metabolism and new potential markers in schizophrenia (vol 43, pg 978, 2009)
+Changes in the sleep electroencephalogram (EEG) during male to female transgender therapy
+Genome-wide Association Study Identifies Genetic Variation in Neurocan as a Susceptibility Factor for Bipolar Disorder
+Novel association to the proprotein convertase PCSK7 gene locus revealed by analysing soluble transferrin receptor (sTfR) levels
+Effects of ghrelin on psychopathology, sleep and secretion of cortisol and growth hormone in patients with major depression
+Non-replication of interaction between cannabis use and trauma in predicting psychosis
+FBKP51 as a paradigm for translation and academic drug discovery
+Regulatory effects of the Ca-v beta(2) subunit on the Ca(v)1.2 channel complex
+First genome-wide association scan on neurophysiological endophenotypes points to trans-regulation effects on SLC2A3 in dyslexic children
+Nucleosome DNA sequence structure of isochores
+Pregnane X Receptor (PXR/NR1I2) Gene Haplotypes Modulate Susceptibility to Inflammatory Bowel Disease
+More CLEC16A gene variants associated with multiple sclerosis
+Delay of gratification in narcolepsy
+Affective Disorders as Complex Dynamic Diseases - a Perspective from Systems Biology
+Interaction of FKBP5 gene variants and adverse life events in predicting depression onset: results from a 10-year prospective community study
+Thyroid hormone transporter genes and grey matter changes in patients with major depressive disorder and healthy controls
+CEACAM6 Gene Variants in Inflammatory Bowel Disease
+Animal models for depression and the mismatch hypothesis of disease
+Effect of Population Heterogenization on the Reproducibility of Mouse Behavior: A Multi-Laboratory Study
+Noise-induced precursors of tonic-to-bursting transitions in hypothalamic neurons and in a conductance-based model
+FKBP51 and FKBP52 in signaling and disease
+A possible role of repressive chromatin marks in GLT-1 unresponsivity to dexamethasone in rat cerebellar astrocytes
+AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011
+Feeble awake effects of plasminogen activator inhibitor type-1 in mice
+Proteomic alterations in G72/G30 transgenic mice
+Dreamed Movement Elicits Activation in the Sensorimotor Cortex
+The stress hormone system in various sleep disorders
+Gender related differential response to dexamethasone in endocrine and immune measures in depressed patients and healthy controls
+The norepinephrine transporter gene is a candidate gene for panic disorder
+Glucocorticoid Induced FKBP5-gene Expression as a Biomarker for Depression?
+N-acetyl Cysteine Treatment Rescues Cognitive Deficits Induced by Mitochondrial Dysfunction in G72/G30 Transgenic Mice
+All-cause mortality and serum insulin-like growth factor I in primary care patients
+Combined fMRI/EEG to map non-genomic effects of exogeneous cortisol
+Opposite effects of serum- and glucocorticoid-regulated kinase-1 and glucocorticoids on POMC transcription and ACTH release
+Anxiety and mitochondria: Insights from the -omics world
+Sleep disturbances in highly stress reactive mice: Modeling endophenotypes of major depression
+The Corticotropin-Releasing Hormone Network and the Hypothalamic-Pituitary-Adrenal Axis: Molecular and Cellular Mechanisms Involved
+Rehabilitation of Visual Disorders after Brain Injury
+Parkin is transcriptionally regulated by ATF4: evidence for an interconnection between mitochondrial stress and ER stress
+Conditional RNAi in mice
+Evidence That Onset of Clinical Psychosis Is an Outcome of Progressively More Persistent Subclinical Psychotic Experiences: An 8-Year Cohort Study
+Ghrelin in mental health, sleep, memory
+Proteome-Based Pathway Modelling of Psychiatric Disorders
+Genome-Wide Association Study Identifies Novel Restless Legs Syndrome Susceptibility Loci on 2p14 and 16q12.1
+SLX4, a coordinator of structure-specific endonucleases, is mutated in a new Fanconi anemia subtype
+Robust and stable automatic detection of rapid-eye movements in REM sleep
+Efficient branch-and-bound techniques for two-locus association mapping
+Rapid eye movements during sleep in mice: High trait-like stability qualifies rapid eye movement density for characterization of phenotypic variation in sleep patterns of rodents
+Hippocampal volume decrease in depression: what can we learn from animal models?
+The diagnostic threshold of generalized anxiety disorder in the community: A developmental perspective
+Tyrosine kinase 2 variant influences T lymphocyte polarization and multiple sclerosis susceptibility
+Deficiency of corticotropin-releasing hormone type-2 receptor alters sleep responses to bacterial lipopolysaccharide in mice
+Effect of SOM230 (Pasireotide) on Corticotropic Cells: Action in Dogs with Cushing's Disease
+Levels of p27 Sensitize to Dual PI3K/mTOR Inhibition
+Functional characterization of single-nucleotide polymorphisms in the HAB/LAB mouse Tmem132d promoter
+The non-synonymous P2RX7 SNP rs2230912 is associated with affective disorders: Results from an association study in major depression and from a meta-analysis
+Constitutive and conditional RNAi transgenesis in mice
+Glucocorticoids as Predictors of Treatment Response in Depression
+Nervous system affection in Evans' syndrome: case report and first description
+Cordance as a biomarker in sleep-EEG for depression: differences in responders versus non-responders - a naturalistic study after antidepressant medication
+Early life stress paradigms in rodents: potential animal models of depression?
+Editorial
+Human nucleosomes: special role of CG dinucleotides and Alu-nucleosomes
+Development of a screening assay for the SLC6A15/B0AT2 transporter
+Further evidence for executive dysfunction in subjects with RLS from a non-clinical sample
+The IQ motif of the L-type channel Ca(v)1.2 plays a role in mood disorders
+Targeting the endocannabinoid system in the amygdala kindling model of temporal lobe epilepsy in mice
+Requirement of the RNA-editing Enzyme ADAR2 for Normal Physiology in Mice
+High-speed voltage-sensitive dye imaging of neuronal activity propagation through limbic brain networks in vitro
+Proteomic and Metabolomic Profiling of a Trait Anxiety Mouse Model Implicate Affected Pathways
+The Enhancer of split transcription factor Her8a is a novel dimerisation partner for Her3 that controls anterior hindbrain neurogenesis in zebrafish
+Effect of reported sleep and attention symptoms on neuropsychological testing performance in adult diagnosed ADD/ADHD population from the years 1991-2008
+CB1 and TRPV1 receptors located in periaqueductal gray matter mediate opposite effects in panic-like responses in rats
+Development of fluorescence polarisation assays for the immunophilins FKBP51/52 and Cyp40
+In search of the biological basis of mood disorders: Exploring out of the mainstream
+Biomimetic Screening of Class-B G Protein-Coupled Receptors
+Stress Acts Cumulatively To Precipitate Alzheimer's Disease-Like Tau Pathology and Cognitive Deficits
+A Follow-Up Case-Control Association Study of Tractable (Druggable) Genes in Recurrent Major Depression
+Social fear and social phobia types among community youth: Differential clinical features and vulnerability factors
+Therapeutic significance of NR2B-containing NMDA receptors and mGluR5 metabotropic glutamate receptors in mediating the synaptotoxic effects of beta-amyloid oligomers on long-term potentiation (LTP) in murine hippocampal slices
+Tolerability of the dexamethasone-corticotropin releasing hormone test in major depressive disorder
+Genetic markers for PTSD risk and resilience among survivors of the World Trade Center attacks
+Decreased expression of synaptic proteins in a mouse model of posttraumatic stress disorder
+EPIBLASTER-fast exhaustive two-locus epistasis detection strategy using graphical processing units
+Cordance as a biomarker in sleep-EEG for depression: responders versus non-responders: a naturalistic study after antidepressant medication
+Evidence that onset of psychosis in the population reflects early hallucinatory experiences that through environmental risks and affective dysregulation become complicated by delusions
+Epigenetic programming of the HPA axis: Early life decides
+Fgf15-mediated control of neurogenic and proneural gene expression regulates dorsal midbrain neurogenesis
+Associations between use of cocaine, amphetamines, or psychedelics and psychotic symptoms in a community sample
+Impact of lipid raft integrity on GABAA receptor function and its modulation by benzodiazepines
+CDK5 Is Essential for Soluble Amyloid beta-Induced Degradation of GKAP and Remodeling of the Synaptic Actin Cytoskeleton
+The latent structure underlying the comorbidity of panic, agoraphobia and specific phobias
+Gene-PUFA interactions and obesity risk
+Additive effect of GHRd3 and COLIA1 polymorphisms on the GH-substitution dose in GH-deficient adults
+Characterization of the B-Raf interactome in mouse hippocampal neuronal cells
+Intact attentional processing but abnormal responding in M(1) muscarinic receptor-deficient mice using an automated touchscreen method
+Screening for rare variants in TMEM132D: a candidate gene from genome-wide association studies in anxiety disorders
+Differential Regulation and Function of 5 '-Untranslated GR-Exon 1 Transcripts
+Acute panicogenic, anxiogenic and dissociative effects of carbon dioxide inhalation in patients with post-traumatic stress disorder (PTSD)
+Development of the Brain's Default Mode Network from Wakefulness to Slow Wave Sleep
+BDNF and NTRK2 Polymorphisms and Antidepressant Treatment Response
+Modulation of Ligand-Gated Ion Channels as a Novel Pharmacological Principle
+Glyoxalase-I mRNA expression and CCK-4 induced panic attacks
+De-escalation from natalizumab in multiple sclerosis: recurrence of disease activity despite switching to glatiramer acetate
+Adolescent development of psychosis as an outcome of hearing impairment: a 10-year longitudinal study
+Semaphorin 4C and 4G are ligands of Plexin-B2 required in cerebellar development
+Using gene-environment interactions to target personalized treatment in mood disorder
+Potential programming of dopaminergic circuits by early life stress
+Wake-promoting effects of orexin: Its independent actions against the background of an impaired corticotropine-releasing hormone receptor system
+MALDI Imaging Identifies Prognostic Seven-Protein Signature of Novel Tissue Markers in Intestinal-Type Gastric Cancer
+TMEM132D-a putative cell adhesion molecule involved in panic disorder
+High prevalence of AIP gene mutations following focused screening in young patients with sporadic pituitary macroadenomas
+Inbred low anxiety-related behavior mice: a mouse model of attention-deficit hyperactivity disorder
+Effects of Chronic Posttraumatic Stress Disorder on Metabolic Risk, Quality of Life, and Stress Hormones in Aging Former Refugee Children
+Differences in intrinsic amygdalar network features between animals of the high- vs. low-anxiety-related behavior (HAB, LAB) mouse model
+Can't sleep? Effects of chronic unpredictable stress on vigilance states
+The involvement of FK506-binding protein 51 (FKBP51) in the behavioural and neuroendocrine effects of acute and chronic stress
+Basal cerebral activity in a mouse model of trait anxiety as revealed by in vivo manganese enhanced MRI and cytochrome-c oxidase staining
+Stress and Affective Disorders: Animal Models Elucidating the Molecular Basis of Neuroendocrine-Behavior Interactions
+Genetic predisposition to anxiety-related behavior predicts predator odor response
+Menstrual cycle effects on sleep-dependent memory consolidation
+Age-specific effects of early MK-801 treatment on working memory in female rats
+Antidepressants recruit new neurons to improve stress response regulation
+Resting state network alterations in major Depression
+Structural Brain Changes in Patients with Recurrent Major Depressive Disorder Presenting with Anxiety Symptoms
+The role of different Homer1 isoforms in acute and chronic social stress
+The Clinical Impact of ABCB1 Polymorphisms on the Treatment of Psychiatric Diseases
+Association of a Rare Variant with Mismatch Negativity in a Region Between KIAA0319 and DCDC2 in Dyslexia
+Variation in Binding Affinity of the Novel Anxiolytic XBD173 for the 18 kDa Translocator Protein in Human Brain
+Proteome analyses of cultured astrocytes treated with MK-801 and clozapine: similarities with schizophrenia
+Expression of the Splicing Factor Gene SFRS10 Is Reduced in Human Obesity and Contributes to Enhanced Lipogenesis
+The case of the missing evidence: do psychotic experiences predict clinical outcomes in unselected population-based samples? A systematic review and meta-analysis, enriched with new results
+Inbred low anxiety-related behavior (LAB) mice - a mouse model of attention-deficit hyperactivity disorder (ADHD)?
+Selective Targeting of Disease-Relevant Protein Binding Domains by O-Phosphorylated Natural Product Derivatives
+The Chemical Biology of Immunophilin Ligands
+The dopamine and cannabinoid interaction in the modulation of emotions and cognition: assessing the role of cannabinoid CB1 receptor in neurons expressing dopamine D1 receptors
+Lithium Monotherapy Increases ACTH and Cortisol Response in the Dex/CRH Test in Unipolar Depressed Subjects. A Study with 30 Treatment-Naive Patients

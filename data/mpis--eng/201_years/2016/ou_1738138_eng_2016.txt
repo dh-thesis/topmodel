@@ -1,0 +1,121 @@
+Computational Fluid Dynamics‐Based Design Optimization Method for Archimedes Screw Blood Pumps
+Investigating arsenic and osmotic stress response in yeast Saccharomyces cervisiae using mathematical modeling and model selection
+The Physarum polycephalum Genome Reveals Extensive Use of Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase Signaling
+MARCIE’s Secrets of Efficient Model Checking
+Verifying Robust Forward Admissibility for Nonlinear Systems using (Skewed) Structured Singular Values
+Systems Level Analysis of the Yeast Osmo-Stat
+Optimum Experimental Design for Patient Specific Mathematical Leukopenia Models
+Robustness analysis, prediction, and estimation for uncertain biochemical networks: An overview
+Model-based optimal design of continuous ﬂow reactors for the synthesis of active pharmaceutical ingredients
+Calculation of the permeability in porous media using the lattice Boltzmann method
+Parameter estimation for leukocyte dynamics after chemotherapy
+Output feedback MPC with send-on-delta measurements for uncertain systems
+Model predictive control of continuous layering granulation in fluidised beds with internal product classification
+Monotonicity of Kinetic Proofreading
+Direct-forcing immersed boundary lattice Boltzmann simulation of particle/fluid interactions for spherical and non-spherical particles
+Efficient stochastic model predictive control for embedded systems based on second-order cone programs
+To senesce or not to senesce: how primary human fibroblasts decide their cell fate after DNA damage
+Exploiting Models of Different Granularity in Robust Predictive Control
+Discrete-Time Leap Method For Stochastic Simulation
+Set-Based Experiment Design for Model Discrimination Using Bilevel Optimization
+The role of time delay in adaptive cellular negative feedback systems
+Numerical simulation of heat transfer in particulate flows using a thermal immersed boundary lattice Boltzmann method
+How time delay and network design shape response patterns in biochemical negative feedback systems
+Sampled-data, output feedback predictive control of uncertain, nonlinear systems
+Interferometric laser imaging for in-flight cloud droplet sizing
+Improving Bioprocess Productivity Using Constraint-Based Models in a Dynamic Optimization Scheme
+Hierarchical effects of pro-inflammatory cytokines on the post-influenza susceptibility to pneumococcal coinfection
+Engineered cell lines for influenza vaccine production
+Model-based analysis of influenza A virus replication in genetically modified cell lines elucidates virus-host cell interactions
+Reprint of “Modeling the intracellular replication of influenza A virus in the presence of defective interfering RNAs
+Purification of Herbal Extracts on the Example of Curcumin
+Phase behavior of a chiral agrochemical as basis for crystallization based separation
+Continuous Separation of Lignin Particles from Ethanol-Water Pulping Liquors
+Advanced process for precipitation of lignin from ethanol organosolv spent liquors
+Model-Based metabolic engineering enables high yield itaconic acid production by Escherichia coli
+Solid-Phase and Oscillating Solution Crystallization Behavior of (+)- and (−)-N-Methylephedrine
+Automatic Model Reduction of Population Balance Models by Proper Orthogonal Decomposition
+Crystallization of Artemisinin from Chromatography Fractions of Artemisia annua Extract
+Tandem Mass Spectrum Sequencing: An Alternative to Database Search Engines in Shotgun Proteomics
+Hydrogen permeation in PEM electrolyzer cells operated at asymmetric pressure conditions
+Methane Dehydro-Aromatization: Potential of a Mo/MCM-22 Catalyst and Hydrogene-Selective Membranes
+Exact quantification of cellular robustness in genome-scale metabolic networks
+Separation of Stereoisomeric Mixtures of Nafronyl as a Representative of Compounds Possessing Two Stereogenic Centers By Coupling Crystallization, Diastereoisomeric Conversion and Chromatography
+A Short-Cut Method for the Quantification of Crystallization Kinetics. 1. Method Development
+The minimum information required for a glycomics experiment (MIRAGE) project: sample preparation guidelines for reliable reporting of glycomics datasets
+An Examination of the Phase Transition Thermodynamics of (S)- and (RS)-Naproxen as a Basis for the Design of Enantioselective Crystallization Processes
+Theoretical investigation of thermal effects in non-isothermal non-equilibrium reactive liquid chromatography
+Ezrin and HNRNP expression correlate with increased virus release rate and early onset of virus-induced apoptosis of MDCK suspension cells
+Basic studies on calcium propionate crystallization
+Purification of single-chain antibody fragments exploiting pH-gradients in simulated moving bed chromatography
+Binding Interactions of Dopamine and Apomorphine in D2High and D2Low States of Human Dopamine D2 Receptor Using Computational and Experimental Techniques
+Physical–Chemical Properties of the Chiral Fungicide Fenamidone and Strategies for Enantioselective Crystallization
+A Contribution to the Solution Thermodynamics of Chiral Lactide
+Environment Effects on Spin States, Properties and Dynamics from Multi-Level QM/MM Studies
+Heterogeneity in Influenza A Virus Infection Unveiled by Single-Cell Analysis and Stochastic Mathemeatical Modeling
+Stochastic multiscale modeling of influenza virus production in cell cultures. Poster presented at 6th IFAC Conference on Foundations of Systems Biology in Engineering
+Resolution of Structural Isomers of Complex Reaction Mixtures in Homogeneous Catalysis
+A Reformulation Strategy for Deterministic Global Optimization of Ideal Multi-component Distillation Processes
+Extending the potential of moment analysis in chromatography
+The impact of sequence database choice on metaproteomic results in gut microbiota studies
+Numerical Approximation of a Two-Dimensional Nonlinear and Nonequilibrium Model of Reactive Chromatography
+Control of incomplete separation in simulated moving bed chromatographic processes
+A Short-Cut Method for the Quantification of Crystallization Kinetics. 2. Experimental Application
+Flow cytometry enables dynamic tracking of algal stress response: A case study using carotenogenesis in Dunaliella salina
+Propagation of Brazilian Zika virus strains in static, microcarrier-based and suspension cultures using BHK and Vero cells
+Periodic Operation with Modulation of Inlet Concentration and Flow Rate. Part II: Adiabatic Continuous Stirred-Tank Reactor
+Periodic Operation with Modulation of Inlet Concentration and Flow Rate. Part I: Nonisothermal Continuous Stirred-Tank Reactor
+ESACT Course on Cell Culture-based Viral Vaccines: Upstream Process Intensification
+Purification of cell culture-based influenza virus particles using membrane filters with the aid of non-ionic polymers
+Evaluation of producer cell lines for yellow fever virus production in up to 1 L bioreactor scale
+ESACT Course on Cell Culture-based Viral Vaccines: Upstream Process Development - From Master Seed to Production
+Evaluation of center-cut separations applying simulated moving bed chromatography with 8 zones
+Sign Conditions for Injectivity of Generalized Polynomial Maps with Applications to Chemical Reaction Networks and Real Algebraic Geometry
+Analyzing the impact of heterogeneity in genetically engineered cell lines for influenza vaccine production using population balance modeling
+A Molecular Dynamics View on Hydrophilic Interaction Chromatography with Polar-Bonded Phases: Properties of the Water-Rich Layer at a Silica Surface Modified with Diol-Functionalized Alkyl Chains
+Use of predictor corrector methods for multi-objective optimization of dynamic systems
+A membrane-based purification process for cell culture-derived influenza A virus
+Analysis of a Two-Dimensional Nonequilibrium Model of Linear Reactive Chromatography Considering Irreversible and Reversible Reactions
+Racemization of undesired enantiomers: Immobilization of mandelate racemase and application in a fixed bed reactor
+Multistage Countercurrent Crystallization for the Separation of Solid Solutions
+Proteotyping of biogas plant microbiomes separates biogas plants according to process temperature and reactor type
+A curvilinear Model Approach: Actin Cortex Clustering Due to ATP-induced Myosin Pulls
+Process Strategies for Batch Preferential Crystallization
+Kinetic Analysis of the Hydrocarbon Total Oxidation Using Individually Measured Adsorption Isotherms
+Numerical approximation of nonlinear and non-equilibrium two-dimensional model of chromatography
+Site-specific O-Glycosylation Analysis of Human Blood Plasma Proteins
+BIWIC 2016: 23rd International Workshop on Industrial Crystallization
+Thermal deformations of the crystal structures of L-valine, L-isoleucine and discrete compound V2I.
+Multiplicity of Equilibrium States in Separating Stereoisomeric Mixtures of Nafronyl Oxalate by Crystallization
+Binding kinetics and multi-bond: Finding correlations by synthesizing interactions between ligand-coated bionanoparticles and receptor surfaces
+A Modified Branch-and-Bound Approach
+Single-Cell Analysis of Influenza A Virus-Infected Cells
+Control of MSMPR crystallization processes
+Startup procedures for designing an efficient counter current crystallization process
+Adsorption measurements on a CrOx/γ-Al2O3 catalyst for parameter reduction in kinetic analysis
+Continuous Separation of Isomers in Fluidized Bed Crystallizers
+Pseudo-affinity purification and formulation of a cell-culture derived whole influenza virus vaccine using magnetic sulfated cellulose particles
+Analysis of general rate model of linear chromatography considering finite rates of the adsorption and desorption steps
+Challenges in horizontal model integration
+Putative bacterial interactions from metagenomic knowledge with an integrative systems ecology approach
+Towards personalized diagnostics via longitudinal study of the human plasma N-glycome
+A cell culture-derived whole virus influenza A vaccine based on magnetic sulfated cellulose particles confers protection in mice against lethal influenza A virus infection
+Single-Cell Analysis of Influenza A Virus-Infected Cells for the Optimization of Cell Culture-Based Vaccine Production
+Virus Particle Purification Using Magnetic Sulfated Cellulose Particles
+Combination of Preferential Crystallization and Racemization – First Results
+Experimental investigations of fluid dynamics
+On the formation of phenylpiracetam solid solutions: thermodynamic and structural considerations
+Influence of mill characteristics on stability of continuous layering granulation with external product classification
+Hollow Fiber-Based High-Cell-Density and Two-stage Bioreactor Continuous Cultivation: Options and limits Towards Process Intensification for Virus Production
+Continuous separation of lignin from ethanol-water pulping liquors
+Solid Phases in the System L-Valine—L-Isoleucine
+TRaCE+: Ensemble inference of gene regulatory networks from transcriptional expression profiles of gene knock-out experiments.
+MUFINS: multi-formalism interaction network simulator
+Predicting compositions of microbial communities from stoichiometric models with applications for the biogas process
+Analyzing the Impact of Heterogeneity in Genetically Engineered Cell Lines for Influenza Vaccine Production Using Population Balance Modeling
+Influenza virus intracellular replication dynamics, release kinetics, and particle morphology during propagation in MDCK cells
+Diversity in a simple co-crystal: racemic and kryptoracemic behaviour
+The Molecular Basis of Polyunsaturated Fatty Acid Interactions with the Shaker Voltage-Gated Potassium Channel
+Numerical simulation of nonlinear chromatography with core–shell particles applying the general rate model
+Glycomic Characterization of Induced Pluripotent Stem Cells Derived from a Patient Suffering from Phosphomannomutase 2 Congenital Disorder of Glycosylation (PMM2-CDG)
+Sialic acid-specific affinity chromatography for the separation of erythropoietin glycoforms using serotonin as a ligand

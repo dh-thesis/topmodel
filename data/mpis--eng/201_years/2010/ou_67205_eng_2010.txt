@@ -1,0 +1,106 @@
+WRKY transcription factors
+AmGAI-like interacts with ROSINA, a putative transcriptional regulator of DEFICIENS in Antirrhinum majus
+Aquaporin Tetramer Composition Modifies the Function of Tobacco Aquaporins
+Genome-wide association study of 107 phenotypes in Arabidopsis thaliana inbred lines
+Comparative Analysis of Flowering in Annual and Perennial Plants
+Tracing the Evolution of the Floral Homeotic B- and C-Function Genes through Genome Synteny
+Variations in constitutive and inducible UV-B tolerance; dissecting photosystem II protection in Arabidopsis thaliana accessions
+Plant development goes like clockwork
+Genome-Wide Mapping of Protein-DNA Interaction by Chromatin Immunoprecipitation and DNA Microarray Hybridization (ChIP-chip). Part B: ChIP-chip Data Analysis
+Genome-Wide Mapping of Protein-DNA Interaction by Chromatin Immunoprecipitation and DNA Microarray Hybridization (ChIP-chip). Part A: ChIP-chip Molecular Methods
+Single feature polymorphism (SFP)-based selective sweep identification and association mapping of growth-related metabolic traits in Arabidopsis thaliana
+A synthetic biology approach allows inducible retrotransposition in whole plants
+Evolution of spliceosomal introns following endosymbiotic gene transfer
+Salicylic acid antagonism of EDS1-driven cell death is important for immune and oxidative stress responses in Arabidopsis
+PAMP (Pathogen-associated Molecular Pattern)-induced Changes in Plasma Membrane Compartmentalization Reveal Novel Components of Plant Immunity
+An Effector-Targeted Protease Contributes to Defense against Phytophthora infestans and Is under Diversifying Selection in Natural Hosts
+Higher plant calreticulins have acquired specialized functions in Arabidopsis
+Natural variation at Strubbelig Receptor Kinase 3 drives immune-triggered incompatibilities between Arabidopsis thaliana accessions
+Genetic Analyses of Interactions among Gibberellin, Abscisic Acid, and Brassinosteroids in the Control of Flowering Time in Arabidopsis thaliana
+SnapShot: Control of Flowering in Arabidopsis
+On the Relevance and Control of Leaf Angle
+Proteome-wide screens for small ubiquitin-like modifier (SUMO) substrates identify Arabidopsis proteins implicated in diverse biological processes
+Tobacco Calcium-dependent Protein Kinases Are Differentially Phosphorylated in Vivo as Part of a Kinase Cascade That Regulates Stress Response
+Gene targeting as a precise tool for plant mutagenesis.
+Photoreceptors CRYTOCHROME2 and Phytochrome B Control Chromatin Compaction in Arabidopsis
+miR156-Targeted and Nontargeted SBP-Box Transcription Factors Act in Concert to Secure Male Fertility in Arabidopsis
+HvCEBiP, a gene homologous to rice chitin receptor CEBiP, contributes to basal resistance of barley to Magnaporthe oryzae
+Variability of essential oil composition in Albanian accessions of Satureja montana L.
+Influence of mutation rate on estimators of genetic differentiation - lessons from Arabidopsis thaliana
+Novel induced mlo mutant alleles in combination with site-directed mutagenesis reveal functionally important domains in the heptahelical barley Mlo protein
+Association of barley photoperiod and vernalization genes with QTLs for flowering time and agronomic traits in a BC2DH population and a set of wild barley introgression lines
+A chemical screen for suppressors of the avrRpm1-RPM1-dependent hypersensitive cell death response in Arabidopsis thaliana
+The CC-NB-LRR-Type Rdg2a Resistance Gene Confers Immunity to the Seed-Borne Barley Leaf Stripe Pathogen in the Absence of Hypersensitive Cell Death
+Transcriptional reprogramming regulated by WRKY18 and WRKY40 facilitates powdery mildew infection of Arabidopsis
+Reproductive cross-talk: seed development in flowering plants
+Ambient Thermometers in Plants: From Physiological Outputs towards Mechanisms of Thermal Sensing
+Assessing the Influence of Adjacent Gene Orientation on the Evolution of Gene Upstream Regions in Arabidopsis thaliana
+Introduction to a Virtual Special Issue on pathogenic plant–fungus interactions
+Keep on growing under drought: genetic and developmental bases of the response of rosette area using a recombinant inbred line population
+An introduction to association mapping in plants.
+Not a peripheral issue: secretion in plant–microbe interactions
+The earliest stages of adaptation in an experimental plant population: strong selection on QTLS for seed dormancy
+Floral organ identity: 20 years of ABCs
+Tryptophan-derived secondary metabolites in Arabidopsis thaliana confer non-host resistance to necrotrophic Plectosphaerella cucumerina fungi
+2-DE proteomic approach to the Botrytis cinerea secretome induced with different carbon sources and plant-based elicitors
+Entry Mode–Dependent Function of an Indole Glucosinolate Pathway in Arabidopsis for Nonhost Resistance against Anthracnose Pathogens
+Roles of Arabidopsis Patatin-Related Phospholipases A in Root Development Are Related to Auxin Responses and Phosphate Deficiency
+Population structure and genetic diversity in elite sugar beet germplasm investigated with SSR markers
+Melampyrum, Physalis floridana, population structure, flower color, Chinese lantern, morphological novelty, speciation
+Comparison of the chromosome maps around a resistance hot spot on chromosome 5 of potato and tomato using BAC-FISH painting
+Jasmonates: Structural Requirements for Lipid-Derived Signals Active in Plant Stress Responses and Development
+Bs1, a New Chimeric Gene Formed by Retrotransposon-Mediated Exon Shuffling in Maize
+Recent advances in computational modeling as a conduit to understand the plant circadian clock
+Natural variation for seed dormancy in Arabidopsis is regulated by additive genetic and molecular pathways
+Optimum allocation of resources for QTL detection using a nested association mapping strategy in maize
+Metaanalysis of ChIP-chip Data
+Diversity at the Mla Powdery Mildew Resistance Locus from Cultivated Barley Reveals Sites of Positive Selection
+Genome expansion and gene loss in powdery mildew fungi reveal functional tradeoffs in extreme parasitism
+Weird fingers: Functional analysis of WIP domain proteins
+Polyamines: molecules with regulatory functions in plant abiotic stress tolerance
+MIKC* MADS-Box Proteins: Conserved Regulators of the Gametophytic Generation of Land Plants
+Mining the active proteome in plant science and biotechnology
+Relationship between nucleosome positioning and DNA methylation
+Plant-biotic interactions: advances on all fronts
+99th Dahlem Conference on Infection, Inflammation and Chronic Inflammatory Disorders: Innate immune responses in plants
+A regulon conserved in monocot and dicot plants defines a functional module in antifungal plant immunity
+Cross Talk between the KNOX and Ethylene Pathways Is Mediated by Intron-Binding Transcription Factors in Barley
+Natural Variation in Arabidopsis thaliana Revealed a Genetic Network Controlling Germination Under Salt Stress
+Natural diversity of potato (Solanum tuberosum) invertases
+Tryptophan-Derived Metabolites Are Required for Antifungal Defense in the Arabidopsis mlo2 Mutant
+Distinct patterns of genetic variation alter flowering responses of Arabidopsis accessions to different day lengths
+Arabidopsis thaliana transcription factors bZIP19 and bZIP23 regulate the adaptation to zinc deficiency
+The MADS-domain protein MPF1 of Physalis floridana controls plant architecture, seed development and flowering time
+LOST MERISTEMS genes regulate cell differentiation of central zone descendants in Arabidopsis shoot meristems
+Proteasome activity profiling: a simple, robust and versatile method revealing subunit-selective inhibitors and cytoplasmic, defense-induced proteasome activities
+The Conserved Splicing Factor SUA Controls Alternative Splicing of the Developmental Regulator ABI3 in Arabidopsis
+Conserved Molecular Components for Pollen Tube Reception and Fungal Invasion
+Transcriptional regulation of the CRK/DUF26 group of Receptor-like protein kinases by ozone and plant hormones in Arabidopsis
+Emerging principles in plant chemical genetics
+The development of Arabidopsis as a model plant
+Large-scale chromatin de-compaction induced by low light is not accompanied by nucleosomal displacement
+Oxylipins are not required for R gene-mediated resistance in potato
+Relation among plant growth, carbohydrates and flowering time in the Arabidopsis Landsberg erecta × Kondara recombinant inbred line population
+Detection of epistatic interactions between exotic alleles introgressed from wild barley (H. vulgare ssp. spontaneum)
+ER quality control of immune receptors and regulators in plants
+Arabidopsis S6 kinase mutants display chromosome instability and altered RBR1-E2F pathway activity
+Peroxisome Biogenesis Factor PEX13 Is Required for Appressorium-Mediated Plant Infection by the Anthracnose Fungus Colletotrichum orbiculare
+A general method for controlling the genome-wide type I error rate in linkage and association mapping experiments in plants
+Physical organization of mixed protease inhibitor gene clusters, coordinated expression and association with resistance to late blight at the StKI locus on potato chromosome III
+Statistical epistasis between candidate gene alleles for complex tuber traits in an association mapping population of tetraploid potato
+Patterns of molecular and phenotypic diversity in pearl millet [Pennisetum glaucum (L.) R. Br.] from West and Central Africa and their relation to geographical and environmental parameters
+Population structure and genetic diversity in a commercial maize breeding program assessed with SSR and SNP markers
+cis-Regulatory Elements and Chromatin State Coordinately Control Temporal and Spatial Expression of FLOWERING LOCUS T in Arabidopsis
+Genetic diversity and linkage disequilibrium of two homologous genes to maize D8: Sorghum SbD8 and pearl millet PgD8
+Co-expression of neighbouring genes in Arabidopsis: separating chromatin effects from direct interactions
+Pattern Recognition Receptors Require N-Glycosylation to Mediate Plant Immunity
+Balanced Nuclear and Cytoplasmic Activities of EDS1 Are Required for a Complete Plant Innate Immune Response
+Combined Bimolecular Fluorescence Complementation and Forster Resonance Energy Transfer Reveals Ternary SNARE Complex Formation in Living Plant Cells
+Ethylene Signaling Regulates Accumulation of the FLS2 Receptor and Is Required for the Oxidative Burst Contributing to Plant Immunity
+Nucleoporin MOS7/Nup88 contributes to plant immunity and nuclear accumulation of defense regulators
+High throughput confocal imaging of intact live tissue enables quantification of membrane trafficking in Arabidopsis
+Probing differentially expressed genes against a microarray database for in silico suppressor/enhancer and inhibitor/activator screens
+Relationships between growth, growth response to nutrient supply and ion content using a recombinant inbred line population in Arabidopsis thaliana
+Accumulation of isochorismate-derived 2,3-dihydroxybenzoic 3-O-β-D-xyloside in Arabidopsis resistance to pathogens and ageing of leaves
+Nocturnal energy demand in plants: insights from studying mutants impaired in β-oxidation
+Genes of primary sulfate assimilation are part of the glucosinolate biosynthetic network in Arabidopsis thaliana.

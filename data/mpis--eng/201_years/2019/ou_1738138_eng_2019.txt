@@ -1,0 +1,38 @@
+Spontaneous center formation in Dictyostelium discoideum
+Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα
+Ultra-high capacity microfluidic trapping of giant vesicles for high-throughput membrane studies
+Theoretical and numerical analysis of the lattice kinetic scheme for complex-flow simulations
+Juggling with light
+Giant Vesicles and Their Use in Assays for Assessing Membrane Phase State, Curvature, Mechanics, and Electrical Properties
+Lattice Boltzmann advection-diffusion model for conjugate heat transfer in heterogeneous media
+Poly(Ionic Liquid) Nanoparticles Selectively Disrupt Biomembranes
+Mimicking adhesion in minimal synthetic cells
+Solvate Formation of Bis(demethoxy)curcumin: Crystal Structure Analyses and Stability Investigations
+Electron Transfer Between Enzymes and Electrodes
+Cooperative Kinetic Model to Describe Crystallization in Solid Solution Forming Systems
+High-throughput serum N-glycomics: method comparison and application to study rheumatoid arthritis and pregnancy-associated changes
+Global optimization of distillation columns using explicit and implicit surrogate models
+Gas Chromatographic Enantioseparation of Fluorinated Anesthetics: Single-Column Performance and Scale-up Estimation
+Optimal Solvent Design for Extractive Distillation Processes: A Multiobjective Optimization-Based Hierarchical Framework
+In Situ Infrared Spectroscopy as a Tool for Monitoring Molecular Catalyst for Hydroformylation in Continuous Processes
+Exergetic assessment of CO2 methanation processes for the chemical storage of renewable energies
+Relations between kinetic parameters of different column models for liquid chromatography applying core-shell particles
+A Novel Type of Influenza A Virus-Derived Defective Interfering Particle with Nucleotide Substitutions in Its Genome
+A robust, cost-effective method for DNA, RNA and protein co-extraction from soil, other complex microbiomes, and pure cultures
+Solvation and Dynamics of CO2 in Aqueous Alkanolamine Solutions
+The subcommissural organ and the Reissner fiber: old friends revisited
+Enzymatic cascade synthesis provides novel linear human milk oligosaccharides as reference standards for xCGE-LIF based high-throughput analysis
+Studying mass transport dynamics in polymer electrolyte membrane fuel cells using concentration-alternating frequency response analysis
+Polymer‐based module for NAD+ regeneration with visible light
+Anisotropic Magnetic Spin Interactions of Transition Metal Complexes and Metalloenzymes from Spectroscopy and Quantum Chemistry
+A single-use chromatographic purification platform for viral gene transfer vectors & viral vaccines
+Global optimization of distillation columns using surrogate models
+Recognition and stabilization of geranylgeranylated human Rab5 by the GDP Dissociation Inhibitor (GDI)
+Overview of Surrogate Modeling in Chemical Process Engineering
+RedCom: A strategy for reduced metabolic modeling of complex microbial communities and its application for analyzing experimental datasets from anaerobic digestion
+Reduced TCA cycle rates at high hydrostatic pressure hinder hydrocarbon degradation and obligate oil degraders in natural, deep-sea microbial communities
+Targeting the NF-κB/IκBα complex via fragment-based E-Pharmacophore virtual screening and binary QSAR models
+Solvation and Dynamics of CO2 in Aqueous Alkanolamine Solutions
+Nonlinear model of liquid chromatography considering finite rates of adsorption-desorption kinetics and core-shell adsorbents
+Continuous Separation of Lignin from Organosolv Pulping Liquors: Combined Lignin Particle Formation and Solvent Recovery
+Restricted rotation of an Fe(CO)2(PL3)-subunit in [FeFe]-hydrogenase active site mimics by intramolecular ligation

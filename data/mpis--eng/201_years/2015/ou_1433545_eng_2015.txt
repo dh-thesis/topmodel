@@ -1,0 +1,120 @@
+Deletions, Inversions, Duplications: Engineering of Structural Variants using CRISPR/Cas in Mice
+Lower baseline performance but greater plasticity of working memory for carriers of the val allele of the COMT Val¹⁵⁸Met polymorphism
+Lower baseline performance but greater plasticity of working memory for carriers of the val allele of the COMT val158met polymorphism
+Improved bone defect healing by a superagonistic GDF5 variant derived from a patient with multiple synostoses syndrome
+A long non-coding RNA links calreticulin-mediated immunogenic cell removal to RB1 transcription
+The nerve growth factor receptor CD271 is crucial to maintain tumorigenicity and stem-like properties of melanoma cells
+NeuroX, a fast and efficient genotyping platform for investigation of neurodegenerative diseases
+diXa: a data infrastructure for chemical safety assessment
+Missense variant in CCDC22 causes X-linked recessive intellectual disability with features of Ritscher-Schinzel/3C syndrome
+Variants in CUL4B are Associated with Cerebral Malformations
+In utero gene therapy rescues microcephaly caused by Pqbp1-hypofunction in neural stem progenitor cells
+A defect in the CLIP1 gene (CLIP-170) can cause autosomal recessive intellectual disability
+Genome sequencing identifies a novel mutation in ATP1A3 in a family with dystonia in females only
+Somatic neurofibromatosis type 1 (NF1) inactivation events in cutaneous neurofibromas of a single NF1 patient
+GORAB Missense Mutations Disrupt RAB6 and ARF5 Binding and Golgi Targeting
+Haplotype reconstruction for polyploid organisms
+Genomics and drug profiling of fatal TCF3-HLF-positive acute lymphoblastic leukemia identifies recurrent mutation patterns and therapeutic options
+Phospho-tyrosine dependent protein-protein interaction network
+A link between Sas2-mediated H4 K16 acetylation, chromatin assembly in S-phase by CAF-I and Asf1, and nucleosome assembly by Spt6 during transcription
+DOCK6 mutations are responsible for a distinct autosomal-recessive variant of Adams-Oliver syndrome associated with brain and eye anomalies
+Correction to "Integrative analysis of transcriptomics, proteomics and metabolomics data of white adipose and liver tissue of high-fat diet and rosiglitazone-treated insulin-resistant mice identified pathway alterations and molecular hubs"
+A global reference for human genetic variation
+Allele frequencies of BRAFV600 mutations in primary melanomas and matched metastases and their relevance for BRAF inhibitor therapy in metastatic melanoma
+Genome-wide patterns and properties of de novo mutations in humans
+Simultaneous deletion of the methylcytosine oxidases Tet1 and Tet3 increases transcriptome variability in early embryogenesis
+Erratum: Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer's disease donor as a model for investigating AD-associated gene regulatory networks
+Erratum
+Identification of novel fusion genes in lung cancer using breakpoint assembly of transcriptome sequencing data
+Molecular Classification of Ependymal Tumors across All CNS Compartments, Histopathological Grades, and Age Groups
+The direction of cross affects [corrected] obesity after puberty in male but not female offspring
+Using the canary genome to decipher the evolution of hormone-sensitive gene regulation in seasonal singing birds
+The Role of a Novel TRMT1 Gene Mutation and Rare GRM1 Gene Defect in Intellectual Disability in Two Azeri Families
+New evidence for the role of calpain 10 in autosomal recessive intellectual disability: identification of two novel nonsense variants by exome sequencing in Iranian families
+The Molecular Switch of Telomere Phages: High Binding Specificity of the PY54 Cro Lytic Repressor to a Single Operator Site
+Multiple haplotype-resolved genomes reveal population level gene and protein diplotype patterns
+Identification of cis-regulatory elements from chromosome conformation capture data.
+A common building block for the syntheses of amorfrutin and cajaninstilbene acid libraries toward efficient binding with peroxisome proliferator-activated receptors
+Long ncRNA expression associates with tissue-specific enhancers
+ChIP-Seq and RNA-Seq analyses identify components of the Wnt and Fgf signaling pathways as Prep1 target genes in mouse embryonic stem cells
+Chromatin segmentation based on a probabilistic model for read counts explains a large portion of the epigenome
+A global reference for human genetic variation.
+Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer's disease donor as a model for investigating AD-associated gene regulatory networks
+Virtual Clinical Trials, an Essential Step in Increasing the Effectiveness of the Drug Development Process.
+The histone deacetylase SIRT6 controls embryonic stem cell fate via TET-mediated production of 5-hydroxymethylcytosine
+THOC2 Mutations Implicate mRNA-Export Pathway in X-Linked Intellectual Disability
+Mechanisms of Glucocorticoid-Regulated Gene Transcription
+ChIP-exo signal associated with DNA-binding motifs provides insight into the genomic binding of the glucocorticoid receptor and cooperating transcription factors
+Statistical properties of pairwise distances between leaves on a random Yule tree
+A Novel Mutation in RPL10 (Ribosomal Protein L10) Causes X-Linked Intellectual Disability, Cerebellar Hypoplasia, and Spondylo-Epiphyseal Dysplasia
+Identical by descent L1CAM mutation in two apparently unrelated families with intellectual disability without L1 syndrome
+Erratum to: 'The direction of cross affects obesity after puberty in male but not female offspring'
+Defects in tRNA Anticodon Loop 2'-O-Methylation Are Implicated in Nonsyndromic X-Linked Intellectual Disability due to Mutations in FTSJ1
+Disruptions of Topological Chromatin Domains Cause Pathogenic Rewiring of Gene-Enhancer Interactions
+Effects of different oocyte retrieval and in vitro maturation systems on bovine embryo development and quality
+Computational modeling of microRNA Biogenesis
+Structural Snapshots of Actively Translating Human Ribosomes
+Cryo-EM of ribosomal 80S complexes with termination factors reveals the translocated Cricket Paralysis Virus IRES
+Penetrance of pathogenic mutations in haploinsufficient genes for intellectual disability and related disorders
+Bestrophin 1 is indispensable for volume regulation in human retinal pigment epithelium cells
+Reconstruction of gene networks using prior knowledge
+histoneHMM: Differential analysis of histone modifications with broad genomic footprints
+FGFR2 mutation in a patient without typical features of Pfeiffer syndrome--The emerging role of combined NGS and phenotype based strategies
+Microdeletions on 6p22.3 are associated with mesomelic dysplasia Savarirayan type
+HCFC1 loss-of-function mutations disrupt neuronal and neural progenitor cells of the developing brain
+Comparison of Exome and Genome Sequencing Technologies for the Complete Capture of Protein-Coding Regions
+Double NF1 inactivation affects adrenocortical function in NF1Prx1 mice and a human patient
+Brachydactyly Type C patient with compound heterozygosity for p.Gly319Val and p.Ile358Thr variants in the GDF5 proregion: benign variants or mutations?
+Genomics and drug profiling of fatal TCF3-HLF-positive acute lymphoblastic leukemia identifies recurrent mutation patterns and therapeutic options.
+Bioenergetic cues shift FXR splicing towards FXRα2 to modulate hepatic lipolysis and fatty acid metabolism
+PRMT1-mediated arginine methylation controls ATXN2L localization
+Ligands for the Nuclear Peroxisome Proliferator-Activated Receptor Gamma
+Nutriproteomics: facts, concepts, and perspectives
+Assembly and analysis of a comprehensive and unbiased phosphotyrosine-dependent protein-protein interaction network.
+High-Affinity Sites Form an Interaction Network to Facilitate Spreading of the MSL Complex across the X Chromosome in Drosophila
+Metabolome and Proteome Profiling of Complex I Deficiency Induced by Rotenone
+miR-22 and miR-29a are members of the androgen receptor cistrome modulating LAMC1 and Mcl-1 in prostate cancer
+Recurrent De Novo Mutations Affecting Residue Arg138 of Pyrroline-5-Carboxylate Synthase Cause a Progeroid Form of Autosomal-Dominant Cutis Laxa
+TAF1 Variants Are Associated with Dysmorphic Features, Intellectual Disability, and Neurological Manifestations
+Evaluating information content of SNPs for sample-tagging in re-sequencing projects
+Structural rearrangements in the phage head-to-tail interface during assembly and infection
+Combined ultra-low input mRNA and whole-genome sequencing of human embryonic stem cells
+Low-level APC mutational mosaicism is the underlying cause in a substantial fraction of unexplained colorectal adenomatous polyposis cases
+Identification of potential regulatory elements in Capture-C interaction profiles
+Haplotype reconstruction for sweet potato (Ipomoea Batatas [L.] Lam)
+Quantification of GC-biased gene conversion in the human genome
+How evolution of genomes is reflected in exact DNA sequence match statistics
+Mutations in DDX3X Are a Common Cause of Unexplained Intellectual Disability with Gender-Specific Effects on Wnt Signaling
+A noncanonical PWI domain in the N-terminal helicase-associated region of the spliceosomal Brr2 protein
+Transcriptional characterization and functional analysis of long non-coding RNA/protein-coding gene pairs encoded in the human genome.
+Translational regulation shapes the molecular landscape of complex disease phenotypes
+Anomalous discontinuity at the percolation critical point of active gels
+Multi-omic profiles of human non-alcoholic fatty liver disease tissue highlight heterogenic phenotypes.
+Algorithms for differential splicing detection using exon arrays: a comparative assessment
+Computational Modeling of miRNA Biogenesis, in Mathematical Models in Biology
+Prediction of human population responses to toxic compounds by a collaborative competition
+Long noncoding RNAs in organogenesis: Making the difference
+An integrated map of structural variation in 2,504 human genomes
+Intelligence: shared genetic basis between Mendelian disorders and a polygenic trait
+Parallel Structural Evolution of Mitochondrial Ribosomes and OXPHOS Complexes
+Receptor binding proteins of Listeria monocytogenes bacteriophages A118 and P35 recognize serovar-specific teichoic acids
+The CatSper channel controls chemosensation in sea urchin sperm
+Molecular architecture of the ribosome-bound Hepatitis C Virus internal ribosomal entry site RNA
+Lower baseline performance but greater plasticity of working memory for carriers of the val allele of the COMT Val¹⁵⁸Met polymorphism.
+Diverse regulatory functions of lncRNAs
+Dissecting human diploidy: Results from up to 1092 genomes
+BAZ2A (TIP5) is involved in epigenetic alterations in prostate cancer and its overexpression predicts disease recurrence
+ChIP-Seq and RNA-Seq Analyses Identify Components of the Wnt and Fgf Signaling Pathways as Prep1 Target Genes in Mouse Embryonic Stem Cells
+Amorfrutins Are Natural PPARgamma Agonists with Potent Anti-inflammatory Properties
+Insight into miRNA biogenesis with RNA sequencing
+Increased STAG2 dosage defines a novel cohesinopathy with intellectual disability and behavioral problems
+Evolutionary consequences of DNA methylation on the GC content in vertebrate genomes
+Cyclin Y phosphorylation- and 14-3-3-binding-dependent activation of PCTAIRE-1/CDK16
+Comprehensive genomic profiles of small cell lung cancer
+Network and systems biology: essential steps in virtualising drug discovery and development.
+A global reference for human genetic variation.
+Lower Baseline Performance but Greater Plasticity of Working Memory for Carriers of the Val Allele of the COMT Val(158)Met Polymorphism.
+Redefining the MED13L syndrome
+Mutations in the histamine N-methyltransferase gene, HNMT, are associated with nonsyndromic autosomal recessive intellectual disability
+Homozygous SLC6A17 mutations cause autosomal-recessive intellectual disability with progressive tremor, speech impairment, and behavioral problems
+PDE3A mutations cause autosomal dominant hypertension with brachydactyly

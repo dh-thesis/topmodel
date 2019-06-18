@@ -1,0 +1,211 @@
+Cavity-Optomechanics with Microresonators at Helium-3 Temperatures
+Extreme Light Infrastructure (ELI): Physics and Lasers at the ultra-intense frontier
+Highly sensitive dispersion measurement of a high-power passive optical resonator using spatial-spectral interferometry
+Generalized Hartree-Fock theory for interacting fermions in lattices: numerical methods
+Emerging bosons with three-body interactions from spin-1 atoms in optical lattices
+Localization of Cold Atoms in State-Dependent Optical Lattices via a Rabi Pulse
+PEPS as ground states: Degeneracy and topology
+Long-distance remote comparison of ultrastable optical frequencies with 10-15 instability in fractions of a second
+Approaching the full octave: Noncollinear optical parametric chirped pulse amplification with two-color pumping
+Picosecond electron diffraction from molecules aligned by dissociation
+Attosecond Streaking Enables the Measurement of Quantum Phase
+Controlling and Detecting Spin Correlations of Ultracold Atoms in Optical Lattices
+Constraints on a long-range spin-dependent interaction from precision atomic physics
+Ultrafast Extreme Ultraviolet Induced Isomerization of Acetylene Cations
+Measuring nanomechanical motion with an imprecision below the standard quantum limit
+Applying the Variational Principle to (1+1)-Dimensional Quantum Field Theories
+Optomechanically Induced Transparency
+Route to Attosecond Nonlinear Spectroscopy
+Optical microscopy of 3D carpet cloaks: ray-tracing calculations
+Micron-scale fast electron filaments and recirculation determined from rear-side optical emission in high-intensity laser-solid interactions
+Quantum state engineering, purification, and number-resolved photon detection with high-finesse optical cavities
+Investigation of two-beam-pumped noncollinear optical parametric chirped-pulse amplification for the generation of few-cycle light pulses
+Infinite matrix product states, conformal field theory, and the Haldane-Shastry model
+Efficient ion acceleration by collective laser-driven electron dynamics with ultra-thin foil targets
+Matrix product operator representations
+Perfect, Efficent, State Transfer and its Application as a Constructive Tool
+Modified spin-wave theory with ordering vector optimization: frustrated bosons on the spatially anisotropic triangular lattice
+Time-resolved observation of coherent multi-body interactions in quantum phase revivals
+Investigating two-photon double ionization of D-2 by XUV-pump-XUV-probe experiments
+High Repetition Rate, Tunable Femtosecond Yb-fiber Laser
+Progress in Laser Wakefield Acceleration with Few-Cycle Lasers
+The size of the proton
+Mid-infrared dual-comb spectroscopy with 2.4 μm Cr2+:ZnSe femtosecond lasers
+A high resolution, broad energy acceptance spectrometer for laser wakefield acceleration experiments
+Hawking Radiation from an Acoustic Black Hole on an Ion Ring
+Bose-Einstein Condensation in Microgravity
+Highly Entangled States with Almost No Secrecy
+Cavity-enhanced Rayleigh scattering
+High speed optical quantum random number generation
+Precision Physics of Simple Atoms and Constraints on a Light Boson with Ultraweak Coupling
+Quantum model simulations of attosecond electron diffraction
+Tapered plasma channels to phase-lock accelerating and focusing forces in laser-plasma accelerators
+Atom-chip-based generation of entanglement for quantum metrology
+Editorial: 50 Years of Laser - Celebrating an invention that changed our lives
+2.4 μm Dual-Comb Spectroscopy
+Sensitive and Simple Frequency Comb Fourier Transform Spectrometer with a Multipass Cell
+Intermediate Infrared Raman Lasing and Four-Wave Mixing in Crystalline Whispering Gallery Mode Resonators
+Optical response of silica microcavities in gaseous and superfluid Helium-4
+NaNe potentials from a combined analysis of spectroscopic and scattering data
+Contribution of light-by-light scattering to energy levels of light muonic atoms
+Attosecond time-resolved spectroscopy at surfaces
+Entanglement enhanced quantum sensing
+High Precision Calibration of Spectrographs in Astronomy
+Power Scaling of a 78 MHz-Repetition Rate Femtosecond Enhancement Cavity
+Trace gas detection with frequency comb Fourier transform spectroscopy
+Optical Measurement of Nanomechanical Motion with an Imprecision at the Standard Quantum Limit
+A Peltier Cooled Single Pass Amplifier for Titanium: Sapphire Laser Pulses
+Theory of laser ion acceleration from a foil target of nanometer thickness
+Nuclear Spin Cooling Using Overhauser-Field Selective Coherent Population Trapping
+Strong-Field Above-Threshold Photoemission from Sharp Metal Tips
+High-speed terahertz time-domain spectroscopy of cyclotron resonance in pulsed magnetic field
+Single-electron pulses for ultrafast diffraction
+Conformal carpet and grating cloaks
+Cold Atom Simulation of Interacting Relativistic Quantum Field Theories
+Exploring few-photon, few-electron reactions at FLASH: from ion yield and momentum measurements to time-resolved and kinematically complete experiments
+Coherent manipulation of ultracold atoms with microwave near-fields
+Laser-dressed scattering of an attosecond electron wave packet
+Cavity optomechanics with ultrahigh-Q crystalline microresonators
+s-Wave Interaction in a Two-Species Fermi-Fermi Mixture at a Narrow Feshbach Resonance
+Paired in one dimension
+Toward single attosecond pulses using harmonic emission from solid-density plasmas
+Dynamic modification of the fragmentation of COq+ excited states generated with high-order harmonics
+Absolute charge calibration of scintillating screens for relativistic electron detection
+Laser acceleration and its future
+Precise laser spectroscopy of antiprotonic helium at CERN’s Antiproton Decelerator
+Theoretical Analysis of Mechanical Displacement Measurement Using a Multiple Cavity Mode Transducer
+Inconsistencies between two attosecond pulse metrology methods: A comparative study
+Experimental implementation of a four-player quantum game
+Nonrelativistic contributions of order α5mμc2 to the Lamb shift in muonic hydrogen and deuterium, and in the muonic helium ion
+Monoenergetic Energy Doubling in a Hybrid Laser-Plasma Wakefield Accelerator
+Laser Spectroscopy on Relativistic Ion Beams
+Optical Superradiance from Nuclear Spin Environment of Single-Photon Emitters
+Unlimited Ion Acceleration by Radiation Pressure
+Differential cross sections for non-sequential double ionization of He by 52 eV photons from the Free Electron Laser in Hamburg, FLASH
+Homogeneous multiscale entanglement renormalization ansatz tensor networks for quantum critical systems
+Tracking Autoionizing-Wave-Packet Dynamics at the 1-fs Temporal Scale
+Generation of sub-3 fs pulses in the deep ultraviolet
+A fiber Fabry-Perot cavity with high finesse
+Delay in Photoemission
+Entanglement equivalence of N-qubit symmetric states
+A Quantum Version of Wielandt's Inequality
+Structural and Kinetic Analysis of Bacillus subtilis N-Acetylglucosaminidase Reveals a Unique Asp-His Dyad Mechanism
+Density-transition based electron injector for laser driven wakefield accelerators
+New aspects of geometric phases in experiments with polarized neutrons
+Versatile apparatus for attosecond metrology and spectroscopy
+Field fluctuations measured by interferometry
+Frequency-Tunable Multigigawatt Sub-Half-Cycle Light Pulses from Coupled-State Dynamics of Optical Solitons and Impulsively Driven Molecular Vibrations
+Optical lattices with micromechanical mirrors
+Metallization of Nanofilms in Strong Adiabatic Electric Fields
+Excitonic effects in the nonlinear optical response of a Si(111) surface
+Dispersion control with reflection grisms of an ultra-broadband spectrum approaching a full octave
+Highly Efficient State-Selective Submicrosecond Photoionization Detection of Single Atoms
+Effects of dissipation on an adiabatic quantum search algorithm
+Energy scalability of mode-locked oscillators: a completely analytical approach to analysis
+Suppression of the critical temperature for superfluidity near the Mott transition
+Laser-driven ion acceleration using isolated mass-limited spheres
+Comment on "Feshbach-Einstein Condensates''
+Quantum random networks
+Absolute frequency measurements of 85Rb n F7/2 Rydberg states using purely optical detection
+Power scaling of a high-repetition-rate enhancement cavity
+Precision Measurement of the Hydrogen-Deuterium 1S-2S Isotope Shift
+Optical trapping of an ion
+Autofocused, enhanced proton acceleration from a nanometer-scale bulged foil
+Ground-state properties of the spin-½ antiferromagnetic Heisenberg model on the triangular lattice: a variational study based on entangled-plaquette states
+Simulation of anyons with tensor network algorithms
+Imaging of microwave fields using ultracold atoms
+Velocity-selected molecular pulses produced by an electric guide
+Coherent Dynamics and State Detection of Single Atoms in a Cavity
+Homogeneous binary trees as ground states of quantum critical Hamiltonians
+Simulating two-and three-dimensional frustrated quantum systems with string-bond states
+Plasma cavitation in ultraintense laser interactions with underdense helium plasmas
+Entanglement and communication-reducing properties of noisy N-qubit states
+Collinear generation of ultrashort UV and XUV pulses
+Interfacing nuclear spins in quantum dots to a cavity or traveling-wave fields
+Toward quantum superposition of living organisms
+Towards electron-electron entanglement in Penning traps
+The spaser as a nanoscale quantum generator and ultrafast amplifier
+Quantum interface between light and nuclear spins in quantum dots
+Probing ultrafast nano-localized plasmonic fields via XUV light generation
+Continuous Matrix Product States for Quantum Fields
+Cavity Optomechanics with Whispering-Gallery Mode Optical Micro-Resonators
+The Lamb Shift in Muonic Hydrogen
+Confocal THz Laser Microscope
+Classical Simulation of Quantum Computation, the Gottesmann-Knill theorem, and Slightly Beyond
+Operational multipartite entanglement classes for symmetric photonic qubit states
+Two-photon direct frequency comb spectroscopy with chirped pulses
+Characterizing symmetries in a projected entangled pair state
+Single-atom cavity QED and optomicromechanics
+Cavity-enhanced dual-comb spectroscopy
+Quantum memories
+Calculation of transition probabilities and ac Stark shifts in two-photon laser transitions of antiprotonic helium
+High-precision calibration of spectrographs
+Electromagnetically induced transparency with single atoms in a cavity
+Uniform Laser-Driven Relativistic Electron Layer for Coherent Thomson Scattering
+Unlimited energy gain in the laser-driven radiation pressure dominant acceleration of ions
+Resonant Coupling of a Bose-Einstein Condensate to a Micromechanical Oscillator
+Universal resources for approximate and stochastic measurement-based quantum computation
+Exploring strongly correlated quantum many-body systems with ultracold atoms in optical lattices
+Crossover from adiabatic to sudden interaction quenches in the Hubbard model: prethermalization and non-equilibrium dynamics
+Microresonators Particle sizing by mode splitting
+Phase-Coherent Frequency Comparison of Optical Clocks Using a Telecommunication Fiber Link
+Cold Guided Beams of Polar Molecules
+Photodissociation of group-6 hexacarbonyls: observation of coherent oscillations in an antisymmetric (pseudorotation) vibration in Mo(CO)5 and W(CO)5
+Frequency combs in the extreme ultraviolet
+Six-photon entangled Dicke state enabled by a UV enhancement cavity as novel SPDC photon source
+Theory of Mechanical Displacement Measurement Using a Multiple Cavity Mode Transducer
+A 500 km optical fiber link with six remotely controlled optical amplifiers for frequency comparison between MPQ and PTB
+Wilson Fermions and Axion Electrodynamics in Optical Lattices
+Determination of the vacuum optomechanical coupling rate using frequency noise calibration
+Temporal coherence effects in multiple ionization of N2 via XUV pump-probe autocorrelation
+Simulations of petawatt-class few-cycle optical-parametric chirped-pulse amplification, including nonlinear refractive index effects
+Asymmetric optical nuclear spin pumping in a single uncharged quantum dot
+New developments in energy transfer and transport studies in relativistic laser-plasma interactions
+Exact renormalization in quantum spin chains
+Single-atom-resolved fluorescence imaging of an atomic Mott insulator
+Complete devil's staircase and crystal-superfluid transitions in a dipolar XXZ spin chain: a trapped ion quantum simulation
+Multi-particle entanglement on an atomchip
+Extreme Light Infrastructure: architecture and major challenges
+Lossless State Detection of Single Neutral Atoms
+Non-Abelian anyonic interferometry with a multi-photon spin lattice simulator
+Fidelity threshold for long-range entanglement in quantum networks
+Improving proton acceleration with circularly polarized intense laser pulse by radial confinement with heavy ions
+Octave-Spanning Tunable Frequency Combs on a Chip
+Photonic Structure Based Acceleration of Non-Relativistic Electrons – Simulations and Proof-of-Concept Experiment
+Plasma-Mirror-Cleaned High-Contrast Few-Cycle Relativistic-Intensity Light Pulses
+Multipartite entanglement percolation
+Electron Bunch Length Measurements from Laser-Accelerated Electrons Using Single-Shot THz Time-Domain Interferometry
+Electrostatics of gapped and finite surface electrodes
+L-Tyrosine on Ag(111): Universality of the Amino Acid 2D Zwitterionic Bonding Scheme?
+Near-field Cavity Optomechanics with Nanomechanical Oscillators
+Ultra-high Q Crystalline Microresonators for Cavity Optomechanics
+Anomalous Expansion of Attractively Interacting Fermionic Atoms in an Optical Lattice
+Pfaffian State Generation by Strong Three-Body Dissipation
+Effects of multi orbital contributions in the angular-dependent ionization of molecules in intense few-cycle laser pulses
+Ultraviolet enhancement cavity for ultrafast nonlinear optics and high-rate multiphoton entanglement experiments
+Fermionic projected entangled pair states
+Calculating the fine structure of a Fabry-Perot resonator using spheroidal wave functions
+Thermal states of anyonic systems
+First milestone on the path toward a table-top free-electron laser (FEL)
+Temporal characterization of attosecond pulses emitted from solid-density plasmas
+Injection Locking of a Trapped-Ion Phonon Laser
+Limitations of Passive Protection of Quantum Information
+Ultra-broadband near-infrared pulse generation by noncollinear OPA with angular dispersion compensation
+Observation of few-cycle, strong-field phenomena in surface plasmon fields
+Optimized magnetic lattices for ultracold atomic ensembles
+Constraints on a long-range spin-independent interaction from precision atomic physics
+Collective deceleration: Toward a compact beam dump
+Emittance and divergence of laser wakefield accelerated electrons
+Spatio-temporal couplings in ultrashort laser pulses
+Limitations on the Attainable Intensity of High Power Lasers
+Modeling and optimization of single-pass laser amplifiers for high-repetition-rate laser pulses
+Real-time observation of valence electron motion
+Nonclassicality thresholds for multiqubit states: Numerical analysis
+Attosecond Electron Spectroscopy Using a Novel Interferometric Pump-Probe Technique
+Matrix product state and mean-field solutions for one-dimensional systems can be found efficiently
+Tracking nuclear wave-packet dynamics in molecular oxygen ions with few-cycle infrared laser pulses
+Permutationally Invariant Quantum Tomography
+All-Optical Steering of Laser-Wakefield-Accelerated Electron Beams
+Feedback Cooling of a Single Neutral Atom
+Femtosecond wave-packet dynamics in cesium dimers studied through controlled stimulated emission
+Far-field optical imaging and manipulation of individual spins with nanoscale resolution

@@ -1,0 +1,90 @@
+Attosecond-correlated dynamics of two electrons in argon
+Strong-field control of the dissociative ionization of N2O with near-single-cycle pulses
+TITAN: An ion trap facility for on-line mass measurement experiments
+TITAN: an ion trap for accurate mass measurements of ms-half-life nuclides
+Direct determination of the atomic mass difference of 187Re and 187Os for neutrino physics and cosmochronology
+Extracting Phase and Amplitude Modifications of Laser-Coupled Fano Resonances
+Absolute rate coefficients for photorecombination and electron-impact ionization of magnesiumlike iron ions from measurements at a heavy-ion storage ring
+Precision mass spectrometry of highly charged ions with TITAN Status and outlook
+Radiative-electron-capture-to-continuum cusp in U88+ + N2 collisions and the high-energy endpoint of electron-nucleus bremsstrahlung
+Evidence for Partial Dynamical Symmetries in Atomic Nuclei
+Transition energy measurements in hydrogenlike and heliumlike ions strongly supporting bound-state QED calculations
+Impact of aerosols and adverse atmospheric conditions on the data quality for spectral analysis of the H.E.S.S. telescopes
+Comparison of the alpha-decay half-life of 210Po implanted in a copper matrix at 4.2 and 293 K
+Measurements of neutron-induced reactions in inverse kinematics
+Electron-capture branching ratio measurements of odd-odd intermediate nuclei in double-beta decay at the TITAN facility
+Long-term TeV and X-ray Observations of the Gamma-ray Binary HESS J0632+057
+Recombination of W18+ ions with electrons: Absolute rate coefficients from a storage-ring experiment and from theoretical calculations
+Non-sequential double ionization of ar: from the single- to the many-cycle regime
+Low cryogen inventory, forced flow Ne cooling system with room temperature compression stage and heat recuperation
+The Electron Capture 163Ho Experiment ECHo
+Reducing θ13 to 9°
+Toward a more accurate Q value measurement of tritium: status of THe-Trap
+Ion bunch stacking in a Penning trap after purification in an electrostatic mirror trap
+Breakdown of the Isobaric Multiplet Mass Equation for the A = 20 and 21 Multiplets
+X-ray diffraction from isolated and strongly aligned gas-phase molecules with a free-electron laser
+High-precision measurement of the atomic mass of the electron
+Maximum intensity, transmission limited cold electron beams from GaAs photocathode in the eV and sub-eV kinetic energy range
+First-order perturbative calculation of the frequency-shifts caused by static cylindrically-symmetric electric and magnetic imperfections of a Penning trap
+First time-dependent study of H2 and H+3 ortho-para chemistry in the diffuse interstellar medium: observations meet theoretical predictions.
+Multiple ionization and fragmentation dynamics of molecular iodine studied in IR-XUV pump-probe experiments
+Precision QEC-value measurement of 23Mg for testing the Cabibbo-Kobayashi-Maskawa matrix unitarity
+Strong-Field Tunneling from a Coherent Superposition of Electronic States
+Competition between pairing correlations and deformation from the odd-even mass staggering of francium and radium isotopes
+Broadband high-resolution X-ray frequency combs
+Two-dimensional spectral interpretation of time-dependent absorption near laser-coupled resonances
+TeV γ-ray observations of the young synchrotron-dominated SNRs G1.9+0.3 and G330.2+1.0 with H.E.S.S.
+Search for TeV Gamma-ray Emission from GRB 100621A, an extremely bright GRB in X-rays, with H.E.S.S
+Direct high-precision mass measurements on 241,243Am, 244Pu, and 249Cf
+Study of forward Z + jet production in pp collisions at √s= 7 TeV
+An (e, 2e + ion) study of low-energy electron-impact ionization and fragmentation of tetrahydrofuran with high mass and energy resolutions
+Lifetime Measurement of the First Vibrationally Excited State of MgH+ in a Cryogenic Paul Trap (CryPTEx)
+Measurement of the angular distribution of Dielectronic Recombination into highly charged Krypton ions
+The magnetic moments of the proton and the antiproton
+Absolute configuration assignment of a chiral molecule in the gas phase using foil-induced Coulomb explosion imaging
+Towards a high-precision measurement of the antiproton magnetic moment
+Absolute cross sections for photoionization of Xeq+ ions (1 ≤ q ≤ 5) at the 3d ionization threshold
+Two-Center Interferences in Dielectronic Transitions in H+2 + He Collisions
+Contributions of dielectronic, trielectronic, and metastable channels to the resonant intershell recombination of highly charged silicon ions
+Origin of odd-even staggering in fragment yields: Impact of nuclear pairing and shell structure on the particle-emission threshold energy
+Direct high-precision measurement of the magnetic moment of the proton
+Neutrinos from the primary proton–proton fusion process in the Sun
+Chemical reaction dynamics I and electron dynamics in molecules: general discussion
+Shapes and vorticities of superfluid helium nanodroplets
+What will it take to observe processes in 'real time'?
+An experimental test of the weak equivalence principle for antihydrogen at the future FLAIR facility
+Time-of-flight detectors with improved timing performance for isochronous mass measurements at the CSRe
+Charge and frequency resolved isochronous mass spectrometry and the mass of 51Co
+Coulomb Explosion Imaged Cryptochiral (R,R)-2,3-Dideuterooxirane: Unambiguous Access to the Absolute Configuration of (+)-Glyceraldehyde
+RILIS applications at CERN/ISOLDE
+Electron-loss-to-continuum cusp in U88+ +N2 collisions
+PIPERADE: A Penning-trap isobar separator for the DESIR low energy facility of SPIRAL2
+Constraining Sterile Neutrinos Using Reactor Neutrino Experiments
+An RFQ cooler and buncher for the TRIGA-SPEC experiment
+Proton-Neutron Pairing Correlations in the Self-Conjugate Nucleus38K Probed via a Direct Measurement of the Isomer Shift
+On the keV sterile neutrino search in electron capture
+Atomic line emission and high-order harmonic generation in argon driven by 4-MHz sub-μJ laser pulses
+In-Trap Spectroscopy of Charge-Bred Radioactive Ions
+Electron Rearrangement Dynamics in Dissociating In+2 Molecules Accessed by Extreme Ultraviolet Pump-Probe Experiments
+Evolution of nuclear ground-state properties of neutron-deficient isotopes around Z = 82 from precision mass measurements
+Exploring high-energy doubly excited states of NH by dissociative recombination of NH+
+Vibrational autodetachment of sulfur hexafluoride anions at its long-lifetime limit
+Novel method for state selective determination of electron-impact-excitation cross sections from 0° to 180°
+Femtosecond x-ray photoelectron diffraction on gas-phase dibromobenzene molecules
+Subfemtosecond steering of hydrocarbon deprotonation through superposition of vibrational modes
+Imaging molecular structure through femtosecond photoelectron diffraction on aligned and oriented gas-phase molecules
+Shell structure of potassium isotopes deduced from their magnetic moments
+A timing detector with pulsed high-voltage power supply for mass measurements at CSRe
+Billion-Fold Enhancement in Sensitivity of Nuclear Magnetic Resonance Spectroscopy for Magnesium Ions in Solution
+On-line implementation and first operation of the Laser Ion Source and Trap at ISOLDE/CERN
+Reconstruction and control of a time-dependent two-electron wave packet
+Efficient rotational cooling of Coulomb-crystallized molecular ions by a helium buffer gas
+The cryogenic gas stopping cell of SHIPTRAP
+Test of Time Dilation Using Stored Li+ Ions as Clocks at Relativistic Speed
+A phase-imaging technique for cyclotron-frequency measurements
+Precision Penning-trap measurement to investigate the role of the 51Cr(e−,νe)51V Q value in the gallium anomaly
+Metastable states of diatomic hydrogen anions
+An online FT-ICR Penning-trap mass spectrometer for the DPS2-F section of the KATRIN experiment
+Nuclear charge radii of potassium isotopes beyond N = 28
+Multi-Reflection Time-of-Flight Mass Separation and Spectrometry
+New determination of double-β-decay properties in 48Ca: High-precision Qββ-value measurement and improved nuclear matrix element calculations

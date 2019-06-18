@@ -1,0 +1,79 @@
+Peripheral Facial Nerve Axotomy in Mice Causes Sprouting of Motor Axons Into Perineuronal Central White Matter: Time Course and Molecular Characterization
+ADF/Cofilin-Actin Rods in Neurodegenerative Diseases
+Topography in Hippocampal Mossy Fiber Plasticity
+Sox10 is required for Schwann cell identity and progression beyond the immature Schwann cell stage
+T cell vaccination induces the elimination of EAE effector T cells: Analysis using GFP-transduced, encephalitogenic T cells
+Specific Dopaminergic Neurons for the Formation of Labile Aversive Memory
+Generation of microRNA-Sensitive VSV Vectors for Safer Treatment of Hepatocellular Carcinoma and Hepatic Metastasis of Colorectal Cancer
+Clearance of Rhodopsin(P23H) aggregates requires the ERAD effector VCP
+Lifeact mice for studying F-actin dynamics
+Prospero and miR-279 regulate CO2 sensory circuit formation in Drosophila
+ClC-2 Voltage-Gated Channels Constitute Part of the Background Conductance and Assist Chloride Extrusion
+The emerging role of microRNAs in multiple sclerosis
+The role of dose escalation with intracavitary brachytherapy in the treatment of localized CNS malignancies: Outcomes and toxicities of a prospective study
+Neuron-astrocyte communication and synaptic plasticity
+Resurrection of autoreactive immune cells
+Rac1 Regulates Neuronal Polarization through the WAVE Complex
+B cells in spontaneous autoimmune diseases of the central nervous system
+Imaging CREB Activation in Living Cells
+Nicotinic acid adenine dinucleotide phosphate-mediated calcium signalling in effector T cells regulates autoimmunity of the central nervous system
+Processing of Horizontal Optic Flow in Three Visual Interneurons of the Drosophila Brain
+Pro-Survival Role for Parkinson's Associated Gene DJ-1 Revealed in Trophically Impaired Dopaminergic Neurons
+Appetitive and aversive visual learning in freely moving Drosophila
+'Gimme five': future challenges in multiple sclerosis. ECTRIMS Lecture 2009
+Searching for Engrams
+GDNF Acts as a Chemoattractant to Support ephrinA-Induced Repulsion of Limb Motor Axons
+Improved Hidden Markov Models for Molecular Motors, Part 2: Extensions and Application to Experimental Data
+A Chemical Screen Identifies Novel Compounds That Overcome Glial-Mediated Inhibition of Neuronal Regeneration
+Concurrent TNFRSF1A R92Q and pyrin E230K mutations in a child with multiple sclerosis
+Restoration of Cone Vision in the CNGA3(-/-) Mouse Model of Congenital Complete Lack of Cone Photoreceptor Function
+Neurophysiology: Recording from Neurons in Action
+Knocking at the brain's door: intravital two-photon imaging of autoreactive T cell interactions with CNS structures
+Real-time imaging reveals the single steps of brain metastasis formation
+A Placebo-Controlled Trial of Oral Fingolimod in Relapsing Multiple Sclerosis
+Replacement of mouse Sox10 by the Drosophila ortholog Sox100B provides evidence for co-option of SoxE proteins into vertebrate-specific gene-regulatory networks through altered expression
+Neural circuits underlying visual appetitive and aversive memories in Drosophila melanogaster
+Cell-Type Specific Properties of Pyramidal Neurons in Neocortex Underlying a Layout that Is Modifiable Depending on the Cortical Area
+Extracellular Matrix in Multiple Sclerosis Lesions: Fibrillar Collagens, Biglycan and Decorin are Upregulated and Associated with Infiltrating Immune Cells
+Polymorphisms in the receptor for GDNF (RET) are not associated with Parkinson's disease in Southern Germany
+Dendritic targeting in the Drosophila motor system by Frazzled and Unc5
+Fascin is necessary for the promotion of actin-rich spikes and the suppression of bona-fide branching in Drosophila sensory dendrites
+Drug-induced Sweet's syndrome after mitoxantrone therapy in a patient with multiple sclerosis
+Structural Long-Term Changes at Mushroom Body Input Synapses
+Axo-glial antigens as targets in multiple sclerosis: implications for axonal and grey matter injury
+Dendritic Spines: The Stuff That Memories Are Made Of?
+Discrimination and variable impact of ANCA binding to different surface epitopes on proteinase 3, the Wegener's autoantigen
+Fragile privileges: autoimmunity in brain and eye
+In Vivo Imaging of Partially Reversible Th17 Cell-Induced Neuronal Dysfunction in the Course of Encephalomyelitis
+Imaging Living Synapses at the Nanoscale by STED Microscopy
+Central gating of fly optomotor response
+Cell Sorting during Regenerative Tissue Formation
+ON and OFF pathways in Drosophila motion vision
+Improved Hidden Markov Models for Molecular Motors, Part 1: Basic Theory
+One Rule to Grow Them All: A General Theory of Neuronal Branching and Its Practical Application
+Signaling from Axon Guidance Receptors
+Visualizing retinotopic half-wave rectified input to the motion detection circuitry of Drosophila
+Headache in patients with a meningioma correlates with a bone-invasive growth pattern but not with cytokine expression
+Fly Motion Vision
+Repairing the parkinsonian brain with neurotrophic factors
+Zero Tolerance (to Acetylcholine Receptor) and Ways to Overcome It
+Axon Extension Occurs Independently of Centrosomal Microtubule Nucleation
+Synapsin is selectively required for anesthesia-sensitive memory
+Coding Efficiency of Fly Motion Processing Is Set by Firing Rate, Not Firing Precision
+Functional and Pathogenic Differences of Th1 and Th17 Cells in Experimental Autoimmune Encephalomyelitis
+Beneficial brain autoimmunity?
+Identifying targets for autoantibodies in CNS inflammation: Strategies and achievements
+Eye Smarter than Scientists Believed: Neural Computations in Circuits of the Retina
+Electrical Activity Suppresses Axon Growth through Ca(v)1.2 Channels in Adult Primary Sensory Neurons
+Delivery and therapeutic potential of human granzyme B
+Cellular Configuration of Single Octopamine Neurons in Drosophila
+SynCAM 1 Adhesion Dynamically Regulates Synapse Number and Impacts Plasticity and Learning
+Molecular oracles for multiple sclerosis therapy
+Spatiotemporal Response Properties of Optic-Flow Processing Neurons
+Inflammatory autoimmune myopathy
+Norrin Promotes Vascular Regrowth after Oxygen-Induced Retinal Vessel Loss and Suppresses Retinopathy in Mice
+Mapping of Conformational Epitopes on Human Proteinase 3, the Autoantigen of Wegener's Granulomatosis
+Tailor-made inflammation: how neutrophil serine proteases modulate the inflammatory response
+Inactivation of VCP/ter94 Suppresses Retinal Pathology Caused by Misfolded Rhodopsin in Drosophila
+High speed optical coherence microscopy with autofocus adjustment and a miniaturized endoscopic imaging probe
+Convolutional networks can learn to generate affinity graphs for image segmentation

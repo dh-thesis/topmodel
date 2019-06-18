@@ -1,0 +1,352 @@
+Using person-fit measures to assess the impact of panel conditioning on reliability
+Do you see the forest or the tree? Neural gain and breadth versus focus in perceptual processing
+Scene construction, visual foraging, and active inference
+Acute stress selectively impairs learning to act
+Happier people show greater neural connectivity during negative self-referential processing
+Computational psychiatry of ADHD: Neural gain impairments across marrian levels of analysis
+Corrigendum to "Optimal inference with suboptimal models: Addiction and active Bayesian inference" [Medical Hypotheses, 84 (2015), 109-117. doi:10.1016/j.mehy.2014.12.007]
+Multiple value signals in dopaminergic midbrain and their role in avoidance contexts
+Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome
+Neural mechanisms of harm-avoidance learning: A model for obsessive-compulsive disorder?
+Bandit strategies in social search: The case of the DARPA red balloon challenge
+Multiple "buy buttons" in the brain: Forecasting chocolate sales at point-of-sale based on functional brain activation using fMRI
+Work and family from a life course perspective [Special issue in honor of Karl Ulrich Mayer's 70th Birthday]
+Pharmacological fingerprints of contextual uncertainty
+Sensory deviancy detection measured directly within human nucleus accumbens
+Dopamine increases a value-independent gambling propensity
+Corrigendum to "Active inference and epistemic value" [Cognitive Neuroscience, 6 (2015), 187-214. doi: 10.1080/17588928.2015.1020053]
+Corrigendum to "Changing pattern in the basal ganglia: Motor switching under reduced dopaminergic drive". [Scientific Reports, 6:23327 (2016). doi:10.1038/srep23327]
+Unmasking latent inhibitory connections in human cortex to reveal dormant cortical memories
+Changing pattern in the basal ganglia: Motor switching under reduced dopaminergic drive
+"Contemplating the next maneuver": Functional neuroimaging reveals intraoperative decision-making strategies
+A computational analysis of aberrant delay discounting in psychiatric disorders
+Context-specific activation of hippocampus and SN/VTA by reward is related to enhanced long-term memory for embedded objects
+Personality trait development at the end of life: Antecedents and correlates of mean-level trajectories
+Sex-specific and inter-individual differences in biomarkers of selenium status identified by a calibrated ELISA for selenoprotein P
+Identifying sarcopenia in metabolic syndrome: Data from the Berlin Aging Study II
+Network diversity and affect dynamics: The role of personality traits
+A novel framework for improving psychiatric diagnostic nosology
+A Bayesian method for reducing bias in neural representational similarity analysis
+Fast sequences of non-spatial state representations in humans
+The social contingency of momentary subjective well-being
+Oxytocin effect on collective decision making: A randomized placebo controlled study
+The dopaminergic midbrain mediates an effect of average reward on Pavlovian vigor
+Perimovement decrease of alpha/beta oscillations in the human nucleus accumbens
+Deep brain stimulation of the subthalamic nucleus modulates sensitivity to decision outcome value in Parkinson's disease
+Interpreting BOLD: Towards a dialogue between cognitive and cellular neuroscience
+Effective connectivity from early visual cortex to posterior occipitotemporal face areas supports face selectivity and predicts developmental prosopagnosia
+Leukocyte telomere length is related to appendicular lean mass: Cross-sectional data from the Berlin Aging Study II (BASE-II)
+Cytomegalovirus infection minimally affects the frequencies of B-cell phenotypes in peripheral blood of younger and older adults
+No strong correlations between serum cytokine levels, CMV serostatus and hand-grip strength in older subjects in the Berlin BASE-II cohort
+Prevalence and definition of sarcopenia in community dwelling older people: Data from the Berlin Aging Study II (BASE-II)
+Responses of dendritic cells to TLR-4 stimulation are maintained in the elderly and resist the effects of CMV infection seen in the young
+Personalized feedback in web surveys: Does it affect respondents motivation and data quality?
+Predicting and containing epidemic risk using on-line friendship networks
+Gene transcription profiles associated with inter-modular hubs and connection distance in human functional magnetic resonance imaging networks
+Adherence to a mediterranean-style diet and appendicular lean mass in community-dwelling older people: Results from the Berlin Aging Study II
+The inflammatory markers CRP, IL-6 and IL-10 are associated with cognitive function: Data from the Berlin Aging Study II (BASE-II)
+Association between metabolic syndrome and bone mineral density - Data from the Berlin Aging Study II (BASE- II)
+The impact of menstrual cycle phase on economic choice and rationality
+Computations of uncertainty mediate acute stress responses in humans
+Mood as representation of momentum
+Approach-induced biases in human information sampling
+Adaptive integration of habits into depth-limited planning defines a habitual-goal-directed spectrum
+The influence of contextual reward statistics on risk preference
+Active inference and learning
+Sharing a context with other rewarding events increases the probability that neutral events will be recollected
+Predicting and containing epidemic risk using friendship networks
+Unexpected arousal modulates the influence of sensory noise on confidence
+Angiotensin-converting enzyme inhibitors and parameters of sarcopenia: Relation to muscle mass, strength and function. Data from the Berlin Aging Study II (BASE-II)
+Surrogatmarker der Insulinresistenz bei Studienteilnehmern mit metabolischem Syndrom - Daten der Berliner Altersstudie II
+Whose life should your car save?
+Special issue on argumentation in multi-agent systems: Guest editorial
+Superintelligence cannot be contained: Lessons from computability theory
+Beyond viral
+Experimental assessment of aggregation rules in argumentation-enabled collective intelligence
+The social dilemma of autonomous vehicles
+How could we get nosology from computation?
+Introduction to special issue on work and family from a life course: In honor of Karl Ulrich Mayer's 70th Birthday
+Profiling neuronal ion channelopathies with non-invasive brain imaging and dynamic causal models: Case studies of single gene mutations
+Stimulus novelty energizes actions in the absence of explicit reward
+How people use social information to find out what to want in the paradigmatic case of inter-temporal preferences
+A multiple hold-out framework for Sparse Partial Least Squares
+Neural processes mediating contextual influences on human choice behaviour
+The specificity of Pavlovian regulation is associated with recovery from depression
+Striatal structure and function predict individual biases in learning to avoid pain
+Neural signals encoding shifts in beliefs
+Neurocognitive effects of transcranial direct current stimulation in arithmetic learning and performance: A simultaneous tDCS-fMRI study
+Relative leukocyte telomere length, hematological parameters and anemia: Data from the Berlin Aging Study II (BASE-II)
+The modulation of savouring by prediction error and its effects on choice
+A Bayesian model of context-sensitive value attribution
+Computational phenotyping in psychiatry: A worked example
+Special issue on argumentation in multi-agent systems
+Analyse des Zusammenhangs zwischen Vorhofflimmern, Diabetes mellitus Typ II, gestörter Glukosetoleranz, Insulinresistenz und Adipositas anhand eines Probandenkollektivs von BASE-II (Berliner Altersstudie-II)
+Anti-catholicism and catholicism in nineteenth-century United States and the war of 1898
+Debating violence in the face of war: Changes in South Asian buddhist ethics over the long World War II (1933-1945)
+Hormonal influences on the brain in women: The menstrual cycle, hormonal contraceptives, and pregnancy
+Entrepreneurial failure: Statistical and psychological explanations
+Risk taking for potential rewards decreases across the lifespan
+Behavior with models: The role of psychological heuristics in operations research
+Neurotransmitter changes during interference task in anterior cingulate cortex: Evidence from fMRI guided functional MRS at 3T
+Syncope clinical management in the emergency department: A consensus from the first international workshop on syncope risk stratification in the emergency department
+Using response time and accuracy data to inform the measurement of fluency
+A simple tool for communicating the benefits and harms of health interventions: A guide for creating a fact box
+Still doing fine? The interplay of negative life events and self-esteem during young adulthood
+Decision heuristics for comparison: How good are they?
+The witch on trial: Narratives of conflict and community in early modern Germany
+Differential aging of cerebral white matter in middle-aged and older adults: A seven-year follow-up
+Full disclosure about cancer screening: Time to change communication from dodgy persuasion to something straightforward
+Introduction: 'Unbridled passion': Emotions in the history of witchcraft, witchcraft in the history of emotions
+From mother to child: Orbitofrontal cortex gyrification and changes of drinking behaviour during adolescence
+Personality-situation transactions from adolescence to old age
+Propensity for risk taking across the life span and around the globe
+Men and the periodical press
+Betting on illusory patterns: Probability matching in habitual gamblers
+On the estimation of brain signal entropy from sparse neuroimaging data
+When bad moods may not be so bad: Valuing negative affect is associated with weakened affect-health links
+Hypnosis attenuates executive cost of prospective memory
+Exploring the ecological validity of thinking on demand: Neural correlates of elicited vs. spontaneously occurring inner speech
+Building the theory of ecological rationality
+The Subjective Health Horizon Questionnaire (SHH-Q): Assessing the future time perspectives for facets of an active lifestyle
+How people with low and high graph literacy process health graphs: Evidence from eye-tracking
+How can music be torturous? Music in Nazi concentration and extermination camps
+SmartSenior@home: Acceptance of an integrated ambient assisted living system. Results of a clinical field trial in 35 households
+Effects of prior knowledge on memory: Implications for education
+The role of emotions in the production of capitalist subjects: An introduction
+The evolution of generosity in the ultimatum game
+Altered value coding in the ventromedial prefrontal cortex in healthy older adults
+Leistungen, Leistungsfähigkeit und Leistungsgrenzen der empirischen Bildungsforschung: Das Beispiel von Large-Scale-Assessment-Studien zwischen Wissenschaft und Politik
+War, revolution, and drugs: "Democratization" of drug abuse and the evolution of drug policy in Russia, 1914-24
+Editorial
+A random utility model of delay discounting and its application to people with externalizing psychopathology
+Episodic memory
+Ghrelin modulates encoding-related brain function without enhancing memory formation in humans
+Predicting fluid intelligence by components of reaction time distributions from simple choice reaction time tasks
+Accuracy and reliability of the Kinect Version 2 for clinical measurement of motor function
+Of testimonios and feeling communities: Totaram Sanadhya's account of indenture
+A longitudinal experimental study on the training with a violent video game investigating the neural basis of impulsivity using voxel-based morphometry
+Große Kinder und ihre Entwicklungsaufgaben: Handelnde Subjekte zwischen Schuleintritt und Jugendalter
+Finding foundations for bounded and adaptive rationality
+Ecological rationality of social learning
+History of science and the emotions [Special issue]
+The science of sympathy: Morality, evolution, and Victorian civilization
+The impact of maturation and school entry on episodic memory and its neural correlates. Master's thesis, Freie Universität Berlin, Germany
+Emotions and decisions: Beyond conceptual vagueness and the rationality muddle
+Developing developmental cognitive neuroscience: From agenda setting to hypothesis testing
+L1 and L2 Distance Effects in Learning L3 Dutch
+A sampling framework for uncertainty in individual environmental decisions
+Dopamine modulation of spatial navigation memory in Parkinson's disease
+Changes in fitness are associated with changes in hippocampal microstructure and hippocampal volume among older adults
+Associations between neighbourhood characteristics, health and well-being vary over the life course
+Genetic burden analyses of phenotypes relevant to aging in the Berlin Aging Study II (BASE-II)
+Exercise at different ages and appendicular lean mass and strength in later life: Results from the Berlin Aging Study II
+On the role of psychological heuristics in operational research; and a demonstration in military stability operations
+Three-year changes in leisure activities are associated with concurrent changes in white matter microstructure and perceptual speed in individuals aged 80 years and older
+Terminal decline in well-being: The role of social orientation
+Dealing with uncertainty: Testing risk- and ambiguity-attitude across adolescence
+Satanic fury: Depictions of the devil's rage in Nicolas Remy's Daemonolatria
+Rationality without optimization: Bounded rationality
+How bad is incoherence?
+To screen or not to screen: What factors influence complex screening decisions?
+Simultaneous interpreters vs. professional multilingual controls: Group differences in cognitive control as well as brain structure and function
+Global signal modulation of single-trial fMRI response variability: Effect on positive vs negative BOLD response relationship
+Hormonal contraceptive use is associated with neural and affective changes in healthy young women
+Type D personality is related to severity of acute coronary syndrome in patients with recurrent cardiovascular disease
+Consistent Bayesians are no more accurate than Non-Bayesians: Economists surveyed about PSA
+Introduction: Concepts of emotions in Indian languages
+Multi-domain training enhances executive attentional control
+Factors predicting a change in diagnosis in patients hospitalised through the emergency room: A prospective observational study
+Internet gaming disorder: A new behavioral addiction
+I want it now! The neuroscience of teenage impulsivity
+Empathy as an emotional practice in historical pedagogy
+Masked morphological priming in German-speaking adults and children: Evidence from response time distributions
+The history of emotions
+How films entered the classroom: The sciences and the emotional education of youth through health education films in the United States and Germany, 1910-30
+Structure and topology dynamics of hyper-frequency networks during rest and auditory oddball performance
+From thrifty housewives to shoppers with needs: On a capitalist program of education
+Models of intertemporal choice
+Strategies for memory-based decision making: Modeling behavioral and neural signatures within a cognitive architecture
+Medical and criminological constructions of drug addiction in late imperial and early Soviet Russia
+Neurobiological basis of hypersexuality
+Process modeling in social decision making
+Provincializing concepts: The language of transnational history
+Risk taking across the life span: A comparison of self-report and behavioral measures of risk taking
+Sources of developmental change in the efficiency of information search
+Hormones and affect in adolescent decision making
+Evaluative polarity words in risky choice framing
+Neural signatures of controlled and automatic retrieval processes in memory-based decision making
+Citizenship and the recognition of cultural multiplicities: Can British or Habsburg policies serve as models for contemporary settings?
+Research on human plasticity in adulthood: A lifespan agenda
+Flexibility of fMRI resting-state functional connectivity networks
+Rational ambiguity aversion? Exploiting the risk-reward structure of the environment
+Weißt du, was ich fühle? Empathische Fähigkeiten im Lebensverlauf
+Early haemodynamic changes observed in patients with epilepsy, in a visual experiment and in simulations
+How the risk-reward relationship shapes decisions under risk and uncertainty
+Bias-variance tradeoffs in demand forecasting
+Active control of study leads to improved recognition memory in children
+Emotions in the history of witchcraft
+The open ritual: Indeterminacy in a modern Sufi ceremonacy
+Maintaining perceived control with unemployment facilitates future adjustment
+Pictures, emotions, conceptual change: Anger in popular Hindi cinema
+Framing the debate on human-like framing effects in bonobos and chimpanzees: A comment on Krupenye et al. (2015)
+Not just being lifted: Infants are sensitive to delay during a pick-up routine
+Cohort differences in psychosocial function over 20 years: Current older adults feel less lonely and less dependent on external circumstances
+Training-induced changes in subsequent-memory effects: No major differences among children, younger adults, and older adults
+Computational modeling for addiction medicine: From cognitive models to clinical applications
+Neural correlates of training and transfer effects in working memory in older adults
+Mechanisms of choice behavior shift using cue-approach training
+Homo ignorans: Deliberately choosing not to know
+Behavioral correlates of changes in hippocampal grey matter structure during acquisition of foreign vocabulary
+BOLD variability is related to dopaminergic neurotransmission and cognitive aging
+Rational task analysis: A methodology to benchmark bounded rationality
+Theory-guided exploration with structural equation model forests
+Probabilistic inferences under emotional stress: How arousal affects decision processes
+Proto-cooperation: Group hunting sailfish improve hunting success by alternating attacks on grouping prey
+Can simple transmission chains foster collective intelligence in binary-choice tasks?
+Orthographic processing in balanced bilingual children: Cross-language evidence from cognates and false friends
+Drifting through basic subprocesses of reading: A hierarchical diffusion model analysis of age effects on visual word recognition
+Description and experience: How experimental investors learn about booms and busts affects their financial risk taking
+Making sense of numbers about health risks: The fact box
+Desired emotions across cultures: A value-based account
+The learning hippocampus: Education and experience-dependent plasticity
+Beyond idea generation: The power of groups in developing ideas
+Improving risk literacy in surgeons
+Is available support always helpful for older adults? Exploring the buffering effects of state and trait social support
+Discharge communication in patients presenting to the emergency department with chest pain: Defining the ideal content
+Modeling valuations from experience: A comment on Ashby and Rakow (2014)
+Genome-wide analysis identifies 12 loci influencing human reproductive behavior
+The day planner
+The development of adaptive decision making: Recognition-based inference in children and adolescents
+On differentiating adaptation from dispositional concepts: The case of age-associated dynamics of life satisfaction [Commentary]
+Reflections of the social environment in chimpanzee memory: Applying rational analysis beyond humans
+Commentary: Risky decision-making is associated with residential choice in healthy older adults
+psiTurk: An open-source framework for conducting replicable behavioral experiments online
+Crowd behaviour during high-stress evacuations in an immersive virtual environment
+Collective search on rugged landscapes: A cross-environmental analysis
+Transfer after dual n-back training depends on striatal activation change
+Ethik und Heuristiken: Eine komplexe Beziehung
+Banned emotions: figuring the feelings of unwanted people
+Resting-state fMRI correlations: From link-wise unreliability to whole brain stability
+Learning to read complex words: Morphological processing in reading acquisition
+Auswirkungen komplexer Graphem-Phonem-Korrespondenzen auf den Leseerwerb: Eine fehleranalytische Auswertung künstlichen Orthografielernens
+The development of visual word recognition in German bilinguals
+The life span development of decision making
+Why most decisions are easy in tetris - and perhaps in other sequential decision problems, as well
+Priming race: Does the mind inhibit categorization by race at encoding or recall?
+Cultures of conflict resolution in early modern Europe
+A translingual ideology of self-improvement: The concept of "character" in the Chinese and Japanese translations of Samuel Smiles "self-help". Master's thesis, Freie Universität Berlin, Germany
+Angry young men: Masculinity, citizenship and virtuous emotions in popular Indian cinema
+Emotion concepts in Urdu and Bengali [Special section]
+Rate of movement of juvenile lemon sharks in a novel open field, are we measuring activity or reaction to novelty?
+Introduction: Confronting conflict in early modern Europe
+Forgiving crimes in early modern Naples
+From morality to psychology: Emotion concepts in Urdu, 1870-1920
+More heads choose better than one: Group decision making can eliminate probability matching
+Genetic variants associated with subjective well-being, depressive symptoms, and neuroticism identified through genome-wide analyses
+Genome-wide association study identifies 74 loci associated with educational attainment
+Inevitable? Doping attitudes among Berliners: The role of socialist state socialisation and athlete experience
+Goal saliency boosts infants' action prediction for human manual actions, but not for mechanical claws
+Memory: Episodic
+Nudge versus boost: How coherent are policy and theory?
+Transitive reasoning distorts induction in causal chains
+A new method for sudden mechanical perturbation with axial load, to assess postural control in sitting and standing
+Relationships of peripheral IGF-1, VEGF and BDNF levels to exercise-related changes in memory, hippocampal perfusion and volumes in older adults
+Probabilistic delay differential equation modelling of event-related potentials
+Boosting medical diagnostics by pooling independent judgments
+Neural activation patterns of successful episodic encoding: Reorganization during childhood, maintenance in old age
+Functional coordination of muscles underlying changes in behavioural dynamics
+Does being empathic pay off? Associations between performance-based measures of empathy and social adjustment in younger and older women
+Explicit and implicit approach vs. avoidance tendencies towards high vs. low calorie food cues in patients with anorexia nervosa and healthy controls.
+Curtains up! Shifting emotional styles in gay men's venues since the 1950s
+Selective alteration of human value decisions with medial frontal tDCS is predicted by changes in attractor dynamics
+Does feedback-related brain response during reinforcement learning predict socio-motivational (in-)dependence in adolescence?
+New loci for body fat percentage reveal link between adiposity and cardiometabolic disease risk
+History of concepts and global history
+Towards a rational theory of heuristics
+A research symbiont
+The nature of working memory gating in Parkinson's disease: A multi-domain signal detection examination
+Learning and choosing in an uncertain world: An investigation of the explore-exploit dilemma in static and dynamic environments
+Cross-sectional study of glutamate in the anterior cingulate and hippocampus in schizophrenia
+Fair play: Social norm compliance failures in behavioural variant frontotemporal dementia
+A new niche? The theory of grandfather involvement
+An introduction to history of science and the emotions
+Enhanced memory as a common effect of active learning
+Social learning strategies modify the effect of network structure on group performance
+Functional architectures for complex behaviors: Analysis and modeling of interacting processes in a hierarchy of time scales
+Simple regression models
+Correction to "Proto-cooperation: Group hunting sailfish improve hunting success by alternating attacks on grouping prey" [Proceedings of the Royal Society of London: B, Biological Sciences (2016) 283:20161671. doi:10.1098/rspb.2016.1671]
+Relating language and music skills in young children: A first approach to systemize and compare distinct competencies on different levels
+Learning how to feel through play: At the intersection of the histories of play, childhood and the emotions
+Maximum swimming speeds of sailfish and three other large marine predatory fish species based on muscle contraction time and stride length: A myth revisited
+Rekindling individualism, consuming emotions: Constructing "psytizens" in the age of happiness
+How affect shapes risky choice: Distorted probability weighting versus probability neglect
+Electrophysiological correlates of observational learning in children
+Simple trees in complex forests: Growing take the best by approximate bayesian computation
+Men's fears and women's desires: The battle of the sexes from 1850-1950
+Cooperation in emergencies: Situational and personal factors influencing cooperation in a social dilemma game
+Diffusion tensor imaging analysis of game-based inhibition training in elderly adults
+A machine learning perspective on repeated measures: Gaussian process panel and person-specific EEG modeling
+Soziologie der Wissenschaftselite [Review of the books Herkunft zählt (fast) immer: Soziale Ungleichheiten unter Universitätsprofessorinnen und -professoren by C. Möller and Die Wissenschaftselite Deutschlands: Sozialprofil und Werdegänge zwischen 1945 und 2013 by A. Graf]
+The Oxford handbook of cultural neuroscience
+Cognitive foundations of decision making: Grounding behavioral and neural signatures of decisions within cognitive architecture.
+Bodies and affects in market societies
+Global conceptual history: A Reader
+Die Bezugsnormorientierung von Mathematiklehrkräften am Ende der Sekundarstufe I: Konvergenz verschiedener Messverfahren und Wirkung auf motivational-affektive Aspekte des Mathematiklernens und Leistung
+"Unfocus" on foc.us: Commercial tDCS headset impairs working memory
+Role of serum brain derived neurotrophic factor and central N-acetylasparate for clinical response under antidepressive pharmacotherapy
+Der Kinder-Titelrekognitionstest (K-TRT): Ein Instrument zur Erfassung des Lesevolumens von Kindern im Deutschen
+Intertemporal similarity: Discounting as a last resort
+Emotional translations: Conceptual history beyond language
+The aging immune system: Dysregulation, compensatory mechanisms and prospects for intervention
+Disseminating justified, well-designed, and well-executed studies despite nonsignificant tests
+Self-directed learning favors local, rather than global, uncertainty
+Inverting the pyramid of needs: Positive psychology's new order for labor success
+Long-term treatment of chronic migraine with OnabotulinumtoxinA: Efficacy, quality of life and tolerability in a real-life setting
+Introduction: Taking heuristics seriously
+Cognitive and brain plasticity in old age
+Perceptions and practices of replication by social and behavioral scientists: Making replications a mandatory element of curricula would be useful
+Stability and change in risk-taking propensity across the adult lifespan
+The multiscale entropy: Guidelines for use and interpretation in brain signal analysis
+How (in)variant are subjective representations of described and experienced risk and rewards?
+Differences in navigation performance and postpartal striatal volume associated with pregnancy in humans
+Measuring graph literacy without a test: A brief subjective assessment
+White matter and memory in healthy adults: Coupled changes over two years
+Strength and weight: The determinants of choice and confidence
+Increased integrity of white matter pathways after dual n-back training
+Happy to be unhappy? Pro- and contra-hedonic motivations from adolescence to old age
+Quality of life in patients treated with lipoprotein apheresis
+Logic brightens my day: Evidence for implicit sensitivity to logical validity
+How the mind sees coalitional and group conflict: The evolutionary invariances of N-person conflict dynamics
+Empathic accuracy for happiness in the daily lives of older couples: Fluid cognitive performance predicts pattern accuracy among men
+The feeling body and its diseases: How cancer went psychosomatic in twentieth-century Germany
+Patterns of cooperation during collective emergencies in the help-or-escape social dilemma
+Evolutionary cognitive psychology
+Revolutionary conscience, emotions and the administration of justice in the early Soviet period
+Personality development in old age relates to physical health and cognitive performance: Evidence from the Berlin Aging Study II
+Does group size matter for behavior in online trust dilemmas?
+Behavioural, modeling, and electrophysiological evidence for domain-generality in human metacognition
+Adaptive heuristic pricing
+Analytic strategies for the study of adaptation to major life events: Making the most of large-scale longitudinal surveys
+Applied decision making with fast-and-frugal heuristics
+Knowledge acquisition during exam preparation improves memory and modulates memory formation
+Taking the easy way out? Increasing implementation effort reduces probability maximizing under cognitive load
+The diversity effect in diagnostic reasoning
+Lower parental numeracy is associated with children being under- and overweight
+Dopamine D2 receptor availability is linked to hippocampal-caudate functional connectivity and episodic memory
+On learning decision heuristics
+Decisions from experience: From monetary to medical gambles
+Normal aging increases postural preparation errors: Evidence from a two-choice response task with balance constraints
+Hearing scenes: A neuromagnetic signature of perceived auditory spatial extent
+Empathy in the theatre of horror, or civilizing the human heart
+Modeling the decision making mind: Does form follow function?
+Grasping a changing climate: Judgment and behavior in the face of an uncertain phenomenon
+Machine learning as a tool to understand age differences in the distinctiveness of neural representations
+Automatic imitation tendencies in whole body movements
+Effects of short-term memory load and task training on the amplitude and abundance of rhythmic neural activity. Master's thesis, Humboldt-Universität zu Berlin, Germany
+The ecology of financial markets: From analogy to application
+Green = Benefit? Communicating health risks and with icon arrays: The influence of color
+On regularization and cross validation
+Diurnal coupling between testosterone and cortisol from adolescence to older adulthood
+Toward a standardized structural-functional group connectome in MNI space
+Die Intelligenz einfacher Entscheidungsregeln in einer ungewissen Welt
+The Berlin Aging Study II: An overview [Special section]

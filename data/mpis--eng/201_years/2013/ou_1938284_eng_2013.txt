@@ -1,0 +1,61 @@
+Stimulated Electronic X-Ray Raman Scattering
+Stimulated resonant x-ray Raman scattering with incoherent radiation
+Strongly aligned and oriented molecular samples at a kHz repetition rate
+Ultrafast hydrogen migration in acetylene cation driven by non-adiabatic effects
+Resonance-enhanced multiple ionization of krypton at an x-ray free-electron laser
+Exploring rigidly rotating vortex configurations and their bifurcations in atomic Bose-Einstein condensates
+Non-Born-Oppenheimer dynamics of the photoionized Zundel cation: A quantum wavepacket and surface-hopping study
+NAIS: Nuclear activation-based imaging spectroscopy
+Classical scattering of charged particles confined on an inhomogeneous helix
+Evaluation of subsurface damage by light scattering techniques
+Bunch decompression for laser-plasma driven free-electron laser demonstration schemes
+Finite-temperature crossover from a crystalline to a cluster phase for a confined finite chain of ions
+Proposed Imaging of the Ultrafast Electronic Motion in Samples using X-Ray Phase Contrast
+Yb-fiber oscillator based, few-cycle ultrafast source at 850nm
+X-ray phase-contrast imaging: the quantum perspective
+3 GHz, Yb-fiber laser-based, few-cycle ultrafast source at the Ti:sapphire laser wavelength
+Communication through the phenyl ring: Internal rotation and nuclear quadrupole splitting in p-halotoluenes
+Dual-crystal Yb:CALGO high power laser and regenerative amplifier
+Ionization with low-frequency fields in the tunneling regime
+Correlated Dynamics of the Motion of Proton-Hole Wave Packets in a Photoionized Water Cluster
+Laser Driven Generation of Terahertz Radiation for Free-Electron Laser Diagnostics
+Quasi-phase matching for high-average power high harmonic generation
+Ultrafast electron and energy transfer in dye-sensitized iron oxide and oxyhydroxide nanoparticles
+Nonthermal Antiferromagnetic Order and Nonequilibrium Criticality in the Hubbard Model
+Nonequilibrium self-energy functional theory
+Nonequilibrium dynamical mean-field simulation of inhomogeneous systems
+Elucidating Charge Delocalization in the High-Spin State of aqueous FeII Spin-Crossover Compounds via Time-Resolved Spectroscopy in the X-ray Water Window
+THz Control in Correlated Electron Solids: Sources and Applications
+Dielectric breakdown of Mott insulators – doublon production and doublon heating
+Phonon-enhanced relaxation and excitation in the Holstein-Hubbard model
+Picosecond infrared laser (PIRL): an ideal phonomicrosurgical laser?
+Extracting spectral properties from Keldysh Green functions
+Two-Dimensional Electronic Spectroscopy of a Model Dimer System
+Quantitative mapping of fast voltage pulses in tunnel junctions by plasmonic luminescence
+Photoinduced States in a Mott Insulator
+Hamiltonian-based impurity solver for nonequilibrium dynamical mean-field theory
+Femtosecond Electron Diffraction Study of the Cyclization Reaction in Crystalline Diarylethene
+Heat Generation During Ablation of Porcine Skin With Erbium:YAG Laser vs a Novel Picosecond Infrared Laser
+Impact of laser on bismuth thin-films
+A novel tool in laryngeal surgery: Preliminary results of the picosecond infrared laser
+Single shot time stamping of ultrabright radio frequency compressed electron pulses
+Charge density wave dynamics from ultrafast XUV ARPES
+Ring-Closing Reaction in Diarylethene Captured by Femtosecond Electron Crystallography
+Possible observation of parametrically amplified coherent phasons in K0.3MoO3 using time-resolved extreme-ultraviolet angle-resolved photoemission spectroscopy
+Photoinduced melting of magnetic order in the correlated electron insulator NdNiO3
+Real-Time Manifestation of Strongly Coupled Spin and Charge Order Parameters in Stripe-Ordered La1.75Sr0.25NiO4 Nickelate Crystals Using Time-Resolved Resonant X-Ray Diffraction
+Comparison of charge modulations in La1.875Ba0.125CuO4 and YBa2Cu3O6.6
+Photoinduced melting of the orbital order in La0.5Sr1.5MnO4 measured with 4-fs laser pulses
+Snapshots of non-equilibrium Dirac carrier distributions in graphene
+Displacive lattice excitation through nonlinear phononics viewed by femtosecond X-ray diffraction
+Terahertz Josephson plasma solitons in high-Tc superconductors
+Stark Effect in the Benzene Dimer
+Revealing the ultrafast process behind the photoreduction of graphene oxide
+Optical excitation of Josephson plasma solitons in a cuprate superconductor
+Nanofluidic Cells with Controlled Pathlength and Liquid Flow for Rapid, High-Resolution In Situ Imaging with Electrons
+Preface to special topic: Intense terahertz sources for time-resolved studies of matter
+Ultrafast charge rearrangement and nuclear dynamics upon inner-shell multiple ionization of small polyatomic molecules
+Heat generation during ablation of porcine skin with erbium: YAG laser vs a novel picosecond infrared laser
+Mapping molecular motions leading to charge delocalization with ultrabright electrons
+Femtosecond photoelectron diffraction on laser-aligned molecules: Towards time-resolved imaging of molecular structure
+Toward unsupervised single-shot diffractive imaging of heterogeneous particles using X-ray free-electron lasers

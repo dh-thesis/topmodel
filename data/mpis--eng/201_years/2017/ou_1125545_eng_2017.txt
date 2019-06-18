@@ -1,0 +1,78 @@
+Gene targeted mice with conditional knock-in (-out) of NMDAR mutations
+Tobacco mosaic virus as enzyme nanocarrier for electrochemical biosensors
+Quantification of substrate and cellular strains in stretchable 3D cell cultures: an experimental and computational framework
+GluA1 AMPAR subunit deletion reduces the hedonic response to sucrose but leaves satiety and conditioned responses intact
+Signalling through AMPA receptors on oligodendrocyte precursors promotes myelination by enhancing oligodendrocyte survival
+NURR1 Downregulation Favors Osteoblastic Differentiation of MSCs
+Adenosine triphosphate diffusion through poly(ethylene glycol) diacrylate hydrogels can be tuned by cross-link density as measured by PFG-NMR
+The group II metabotropic glutamate receptor agonist LY354740 and the D2 receptor antagonist haloperidol reduce locomotor hyperactivity but fail to rescue spatial working memory in GluA1 knockout mice
+In vivo quantification of spatially varying mechanical properties in developing tissues
+Puberty marks major changes in the hippocampal and cortical c-Fos activation pattern induced by NMDA receptor antagonists
+Soft colloidal lithography
+Strong signal increase in STED fluorescence microscopy by imaging regions of subdiffraction extent
+Molecular and cellular dissection of NMDA receptor subtypes as antidepressant targets
+Enhanced optical transmittance by reduced reflectance of curved polymer surfaces
+Fibronectin promotes directional persistence in fibroblast migration through interactions with both its cell-binding and heparin-binding domains
+Heteromeric channels formed by TRPC1, TRPC4 and TRPC5 define hippocampal synaptic transmission and working memory
+Initial contact guidance during cell spreading is contractility-independent
+Indications of 5' to 3' interbase electron transfer as the first step of pyrimidine dimer formation probed by a dinucleotide analog
+Enhanced biological activity of BMP-2 bound to surface-grafted heparan sulfate
+Anhydrous octyl-glucoside phase transition from lamellar to isotropic induced by electric and magnetic fields
+Molecular mechanism of the dark-state recovery in BLUF photoreceptors
+Endosomal phosphatidylinositol 3-phosphate promotes gephyrin clustering and GABAergic neurotransmission at inhibitory postsynapses
+Reconceptualizing fluorescence correlation spectroscopy for monitoring and analyzing periodically passing objects
+Computational design of environmental sensors for the potent opioid fentanyl
+Fluorescence nanoscopy in cell biology
+Responses to 'Atomic resolution': a badly abused term in structural biology
+Multi-wavelength anomalous diffraction de novo phasing using a two-colour X-ray free-electron laser with wide tunability
+Reprogramming potential of the NRPS machinery related to biosynthesis of glycopeptide antibiotic teicoplanin
+Chlorinated glycopeptide antibiotic peptide precursors improve cytochrome P450-catalyzed cyclization cascade efficiency
+Potent prearranged positive allosteric modulators of the glucagon-like peptide-1 receptor
+Amoeboid-mesenchymal migration plasticity promotes invasion only in complex heterogeneous microenvironments
+Luciferases with tunable emission wavelengths
+Deletion of Aquaporin-4 curtails extracellular glutamate elevation in cortical spreading depression in awake mice
+Subtype-specific differentiation of cardiac pacemaker cell clusters from human induced pluripotent stem cells
+A pathway from midcingulate cortex to posterior insula gates nociceptive hypersensitivity
+Investigating focal adhesion substructures by localization microscopy
+SRpHi ratiometric pH biosensors for super-resolution microscopy
+A trickster in disguise: Hyaluronan’s ambivalent roles in the matrix
+Charge matters: modulating secondary interactions in hyaluronan hydrogels
+Kinetic characterization of wild-type and mutant human thioredoxin glutathione reductase defines its reaction and regulatory mechanisms
+Target expression, generation, preclinical activity, and pharmacokinetics of the BCMA-T cell bispecific antibody EM801 for multiple myeloma treatment
+SNaPe: a versatile method to generate multiplexed protein fusions using synthetic linker peptides for in vitro applications
+Motor learning requires purkinje cell synaptic potentiation through activation of AMPA-receptor subunit GluA3
+Different forms of AMPA receptor mediated LTP and their correlation to the spatial working memory formation
+Photobleaching in STED nanoscopy and its dependence on the photon flux applied for reversible silencing of the fluorophore
+Building Bridges through Science
+Hot carrier relaxation in CdTe via phonon-plasmon modes
+13C NMR study of the director distribution adopted by the modulated nematic phases formed by liquid-crystal dimers with odd numbers of atoms in their spacers
+A comprehensive evaluation of the activity and selectivity profile of ligands for RGD-binding integrins
+Viscous hydrophilic injection matrices for serial crystallography
+Photoactivation mechanism of a bacterial light-regulated adenylyl cyclase
+Diffraction data of core-shell nanoparticles from an X-ray free electron laser
+Stem cell migration and mechanotransduction on linear stiffness gradient hydrogels
+Highly Ordered Gold Nanopatterned Indium Tin Oxide Electrodes for Simultaneous Optical and Electrochemical Probing Cell Interactions
+Colloid, adhesive and release properties of nanoparticular ternary complexes between cationic and anionic polysaccharides and basic proteins like bone morphogenetic protein BMP-2
+Nanometer resolution imaging and tracking of fluorescent molecules with minimal photon fluxes
+Rational design and applications of semisynthetic modular biosensors: SNIFITs and LUCIDs
+Microstructured blood vessel surrogates reveal structural tropism of motile malaria parasites
+Evaluating cellular drug Uptake with fluorescent sensor proteins
+Focal adhesion stabilization by enhanced integrin-cRGD binding affinity
+Force loading explains spatial sensing of ligands by cells
+A unique profilin-actin interface is important for malaria parasite motility
+Thiolate spin population of type I copper in azurin derived from 33S hyperfine coupling
+Nanopatterned adhesive, stretchable hydrogel to control ligand spacing and regulate cell spreading and migration
+Experimental phasing of serial femtosecond crystallography data
+Altered balance of excitatory and inhibitory learning in a genetically modified mouse model of glutamatergic dysfunction relevant to schizophrenia
+Adaptive-illumination STED nanoscopy
+Cryo-EM reconstruction of the Cafeteria roenbergensis virus capsid suggests novel assembly pathway for giant viruses
+A Peltier-cooled microscope stage for protein crystal post-crystallization treatment
+Biomaterials and computation: a strategic alliance to investigate emergent responses of neural cells
+Coherent manipulation of non-thermal spin order in optical nuclear polarization experiments
+Bioluminescent antibodies for point-of-care diagnostics
+Simple and efficient system for photoconverting light-sensitive proteins in serial crystallography experiments
+Corrigendum: Diffraction data of core-shell nanoparticles from an X-ray free electron laser
+The conformation of the Congo-red ligand bound to amyloid fibrils HET-s(218–289): a solid-state NMR study
+Integrin-assisted T‑cell activation on nanostructured hydrogels
+Glycine receptor α3 and α2 subunits mediate tonic and exogenous agonist-induced currents in forebrain
+Two-colour serial femtosecond crystallography dataset from gadoteridol-derivatized lysozyme for MAD phasing

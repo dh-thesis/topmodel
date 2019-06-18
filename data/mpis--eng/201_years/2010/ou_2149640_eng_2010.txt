@@ -1,0 +1,72 @@
+Chemogenomic profiling provides insights into the limited activity of irreversible EGFR inhibitors in tumor cells expressing the T790M EGFR resistance mutation
+No increase of the blood oxygenation level-dependent functional magnetic resonance imaging signal with higher field strength: Implications for brain activation studies
+Effort-based decision making in the rat: An [18F]fluorodeoxyglucose micro positron emission tomography study
+Cytohesins are cytoplasmic ErbB receptor activators
+Noradrenergic modulation of cortical networks engaged in visuomotor processing
+Osteoblastic response in patients with non-small cell lung cancer with activating EGFR mutations and bone metastases during treatment with EGFR kinase inhibitors
+Genetic association studies of performance monitoring and learning from feedback: the role of dopamine and serotonin
+Matching mind to world and vice versa: Functional dissociations between belief and desire mental state processing
+Post-error behavioral adjustments are facilitated by activation and suppression of task-relevant and task-irrelevant information processing
+Analysis of compound synergy in high-throughput cellular screens by population-based lifetime modeling
+Synthesis and biological evaluation of 4-anilinoquinolines as potent inhibitors of epidermal growth factor receptor
+Textbook of stroke medicine
+Reversible dysfunction of receptors in traumatic brain injury?
+Proactive and reactive recruitment of cognitive control: Comment on Hikosaka and Isoda
+Stroke: working toward a prioritized world agenda
+Advanced MRI and PET imaging for assessment of treatment response in patients with gliomas
+[11C]-l-Methionine positron emission tomography in the management of children and young adults with brain tumors
+White-matter abnormalities in Tourette syndrome extend beyond motor pathways
+Tuning-in to the beat: Aesthetic appreciation of musical rhythms correlates with a premotor activity boost
+Spreading depolarizations cycle around and enlarge focal ischaemic brain lesions
+Recurrent spreading depolarizations after subarachnoid hemorrhage decrease oxygen availability in human cerebral cortex
+Two-dimensional wave patterns of spreading depolarization: Retracting, re-entrant, and stationary waves
+Human anterior-intraparietal and ventral premotor cortices support representations of grasping with the hand or a novel tool
+Bending the rules: Strategic behavioral differences are reflected in the brain
+The concept of the penumbra: Can it be translated to stroke management?
+It just felt right: the neural correlates of the fluency heuristic
+Resisting motor mimicry: Control of imitation involves processes central to social cognition in patients with frontal and temporo-parietal lesions
+Prediction, cognition and the brain
+Pathogenesis of pulmonary Cryptococcus gattii infection: a rat model
+Clinical value of 18F-fluorodihydroxyphenylalanine positron emission tomography/computed tomography (18F-DOPA PET/CT) for detecting pheochromocytoma
+Experimental and preliminary clinical evidence of an ischemic zone with prolonged negative DC shifts surrounded by a normally perfused tissue belt with persistent electrocorticographic depression
+Altered cingulate sub-region activation accounts for task-related dissociation in ERN amplitude as a function of obsessive-compulsive symptoms
+The bistable network model of brain ischemia
+Positional brain deformation visualized with magnetic resonance morphometry
+Modulating cortical connectivity in stroke patients by rTMS assessed with fMRI and dynamic causal modelling
+Noninvasive imaging of endogenous neural stem cell mobilization in vivo using positron emission tomography
+Effects of parametrical and trial-to-trial variation in prior probability processing revealed by simultaneous electroencephalogram/functional magnetic resonance imaging
+Stem cell mediation of functional recovery after stroke in the rat
+Stroke: Working toward a prioritized world agenda
+Anatomical and functional parcellation of the human lateral premotor cortex
+Frequent and focal FGFR1 amplification associates with therapeutically tractable FGFR1 dependency in squamous cell lung cancer
+PET imaging of a butterfly glioblastoma
+An indirect basal ganglia pathway in anuran amphibians?
+Maps of time to maximum and time to peak for mismatch definition in clinical stroke studies validated with positron emission tomography
+MRI perfusion maps in acute stroke validated with 15O-water positron emission tomography
+Patient-tailored, imaging-guided, long-term temozolomide chemotherapy in patients with glioblastoma
+Differential role of anterior prefrontal and premotor cortex in the processing of relational information
+Differences in processing violations of sequential and feature regularity as revealed by visual event-related potentials
+Mouse models in neurological disorders: Applications of non-invasive imaging
+In vivo MRI stem cell tracking requires balancing of detection limit and cell viability
+Targeted next-generation sequencing of DNA regions proximal to a conserved GXGXXG signaling motif enables systematic discovery of tyrosine kinase fusions in cancer
+Clinical value of 18-fluorine-fluorodihydroxyphenylalanine positron emission tomography/computed tomography in the follow-up of medullary thyroid carcinoma
+Progression of subtle motor signs in PINK1 mutation carriers with mild dopaminergic deficit
+Development of a three-dimensional in vitro model for longitudinal observation of cell behavior: monitoring by magnetic resonance imaging and optical imaging
+A simple positron emission tomography-based calibration for perfusion-weighted magnetic resonance maps to optimize penumbral flow detection in acute stroke
+High field BOLD response to forepaw stimulation in the mouse
+Evaluation of an MR-compatible blood sampler for PET
+Setting the frame: the human brain activates a basic lowfrequency network for language processing
+Neurotransmitter changes in dementia with Lewy bodies and Parkinson disease dementia in vivo
+Synthesis and evaluation of 18F-fluoroethylated benzothiazole derivatives for in vivo imaging of amyloid plaques in Alzheimer's disease
+Conscious perception of errors and its relation to the anterior insula
+Prognostic and predictive gene signature for adjuvant chemotherapy in resected non-small-cell lung cancer
+An activated ErbB3/NRG1 autocrine loop supports in vivo proliferation in ovarian cancer cells
+Volumetry of [11C]-methionine PET uptake and MRI contrast enhancement in patients with recurrent glioblastoma multiforme
+Use of magnetic resonance imaging to predict outcome after stroke: a review of experimental and clinical evidence
+Dynamics of neuroinflammation in the macrosphere model of arterio-arterial embolic focal ischemia: An approximation to human stroke patterns
+Simultaneous EEG and fMRI : recording, analysis, and application
+Sequential escalation of therapy in "malignant" cerebral venous and sinus thrombosis
+Mapping of recovery from poststroke aphasia: comparison of PET and MRI
+KID - an algorithm for fast and efficient text mining used to automatically generate a database containing kinetic information of enzymes
+Mal-adaptation of event-related EEG responses preceding performance errors
+Imaging of gene therapy: basis and clinical trials

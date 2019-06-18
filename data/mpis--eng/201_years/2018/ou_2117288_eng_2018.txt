@@ -1,0 +1,164 @@
+Emergence of a spectral gap in a class of random matrices associated with split graphs
+Dependence of structure factor and correlation energy on the width of electron wires
+Staggered field induced dynamical effects in a quantum spin chain
+Topology and Edge Modes in Quantum Critical Chains
+Flexible scheme to truncate the hierarchy of pure states
+Aging dynamics in quenched noisy long-range quantum Ising models
+Driven-Dissipative Supersolid in a Ring Cavity
+Eigenstate entanglement between quantum chaotic subsystems: Universal transitions and power laws in the entanglement spectrum
+Transversal magnetotransport in Weyl semimetals: Exact numerical approach
+Hysteresis loops and dielectric properties of a mixed spin Blume-Capel Ising ferroelectric nanowire
+Collective modes in multicomponent condensates with anisotropy
+On the motion of substance in a channel of a network and human migration
+Observation of spontaneous ferriquadrupolar order in KDy(MoO4)2
+Critical scaling of the mutual information in two-dimensional disordered Ising models
+Multifractality without fine-tuning in a Floquet quasiperiodic chain
+Condensates in double-well potential with synthetic gauge potentials and vortex seeding
+A genomics approach reveals insights into the importance of gene losses for mammalian adaptations
+Atomistic Framework for Time-Dependent Thermal Transport
+Collisionless Transport Close to a Fermionic Quantum Critical Point in Dirac Materials
+Universal Fluctuations of Floquet Topological Invariants at Low Frequencies
+Quantum Criticality of an Ising-like Spin-1/2 Antiferromagnetic Chain in a Transverse Magnetic Field
+Topological magnons in Kitaev magnets at high fields
+Pulsating flow and boundary layers in viscous electronic hydrodynamics
+Sharp entanglement thresholds in the logarithmic negativity of disjoint blocks in the transverse-field Ising chain
+Detecting Equilibrium and Dynamical Quantum Phase Transitions in Ising Chains via Out-of-Time-Ordered Correlators
+Loss of RXFP2 and INSL3 genes in Afrotheria shows that testicular descent is the ancestral condition in placental mammals
+Critical Point in Self-Organized Tissue Growth
+Adiabatic Passage to the Continuum: Controlling Ionization with Chirped Laser Pulses
+Hydrodynamic theory of active matter
+Inverse proximity effect in semiconductor Majorana nanowires
+Unified bulk-boundary correspondence for band insulators
+Quantum oscillations in insulators with neutral Fermi surfaces
+First-Principle-Based Phonon Transport Properties of Nanoscale Graphene Grain Boundaries
+Active processes make mixed lipid membranes either flat or crumpled
+Engineering thermal reservoirs for ultracold dipole-dipole-interacting Rydberg atoms
+Classical dynamics of harmonically trapped interacting particles
+Statistical properties of eigenstate amplitudes in complex quantum systems
+The axolotl genome and the evolution of key tissue formation regulators
+Static Coherent States Method: One- and Two-Electron Laser-Induced Systems with Classical Nuclear Dynamics
+Tunneling exit characteristics from classical backpropagation of an ionized electron wave packet
+Large-deviation probabilities for correlated Gaussian processes and intermittent dynamical systems
+Constructing effective free energies for dynamical quantum phase transitions in the transverse-field Ising chain
+Dynamical Quantum Phase Transitions in Spin Chains with Long-Range Interactions: Merging Different Concepts of Nonequilibrium Criticality
+Majorana Kramers pairs in Rashba double nanowires with interactions and disorder
+Effect of applied orthorhombic lattice distortion on the antiferromagnetic phase of CeAuSb2
+Quantum spin liquid signatures in Kitaev-like frustrated magnets
+Frustration and anisotropic exchange in ytterbium magnets with edge-shared octahedra
+Magnetism of the N =42 kagome lattice antiferromagnet
+Activity-dependent self-regulation of viscous length scales in biological systems
+Boson condensation and instability in the tensor network representation of string-net states
+Quantum noise detects Floquet topological phases
+Equilibrium States in Open Quantum Systems
+Communication: Adiabatic quantum trajectory capture for cold and ultra-cold chemical reactions
+Analysis of the higher-energy structure in strong-field ionization with inhomogeneous electric fields
+Relative distance between tracers as a measure of diffusivity within moving aggregates
+Floquet perturbation theory: formalism and application to low-frequency limit
+Chain and ladder models with two-body interactions and analytical ground states
+Universality of clone dynamics during tissue development
+Pressure-induced superconductivity and topological quantum phase transitions in a quasi-one-dimensional topological insulator: Bi4I4
+PUF60-activated exons uncover altered 3' splice-site selection by germline missense mutations in a single RRM
+Topological edge states and impurities: Manifestation in the local static and dynamical characteristics of dimerized quantum chains
+Evolution and cell-type specificity of human-specific genes preferentially expressed in progenitors of fetal neocortex
+Dynamical localization in Z(2) lattice gauge theories
+Quantum Dynamics of a Domain Wall in the Presence of Dephasing
+Periodic and quasiperiodic revivals in periodically driven interacting quantum systems
+Dependence of Rydberg-state creation by strong-field ionization on laser intensity
+Charge density wave and charge pump of interacting fermions in circularly shaken hexagonal optical lattices
+Three-dimensional billiards: Visualization of regular structures and trapping of chaotic trajectories
+On the number of Bose-selected modes in driven-dissipative ideal Bose gases
+Magnetostriction of the spin-ice system Yb2Ti2O7
+Coulomb phase in high harmonic generation
+Discrete-time model for a motion of substance in a channel of a network with application to channels of human migration
+Local Hamiltonians for one-dimensional critical models
+Gaussian processes for choosing laser parameters for driven, dissipative Rydberg aggregates
+Logarithmic singularities and quantum oscillations in magnetically doped topological insulators
+Suppression of scattering in quantum confined 2D helical Dirac systems
+Poor man's scaling: anisotropic Kondo and Coqblin-Schrieffer models
+Graph product multilayer networks: spectral properties and applications
+Multiplex Decomposition of Non-Markovian Dynamics and the Hidden Layer Reconstruction Problem
+Statistics for real-time deformability cytometry: Clustering, dimensionality reduction, and significance testing
+Collective clog control: Optimizing traffic flow in confined biological and robophysical excavation
+Global Phase Diagram of a Dirty Weyl Liquid and Emergent Superuniversality
+A network approach to topic models
+Arcsine Laws in Stochastic Thermodynamics
+Inferring Network Connectivity from Event Timing Patterns
+Phase transition in thermodynamically consistent biochemical oscillators
+Correlational latent heat by nonlocal quantum kinetic theory
+Entanglement entropy of a three-spin-interacting spin chain with a time-reversal-breaking impurity at one boundary
+Quantized interlevel character in quantum systems
+Pauling Entropy, Metastability, and Equilibrium in Dy2Ti2O7 Spin Ice
+Excitations in the field-induced quantum spin liquid state of alpha-RuCl3
+Bosonic Gaussian states from conformal field theory
+Global optimization for quantum dynamics of few-fermion systems
+Quantifying transient spreading dynamics on networks
+An extended transfer operator approach to identify separatrices in open flows
+Friction from Transduction Channels' Gating Affects Spontaneous Hair-Bundle Oscillations
+Muscle Stem Cells Exhibit Distinct Clonal Dynamics in Response to Tissue Repair and Homeostatic Aging
+Non-Fermi liquid at the FFLO quantum critical point
+Dynamical quantum phase transitions: a review
+Light-Cone Spreading of Perturbations and the Butterfly Effect in a Classical Spin Chain
+Dynamical and topological properties of the Kitaev model in a [111] magnetic field
+Resonance Eigenfunction Hypothesis for Chaotic Systems
+Including temperature in a wavefunction description of the dynamics of the quantum Rabi model
+Protein Interactions Control Dynamics of Liquid Compartments
+The genome of Schmidtea mediterranea and the evolution of core cellular mechanisms
+All-atom computations with irreversible Markov chains
+Rydberg aggregates
+Magnetoelectronic properties of GaN codoped with (V, Mn) impurities for spintronic devices: Ab-initio and Monte Carlo studies
+Self Organized Wave Like Beating of Actin Bundles in a Minimal Acto-Myosin System of Controlled Architecture
+Patterning, Dynamics and Evolution in the Ocellar Complex of the Fruit Fly
+Nonlinear Schrödinger equations with single power nonlinearity and harmonic potential
+Tunable axial gauge fields in engineered Weyl semimetals: semiclassical analysis and optical lattice implementations
+Transition from Asynchronous to Oscillatory Dynamics in Balanced Spiking Networks with Instantaneous Synapses
+Perturbative representation of ultrashort nonparaxial elegant Laguerre-Gaussian fields
+Superpositions of up to six plane waves without electric-field interference
+Spin excitations and thermodynamics of the t-J model on the honeycomb lattice
+Quantum Spin Liquid with Even Ising Gauge Field Structure on Kagome Lattice
+Magnetoelectronic properties of Vanadium impurities co-doped (Cd, Cr)Te compound for spintronic devices: First principles calculations and Monte Carlo simulation
+Dynamical effects of breaking rotational symmetry in counter-rotating Stuart-Landau oscillators
+Exploring the Photon-Number Distribution of Bimodal Microlasers with a Transition Edge Sensor
+Crossovers and critical scaling in the one-dimensional transverse-field Ising model
+Thermodynamics of the kagome-lattice Heisenberg antiferromagnet with arbitrary spin S
+Tunneling criteria and a nonadiabatic term for strong-field ionization
+Conditions where random phase approximation becomes exact in the high-density limit
+Fate of superconductivity in three-dimensional disordered Luttinger semimetals
+High-temperature dynamics in quantum compass models
+Solitonic natural orbitals
+Clonal analysis of Notch1-expressing cells reveals the existence of unipotent stem cells that retain long-term plasticity in the embryonic mammary gland
+Quasielectrons as inverse quasiholes in lattice fractional quantum Hall models
+Chemical event chain model of coupled genetic oscillators
+Decay of superconducting correlations for gauged electrons in dimensions D ≤ 4
+Anomalous thermalization and transport in disordered interacting Floquet systems
+Ubiquity of collective irregular dynamics in balanced networks of spiking neurons
+Disentangling Long Trajectory Contributions in Two-Colour High Harmonic Generation
+Ferromagnetism induced by Cr, V single and double impurities doped BN from Ab-initio and Monte Carlo study
+Genome-Scale Oscillations in DNA Methylation during Exit from Pluripotency
+Dynamics of a lattice gauge theory with fermionic matter-minimal quantum simulator with time-dependent impurities in ultracold gases
+Quantum oscillations in nodal line systems
+Dephasing with strings attached
+Why rare-earth ferromagnets are so rare: Insights from the p-wave Kondo model
+Dynamics of a many-body quantum spin system caused by a sequence of pulses
+Features of light absorption by a low-dimensional disordered molecular aggregate
+Above-threshold ionization in multicenter molecules: The role of the initial state
+Unified theory for excited-state, fragmented, and equilibriumlike Bose condensation in pumped photonic many-body systems
+Dynamical Quantum Phase Transitions: A Geometric Picture
+Gaussian fluctuation corrections to a mean-field theory of complex hidden order in URu2Si2
+The spin-1/2 Heisenberg ferromagnet on the pyrochlore lattice: A Green's function study
+Predictability of the onset of spiking and bursting in complex chemical reactions
+Loss, Gain, and Singular Points in Open Quantum Systems
+Experimental observation of Bethe strings
+Surface spectra of Weyl semimetals through self-adjoint extensions
+Charge Excitation Dynamics in Bosonic Fractional Chern Insulators
+Nonequilibrium quantum order at infinite temperature: Spatiotemporal correlations and their generating functions
+Nonthermodynamic nature of the orbital angular momentum in neutral fermionic superfluids
+Quantum Monte Carlo study of dynamic magnetic properties of nano-graphene
+The Davydov D1.5 Ansatz for the quantum Rabi model
+Concurrence of dynamical phase transitions at finite temperature in the fully connected transverse-field Ising model
+Mixed-valence insulators with neutral Fermi surfaces
+Giant optical nonlinearities from Rydberg excitons in semiconductor microcavities
+Quantum steering with positive operator valued measures
+Differential solvation of intrinsically disordered linkers drives the formation of spatially organized droplets in ternary systems of linear multivalent proteins
+Critical points in two-channel quantum systems
+Beating the classical precision limit with spin-1 Dicke states of more than 10,000 atoms
+Discontinuous switching of position of two coexisting phases

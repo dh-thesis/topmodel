@@ -1,0 +1,42 @@
+Genes for seed longevity in barley identified by genomic analysis on near isogenic lines
+Molecular networks in plant-pathogen holobiont
+Targeted resequencing reveals genomic signatures of barley domestication
+Extended Vernalization Regulates Inflorescence Fate in Arabis alpina by Stably Silencing PERPETUAL FLOWERING1
+Is there foul play in the leaf pocket? The metagenome of floating fern Azolla reveals endophytes that do not fix N-2 but may denitrify
+A dominant-interfering camta3 mutation compromises primary transcriptional outputs mediated by both cell surface and intracellular immune receptors in Arabidopsis thaliana
+findGSE: estimating genome size variation within human and Arabidopsis using k-mer frequencies
+Experimental noise cutoff boosts inferability of transcriptional networks in large-scale gene-deletion studies
+High-Throughput Screening of Chemical Compound Libraries for Modulators of Salicylic Acid Signaling by In Situ Monitoring of Glucuronidase-Based Reporter Gene Expression
+Stable Accumulation of Photosystem II Requires ONE-HELIX PROTEIN1 (OHP1) of the Light Harvesting-Like Family
+Epigenetic regulation - contribution to herbicide resistance in weeds?
+Differential spatial distribution of miR165/6 determines variability in plant root anatomy
+Fluorescent reporter lines for auxin and cytokinin signalling in barley (Hordeum vulgare)
+Genetics of Whole Plant Morphology and Architecture
+Subcellular localization screening of Colletotrichum higginsianum effector candidates identifies fungal proteins targeted to plant peroxisomes, Golgi bodies, and microtubules
+Blue light-excited LOV1 and LOV2 domains cooperatively regulate the kinase activity of full-length phototropin2 from Arabidopsis
+Comparative analysis of plant isochorismate synthases reveals structural mechanisms underlying their distinct biochemical properties
+Signatures of host specialization and a recent transposable element burst in the dynamic one-speed genome of the fungal barley powdery mildew pathogen
+The Defense Phytohormone Signaling Network Enables Rapid, High-amplitude Transcriptional Reprogramming During Effector-Triggered Immunity
+Brassinosteroids Dominate Hormonal Regulation of Plant Thermomorphogenesis via BZR1
+Glutathione Transferase U13 Functions in Pathogen-Triggered Glucosinolate Metabolism
+Scaffolding for Repair: Understanding Molecular Functions of the SMC5/6 Complex
+NLR mutations suppressing immune hybrid incompatibility and their effects on disease resistance
+Division of Tasks: Defense by the Spatial Separation of Antagonistic Hormone Activities
+Transcriptome landscape of a bacterial pathogen under plant immunity
+Modular traits of the Rhizobiales root microbiota and their evolutionary relationship with symbiotic rhizobia
+Microbial interactions within the plant holobiont
+SELENOPROTEIN O is a chloroplast protein involved in ROS scavenging and its absence increases dehydration tolerance in Arabidopsis thaliana
+Growth Anisotropy and Cortical Microtubules in Explosive Pod Shatter
+Linked-read sequencing of gametes allows efficient genome-wide analysis of meiotic recombination
+The Transcription Factor COL12 Is a Substrate of the COP1/SPA E3 Ligase and Regulates Flowering Time and Plant Architecture
+A Conserved Mechanism to Terminate Floral Meristems
+A Multi-Omics Analysis of Glycine max Leaves Reveals Alteration in Flavonoid and Isoflavonoid Metabolism Upon Ethylene and Abscisic Acid Treatment
+Single molecule real time sequencing in ADTKD-MUC1 allows complete assembly of the VNTR and exact positioning of causative mutations
+Pleiotropic effect of the Flowering Locus C on plant resistance and defence against insect herbivores
+MowJoe: a method for automated-high throughput dissected leaf phenotyping
+In planta Transcriptome Analysis of Pseudomonas syringae
+Madeiran Arabidopsis thaliana Reveals Ancient Long-Range Colonization and Clarifies Demography in Eurasia
+Mutations in EID1 and LNK2 caused light-conditional clock deceleration during tomato domestication
+Functional characterization of NSE4 paralogs in Arabidopsis thaliana
+Natural variation at FLOWERING LOCUS T in Arabidopsis thaliana
+Telobox motifs recruit CLF/SWN-PRC2 for H3K27me3 deposition via TRB factors in Arabidopsis

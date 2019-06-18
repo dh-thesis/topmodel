@@ -1,0 +1,153 @@
+The rare TREM2 R47H variant exerts only a modest effect on Alzheimer disease risk
+Computational modeling of drug response with applications to neuroscience
+Metabolic modeling of different degrees of steatohepatitis in mice
+Homozygous and compound-heterozygous mutations in TGDS cause Catel-Manzke syndrome
+Lack of Replication of the GRIN2A-by-Coffee Interaction in Parkinson Disease
+A Web-based database of genetic association studies in cutaneous melanoma enhanced with network-driven data exploration tools
+Terminal chromosome 4q deletion syndrome in an infant with hearing impairment and moderate syndromic features: review of literature
+Dynamics of chromatin accessibility and gene regulation by MADS-domain transcription factors in flower development
+Further evidence for FGF16 truncating mutations as the cause of X-linked recessive fusion of metacarpals 4 / 5
+Multiscale, converging defects of macro-porosity, microstructure and matrix mineralization impact long bone fragility in NF1
+Molecular mechanisms of long ncRNAs in neurological disorders
+Frequent mutations in chromatin-remodelling genes in pulmonary carcinoids
+Unbiased expression mapping identifies a link between the complement and cholinergic systems in the rat central nervous system
+PHOXTRACK-a tool for interpreting comprehensive datasets of post-translational modifications of proteins
+diXa: a data infrastructure for chemical safety assessment
+Multiple haplotype-resolved genomes reveal population patterns of gene and protein diplotypes
+Familial 46,XY sex reversal without campomelic dysplasia caused by a deletion upstream of the SOX9 gene
+Interstitial microduplication at 2p11.2 in a patient with syndromic intellectual disability: 30-year follow-up
+Genetics of recessive cognitive disorders
+Assessment of microRNA-related SNP effects in the 3' untranslated region of the IL22RA2 risk locus in multiple sclerosis
+Transgenic expression of oncogenic BRAF induces loss of stem cells in the mouse intestine, which is antagonized by β-Catenin activity
+Risk patterns and correlated brain activities. Multidimensional statistical analysis of FMRI data in economic decision making study
+Single-cell based high-throughput sequencing of full-length immunoglobulin heavy and light chain genes
+The bromodomain protein BRD4 regulates the KEAP1/NRF2-dependent oxidative stress response
+Tyrosine phosphorylation of RNA polymerase II CTD is associated with antisense promoter transcription and active enhancers in mammalian cells
+Previously reported new type of autosomal recessive primary microcephaly is caused by compound heterozygous ASPM gene mutations
+The Val/Met polymorphism of the brain-derived neurotrophic factor (BDNF) gene predicts decline in perceptual speed in older adults
+Evaluation of database-derived pathway development for enabling biomarker discovery for hepatotoxicity
+Microprocessor activity controls differential miRNA biogenesis In Vivo
+A novel mutation (g.106737G>T) in zone of polarizing activity regulatory sequence (ZRS) causes variable limb phenotypes in Werner mesomelia
+Screening for single nucleotide variants, small indels and exon deletions with a next-generation sequencing based gene panel approach for Usher syndrome
+Neurofibromin inactivation impairs osteocyte development in Nf1Prx1 and Nf1Col1 mouse models
+Mutations in RAB39B Cause X-Linked Intellectual Disability and Early-Onset Parkinson Disease with alpha-Synuclein Pathology
+Evidence of a cancer type-specific distribution for consecutive somatic mutation distances
+Structural determinants of DNA recognition by plant MADS-domain transcription factors
+5-Fluorouracil affects assembly of stress granules based on RNA incorporation
+Deletions of exons with regulatory activity at the DYNC1I1 locus are associated with split-hand/split-foot malformation: array CGH screening of 134 unrelated families
+Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome
+Relationship between genome and epigenome--challenges and requirements for future research
+The genome of the recently domesticated crop plant sugar beet (Beta vulgaris)
+Perspective on future role of biological markers in clinical therapy trials of Alzheimer's disease: a long-range point of view beyond 2020
+Activation of AMP-activated protein kinase sensitizes lung cancer cells and H1299 xenografts to erlotinib
+Human genomic regions with exceptionally high levels of population differentiation identified from 911 whole-genome sequences
+Large-scale meta-analysis of genome-wide association data identifies six new risk loci for Parkinson’s disease
+Upk3b is dispensable for development and integrity of urothelium and mesothelium
+Dlk1 promotes a fast motor neuron biophysical signature required for peak force execution
+Transient gene therapy to treat cutaneous radiation syndrome: development in a minipig model
+Classic bladder exstrophy: Frequent 22q11.21 duplications and definition of a 414 kb phenocritical region
+MEDIPS: genome-wide differential coverage analysis of sequencing data derived from DNA enrichment experiments
+Identification of pathways for bipolar disorder: a meta-analysis
+Lack of replication of the GRIN2A-by-coffee interaction in Parkinson disease
+Absent CNKSR2 causes seizures and intellectual, attention, and language deficits
+Multibiodose radiation emergency triage categorization software
+Expanding the clinical phenotype of patients with a ZDHHC9 mutation
+Amorfrutins: A promising class of natural products that are beneficial to health
+RNA-binding protein RBM20 represses splicing to orchestrate cardiac pre-mRNA processing
+Inferring the paths of somatic evolution in cancer
+Involvement of the kinesin family members KIF4A and KIF5C in intellectual disability and synaptic function
+Genome-wide association study and mouse expression data identify a highly conserved 32 kb intergenic region between WNT3 and WNT9b as possible susceptibility locus for isolated classic exstrophy of the bladder
+The Two Active X Chromosomes in Female ESCs Block Exit from the Pluripotent State by Modulating the ESC Signaling Network
+The tissue-specific transcriptomic landscape of the mid-gestational mouse embryo
+Enhancer hijacking activates GFI1 family oncogenes in medulloblastoma
+Exome sequencing from nanogram amounts of starting DNA: comparing three approaches
+No association between CTNNBL1 and episodic memory performance
+NDST1 missense mutations in autosomal recessive intellectual disability
+Decoding the regulatory landscape of medulloblastoma using DNA methylation sequencing
+Distribution of segmental duplications in the context of higher order chromatin organisation of human chromosome 7
+Deletions of chromosomal regulatory boundaries are associated with congenital disease
+Natural variation of histone modification and its impact on gene expression in the rat genome
+Reconstruction of gene regulatory network related to photosynthesis in Arabidopsis thaliana
+First description of a patient with Vici syndrome due to a mutation affecting the penultimate exon of EPG5 and review of the literature
+Severe congenital cutis laxa with cardiovascular manifestations due to homozygous deletions in ALDH18A1
+Mutations in PGAP3 impair GPI-anchor maturation, causing a subtype of hyperphosphatasia with mental retardation
+Sensory neuropathy with bone destruction due to a mutation in the membrane-shaping atlastin GTPase 3
+Limb Malformations – An Atlas of Genetic Disorders of Limb Development
+Molecular analysis of two novel missense mutations in the GDF5 proregion that reduce protein activity and are associated with brachydactyly type C
+Editorial: Complexity in genomes
+Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2
+Integrating sequence and array data to create an improved 1000 Genomes Project haplotype reference panel
+Comparative analysis and modeling of the severity of steatohepatitis in DDC-treated mouse strains
+Parallel profiling of the transcriptome, cistrome, and epigenome in the cellular response to ionizing radiation
+Influence of RNA extraction methods and library selection schemes on RNA-seq data
+Comprehensive genotyping and clinical characterisation reveal 27 novel NKX2-1 mutations and expand the phenotypic spectrum
+SRF is essential for mesodermal cell migration during elongation of the embryonic body axis
+An Image-Based Genetic Assay Identifies Genes in T1D Susceptibility Loci Controlling Cellular Antiviral Immunity in Mouse.
+Reconstruction of the Gene Regulatory Network Involved in the Sonic Hedgehog Pathway with a Potential Role in Early Development of the Mouse Brain
+The need of continuous focus on improved mentoring of trainees and young investigators in the field of andrology: highlights of current programs and opportunities for the future
+DNA damage focus analysis in blood samples of minipigs reveals acute partial body irradiation
+Pathway deregulation and expression QTLs in response to Actinobacillus pleuropneumoniae infection in swine
+MicroRNA-138 is a potential regulator of memory performance in humans
+Analysis of quantitative trait loci in mice suggests a role of Enoph1 in stress reactivity
+Impaired sleep quality and sleep duration in smokers-results from the German Multicenter Study on Nicotine Dependence
+The Val/Met polymorphism of the Brain-Derived Neurotrophic Factor (BDNF) gene predicts decline in perceptual speed in older adults
+Cohort profile: The Berlin Aging Study II (BASE-II)
+Contrasting behavior of heterochromatic and euchromatic chromosome portions and pericentric genome separation in pre-bouquet spermatocytes of hybrid mice
+mFISH analysis of chromosome aberrations in workers occupationally exposed to mixed radiation
+Personalized medicine approaches for colon cancer driven by genomics and systems biology: OncoTrack
+ARH-seq: identification of differential splicing in RNA-seq data
+Early frameshift mutation in PIGA identified in a large XLID family without neonatal lethality
+Copy number genome alterations are associated with treatment response and outcome in relapsed childhood ETV6/RUNX1-positive acute lymphoblastic leukemia
+A 3-base pair deletion, c.9711_9713del, in DMD results in intellectual disability without muscular dystrophy
+Epigenetic remodelling and dysregulation of DLGAP4 is linked with early-onset cerebellar ataxia
+Threshold limits for biological indication of prolonged radiation exposure using mFISH
+Expression of blood serum proteins and lymphocyte differentiation clusters after chronic occupational exposure to ionizing radiation
+Functional Analysis of Autism Genes in Zebrafish : Investigation of the Autism Related 16p11.2 Deletion
+X-exome sequencing in Finnish families with intellectual disability--four novel mutations and two novel syndromic phenotypes
+Arabidopsis JAGGED links floral organ patterning to tissue growth by repressing Kip-related cell cycle inhibitors
+Microduplications encompassing the Sonic hedgehog limb enhancer ZRS are associated with Haas-type polysyndactyly and Laurin-Sandrow syndrome
+Efficient application of next-generation sequencing for the diagnosis of rare genetic syndromes
+CD74-NRG1 Fusions in Lung Adenocarcinoma
+The histone deacetylase inhibitor trichostatin a promotes totipotency in the male gametophyte
+Condition-specific target prediction from motifs and expression
+Inference of interactions between chromatin modifiers and histone modifications: from ChIP-Seq data to chromatin-signaling
+Analysis of expressed genes of the bacterium 'Candidatus phytoplasma Mali' highlights key features of virulence and metabolism
+Integrated sequence analysis pipeline provides one-stop solution for identifying disease-causing mutations
+Mutations in PTRH2 cause novel infantile-onset multisystem disease with intellectual disability, microcephaly, progressive ataxia, and muscle weakness
+Integrative analysis of transcriptomics, proteomics and metabolomics data of white adipose and liver tissue of high-fat diet and rosiglitazone-treated insulin-resistant mice identified pathway alterations and molecular hubs
+Epigenomic analysis of primary human T cells reveals enhancers associated with TH2 memory cell differentiation and asthma susceptibility
+Nuclear translocation uncovers the amyloid peptide Aβ42 as a regulator of gene transcription
+X-linked congenital ptosis and associated intellectual disability, short stature, microcephaly, cleft palate, digital and genital abnormalities define novel Xq25q26 duplication syndrome
+Cohort Profile: The Berlin Aging Study II (BASE-II)
+Crystal structure of pb9, the distal tail protein of bacteriophage T5: a conserved structural motif among all siphophages
+Germ line Methylation Patterns Determine the Distribution of Recombination Events in the Dog Genome
+Application of high-throughput sequencing for studying genomic variations in congenital heart disease
+Perspective on future role of biological markers in clinical therapy trials of Alzheimer's disease: A long-range point of view beyond 2020
+Predictive mechanisms in stem cells: an in vitro system based method for testing carcinogenicity
+COMT Polymorphism and Memory Dedifferentiation in Old Age
+Architecture of polyglutamine-containing fibrils from time-resolved fluorescence decay
+Regulation of the mammalian elongation cycle by subunit rolling: a eukaryotic-specific ribosome rearrangement
+The bromodomain protein BRD4 regulates the KEAP1/NRF2 dependent oxidative stress response
+The landscape of human STR variation
+Structural insights into membrane interaction and caveolar targeting of dynamin-like EHD2
+Testing chemical carcinogenicity by using a transcriptomics HepaRG-based model
+Identification of QTL affecting resistance/susceptibility to acute Actinobacillus pleuropneumoniae infection in swine
+Assembly of Helicobacter pylori initiation complex is determined by sequence-specific and topology-sensitive DnaA-oriC interactions
+Lemon balm extract causes potent antihyperglycemic and antihyperlipidemic effects in insulin-resistant obese mice
+Studying post-translational modiﬁcations with protein interaction networks
+5Regulation of myogenesis via kinase driven activation of DPF3a, a BAF complex member and its interaction with transcription repressor HEY1
+Inferring cellular regulatory networks with Bayesian model averaging for linear regression (BMALR)
+Characterization of early autophagy signaling by quantitative phosphoproteomics
+Rare and Private Variations in Neural Crest, Apoptosis and Sarcomere Genes Define the Polygenic Background of Isolated Tetralogy of Fallot
+European sea bass genome and its variation provide insights into adaptation to euryhalinity and speciation
+Genetic Analysis of Quantitative Phenotypes in AD and MCI: Imaging, Cognition and Biomarkers
+Dopamine and glutamate receptor genes interactively influence episodic memory in old age
+Rare autosomal copy number variations in early-onset familial Alzheimer's disease
+MEDIPS: genome wide differential coverage analysis of sequencing data derived from DNA enrichment experiments
+Computational modelling of drug response with applications to neuroscience
+A touch of glue to complete bacteriophage assembly: the tail-to-head joining protein (THJP) family
+The ORC/Cdc6/MCM2-7 complex facilitates MCM2-7 dimerization during prereplicative complex formation
+A Novel SLC6A8 Mutation in a Large Family with X-Linked Intellectual Disability: Clinical and Proton Magnetic Resonance Spectroscopy Data of Both Hemizygous Males and Heterozygous Females
+Structure of the mammalian 80S initiation complex with initiation factor 5B on HCV-IRES RNA
+Transcriptomics assisted proteomic analysis of Nicotiana occidentalis infected by Candidatus Phytoplasma mali strain AT
+Insights into bacteriophage T5 structure from analysis of its morphogenesis genes and protein components

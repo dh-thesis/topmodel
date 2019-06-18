@@ -1,0 +1,197 @@
+Protein degradation - an alternative respiratory substrate for stressed plants
+Altering Trehalose-6-Phosphate Content in Transgenic Potato Tubers Affects Tuber Growth and Alters Responsiveness to Hormones during Sprouting
+Toward the storage metabolome: profiling the barley vacuole
+Plant metabolomics and its potential for systems biology research: background concepts, technology and methodology
+Progress in chemometrics and biostatistics for plant applications: Or a good red wine is a bad white wine
+Comparative Functional Genomics of Salt Stress in Related Model and Cultivated Plants Identifies and Overcomes Limitations to Translational Genomics
+ATP Synthase Repression in Tobacco Restricts Photosynthetic Electron Transport, CO2 Assimilation, and Plant Growth by Overacidification of the Thylakoid Lumen
+Overexpression of Sinapine Esterase BnSCE3 in Oilseed Rape Seeds Triggers Global Changes in Seed Metabolism
+Evolutionary significance of metabolic network properties
+The Selaginella Genome Identifies Genetic Changes Associated with the Evolution of Vascular Plants
+ORS1, an H(2)O(2)-Responsive NAC Transcription Factor, Controls Senescence in Arabidopsis thaliana
+A Topological Map of the Compartmentalized Arabidopsis thaliana Leaf Metabolome
+Carbohydrate-active enzymes exemplify entropic principles in metabolism
+Modulation of the Major Paths of Carbon in Photorespiratory Mutants of Synechocystis
+MAPA Distinguishes Genotype-Specific Variability of Highly Similar Regulatory Protein Isoforms in Potato Tuber
+Unraveling gene regulatory networks from time-resolved gene expression data - a measures comparison study
+Designing Logical Rules to Model the Response of Biomolecular Networks with Complex Interactions: An Application to Cancer Modeling
+Genetic dissection of vitamin E biosynthesis in tomato
+Selection of Shine-Dalgarno sequences in plastids
+A Processive Glycosyltransferase Involved in Glycolipid Synthesis during Phosphate Deprivation in Mesorhizobium loti
+Stars and Symbiosis: MicroRNA- and MicroRNA*-Mediated Transcript Cleavage Involved in Arbuscular Mycorrhizal Symbiosis
+Constitutive overexpression of the sucrose transporter SoSUT1 in potato plants increases arbuscular mycorrhiza fungal root colonization under high, but not under low, soil phosphorus availability
+The Presequence of Arabidopsis Serine Hydroxymethyltransferase SHM2 Selectively Prevents Import into Mesophyll Mitochondria
+A minimal mathematical model of nonphotochemical quenching of chlorophyll fluorescence
+Coccolithophorid Algae Culture in Closed Photobioreactors
+Assembly and Sorting of the Tonoplast Potassium Channel AtTPK1 and Its Turnover by Internalization into the Vacuole
+Chloramphenicol acetyltransferase as selectable marker for plastid transformation
+Thermotropic phase behavior and headgroup interactions of the nonbilayer lipids phosphatidylethanolamine and monogalactosyldiacylglycerol in the dry state
+High-level expression of a suite of thermostable cell wall-degrading enzymes from the chloroplast genome
+Demethylation of oligogalacturonides by FaPE1 in the fruits of the wild strawberry Fragaria vesca triggers metabolic and transcriptional changes associated with defence and development of the fruit
+Comparative analysis between plant species of transcriptional and metabolic responses to hypoxia
+Quantitative shotgun proteomics using a uniform 15N-labeled standard to monitor proteome dynamics in time course experiments reveals new insights into the heat stress response of Chlamydomonas reinhardtii
+Regulation of respiration in plants: A role for alternative metabolic pathways
+The influence of the local sequence environment on RNA loop structures
+Transcriptional and metabolic programs following exposure of plants to UV-B irradiation
+Enhanced levels of vitamin B6 increase aerial organ size and positively affect stress tolerance in Arabidopsis
+The Composition of Plant Mitochondrial Supercomplexes Changes with Oxygen Availability
+EXORDIUM-LIKE1 Promotes Growth during Low Carbon Availability in Arabidopsis
+Data integration, Metabolic Networks and Systems Biology
+H(2)S and COS Gas Exchange of Transgenic Potato Lines with Modified Expression Levels of Enzymes Involved in Sulphur Metabolism
+Subfunctionalization of Cellulose Synthases in Seed Coat Epidermal Cells Mediates Secondary Radial Wall Synthesis and Mucilage Attachment
+Unraveling the Evolution of Auxin Signaling
+Malate Plays a Crucial Role in Starch Metabolism, Ripening, and Soluble Solid Content of Tomato Fruit and Affects Postharvest Softening
+Salt-induced accumulation of glycine betaine is inhibited by high light in durum wheat
+High-density kinetic analysis of the metabolomic and transcriptomic response of Arabidopsis to eight environmental conditions
+SLocX: predicting subcellular localization of Arabidopsis proteins leveraging gene expression data
+Alteration of mitochondrial protein complexes in relation to metabolic regulation under short-term oxidative stress in Arabidopsis seedlings
+Integration of proteomic and metabolomic profiling as well as metabolic modeling for the functional analysis of metabolic networks
+Nitrate regulates floral induction in Arabidopsis, acting independently of light, gibberellin and autonomous pathways
+Corn hybrids display lower metabolite variability and complex metabolite inheritance patterns
+MASCP Gator: An Aggregation Portal for the Visualization of Arabidopsis Proteomics Data
+Ultra performance liquid chromatography and high resolution mass spectrometry for the analysis of plant lipids
+Antisense Suppression of the Small Chloroplast Protein CP12 in Tobacco Alters Carbon Partitioning and Severely Restricts Growth
+Inner Composition Alignment for Inferring Directed Networks from Short Time Series
+Rapid metabolic evolution in human prefrontal cortex
+Identification of genes differentially expressed in a resistant reaction to Mycosphaerella pinodes in pea using microarray technology
+Nonessential plastid-encoded ribosomal proteins in tobacco: a developmental role for plastid translation and implications for reductive genome evolution
+Hypoxia responsive gene expression is mediated by various subsets of transcription factors and miRNAs that are determined by the actual oxygen availability
+HRE-Type Genes Are Regulated by Growth-Related Changes in Internal Oxygen Concentrations During the Normal Development of Potato (Solanum tuberosum) Tubers
+Regulation of photosynthesis and transcription factor expression by leaf shading and re-illumination in Arabidopsis thaliana leaves
+Proteomics - The key to understanding systems biology of Arabidopsis trichomes
+The genetic architecture of branched-chain amino acid accumulation in tomato fruits
+Analysis of the compartmentalized metabolome – a validation of the non-aqueous fractionation technique
+The specific overexpression of a cyclin-dependent kinase inhibitor in tomato fruit mesocarp cells uncouples endoreduplication and cell growth
+PlaNet: Combined Sequence and Expression Comparisons across Plant Networks Derived from Seven Species
+AXY8 encodes an alpha-fucosidase, underscoring the importance of apoplastic metabolism on the fine structure of Arabidopsis cell wall polysaccharides
+Editorial overview - the Computational approaches in aid of advancing understanding in Plant Physiology
+Circadian control of root elongation and C partitioning in Arabidopsis thaliana
+Herbivore-Induced Changes in Tomato (Solanum lycopersicum) Primary Metabolism: A Whole Plant Perspective
+From models to crop species: caveats and solutions for translational metabolomics
+The Hydroxypyruvate-Reducing System in Arabidopsis: Multiple Enzymes for the Same End
+Local Absence of Secondary Structure Permits Translation of mRNAs that Lack Ribosome-Binding Sites
+Evidence against sink limitation by the sucrose-to-starch route in potato plants expressing fructosyltransferases
+Nutrient-responsive plant microRNAs
+Dissection of Plant Cell Walls by High-Throughput Methods
+On the role of the mitochondrial 2-oxoglutarate dehydrogenase complex in the amino acid metabolism
+It's a loop world – single strands in RNA as structural and functional elements
+Structural transitions in the intrinsically disordered plant dehydration stress protein LEA7 upon drying are modulated by the presence of membranes
+Identification of lily pollen 14-3-3 isoforms and their subcellular and time-dependent expression profile
+Targeting Mitochondrial Metabolism and Machinery as a Means to Enhance Photosynthesis
+A mitochondrial GABA permease connects the GABA shunt and the TCA cycle, and is essential for normal carbon metabolism
+The interdependence of mechanisms underlying climate-driven vegetation mortality
+Tissue- and Cell-Type Specific Transcriptome Profiling of Expanding Tomato Fruit Provides Insights into Metabolic and Regulatory Specialization and Cuticle Formation
+NFX1-LIKE2 (NFXL2) Suppresses Abscisic Acid Accumulation and Stomatal Closure in Arabidopsis thaliana
+Comparative analysis of miRNAs and their targets across four plant species
+Positional Information Resolves Structural Variations and Uncovers an Evolutionarily Divergent Genetic Locus in Accessions of Arabidopsis thaliana
+Transcriptome and Metabolite Profiling Show That APETALA2a Is a Major Regulator of Tomato Fruit Ripening
+Use of TILLING and robotised enzyme assays to generate an allelic series of Arabidopsis thaliana mutants with altered ADP-glucose pyrophosphorylase activity
+Cyanobacterial lactate oxidases serve as essential partners in N2 fixation and evolved into photorespiratory glycolate oxidases in plants
+NO way to treat a cold
+Analysis of ven3 and ven6 reticulate mutants reveals the importance of arginine biosynthesis in Arabidopsis leaf development
+Stachyose in the cytosol does not influence freezing tolerance of transgenic Arabidopsis expressing stachyose synthase from adzuki bean
+Extensive metabolic cross-talk in melon fruit revealed by spatial and developmental combinatorial metabolomics
+A seed high-lysine trait is negatively associated with the TCA cycle and slows down Arabidopsis seed germination
+Fumarate: Multiple functions of a simple metabolite
+Diverging functions among calreticulin isoforms in higher plants
+A Naturally Associated Rhizobacterium of Arabidopsis thaliana Induces a Starvation-Like Transcriptional Response while Promoting Growth
+Photosystem I: Its biogenesis and function in higher plants
+Comparative ionomics and metabolomics in extremophile and glycophytic Lotus species under salt stress challenge the metabolic pre-adaptation hypothesis
+In vivo analysis of RNA editing in plastids
+Mutations in leaf starch metabolism modulate the diurnal root growth profiles of Arabidopsis thaliana
+Modeling alternatives for interpreting the change in oxygen-consumption rates during hypoxic conditions
+Elimination of a group II intron from a plastid gene causes a mutant phenotype
+Adenine nucleotide transport in plants: much more than a mitochondrial issue
+Genetics, genomics and metabolomics
+Identification of an intracellular metabolic signature impairing beta cell function in the rat beta cell line INS-1E and human islets
+Colonization of roots of cultivated Solanum lycopersicum by dark septate and other ascomycetous endophytes
+An Optimized Method for the Isolation of Nuclei from Chlamydomonas Reinhardtii (Chlorophyceae)
+Metabolomics reveals comprehensive reprogramming involving two independent metabolic responses of Arabidopsis to UV-B light
+Lost in folding space? Comparing four variants of the thermodynamic model for RNA secondary structure prediction
+The intrinsically disordered late embryogenesis abundant protein LEA18 from Arabidopsis thaliana modulates membrane stability through binding and folding
+Sample amount alternatives for data adjustment in comparative cyanobacterial metabolomics
+The Interconversion of UDP-Arabinopyranose and UDP-Arabinofuranose Is Indispensable for Plant Development in Arabidopsis
+Coupling Virus-Induced Gene Silencing to Exogenous Green Fluorescence Protein Expression Provides a Highly Efficient System for Functional Genomics in Arabidopsis and across All Stages of Tomato Fruit Development
+Evolution, structure and function of mitochondrial carriers: a review with new insights
+Complexity of automated gene annotation
+Analysis of short-term changes in the Arabidopsis thaliana glycerolipidome in response to temperature and light
+A growth phenotyping pipeline for Arabidopsis thaliana integrating image analysis and rosette area modeling for robust quantification of genotype effects
+Expression of human c-reactive protein in different systems and its purification from Leishmania tarentolae
+Yield quantitative trait loci from wild tomato are predominately expressed by the shoot
+Spatiotemporal dynamics of the Calvin cycle: Multistationarity and symmetry breaking instabilities
+Elemental formula annotation of polar and lipophilic metabolites using 13C, 15N and 34S isotope labelling, in combination with high-resolution mass spectrometry
+Natural variation in the freezing tolerance of Arabidopsis thaliana: Effects of RNAi-induced CBF depletion and QTL localisation vary among accessions
+A Deficiency in the Flavoprotein of Arabidopsis Mitochondrial Complex II Results in Elevated Photosynthesis and Better Growth in Nitrogen-Limiting Conditions
+Recommendations for Reporting Metabolite Data
+Optimization of the expression of the HIV fusion inhibitor cyanovirin-N from the tobacco plastid genome
+Arabidopsis thaliana nucleosidase mutants provide new insights into nucleoside degradation
+Uncoupling of sexual reproduction from homologous recombination in homozygous Oenothera species
+Systems Biology of Tomato Fruit Development: Combined Transcript, Protein, and Metabolite Analysis of Tomato Transcription Factor (nor, rin) and Ethylene Receptor (Nr) Mutants Reveals Novel Regulatory Interactions
+Seed-specific elevation of non-symbiotic hemoglobin AtHb1: beneficial effects and underlying molecular networks in Arabidopsis thaliana
+Hybrid embryos of Vicia faba develop enhanced sink strength, which is established during early development
+Plastid Biotechnology: Food, Fuel, and Medicine for the 21st Century
+Tomato fruit photosynthesis is seemingly unimportant in primary metabolism and ripening but plays a considerable role in seed development
+Metabolic profiling during peach fruit development and ripening reveals the metabolic networks that underpin each developmental stage
+Regulation of the molecular response to oxygen limitations in plants
+Antisense Inhibition of the Iron-Sulphur Subunit of Succinate Dehydrogenase Enhances Photosynthesis and Growth in Tomato via an Organic Acid-Mediated Effect on Stomatal Aperture
+Evolution and metabolic significance of the urea cycle in photosynthetic diatoms
+Distribution pattern of small RNA and degradome reads provides information on miRNA gene structure and regulation
+Metabolic and miRNA Profiling of TMV Infected Plants Reveals Biphasic Temporal Changes
+JMassBalance: mass-balanced randomization and analysis of metabolic networks
+Mass-balanced randomization of metabolic networks
+Unraveling the role of fermentation in the mode of action of acetolactate synthase inhibitors by metabolic profiling
+Metabolic and Transcriptomic Phenotyping of Inorganic Carbon Acclimation in the Cyanobacterium Synechococcus elongatus PCC 7942
+Live Cell Imaging Reveals Structural Associations between the Actin and Microtubule Cytoskeleton in Arabidopsis
+Large-scale co-expression approach to dissect secondary cell wall formation across plant species
+RETINOBLASTOMA-RELATED PROTEIN controls the transition to autotrophic plant development
+Identification of a novel heteroglycan-interacting protein, HIP 1.3, from Arabidopsis thaliana
+The use of natural genetic diversity in the understanding of metabolic organization and regulation
+Targeted Enhancement of Glutamate-to-gamma-Aminobutyrate Conversion in Arabidopsis Seeds Affects Carbon-Nitrogen Balance and Storage Reserves in a Development-Dependent Manner
+Cellulose Synthases and Synthesis in Arabidopsis
+Biolistic co-transformation of the nuclear and plastid genomes
+Visualizing large, high-throughput datasets based on the cognitive representation of biological pathways
+Water deficits uncouple growth from photosynthesis, increase C content, and modify the relationships between C and growth in sink organs
+Comparison of metabolite profiles in U87 glioma cells and mesenchymal stem cells
+Metabolic priming by a secreted fungal effector
+Inhibition of aconitase in citrus fruit callus results in a metabolic shift towards amino acid biosynthesis
+Identification of two hydrophilins that contribute to the desiccation and freezing tolerance of yeast (Saccharomyces cerevisiae) cells
+Identification of Genes in the Phenylalanine Metabolic Pathway by Ectopic Expression of a MYB Transcription Factor in Tomato Fruit
+Gibberellin biosynthesis and signalling during development of the strawberry receptacle
+Oxygen sensing in plants is mediated by an N-end rule pathway for protein destabilization
+The reduction of seed-specific dehydrins reduces seed longevity in Arabidopsis thaliana
+Photosystem II Supercomplex Remodeling Serves as an Entry Mechanism for State Transitions in Arabidopsis
+Metabolic profiling reveals key metabolic features of renal cell carcinoma
+On the origins of nitric oxide
+Immunogenicity of chloroplast-derived HIV-1 p24 and a p24-Nef fusion protein following subcutaneous and oral administration in mice
+Potassium (K plus ) gradients serve as a mobile energy source in plant vascular tissues
+Stable diurnal growth rhythms modulate root elongation of Arabidopsis thaliana
+Perturbation of Arabidopsis Amino Acid Metabolism Causes Incompatibility with the Adapted Biotrophic Pathogen Hyaloperonospora arabidopsidis
+Transcription Factor-Dependent Chromatin Remodeling at Heat Shock and Copper-Responsive Promoters in Chlamydomonas reinhardtii
+Protocol: methodology for chromatin immunoprecipitation (ChIP) in Chlamydomonas reinhardtii
+Identification of Enzyme Activity Quantitative Trait Loci in a Solanum lycopersicum X Solanum pennellii Introgression Line Population
+A Reciprocal (15)N-Labeling Proteomic Analysis of Expanding Arabidopsis Leaves Subjected to Osmotic Stress Indicates Importance of Mitochondria in Preserving Plastid Functions
+The K (+) battery-regulating Arabidopsis K(+) channel AKT2 is under the control of multiple post-translational steps
+Metabolomic linkage reveals functional interaction between glucose-dependent insulinotropic polypeptide and ghrelin in humans
+Combined transcription factor profiling, microarray analysis and metabolite profiling reveals the transcriptional control of metabolic shifts occurring during tomato fruit development
+Integrated proteome and metabolite analysis of the de-etiolation process in plastids from rice (Oryza sativa L.)
+Construction and evaluation of a whole genome microarray of Chlamydomonas reinhardtii
+A quantitative comparison of CalvinBenson cycle models
+Analysis of a Range of Catabolic Mutants Provides Evidence That Phytanoyl-Coenzyme A Does Not Act as a Substrate of the Electron-Transfer Flavoprotein/Electron-Transfer Flavoprotein:Ubiquinone Oxidoreductase Complex in Arabidopsis during Dark-Induced Senescence
+Control of stomatal aperture: A renaissance of the old guard
+Hydrophobicity and Charge Shape Cellular Metabolite Concentrations
+RNA-Binding Proteins Required for Chloroplast RNA Processing
+Pause-and-Stop: The Effects of Osmotic Stress on Cell Proliferation during Early Leaf Development in Arabidopsis and a Role for Ethylene Signaling in Cell Cycle Arrest
+Safety assessment of nonbrowning potatoes: opening the discussion about the relevance of substantial equivalence on next generation biotech crops
+Nanopatterned protein microrings from a diatom that direct silica morphogenesis
+Genetic architecture of flowering-time variation in Arabidopsis thaliana
+Different sequence signatures in the upstream regions of plant and animal tRNA genes shape distinct modes of regulation
+Trehalose-6-phosphate: connecting plant metabolism and development
+A Reciprocal N-15-Labeling Proteomic Analysis of Expanding Arabidopsis Leaves Subjected to Osmotic Stress Indicates Importance of Mitochondria in Preserving Plastid Functions
+Update on Chloroplast Research: New Tools, New Topics, and New Trends
+Survival and growth of Arabidopsis plants given limited water are not equal
+The Moderately Efficient Enzyme: Evolutionary and Physicochemical Trends Shaping Enzyme Parameters
+The role of plastids in plant speciation
+Robustness of metabolic networks: A review of existing definitions
+On the role of the mitochondrial 2-oxoglutarate dehydrogenase complex in the amino acid metabolism
+Use of Phosphoproteomics to Study Posttranslational Protein Modifications in Arabidopsis Chloroplasts
+High-Throughput Protein Expression Using a Combination of Ligation-Independent Cloning (LIC) and Infrared Fluorescent Protein (IFP) Detection

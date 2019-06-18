@@ -1,0 +1,114 @@
+Comments on "Discrepancies between isotope ratio infrared spectroscopy and isotope ratio mass spectrometry for the stable isotope analysis of plant and soil waters"
+Interactions between nitrogen deposition, land cover conversion, and climate change determine the contemporary carbon balance of Europe
+The occurrence of short chain n-alkanes with an even over odd predominance in higher plants and soils
+Impact of climate change and variability on the global oceanic sink of CO2
+Identifying multiple spatiotemporal patterns: A refined view on terrestrial photosynthetic activity
+The carbon budget of the northern cryosphere region
+Treatment and assessment of the CO2-exchange at a complex forest site in Thuringia, Germany
+European CO2 fluxes from atmospheric inversions using regional and global transport models
+Bottom-up effects of plant diversity on multitrophic interactions in a biodiversity experiment
+Biodiversity and belowground interactions mediate community invasion resistance against a tall herb invader
+The European carbon balance. Part 4: integration of carbon and other trace-gas fluxes
+Assimilation exceeds respiration sensitivity to drought: A FLUXNET synthesis
+Measurements necessary for assessing the net ecosystem carbon budget of croplands
+Plant diversity effects on soil microorganisms support the singular hypothesis
+Importance of location for describing typical and extreme wind speed behavior
+Relative contributions of soil, foliar, and woody tissue respiration to total ecosystem respiration in four pine forests of different ages
+Biology, chance, or history? The predictable reassembly of temperate grassland communities
+Diversity promotes temporal stability across levels of ecosystem organization in experimental grasslands
+Variations in chemical and physical properties of Amazon forest soils in relation to their genesis
+Leaf wax n-alkane δ D values of field-grown barley reflect leaf water δD values at the time of leaf formation
+Detecting the critical periods that underpin interannual fluctuations in the carbon balance of European forests
+Simulating carbon exchange using a regional atmospheric model coupled to an advanced land-surface model
+CO2, δO2/N2 and APO: observations from the Lutjewad, Mace Head and F3 platform flask sampling network
+Terrestrial nitrogen feedbacks may accelerate future climate change
+Implementing large-scale and long-term functional biodiversity research: The Biodiversity Exploratories
+Productivity, Respiration, and Light-Response Parameters of World Grassland and Agroecosystems Derived From Flux-Tower Measurements
+Soil-Litter-Iso: A one-dimensional model for coupled transport of heat, water and stable isotopes in soil with a litter layer and root extraction
+How Stable Is the Methane Cycle?
+From biota to chemistry and climate: towards a comprehensive description of trace gas exchange between the biosphere and atmosphere
+A meta-analysis of the effects of global environmental change on plant-herbivore interactions
+Blank assessment for ultra-small radiocarbon samples: chemical extraction and separation versus AMS
+Metabolomics Unravel Contrasting Effects of Biodiversity on the Performance of Individual Plant Species
+The influence of vegetation, fire spread and fire behaviour on biomass burning and trace gas emissions: results from a process-based model
+Water drives the deuterium content of the methane emitted from plants
+Continuous low-maintenance CO2/CH4/H2O measurements at the Zotino Tall Tower Observatory (ZOTTO) in Central Siberia
+Non-equilibrium thermodynamics, maximum entropy production and Earth-system evolution
+Separation of net ecosystem exchange into assimilation and respiration using a light response curve approach: critical issues and global evaluation
+Maximum entropy production in environmental and ecological systems Introduction
+Cloud albedo increase from carbonaceous aerosol
+Maximum entropy production allows a simple representation of heterogeneity in semiarid ecosystems
+Negative or positive effects of plantation and intensive forestry on biodiversity: A matter of scale and perspective
+Introduced European rabbits (Oryctolagus cuniculus) and domestic cats (Felis catus) on Robben Island: Population trends and management recommendations
+Evaluation of various observing systems for the global monitoring of CO2 surface fluxes
+Hydrological and geomorphological basin and catchment characteristics of Lake Nam Co, South-Central Tibet
+Heterotrophic soil respiration and soil carbon dynamics in the deciduous Hainich forest obtained by three approaches
+GIS-based high-resolution spatial interpolation of precipitation in mountain-plain areas of Upper Pakistan for regional climate change impact studies
+Identification of vegetation and soil carbon pools out of equilibrium in a process model via eddy covariance and biometric constraints
+Impact of Manaus City on the Amazon Green Ocean atmosphere: ozone production, precursor sensitivity and aerosol load
+Soil respiration at mean annual temperature predicts annual total across vegetation types and biomes
+Improvements of the Jena AMS system
+A linked carbon cycle and crop developmental model: Description and evaluation against measurements of carbon fluxes and carbon stocks at several European agricultural sites
+Contrasting response of European forest and grassland energy exchange to heatwaves
+Implication of weekly and diurnal 14C calibration on hourly estimates of CO-based fossil fuel CO2 at a moderately polluted site in southwestern Germany
+Impact of invertebrate herbivory in grasslands depends on plant species diversity
+Calibration of the total carbon column observing network using aircraft profile data
+Isotopic composition of H2 from wood burning: Dependency on combustion efficiency, moisture content, and δD of local precipitation
+Drying-rewetting events reduce C and N losses from a Norway spruce forest floor
+High resolution modeling of CO2 over Europe: implications for representation errors of satellite retrievals
+Investigating habitat-specific plant species pools under climate change
+Detecting human-driven deviations from trajectories in landscape composition and configuration
+Climate control of terrestrial carbon exchange across biomes and continents
+Direct and indirect effects of tree diversity drive soil microbial diversity in temperate deciduous forest
+Growth in two common gardens reveals species by environment interaction in carbon isotope discrimination of Eucalyptus
+Chromatographic analysis of major non-structural carbohydrates in several wood species - an analytical approach for higher accuracy of data
+Influence of spring and autumn phenological transitions on forest ecosystem productivity
+Effect of peat quality on microbial greenhouse gas formation in an acidic fen
+Ecohydrological responses of dense canopies to environmental variability: 1. Interplay between vertical structure and photosynthetic pathway
+A new fully automated FTIR system for total column measurements of greenhouse gases
+The importance of transport model uncertainties for the estimation of CO2 sources and sinks using satellite measurements
+Can we reconcile atmospheric estimates of the Northern terrestrial carbon sink with land-based accounting?
+Ecohydrological responses of dense canopies to environmental variability: 2. Role of acclimation under elevated CO2
+The Maximum Entropy Production Principle: Its Theoretical Foundations and Applications to the Earth System
+Historical and future perspectives of global soil carbon response to climate and land-use changes
+Evidence for genetic differentiation and divergent selection in an autotetraploid forage grass (Arrhenatherum elatius)
+Characterization of ecosystem responses to climatic controls using artificial neural networks
+Decomposition of old organic matter as a result of deeper active layers in a snow depth manipulation experiment
+Terrestrial biogeochemical feedbacks in the climate system
+Small-mass graphite preparation by sealed tube zinc reduction method for AMS 14C measurements
+Direct advection measurements do not help to solve the night-time CO2 closure problem: Evidence from three different forests
+Is forest diversity driving ecosystem function and service?
+Widespread Amazon forest tree mortality from a single cross-basin squall line event
+Soil respiration across scales: towards an integration of patterns and processes
+Late Quaternary hydrological changes inferred from lake level fluctuations of Nam Co (Tibetan Plateau, China)
+Ecophysiological and bioclimatic foundations for a global plant functional classification
+Novel silver-tubing method for quantitative introduction of water into high-temperature conversion systems for stable hydrogen and oxygen isotopic measurements
+Tree diversity promotes insect herbivory in subtropical forests of south-east China
+The influence of climate and fructification on the inter-annual variability of stem growth and net primary productivity in an old-growth, mixed beech forest
+Coupled weather research and forecasting-stochastic time-inverted lagrangian transport (WRF-STILT) model
+Palaeovegetation in China during the late Quaternary: Biome reconstructions based on a global scheme of plant functional types
+Time course of plant diversity effects on Centaurea jacea establishment and the role of competition and herbivory
+Plant Species Loss Affects Life-History Traits of Aphids and Their Parasitoids
+Management effects on net ecosystem carbon and GHG budgets at European crop sites
+Carbon stored in human settlements: the conterminous United States
+A basic introduction to the thermodynamics of the Earth system far from equilibrium and maximum entropy production
+Recent (< 4 year old) leaf litter is not a major source of microbial carbon in a temperate forest mineral soil
+A multi-proxy approach to reconstruct hydrological changes and Holocene climate development of Nam Co, Central Tibet
+Sulfur isotope variations from orebody to hand-specimen scale at the Mezica lead-zinc deposit, Slovenia: a predominantly biogenic pattern
+Evaluation of structural chemistry and isotopic signatures of refractory soil organic carbon fraction isolated by wet oxidation methods
+Reduction of forest soil respiration in response to nitrogen deposition
+Recent decline in the global land evapotranspiration trend due to limited moisture supply
+The European carbon balance. Part 4: integration of carbon and other trace-gas fluxes (vol 16, pg 1451, 2010)
+Sustainable Foresting: Easier Said Than Done
+Technical Note: A new coupled system for global-to-regional downscaling of CO2 concentration estimation
+Observation-based estimates of fossil fuel-derived CO2 emissions in the Netherlands using δ14C, CO and 222Radon
+Horizon-Specific Bacterial Community Composition of German Grassland Soils, as Revealed by Pyrosequencing-Based Analysis of 16S rRNA Genes
+Late Quaternary glaciation in the Tianshan and implications for palaeoclimatic change: a review
+Analysis of periods with strong and coherent CO2 advection over a forested hill
+Is the consensus value of Anu sucrose (IAEA C-6) too high?
+Remote sensing of larch phenological cycle and analysis of relationships with climate in the Alpine region
+Deciphering the components of regional net ecosystem fluxes following a bottom-up approach for the Iberian Peninsula
+High resolution field spectroscopy measurements for estimating gross ecosystem production in a rice field
+ForCent model development and testing using the Enriched Background Isotope Study experiment
+Characterization of fine resolution field spectrometers using solar Fraunhofer lines and atmospheric absorption features
+Compound-specific radiocarbon analyses of phospholipid fatty acids and n-alkanes in ocean sediments

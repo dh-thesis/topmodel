@@ -1,0 +1,146 @@
+Methane Seep in Shallow-Water Permeable Sediment Harbors High Diversity of Anaerobic Methanotrophic Communities, Elba, Italy
+Evaluating oceanographic measurements contributed by citizen scientists in support of Ocean Sampling Day
+Differences between mono-generic and mixed diatom silicon isotope compositions trace present and past nutrient utilisation off Peru
+Water column biogeochemistry of oxygen minimum zones in the eastern tropical North Atlantic and eastern tropical South Pacific oceans
+MiL-FISH: Multilabeled Oligonucleotides for Fluorescence In Situ Hybridization Improve Visualization of Bacterial Cells
+ROV Hercules Investigates Brine Lakes on the Bottom of the Ocean
+Controls on Erosion Patterns and Sediment Transport in a Monsoonal, Tectonically Quiescent Drainage, Song Gianh, Central Vietnam
+Modification of a High-Throughput Automatic Microbial Cell Enumeration System for Shipboard Analyses
+Extensive nitrogen loss from permeable sediments off North-West Africa
+Distribution and Composition of Thiotrophic Mats in the Hypoxic Zone of the Black Sea (150-170 m Water Depth, Crimea Margin)
+Silicon and nitrogen cycling in the upwelling area off Peru: A dual isotope approach
+Selective Pressure of Temperature on Competition and Cross-Feeding within Denitrifying and Fermentative Microbial Communities
+Ubiquitous Gammaproteobacteria dominate dark carbon fixation in coastal sediments
+Massive asphalt deposits, oil seepage, and gas venting support abundant chemosynthetic communities at the Campeche Knolls, southern Gulf of Mexico
+A specific and widespread association between deep-sea Bathymodiolus mussels and a novel family of Epsilonproteobacteria
+Seeing growth without culture
+Overview of the interactive task in BioCreative V
+Simulated leakage of high pCO(2) water negatively impacts bivalve dominated infaunal communities from the Western Baltic Sea
+The Global Genome Biodiversity Network (GGBN) Data Standard specification
+Flow cytometric sorting of fecal bacteria after in situ hybridization with polynucleotide probes
+Asynchronous division by non-ring FtsZ in the gammaproteobacterial symbiont of Robbea hypermnestra
+Geochemically distinct carbon isotope distributions in Allochromatium vinosum DSM 180T grown photoautotrophically and photoheterotrophically
+Differential proteomic analysis of the metabolic network of the marine sulfate-reducer Desulfobacterium autotrophicum HRM2
+Chemosynthetic symbionts of marine invertebrate animals are capable of nitrogen fixation
+Polysaccharide utilisation loci of Bacteroidetes from two contrasting open ocean sites in the North Atlantic
+Anammox Biochemistry: a Tale of Heme c Proteins
+Application of the isotope pairing technique in sediments where anammox, denitrification, and dissimilatory nitrate reduction to ammonium coexist
+Description of Gramella forsetii sp.nov., a marine Flavobacteriaceae isolated from North Sea water, and emended description of Gramella gaetbulicola
+Thermophilic archaea activate butan via alkyl-coenzyme M formation
+Thermophilic archaea activate butane via alkyl-coenzyme M formation
+Environmental drivers of dissolved organic matter molecular composition in the Delaware estuary
+Nitrogen and phosphorus uptake rates of different species from a coral reef community after a nutrient pulse
+High Diversity of Anaerobic Alkane-Degrading Microbial Communities in Marine Seep Sediments Based on (1-methylalkyl)succinate Synthase Genes
+Activity and community structures of sulfate-reducing microorganisms in polar, temperate and tropical marine sediments
+N-2 fixation in eddies of the eastern tropical South Pacific Ocean
+Internal pH regulation facilitates in situ long-term acclimation of massive corals to end-of-century carbon dioxide conditions
+SAR11 bacteria linked to ocean anoxia and nitrogen loss
+Comparison between infaunal communities of the deep floor and edge of the Tonga Trench: Possible effects of differences in organic matter supply
+After All, Only Millions?
+Diffusive transfer of oxygen from seamount basaltic crust into overlying sediments: An example from the Clarion-Clipperton Fracture Zone
+Value, but high costs in post-deposition data curation
+Diversity and distribution of Tardigrada in Arctic cryoconite holes
+Climate change and response in bottom water circulation and sediment provenance in the Central Arctic Ocean since the Last Glacial
+REPLY TO PRINCE ET AL.: Ability of chemical dispersants to reduce oil spill impacts remains unclear
+Diversity and Biogeography of Bathyal and Abyssal Seafloor Bacteria
+Short-term dynamics of north sea bacterioplankton-dissolved organic matter coherence on molecular level
+Linking molecular size, composition and carbon turnover of extractable soil microbial compounds
+Quantification of the effects of ocean acidification on sediment microbial communities in the environment: the importance of ecosystem approaches
+Radiocarbon constraints on the extent and evolution of the South Pacific glacial carbon pool
+Recurring patterns in bacterioplankton dynamics during coastal spring algae blooms
+A novel molecular approach for tracing terrigenous dissolved organic matter into the deep ocean
+Area, depth and elevation of cryoconite holes in the Arctic do not influence Tardigrada densities
+Macroecological drivers of archaea and bacteria in benthic deep-sea ecosystems
+Assessing benthic oxygen fluxes in oligotrophic deep sea sediments (HAUSGARTEN observatory)
+The application of “-omics” technologies for the classification and identification of animals
+Habitat and taxon as driving forces of carbohydrate catabolism in marine heterotrophic bacteria: example of the model algae-associated bacterium Zobellia galactanivorans DsijT
+Methanotrophy under Versatile Conditions in the Water Column of the Ferruginous Meromictic Lake La Cruz (Spain)
+Intracellular Nitrate of Marine Diatoms as a Driver of Anaerobic Nitrogen Cycling in Sinking Aggregates
+Seasonal and spatial variability of dissolved organic matter composition in the lower Amazon River
+Genome and catabolic subproteomes of the marine, nutritionally versatile, sulfate-reducing bacterium Desulfococcus multivorans DSM 2059
+Seqenv: linking sequences to environments through text mining
+Association of deep-sea incirrate octopods with manganese crusts and nodule fields in the Pacific Ocean
+Influence of Po River runoff on the bacterioplankton community along trophic and salinity gradients in the Northern Adreatic Sea
+BioVeL: a virtual laboratory for data analysis and modelling in biodiversity science and ecology
+Size and Carbon Content of Sub-seafloor Microbial Cells at Landsort Deep, Baltic Sea
+High rates of microbial dinitrogen fixation and sulfate reduction associated with the Mediterranean seagrass Posidonia oceanica
+Tracking activity and function of microorganisms by stable isotope probing of membrane lipids
+MIxS-HCR: a MIxS extension defining a minimal information standard for sequence data from environments pertaining to hydrocarbon resources
+The small unicellular diazotrophic symbiont, UCYN-A, is a key player in the marine nitrogen cycle
+Molecular signatures of biogeochemical transformations in dissolved organic matter from ten world rivers
+High performance CCD camera system for digitalisation of 2D DIGE gels
+Revised phylogeny of Bacteroidetes and proposal of sixteen new taxa and two new combinations including Rhodothermaeota phyl. nov.
+An Information System for European culture collections: the way forward
+Fe- and Cu-complex formation with artificial ligands investigated by ultra-high resolution Fourier-transform ion cyclotron resonance mass spectrometry (FT-ICR-MS): Implications for natural metal-organic complex studies
+Direct-geneFISH: a simplified protocol for the simultaneous detection and quantification of genes and rRNA in microorganisms
+KdgF, the missing link in the microbial metabolism of uronate sugars from pectin and alginate
+Evaluation of Strategies to Separate Root-Associated Microbial Communities: A Crucial Choice in Rhizobiome Research
+Direct Nitrous Oxide Emission from the Aquacultured Pacific White Shrimp (Litopenaeus vannamei)
+Expanding the World of Marine Bacterial and Archaeal Clades
+Dissolved organic matter in pore water of Arctic Ocean sediments: Environmental influence on molecular composition
+Comparative Genomic Analysis Reveals a Diverse Repertoire of Genes Involved in Prokaryote-Eukaryote Interactions within the Pseudovibrio Genus
+Tracing the production and fate of individual archaeal intact polar lipids using stable isotope probing
+Evaluating Oceanographic Measurements Contributed by Citizen Scientists in Support of Ocean Sampling Day
+Changes in diatom productivity and upwelling intensity off Peru since the Last Glacial Maximum: Response to basin-scale atmospheric and oceanic forcing
+In situ multiple sulfur isotope analysis by SIMS of pyrite, chalcopyrite, pyrrhotite, and pentlandite to refine magmatic ore genetic models
+Transcriptomic and proteomic insights into innate immunity and adaptations to a symbiotic lifestyle in the gutless marine worm Olavius algarvensis
+Influence of the Po River runoff on the bacterioplankton community along trophic and salinity gradients in the Northern Adriatic Sea
+Intensive cryptic microbial iron cycling in the low iron water column of the meromictic Lake Cadagno
+Molecular fractionation of dissolved organic matter in a shallow subterranean estuary: the role of the iron curtain
+Biophysical and Population Genetic Models Predict the Presence of "Phantom" Stepping Stones Connecting Mid-Atlantic Ridge Vent Ecosystems
+Recent advances in marine N-cycle studies using N-15 labeling methods
+The anaerobic linalool metabolism in Thauera linaloolentis 47 Lol
+Short- and long-term acclimation patterns of the giant kelp Macrocystis pyrifera (Laminariales, Phaeophyceae) along a depth gradient
+The Guaymas Basin Hiking Guide to Hydrothermal Mounds, Chimneys, and Microbial Mats: Complex Seafloor Expressions of Subsurface Hydrothermal Circulation
+Improved ultrastructure of marine invertebrates using non-toxic buffers
+The formation of a subsurface anticyclonic eddy in the Peru-Chile Undercurrent and its impact on the near-coastal salinity, oxygen, and nutrient distributions
+Metabolic capabilities of microorganisms involved in and associated with the anaerobic oxidation of methane
+Single-Cell (Meta-)Genomics of a Dimorphic Candidatus Thiomargarita nelsonii Reveals Genomic Plasticity
+Oxidation of Molecular Hydrogen by a Chemolithoautotrophic Beggiatoa Strain
+JSpeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison
+Single-cell genomics of uncultivated deep-branching magnetotactic bacteria reveals a conserved set of magnetosome genes
+Unraveling North-African riverine and eolian contributions to central Mediterranean sediments during Holocene sapropel S1 formation
+Repeated occurrences of methanogenic zones, diagenetic dolomite formation and linked silicate alteration in southern Bering Sea sediments (Bowers Ridge, IODP Exp. 323 Site U1341)
+Understanding Marine Microbes, the Driving Engines of the Ocean
+EXTRACT: interactive extraction of environment metadata and term suggestion for metagenomic sample annotation
+Three-dimensional structure and cyanobacterial activity within a desert biological soil crust
+N-2-fixation, ammonium release and N-transfer to the microbial and classical food web within a plankton community
+Neodymium isotope analyses after combined extraction of actinide and lanthanide elements from seawater and deep-sea coral aragonite
+Single-cell sequencing of Thiomargarita reveals genomic flexibility for adaptation to dynamic redox conditions
+Effect of light and nutrient availability on the release of dissolved organic carbon (DOC) by Caribbean turf algae
+Integrating biogeochemistry with multiomic sequence information in a model oxygen minimum zone
+Benthic carbon mineralization in hadal trenches: Assessment by in situ O-2 microprofile measurements
+Molecular evidence for abiotic sulfurization of dissolved organic matter in marine shallow hydrothermal systems
+Transformation of silicon in a sandy beach ecosystem: Insights from stable silicon isotopes from fresh and saline groundwaters
+Intense cryptic microbial iron cycling in the low iron water column of the meromictic Lake Cadagno
+Diazotroph Diversityinthe Sea Ice, Melt Ponds, and Surface Waters of the Eurasian Basin of the Central Arctic Ocean
+TRAMPER - An autonomous crawler for long-term benthic oxygen flux studies in remote deep sea ecosystems
+Hawaiian imprint on dissolved Nd and Ra isotopes and rare earth elements in the central North Pacific: Local survey and seasonal variability
+Influence of ocean acidification on a natural winter-to-summer plankton succession: First insights from a long-term mesocosm study draw attention to periods of low nutrient concentrations
+Microscale profiling of photosynthesis-related variables in a highly productive biofilm photobioreactor
+Biofilms on glacial surfaces: hotspots for biological activity
+Environmental Breviatea harbour mutualistic Arcobacter epibionts
+Myxozoa plus Polypodium: A Common Route to Endoparasitism
+Coupled nitrification-denitrification leads to extensive N loss in subtidal permeable sediments
+Reproducing Authigenic Carbonate Precipitation in the Hypersaline Lake Acgol (Turkey) with Microbial Cultures
+Biotic Control of Surface pH and Evidence of Light-Induced H+ Pumping and Ca2+-H+ Exchange in a Tropical Crustose Coralline Alga
+Microbial Communities in Methane- and Short Chain Alkane-Rich Hydrothermal Sediments of Guaymas Basin
+Elevated pCO(2) drives lower growth and yet increased calcification in the early life history of the cuttlefish Sepia officinalis (Mollusca: Cephalopoda)
+Structure and function of natural sulphide-oxidizing microbial mats under dynamic input of light and chemical energy
+Hydrogen Isotope Fractionation As a Tool to Identify Aerobic and Anaerobic PAH Biodegradation
+Biodegradation of crude oil and dispersants in deep seawater from the Gulf of Mexico: Insights from ultra-high resolution mass spectrometry
+Closely coupled evolutionary history of ecto- and endosymbionts from two distantly related animal phyla
+Phylogeny-aware identification and correction of taxonomically mislabeled sequences
+How Clonal Is Clonal? Genome Plasticity across Multicellular Segments of a "Candidatus Marithrix sp." Filament from Sulfidic, Briny Seafloor Sediments in the Gulf of Mexico
+Experimental evidence that evolution by niche construction affects dissipative ecosystem dynamics
+Linalool isomerase, a membrane-anchored enzyme in the anaerobic monoterpene degradation in Thauera linaloolentis 47Lol
+Mikroorganismen des Tiefseebodens: Vielfalt, Verteilung, Funktion
+Cyanobacteria in Sulfidic Spring Microbial Mats Can Perform Oxygenic and Anoxygenic Photosynthesis Simultaneously during an Entire Diurnal Period
+Heterotrophic Proteobacteria in the vicinity of diffuse hydrothermal venting
+Cell-specific nitrogen- and carbon-fixation of cyanobacteria in a temperate marine system (Baltic Sea)
+Rapid and precise analysis of rare earth elements in small volumes of seawater - Method and intercomparison
+Comparing molecular composition of dissolved organic matter in soil and stream water: Influence of land use and chemical characteristics
+Aerobic gammaproteobacterial methanotrophs mitigate methane emissions from oxic and anoxic lake waters
+Candidatus Desulfofervidus auxilii, a hydrogenotrophic sulfate-reducing bacterium involved in the thermophilic anaerobic oxidation of methane
+Reply to "The Underestimation of Global Microbial Diversity"
+Evidence for water-mediated mechanisms in coral-algal interactions

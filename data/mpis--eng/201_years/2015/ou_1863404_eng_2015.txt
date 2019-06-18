@@ -1,0 +1,201 @@
+Quantum Anomalous Hall Effect in Magnetic Insulator Heterostructure
+Magnetic and transport properties of structural variants of Remeika phases: Th3Ir4Ge13 and U3Ir4Ge13
+Multiple in-plane spin reorientation transitions in Fe/CoO bilayers grown on vicinal MgO(001)
+Pressure-Induced Inhomogeneous Chiral-Spin Ground State in FeGe
+Intercalation effect on hyperfine parameters of Fe in FeSe superconductor with Tc=42K
+Magnetism of the spin-trimer compound CaNi3(P2O7)2: Microscopic insight from combined 31P NMR and first-principles studies
+Theoretical search for half-Heusler topological insulators
+Spin texture and mirror Chern number in Hg-based chalcogenides
+Titanium nitride as a seed layer for Heusler compounds
+Charge-ordering cascade with spin-orbit Mott dimer states in metallic iridium ditelluride
+Synthesis and Characterization of Frustrated Spin Ladders SrFe2S2O and SrFe2Se2O
+Cross-cluster transition-metal bonding in oblato-nido dimetallaboranes unveiled by topological analysis
+8 – N Rule and Chemical Bonding in Main-Group MgAgAs-Type Compounds
+Thermoelectric properties of Eu- and Na-substituted SnTe
+Anomalous quantum criticality in an itinerant ferromagnet
+Low-temperature magnetic, thermodynamic, and transport properties of antiferromagnetic CeAuSn single crystals
+Synthesis and Thermoelectric Properties of the Clathrate-I Phase K8LixGe44−x/4□2−3x/4
+Zintl-Phase Sr3 LiAs2 H: Crystal Structure and Chemical Bonding Analysis by the Electron Localizability Approach.
+Interpenetration of a 3D Icosahedral M@Ni12 (M=Al, Ga) Framework with Porphyrin-Reminiscent Boron Layers in MNi9B8
+Ferromagnetic fluctuations in YbNi4P2 measured by inelastic neutron scattering
+Bridging Nonaselenium Ring in [Se9(IrBr3)2], and Three Modifications of the Mononuclear Complex [IrBr3(SeBr2)3]
+Phase transitions of cesium azide at pressures up to 30 GPa studied using in situ Raman spectroscopy
+Disorder in the composite crystal structure of the manganese 'disilicide' MnSi1.73 from powder X-ray diffraction data
+Weak interband-coupling superconductivity in the filled skutterudite LaPt4Ge12
+Coordination chemistry of homoatomic ligands of bismuth, selenium and tellurium
+Pressure Probes
+Local character of the highest antiferromagnetic temperature of Ce systems in Sc-rich CeTi1-xScxGe
+Intermetallic germanides with non-centrosymmetric structures derived from the Yb3Rh4Sn13 type
+The Clathrate Ba8-xSi46 Revisited: Preparation Routes, Electrical and Thermal Transport Properties
+Hybrid Functional Calculations on the Na and K Impurities in Substitutional and Interstitial Positions in Cu2ZnSnSe4
+Mixed-Valent Selenium Ligands in the Uncharged Iridium Complexes [Ir4Se10Br16] and [Ir6Se8Cl30]
+Role of the tuning parameter at magnetic quantum phase transitions
+New Developments in the Area of Topological Insulators
+Thermal-history dependent magnetoelastic transition in (Mn,Fe)2(P,Si)
+Forward scattering in hard X-ray photoelectron spectroscopy: Structural investigation of buried Mn-Ga films
+Spin-lattice coupling and frustrated magnetism in Fe-doped hexagonal LuMnO3
+Anisotropic Ru3+ 4d5 magnetism in the α-RuCl3 honeycomb system: Susceptibility, specific heat, and zero-field NMR
+Effects of Annealing on the Martensitic Transformation of Ni-Based Ferromagnetic Shape Memory Heusler Alloys and Nanoparticles
+Mn3TeO6 – a new multiferroic material with two magnetic sub-structures
+Magnetic dimers and trimers in the disordered S=3/2 spin system BaTi1/2Mn1/2O3
+Frustrated three-dimensional antiferromagnet Li2CuW2O8: 7Li NMR and the effect of nonmagnetic dilution
+Residual stress induced stabilization of martensite phase and its effect on the magnetostructural transition in Mn-rich Ni-Mn-In/Ga magnetic shape-memory alloys
+Design of compensated ferrimagnetic Heusler alloys for giant tunable exchange bias
+Inelastic neutron scattering study of the lattice dynamics in the clathrate compound BaGe5
+Interplay of structure, magnetism, and superconductivity in Se substituted iron telluride with excess Fe
+Ca3[BN2]I3: The First Halide-Rich Alkaline Earth Nitridoborate with Isolated [BN2]3- Units
+Ba3V2S4O3: A Mott Insulating Frustrated Quasi-One-Dimensional S=1 Magnet
+Unexpected Reactivity of Red Phosphorus in Ionic Liquids
+Distribution of Al atoms in the clathrate-I phase Ba8AlxSi46-x at x=6.9
+Polarization dependent hard X-ray photoemission experiments for solids: Efficiency and limits for unraveling the orbital character of the valence band
+Structure and Bonding of Bi4Ir: A Difficult-to-Access Bismuth Iridide with a Unique Framework Structure
+Charge Transfer Induced Multifunctional Transitions with Sensitive Pressure Manipulation in a Metal-Organic Framework
+Resonant Spin Excitations in Unconventional Heavy Fermion Superconductors and Kondo Lattice Compounds
+Lithium Insertion into Li2MoO4: Reversible Formation of (Li3Mo)O4 with a Disordered Rock-Salt Structure
+Collinear order in the frustrated three-dimensional spin-1/2 antiferromagnet Li2CuW2O8
+Crossover from a heavy fermion to intermediate valence state in noncentrosymmetric Yb2Ni12(P,As)7
+ThPt2: A New Representative of Close Packed Tetragonal Structures.
+Graphene-like Dirac states and quantum spin Hall insulators in square-octagonal M X2 (M = Mo, W; X = S, Se, Te) isomers
+Collective spin resonance excitation in the gapped itinerant multipole hidden order phase of URu2Si2
+SmO thin films: A flexible route to correlated flat bands with nontrivial topology
+Copper(II) perrhenate Cu(C3H7OH)2(ReO4)2: Synthesis from isopropanol and CuReO4, structure and properties
+On the nature of superconductivity in the anisotropic dichalcogenide NbSe2{CoCp2}(x)
+Predominant Information Quality Scheme for the Essential Amino Acids: An Information-Theoretical Analysis
+Long-term stability of phase-separated half-Heusler compounds
+Spin orientation-dependent antiferromagnetic proximity effect
+Octacalcium phosphate - a metastable mineral phase controls the evolution of scaffold forming proteins
+Crystal structure of pentastrontium bis(dinitridocobaltate(I)), Sr5[CoN2]2, Co2N4Sr5
+Low-energy spin-wave excitations in amplitude-modulated magnetic structure of PrNi2Si2
+Muon spin relaxation study on itinerant ferromagnet CeCrGe3 and the effect of Ti substitution on magnetism of CeCrGe3
+Magnetic and superconducting phase diagram of the half-Heusler topological semimetal HoPdBi
+Strain behavior and lattice dynamics in Ni50Mn35In15
+One-dimensional quantum magnetism in the anhydrous alum KTi(SO4)2
+Direct Imaging of Octahedral Distortion in a Complex Molybdenum Vanadium Mixed Oxide
+An NMR Study of Biomimetic Fluorapatite - Gelatine Mesocrystals
+Magnéli phases Ti4O7 and Ti8O15 and their carbon nanocomposites via the thermal decomposition-precursor route
+Incorporation of Li dopant into Cu2ZnSnSe4 photovoltaic absorber: hybrid-functional calculations
+Anisotropic Multicenter Bonding and High Thermoelectric Performance in Electron-Poor CdSb
+Formation of Intermetallic Compounds by Reactive Metal-Support Interaction: A Frequently Encountered Phenomenon in Catalysis
+Phase Separation in RbxFe2-ySe2 Probed by Non-stoichiometry and Cu Doping
+Spin-reorientation and weak ferromagnetism in antiferromagnetic TbMn0.5Fe0.5O3
+Low-energy magnetic excitations of CeCu2Ge2 investigated by inelastic neutron scattering
+Evidence for localized moment picture in Mn-based Heusler compounds
+Subnanometre-wide electron channels protected by topology
+Uniaxial strain and high magnetic field investigation on materials with novel order parameters
+Magnetic phase coexistence and metastability caused by the first-order magnetic phase transition in the Heusler compound Mn2PtGa
+Pulsed high-magnetic-field experiments: New insights into the magnetocaloric effect in Ni-Mn-In Heusler alloys
+Are orbital-resolved shared-electron distribution indices and Cioslowski covalent bond orders useful for molecules?
+Spin-resolved low-energy and hard x-ray photoelectron spectroscopy of off-stoichiometric Co2MnSi Heusler thin films exhibiting a record TMR
+New insights into the complex architecture of siliceous copepod teeth
+Linear Magnetoresistance Caused by Mobility Fluctuations in n-Doped Cd3As2
+The Bismuth Subiodides Bi8Pt5I3 and Bi16Pt11I6 - Layered Metals with Covalent Platinum Networks
+Absence of orbital rotation in superconducting CeCu2Ge2
+Nearly free electrons in a 5d delafossite oxide metal
+Synthesis of Supported Ga Nanodrops by a Bottom-up Route
+Structural, electronic, and magnetic properties of perpendicularly magnetised Mn2RhSn thin films
+Site dependence of the Kondo scale in CePd1-xRhx due to Pd-Rh disorder
+Electronic band structure and low-temperature transport properties of the type-I clathrate Ba8NixGe46-x-y□y
+Elastic and magnetoelastic relaxation behaviour of multiferroic (ferromagnetic plus ferroelectric plus ferroelastic) Pb(Fe0.5Nb0.5)O3 perovskite
+Reprint of "Coordination chemistry of homoatomic ligands of bismuth, selenium and tellurium"
+The Influence of Cu+2 Concentration on the Magnetic Properties and Microstructure of Pulse Electrodeposited CoxCu1-x Nanowire Arrays
+Direct Imaging of Octahedral Distortion in a Complex Molybdenum Vanadium Mixed Oxide
+High coercivity in large exchange-bias Co/CoO-MgO nano-granular films
+Temperature-Independent Fermi Surface in the Kondo Lattice YbRh2Si2
+Bi2S3 Bipyramids in Layered Sulfides M2Bi2S3(AlCl4)2 (M=Ag, Cu)
+Photoemission study on YbZn1-xSnxCu4
+Thermoelectric properties of the Zintl phases Yb5M2Sb6 (M = Al, Ga, In)
+Exploring high temperature magnetic order in CeTi1-xScxGe
+Topological surface states of cubic topological insulators: HgTe and Heusler compounds
+Steady-State Dynamics and Effective Temperature for a Model of Quantum Criticality in an Open System
+Coexistence of ionic and covalent atomic interactions (bonding inhomogeneity) and thermoelectric properties of intermetallic clathrates
+Topological surface states and Fermi arcs of the noncentrosymmetric Weyl semimetals TaAs, TaP, NbAs, and NbP
+Polar Nature of Biomimetic Fluorapatite/Gelatin Composites: A Comparison of Bipolar Objects and the Polar State of Natural Tissue
+Toward Rational Design of Catalysts Supported on a Topological Insulator Substrate
+Effect of Surface Properties on the Microstructure, Thermal, and Colloidal Stability of VB2 Nanoparticles
+Otoconia: Mimicking a calcite-based functional material of the human body. From basic research to medical aspects
+Features of Nanosized YFeO3 Formation under Heat Treatment of Glycine-Nitrate Combustion Products
+Investigations on the parent compounds of Fe-chalcogenide superconductors
+Antisite disorder-induced exchange bias effect in multiferroic Y2CoMnO6
+Pb2PdO2(OH)2 and Pb2PdO(OH)4(H2O): Synthesis and Crystal Growth at Ambient Conditions
+Sc2Ga2CuO7: A possible quantum spin liquid near the percolation threshold
+Synthesis, crystal structure and properties of the new superconductors TaRuB and NbOsB
+Long-Term Stability of (Ti/Zr/Hf)CoSb1−xSnx Thermoelectric p-Type Half-Heusler Compounds Upon Thermal Cycling
+Extremely large magnetoresistance and ultrahigh mobility in the topological Weyl semimetal candidate NbP
+Topological states on the gold surface
+Combined external pressure and Cu-substitution studies on BaFe2As2 single crystals
+A combined experimental and theoretical study of the structural, electronic and vibrational properties of bulk and few-layer Td-WTe2
+Electronic and spin states of SrRuO3 thin films: An x-ray magnetic circular dichroism study
+Two-dimensional inversion-asymmetric topological insulators in functionalized III-Bi bilayers
+Large magnetocaloric effect and adiabatic demagnetization refrigeration with YbPt2Sn
+Phonon-Modulated Magnetic Interactions and Spin Tomonaga-Luttinger Liquid in the p-Orbital Antiferromagnet CsO2
+Prediction of Weyl semimetal in orthorhombic MoTe2
+UPTe, ThPTe and U2PTe2O: Actinide Pnictide Chalcogenides with Diphosphide Anions
+Magnetic and transport properties in the Heusler series Ni2-xMn1+xSn affected by chemical disorder
+The 2a0 x 2a0 x 2a0 Superstructure in the Clathrate-I K8LixGe44-x/4□2-3x/4
+Protective capping of topological surface states of intrinsically insulating Bi2Te3
+Magnetism in tetragonal manganese-rich Heusler compounds
+Selective Template Removal by Thermal Depolymerization to Obtain Mesostructured Molybdenum Oxycarbide
+Classical and Nonclassical Germanium Environments in High-Pressure BaGe5
+Consequences of critical interchain couplings and anisotropy on a Haldane chain
+Magnetic and structural phase transitions of multiferroic boracites M3B7O13X (M=3d transition metal Cr-Zn or Mg; X = halogen Cl, Br, I)
+Synthesis and Crystal Structure of the Electron-Rich Cyano-Rhodate Ba3[Rh(CN)3]
+Thermoelectric properties and electronic structure of the Zintl phase Sr5In2Sb6 and the Ca5-xSrxIn2Sb6 solid solution
+Ytterbium ESR in a lattice with weak coupling: the case of YbPt2Sn
+Sr2MgOsO6: A Frustrated Os6+ (5d2) Double Perovskite with Strong Antiferromagnetic Interactions
+Encapsulated Silicene: A Robust Large-Gap Topological Insulator
+Charge carrier concentration optimization of thermoelectric p-type half-Heusler compounds
+Premartensite to martensite transition and its implications for the origin of modulation in Ni2MnGa ferromagnetic shape-memory alloy
+Electronic structure of YbNiX3 (X=Si, Ge) studied by hard X-ray photoemission spectroscopy
+Novel types of quantum criticality in heavy-fermion systems
+Broadband Corbino spectroscopy and stripline resonators to study the microwave properties of superconductors
+Hybrid-Functional Calculations on the Incorporation of Na and K Impurities into the CuInSe2 and Culn5Se8 Solar-Cell Materials
+Signatures of phase transitions in the microwave response of YbRh2Si2
+Direct measurements of the magnetocaloric effect in pulsed magnetic fields: The example of the Heusler alloy Ni50Mn35In15
+Methanol steam reforming on LaCo1-x-yPdxZnyO3 +/-δ
+Investigation of correlated electron systems under uni-axial strain
+Sintering of synthetic barytocalcite BaCa(CO3)2, kutnahorite CaMn(CO3)2 and rhodochrosite MnCO3 for carbon-14 sequestration
+Chemical Bonding Analysis of Solids in Position Space
+A large family of filled skutterudites stabilized by electron count
+Probing Magnetism in CePdAl under Multi-Extreme Conditions using Polarized Neutrons
+Low-energy phonon dispersion in LaFe4Sb12
+Ultrafine MnWO4 nanoparticles and their magnetic properties
+Nernst effect of the intermediate valence compound YbAl3: revisiting the thermoelectric properties
+Quantum oscillations and magnetic reconstruction in the delafossite PdCrO2
+Triangular Ge3 Units in a New Modification of EuGe3
+Weyl semimetal phase in the non-centrosymmetric compound TaAs
+Synthesis, crystal structure and thermoelectric properties of cationic clathrates-I and rare-earth-rhenium borides
+Behavior of Sigma 3 Grain Boundaries in CuInSe2 and CuGaSe2 Photovoltaic Absorbers Revealed by First-Principles Hybrid Functional Calculations
+Thermal Transport in Strongly Correlated Rare-Earth Intermetallic Compounds
+Magnetic spin-flop transition and interlayer spin-wave dispersion in PrCaFeO4 revealed by neutron diffraction and inelastic neutron scattering
+On the transferability of electron density in binary vanadium borides VB, V3B4 and VB2
+Magnetic dichroism study on Mn1.8Co1.2Ga thin film using a combination of x-ray absorption and photoemission spectroscopy
+Synthesis and Characterization of Ba[CoSO]: Magnetic Complexity in the Presence of Chalcogen Ordering
+Relevance of the choice of spark plasma sintering parameters in obtaining a suitable microstructure for iodine-bearing apatite designed for the conditioning of I-129
+Al3Aulr: A New Compound in the Al-Au-Ir System
+Emergence of an incipient ordering mode in FeSe
+An unusual high-spin ground state of Co3+ in octahedral coordination in brownmillerite-type cobalt oxide
+Syntheses and coordination chemistry of perfluoroaryl-1H-tetrazoles
+Unconventional superconductivity in Y5Rh6Sn18 probed by muon spin relaxation
+Monitoring surface resonances on Co2MnSi(100) by spin-resolved photoelectron spectroscopy
+Spectroscopic study of metallic magnetism in single-crystalline Nb1-yFe2+y
+Suppression of Pauling's residual entropy in the dilute spin ice (Dy1-xYx)2Ti2O7
+Single crystal growth, structural characteristics and magnetic properties of chromium substituted M-type ferrites
+Chemical Synthesis and Characterization of gamma-Co2NiGa Nanoparticles with a Very High Curie Temperature
+The Solid Solution Sr1-xBaxGa2: Substitutional Disorder and Chemical Bonding Visited by NMR Spectroscopy and Quantum Mechanical Calculations
+Charge correlations in cobaltates La2-xSrxCoO4
+Extreme mobility enhancement of two-dimensional electron gases at oxide interfaces by charge-transfer-induced modulation doping
+Structural transitions under high-pressure in a langasite-type multiferroic Ba3TaFe3Si2O14
+Crystallization of calcium oxalate hydrates by interaction of calcite marble with fungus Aspergillus niger
+One-dimensional quantum antiferromagnetism in the p-orbital CsO2 compound revealed by electron paramagnetic resonance
+New Family of Quantum Spin Hall Insulators in Two-dimensional Transition-Metal Halide with Large Nontrivial Band Gaps
+Thermoelectric Enhancement in BaGa2Sb2 by Zn Doping
+Enhanced power factor and reduced thermal conductivity of a half-Heusler derivative Ti9Ni7Sn8: A bulk nanocomposite thermoelectric material
+Electronic, magnetic, and transport properties of the isotypic aluminides SmT2Al10 (T = Fe, Ru)
+Spin freezing in the spin-liquid compound FeAl2O4
+Spin dynamics and spin freezing at ferromagnetic quantum phase transitions
+Enhanced In Vitro and In Vivo Cellular Imaging with Green Tea Coated Water-Soluble Iron Oxide Nanocrystals
+Na4IrO4: Square-Planar Coordination of a Transition Metal in d5 Configuration due to Weak On-Site Coulomb Interactions
+Broken time-reversal symmetry probed by muon spin relaxation in the caged type superconductor Lu5Rh6Sn18
+Solitonic Spin-Liquid State Due to the Violation of the Lifshitz Condition in Fe1+yTe
+Antiferromagnetism of Zn2VO(PO4)2 and the dilution with Ti4+
+Fine tuning of thermoelectric performance in phase-separated half-Heusler compounds

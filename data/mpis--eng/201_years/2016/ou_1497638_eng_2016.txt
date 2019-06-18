@@ -1,0 +1,326 @@
+Recovery of non-linear cause-effect relationships from linearly mixed neuroimaging data
+The population of long-period transiting exoplanets
+Stepping stabilization using a combination of DCM tracking and step adjustment
+Surface tilt perception with a biomimetic tactile sensor
+Body Talk: Crowdshaping Realistic 3D Avatars with Words
+A Population Based Gaussian Mixture Model Incorporating 18F-FDG-PET and DW-MRI Quantifies Tumor Tissue Classes
+Using Probabilistic Movement Primitives for Striking Movements
+Goal Set Inverse Optimal Control and Iterative Replanning for Predicting Human Reaching Motions in Shared Workspaces
+Lifelong Learning with Weighted Majority Votes
+Stability of Controllers for Gaussian Process Forward Models
+Methods for causal inference from gene perturbation experiments and validation
+An overview of quantitative approaches in Gestalt perception
+Depth-based Object Tracking Using a Robust Gaussian Filter
+Reconstructing Articulated Rigged Models from RGB-D Videos
+On the Identifiability and Estimation of Functional Causal Models in the Presence of Outcome-Dependent Selection
+A Transfer Learning Approach for Adaptive Classification in P300 Paradigms
+On estimation of functional causal models: General results and application to post-nonlinear causal model
+Learning High-Order Filters for Efficient Blind Deconvolution of Document Photographs
+Gaussian Process Based Predictive Control for Periodic Error Correction
+MERLiN: Mixture Effect Recovery in Linear Networks
+Optimizing for what matters: The top grasp hypothesis
+Jointly Learning Trajectory Generation and Hitting Point Prediction in Robot Table Tennis
+A New Perspective and Extension of the Gaussian Filter
+Estimating Diffusion Networks: Recovery Conditions, Sample Complexity and Soft-thresholding Algorithm
+Robot Learning
+Probabilistic Movement Models Show that Postural Control Precedes and Predicts Volitional Motor Control
+Algorithmic independence of initial condition and dynamical law in thermodynamics and causal inference
+A Cognitive Brain-Computer Interface for Patients with Amyotrophic Lateral Sclerosis
+Minimax Estimation of Maximum Mean Discrepancy with Radial Kernels
+DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation
+Active Nearest-Neighbor Learning in Metric Spaces
+Event-based Sampling for Reducing Communication Load in Realtime Human Motion Analysis by Wireless Inertial Sensor Networks
+Testing models of peripheral encoding using metamerism in an oddity paradigm
+Decision-Making under Ambiguity Is Modulated by Visual Framing, but Not by Motor vs. Non-Motor Context. Experiments and an Information-Theoretic Ambiguity Model
+Learning Probabilistic Features from EMG Data for Predicting Knee Abnormalities
+Painfree and accurate Bayesian estimation of psychometric functions for (potentially) overdispersed data
+Pymanopt: A Python Toolbox for Optimization on Manifolds using Automatic Differentiation
+Dual Control for Approximate Bayesian Reinforcement Learning
+Inertial sensor-based humanoid joint state estimation
+Movement primitives with multiple phase parameters
+Preface to the ACM TIST Special Issue on Causal Discovery and Inference
+Robot Arm Pose Estimation by Pixel-wise Regression of Joint Angles
+Kernel Mean Shrinkage Estimators
+Communication Rate Analysis for Event-based State Estimation
+Occlusion boundary detection via deep exploration of context
+A New Trajectory Generation Framework in Robotic Table Tennis
+Identification of causal relations in neuroimaging data with latent confounders: An instrumental variable approach
+Consistent Kernel Mean Estimation for Functions of Random Variables
+Modeling Confounding by Half-Sibling Regression
+Probabilistic Inference for Determining Options in Reinforcement Learning
+Exemplar-based prediction of global object shape from local shape similarity
+Transfer Learning in Brain-Computer Interfaces
+Recurrent Spiking Networks Solve Planning Tasks
+Balancing and Walking Using Full Dynamics LQR Control with Contact Constraints
+Step Timing Adjustment: A Step Toward Generating Robust Gaits
+Parameter Learning for Improving Binary Descriptor Matching
+Perception of Strength and Power of Realistic Male Characters
+Causal inference using invariant prediction: identification and confidence intervals
+Genetic architecture of nonadditive inheritance in Arabidopsis thaliana hybrids
+Shape estimation of subcutaneous adipose tissue using an articulated statistical shape model
+Structured contact force optimization for kino-dynamic motion generation
+Self-regulation of brain rhythms in the precuneus: a novel BCI paradigm for patients with ALS
+Depth Estimation Through a Generative Model of Light Field Synthesis
+Distinguishing cause from effect using observational data: methods and benchmarks
+Multi-task logistic regression in brain-computer interfaces
+Drifting Gaussian Processes with Varying Neighborhood Sizes for Online Model Learning
+Momentum Control with Hierarchical Inverse Dynamics on a Torque-Controlled Humanoid
+Learning Taxonomy Adaptation in Large-scale Classification
+Probabilistic Articulated Real-Time Tracking for Robot Manipulation
+Automatic LQR Tuning Based on Gaussian Process Global Optimization
+Big Data on Robotics
+On the spectrum of r-orthogonal Latin squares of different orders
+A low-cost sensor glove with vibrotactile feedback and multiple finger joint and hand motion sensing for human-robot interaction
+Probabilistic decomposition of sequential force interaction tasks into Movement Primitives
+Incremental real-time multibody VSLAM with trajectory optimization using stereo camera
+Superpixel Convolutional Networks using Bilateral Inceptions
+Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image
+Hierarchical Relative Entropy Policy Search
+Gradients Weights improve Regression and Classification
+Domain Adaptation with Conditional Transferable Components
+Active Uncertainty Calibration in Bayesian ODE Solvers
+Peer Grading in a Course on Algorithms and Data Structures: Machine Learning Algorithms Do Not Improve over Simple Baselines
+Predictive and Self Triggering for Event-based State Estimation
+Learning Where to Search Using Visual Attention
+On Version Space Compression
+DOOMED: Direct Online Optimization of Modeling Errors in Dynamics
+A Lightweight Robotic Arm with Pneumatic Muscles for Robot Learning
+A Causal, Data-driven Approach to Modeling the Kepler Data
+Towards Robust Online Inverse Dynamics Learning
+Bioinspired Motor Control for Articulated Robots [From the Guest Editors]
+Approximate dual control maintaining the value of information with an application to building control
+Learning to Deblur
+Comparison of Positron Emission Tomography Quantification Using Magnetic Resonance- and Computed Tomography-Based Attenuation Correction in Physiological Tissues and Lesions: A Whole-Body Positron Emission Tomography/Magnetic Resonance Study in 66 Patients.
+Active tactile object exploration with Gaussian processes
+Warping the workspace geometry with electric potentials for motion optimization of manipulation tasks
+Self-Supervised Regrasping using Spatio-Temporal Tactile Features and Reinforcement Learning
+A Population-Based Gaussian Mixture Model Incorporating 18F-FDG PET and Diffusion-Weighted MRI Quantifies Tumor Tissue Classes
+Bio-inspired feedback-circuit implementation of discrete, free energy optimizing, winner-take-all computations
+Resting-state EEG correlates of motor learning performance in a force-field adaptation task
+Causal discovery and inference: concepts and recent methodological advances
+Influence of initial fixation position in scene viewing
+BOiS—Berlin Object in Scene Database: Controlled Photographic Images for Visual Search Experiments with Quantified Contextual Priors
+The Mondrian Kernel
+Batch Bayesian Optimization via Local Penalization
+Probabilistic Approximate Least-Squares
+Robust Gaussian Filtering using a Pseudo Measurement
+Locally Weighted Regression for Control
+Implications of Action-Oriented Paradigm Shifts in Cognitive Science
+Learning Action-Perception Cycles in Robotics: A Question of Representations and Embodiment
+The Arrow of Time in Multivariate Time Serie
+Thermal fluctuations of an interface near a contact line
+Stability of nanosized alloy thin films: Faulting and phase separation in metastable Ni/Cu/Ag-W films
+Ab initio theory for ultrafast magnetization dynamics with a dynamic band structure
+Reusable and Long-Lasting Active Microcleaners for Heterogeneous Water Remediation
+Auxetic Metamaterial Simplifies Soft Robot Design
+Stretchable, Skin-Mountable, and Wearable Strain Sensors and Their Potential Applications: A Review
+Entropically induced asymmetric passage times of charged tracers across corrugated channels
+Non-monotonous polymer translocation time across corrugated channels: Comparison between Fick-Jacobs approximation and numerical simulations
+Tailoring three-dimensional architectures by rolled-up nanotechnology for mimicking microvasculatures
+Localized domain wall nucleation dynamics in asymmetric ferromagnetic rings revealed by direct time-resolved magnetic imaging
+Plasmonic Toroidal Metamolecules Assembled by DNA Origami
+Shape-programmable magnetic soft matter
+Use of atomic force microscopy in the forensic application of chronological order of toners and stamping inks in questioned documents
+The effect of temperature and humidity on adhesion of a gecko-inspired adhesive: implications for the natural system
+Patterned and Specific Attachment of Bacteria on Biohybrid Bacteria-Driven Microswimmers
+Critical Casimir interactions between Janus particles
+Modulated formation of lath martensite: Influence of uniaxial compressive load and transformation-induced plasticity
+Microstructural development and crystallographic properties of decomposing Fe–N–C compound layers
+Alloying Element Nitride Development in Ferritic Fe-Based Materials Upon Nitriding: A Review
+Dependence of intermetallic compound formation on the sublayer stacking sequence in Ag–Sn bilayer thin films
+Highly photo responsive and wavelength-selective circularly-polarized-light detector based on metal-oxides hetero-chiral thin film
+Kinetics of intermetallic compound in thernary evaporatede Ag-In layers
+Effect of surface configurations on the room-temperature magnetism of pure ZnO
+KB scanning of X-ray beam for Laue microdiffraction on accelero-phobic samples: application to in situ mechanically loaded nanowires
+Top-Down Versus Bottom-Up Nanoengineering Routes to Design Advanced Oropharmacological Products
+Targeted Drug Delivery and Imaging Using Mobile Milli/Microrobots: A Promising Future Towards Theranostic Pharmaceutical Design
+Selective binding and lateral clustering of α5β1 and αvβ3 integrins: Unraveling the spatial requirements for cell spreading and focal adhesion assembly
+Controlled self-assembly of biomolecular rods on structured substrates
+Tuning Mesenchymal Stem Cell Response onto Titanium–Niobium–Hafnium Alloy by Recombinant Fibronectin Fragments
+Reversed Janus micro/nanomotors with internal chemical engine
+Dynamics of Self-Propelled Janus Particles in Viscoelastic Fluids
+Nanomotors
+Leukocyte responses to immobilized patterns of CXCL8
+Steering control of a water-running robot using an active tail
+Nanoscale topographical control of capillary assembly of nanoparticles
+In vitro cancer cell–ECM interactions inform in vivo cancer treatment
+Lateral critical Casimir force in two–dimensional inhomogeneous Ising strip. Exact results
+Effective Interaction between Active Colloids and Fluid Interfaces Induced by Marangoni Flows
+Surface defect free growth of a spin dimer TlCuCl3 compound crystals and investigations on its optical and magnetic properties
+High-resolution analysis of currents at low-angle grain boundaries in YBCO thin films using magnetooptics and magnetic x-ray microscopy
+Colloidal Particles in Thin Nematic Wetting Films
+Observation of pseudopartial grain boundary wetting in the NdFeB-based alloy
+Nanoscale and mechanical properties of the physiological cell–ECM microenvironment
+X-ray nanodiffraction in forward scattering and Bragg geometry of a single isolated Ag–Au nanowire
+Slip Length Enhancement in Nanofluidic Flow using Nanotextured Superhydrophobic Surfaces
+Quantitative magneto-optical analysis of the role of finite temperatures on the critical state in YBCO thin films
+Observation of room-temperature magnetic skyrmions and their current-driven dynamics in ultrathin metallic ferromagnets
+Osteoconductive composite graft based on bacterial synthesized hydroxyapatite nanoparticles doped with different ions: From synthesis to in vivo studies
+Redetermination of the crystal structure of the Ag3Sn intermetallic compound
+Microfluidic fuel cells for energy generation
+Programmable assembly of heterogeneous microparts by an untethered mobile capillary microgripper
+Importance of Matching Physical Friction, Hardness, and Texture in Creating Realistic Haptic Virtual Surfaces
+Effects of Grip-Force, Contact, and Acceleration Feedback on a Teleoperated Pick-and-Place Task
+On the synthesis and microstructure analysis of high performance MnBi
+Recent Trends in Nano-Biotechnology Reinforcing Contemporary Pharmaceutical Design
+The modified Langevin description for probes in a nonlinear medium
+Transformation-rate maxima during lath martensite formation: plastic vs. elastic shape strain accommodation
+Phase Change of Gallium Enables Highly Reversible and Switchable Adhesion
+Nitriding of ternary Fe–Cr–Mo alloys; role of the Cr/Mo-ratio
+Chemical bath deposition of textured and compact zinc oxide thin films on vinyl-terminated polystyrene brushes
+Series of Multilinked Caterpillar Track-type Climbing Robots
+Dispersion and shape engineered plasmonic nanosensors
+Mechanical stability of bipolar spindle assembly
+A 5-D Localization Method for a Magnetically Manipulated Untethered Robot Using a 2-D Array of Hall-Effect Sensors
+Thin Circular Diamond Membrane with Embedded Nitrogen-Vacancy Centers for Hybrid Spin-Mechanical Quantum Systems
+Size Optimization of a Magnetic System for Drug Delivery With Capsule Robots
+Generating duplex microstructures by nitriding; nitriding of iron based Fe–Mn alloy
+Assembling the puzzle: Oligomerization of α-pore forming proteins in membranes
+Inflated Soft Actuators with Reversible Stable Deformations
+Quaternary structure of a G-protein-coupled receptor heterotetramer in complex with Gi and Gs
+Interaction of Colloidal Particles and Droplets with Water-Oil Interfaces Measured by Total Internal Reflection Microsopy
+Notch insensitive strength and ductility in gold nanowires
+The role of individual defects on the magnetic screening of HTSC films
+Physical and mathematical justification of the numerical Brillouin zone integration of the Boltzmann rate equation by Gaussian smearing
+Comparative study of ALD SiO2 thin films for optical applications
+Self-Assembly of Micromachining Systems Powered by Janus Micromotors
+Effect of microstructure on the mechanical and damping behaviour of dragonfly wing veins
+Direct patterning of vortex generators on a fiber tip using a focused ion beam
+Geometric control of the magnetization reversal in antidot lattices with perpendicular magnetic anisotropy
+Fabrication of porous silicon-based optical sensors using metal-assisted chemical etching
+How many of the scaling trends in pp collisions will be violated at √(S_NN)=14  TeV? Predictions from Monte Carlo quark-gluon string model
+Wetting hysteresis induced by nanodefects
+Biohybrid Janus Motors Driven by Escherichia coli
+Motion Control of Urea-Powerde Biocompatible Hollow Microcapsule
+Guiding Catalytically Active Particles with Chemically Patterned Surfaces
+A physical model describing the interaction of nuclear transport receptors with FG nucleoporin domain assemblies
+Tubular microjets: Fabrication, factors affecting the motion and mechanism of propulsion
+Active Nanorheology with Plasmonics
+Graphene-Based Microrobots for Toxic Heavy Metal Removal and Recovery from Water
+Self-diffusiophoresis of chemically active colloids
+Dynamics of Novel Photoactive AgCl Microstars and Their Environmental Applications
+Pinned orbital moments - A new contribution to magnetic anisotropy
+Magnetic switching of nanoscale antidot lattices
+Three-phase contact line and line tension of electrolyte solutions in contact with charged substrates
+Magnetic Propulsion of Microswimmers with DNA-Based Flagellar Bundles
+Rectification and Non-Gaussian Diffusion in Heterogeneous Media
+Six-degree-of-freedom magnetic actuation for wireless microrobotics
+Bioengineered and biohybrid bacteria-based systems for drug delivery
+Magnetic propulsion of robotic sperms at low-Reynolds number
+Coupling Inward Diffusion and Precipitation Kinetics; the Case of Nitriding Iron-Based Alloys
+Microstructure and intrinsic stress evolution during epitaxial film growth of an Ag0.93Al0.07 solid solution on Si(111); excessive planar faulting due to quantum confinement
+Cellular and Nuclear Alignment Analysis for Determining Epithelial Cell Chirality
+Capture of 2D Microparticle Arrays via a UV-Triggered Thiol-yne “Click” Reaction
+Effect of Plasma Enthalpy on the Structure of La2Zr2O7 Coatings Prepared by Suspension Plasma Spraying
+Sperm-shaped magnetic microrobots: Fabrication using electrospinning, modeling, and characterization
+Thermal expansion anisotropy as source for microstrain broadening of polycrystalline cementite, Fe3C
+Poisson-Boltzmann study of the effective electrostatic interaction between colloids at an electrolyte interface
+External control strategies for self-propelled particles: optimizing navigational efficiency in the presence of limited resources
+Bottom-Up Fabrication of Hybrid Plasmonic Sensors: Gold-Capped Hydrogel Microspheres Embedded in Periodic Metal Hole Arrays
+Flexible sensors for biomedical technology
+Hydrogen-Regulated Chiral Nanoplasmonics
+Real-time encoding and compression of neuronal spikes by metal-oxide memristors
+Molecular dynamics simulation of a binary mixture near the lower critical point
+Microstructural Evolution of 31CrMoV9 Steel upon Controlled Gaseous Nitriding Treatment
+Primary cilia are critical for Sonic hedgehog-mediated dopaminergic neurogenesis in the embryonic midbrain
+Challenges in imaging cell surface receptor clusters
+Characterizing anomalous diffusion in crowded polymer solutions and gels over five decades in time with variable-lengthscale fluorescence correlation spectroscopy
+Topographical pathways guide chemical microswimmers
+Substrate engagement of integrins α5β1 and αvβ3 is necessary, but not sufficient, for high directional persistence in migration on fibronectin
+The usable capacity of porous materials for hydrogen storage
+Surface tension-driven self-alignment
+Dynamic-SERS Optophysiology: A Nanosensor for Monitoring Cell Secretion Events
+Three-dimensional character of the magnetization dynamics in magnetic vortex structures: Hybridization of flexure gyromodes with spin waves
+Spin wave mediated unidirectional vortex core reversal by two orthogonal monopolar field pulses: The essential role of three-dimensional magnetization dynamics
+Critical adsorption and critical Casimir forces in the canonical ensemble
+Acid-catalyzed oligomerization via activated proton transfer to aromatic and unsaturated monomers in Nafion membranes: a step forward in the in situ synthesis of conjugated composite membranes
+Nano- and microstructured materials for in vitro studies of the physiology of vascular cells
+Critical Casimir forces between defects in the 2D Ising model
+Hydrogen-based energy storage (IEA-HIA Task 32)
+Outlook and challenges for hydrogen storage in nanoporous materials
+Nonadditivity of critical Casimir forces
+Anisotropic particles near surfaces: Propulsion force and friction
+Local domain-wall velocity engineering via tailored potential landscapes in ferromagnetic rings
+Switching probabilities of magnetic vortex core reversal studied by table top magneto optic Kerr microscopy
+Coercivity scaling in antidot lattices in Fe, Ni, and NiFe thin films
+Functional fusion of living systems with synthetic electrode interfaces
+Controlled Immobilization Strategies to Probe Short Hyaluronan-Protein Interactions
+Miniaturized soft bio-hybrid robotics: a step forward into healthcare applications
+Highly retarded crystallization in hydrogenated amorphous germanium; emergence of a porous nanocrystalline structure
+Crystallite growth in nanocrystalline tungsten; rate determining mechanism and the role of contaminations
+Chemotaxis of bio-hybrid multiple bacteria-driven microswimmers
+Continuous and discontinuous precipitation in Fe-1 at.%Cr-1 at.%Mo alloy upon nitriding; crystal structure and composition of ternary nitrides
+Incubation time for iron-nitride layer formation upon gaseous nitriding of iron-based alloys
+Charged Triazole Cross-Linkers for Hyaluronan-Based Hybrid Hydrogels
+Depth resolution in sputter profiling revisited
+Formation Mechanisms of Alloying Element Nitrides in Recrystallized and Deformed Ferritic Fe-Cr-Al Alloy
+Active Particles in Complex and Crowded Environments
+Tuning cellular responses to BMP-2 with material surfaces
+A thermodynamic model for non-stoichiometric cementite; the Fe–C phase diagram
+Magnetic vortex cores as tunable spin-wave emitters
+Direct patterning of vortex generators on a fiber tip using a focused ion beam
+Smart biosensors for multiplexed and fully integrated point-of-care diagnostics
+Enzyme Catalysis To Power Micro/Nanomachines
+Motion in microfluidic ratchets
+Bubble-Free Propulsion of Ultrasmall Tubular Nanojets Powered by Biocatalytic Reactions
+Oxidation kinetics of amorphous AlxZr1−x alloys
+A loop-gap resonator for chirality-sensitive nuclear magneto-electric resonance (NMER)
+Bax assembly into rings and arcs in apoptotic mitochondria is linked to membrane pores
+Synthesis of Binary Nanopatterns on Hydrogels for Initiating Cellular Responses
+Soft continuous microrobots with multiple intrinsic degrees of freedom
+Thematic Issue: Recent Trends in Nano-Biotechnology Reinforcing Contemporary Pharmaceutical Design
+Exploiting Noncovalent Interactions in an Imine-Based Covalent Organic Framework for Quercetin Delivery
+Combined first-order reversal curve and x-ray microscopy investigation of magnetization reversal mechanisms in hexagonal antidot lattices
+Vitamin D Effects on Osteoblastic Differentiation of Mesenchymal Stem Cells from Dental Tissues
+The sequential activation of the mitotic microtubule assembly pathways favors bipolar spindle formation
+Wetting and orientation of catalytic Janus colloids at the surface of water
+High-Performance Multiresponsive Paper Actuators
+Analysis of the magnetic torque on a tilted permanent magnet for drug delivery in capsule robots
+Collective dynamics of chemically active particles trapped at a fluid interface
+Composition-dependent underwater adhesion of catechol-bearing hydrogels
+Devising Self-Assembled-Monolayers for Surface-Enhanced Infrared Spectroscopy of pH-Driven Poly-L-lysine Conformational Changes
+Towards Photo-Induced Swimming: Actuation of Liquid Crystalline Elastomer in Water
+Misfit-induced changes of lattice parameters in two- phase systems: coherent/incoherent precipitates in a matrix
+Fluid-Mediated Stochastic Self-Assembly at Centimetric and Sub-Millimetric Scales: Design, Modeling, and Control
+The α+ε Two-Phase Equilibrium in the Fe-N-C System: Experimental Investigations and Thermodynamic Calculations
+Parallel Microcracks-based Ultrasensitive and Highly Stretchable Strain Sensors
+Interdiffusion and stress development in single-crystalline Pd/Ag bilayers
+cBid, Bax and Bcl-xL exhibit opposite membrane remodeling activities
+A light-driven three-dimensional plasmonic nanosystem that translates molecular motion into reversible chiroptical function
+Interstitiall and substitutional solute segregation at individual grain boundaries of α-iron: data revisited
+Two-body problem of core-region coupled magnetic vortex stacks
+Growth and characterizationof large weak topological insulator Bi2Tel single crystal by Bismuth self-flux method
+Ultrafast demagnetization after femtosecond laser pulses: Transfer of angular momentum from the electronic system to magnetoelastic spin-phonon modes
+Collective modes in three-dimensional magnonic vortex crystals
+Chirality Detection Using Nematic Liquid Crystal Droplets on Anisotropic Surfaces
+Wireless Actuator Based on Ultrasonic Bubble Streaming
+Formation of hollow gold-silver nanoparticles through the surface diffusion induced bulk intermixing
+Template-assisted extrusion of biopolymer nanofibers under physiological conditions
+Cobalt(III) mediated permanent and stable immobilization of His-tagged proteins on NTA functionalized surfaces
+Fe–N and Fe–N–C phase equilibria above 853 K studied by nitriding/nitrocarburising and secondary annealing
+Bridging the gap: wound healing in insects restores mechanical strength by targeted cuticle deposition
+Cobalt Cross-Linked Redox-Responsive PEG Hydrogels: From Viscoelastic Liquids to Elastic Solids
+Nanostructured materials for solid-state hydrogen storage: A review of the achievement of COST Action MP1103
+Structured light enables biomimetic swimming and versatile locomotion of photoresponsive soft microrobots
+Effects of deposition method on the microstructure and intermetallic compound formation in Ag–Sn bilayers
+The effect of pre-oxidation treatment on the corrosion behavior of amorphous Al1−xZrx solid-solution alloys
+Ferromagnetic behaviour of ZnO: the role of grain boundaries
+Thermodynamics of the Fe-N and Fe-N-C Systems: The Fe-N and Fe-N-C Phase Diagrams Revisited
+Irreproducibility in hydrogen storage material research
+Perpetual superhydrophobicity
+Active colloids at fluid interfaces
+Additive interfacial chiral interaction in multilayers for stabilization of small individual skyrmions at room temperature
+A comparative study of the effects of constructional elements on the mechanical behaviour of dragonfly wings
+Developments in the Ni-Nb-Zr amorphous alloy membranes
+A dynamic DFT approach to generalized diffusion equations in a system with long-ranged and hydrodynamic interactions
+Splitting of the Universality Class of Anomalous Transport in Crowded Media
+Magnetic X-ray microscopy at low temperatures - Visualization of flux distributions in superconductors
+Resistance to the transport of H2 through the external surface of as-made and modified silicalite-1 (MFI)
+Soft 3D-Printed Phantom of the Human Kidney with Collecting System
+Phototaxis of synthetic microswimmers in optical landscapes
+Targeting of cell mockups using sperm-shaped microrobots in vitro
+Artificial micro-swimmers in simulated natural environments
+Reflection and Phase Matching in Plasmonic Gold Tapers
+Enhanced non-adiabaticity in vortex cores due to the emergent Hall effect
+Coupling of Retrograde Flow to Force Production During Malaria Parasite Migration
+A flexible method for the preparation of thin film samples for in situ TEM characterization combining shadow-FIB milling and electron beam-assisted etching

@@ -1,0 +1,20 @@
+Highly sensitive polarimetric camera (B-BOP) for the SPICA mission
+Wave spectra of square-lattice domains in a quasi-two-dimensional binary complex plasma
+Achievable time resolution of spectroscopic prototype DEPFET detectors
+An X-ray chimney extending hundreds of parsecs above and below the Galactic Centre
+4MOST: Project overview and information for the first call for proposals
+4MOST Scientific Operations
+4MOST Survey Strategy Plan
+4MOST Consortium Survey 5: eROSITA Galaxy Cluster Redshift Survey
+A circumbinary protoplanetary disk in a polar configuration
+Test of the Einstein equivalence principle near the Galactic Center supermassive black hole
+4MOST Consortium Survey 4: Milky Way disc and bulge high-resolution survey (4MIDABLE-HR)
+Overview of the DESI Legacy Imaging Surveys
+The benefit of simultaneous seven-filter imaging: 10 years of GROND observations
+Signatures of a jet cocoon in early spectra of a supernova associated with a γ-ray burst
+Quantifying the contribution of microbursts to global electron loss in the radiation belts
+Comparing Unet training with three different datasets to correct CBCT images for prostate radiotherapy dose calculations
+Phase diagram of two-dimensional colloids with Yukawa repulsion and dipolar attraction
+4MOST Consortium Survey 8: Cosmology Redshift Survey (CRS)
+4MOST Consortium Survey 3: Milky Way disc and bulge low-resolution survey (4MIDABLE-LR)
+4MOST Consortium Survey 6: Active galactic nuclei

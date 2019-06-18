@@ -1,0 +1,46 @@
+Topological edge states for disordered bosonic systems
+Bright squeezed vacuum in a nonlinear interferometer: Frequency and temporal Schmidt-mode description
+Ultrafast Coherent Control of Condensed Matter with Attosecond Precision
+Magnetic and Electric Transverse Spin Density of Spatially Confined Light
+Energy transfer and correlations in cavity-embedded donor-acceptor configurations
+Tailoring multipolar Mie scattering with helicity and angular momentum
+Snowflake phononic topological insulator at the nanoscale
+Spatially Adiabatic Frequency Conversion in Optoelectromechanical Arrays
+Visualizing single-cell secretion dynamics with single protein sensitivity
+Manipulation of Quenching in Nanoantenna–Emitter Systems Enabled by External Detuned Cavities: A Path to Enhance Strong-Coupling
+Reinforcement Learning with Neural Networks for Quantum Feedback
+Enhanced collective Purcell effect of coupled quantum emitter systems
+Chirality of Symmetric Resonant Heterostructures
+Multiphoton nonclassical light from clusters of single-photon emitters
+Quantum tomography enhanced through parametric amplification
+Attosecond Control of Restoration of Electronic Structure Symmetry
+Long-range optical trapping and binding of microparticles in hollow-core photonic crystal fibre
+Exciting a chiral dipole moment in an achiral nanostructure
+Ramsey interferometry of Rydberg ensembles inside microwave cavities
+Transverse Kerker Scattering for Ångström Localization of Nanoparticles
+Dispersion tuning in sub-micron tapers for third-harmonic and photon triplet generation
+Quantum cryptography with twisted photons through an outdoor underwater channel
+Active locking and entanglement in type II optical parametric oscillators
+Tackling Africa’s digital divide
+Flying particle microlaser and temperature sensor in hollow-core photonic crystal fiber
+Dominance of backward stimulated Raman scattering in gas-filled hollow-core photonic crystal fibers
+Mutual Unbiasedness in Coarse-Grained Continuous Variables
+Cavity-assisted mesoscopic transport of fermions: Coherent and dissipative dynamics
+Towards an integrated AlGaAs waveguide platform for phase and polarisation shaping
+Strong circular dichroism for the HE11 mode in twisted single-ring hollow-core photonic crystal fiber
+Quantum nondemolition measurement of mechanical motion quanta
+Excitation of higher-order modes in optofluidic photonic crystal fiber
+Three-dimensional holographic optical manipulation through a high-numerical-aperture soft-glass multimode fibre
+High-Speed Microscopy of Diffusion in Pore-Spanning Lipid Membranes
+Satellite-Based QKD
+Effect of anti-crossings with cladding resonances on ultrafast nonlinear dynamics in gas-filled photonic crystal fibers
+Quantum theory of continuum optomechanics
+Broadband bright twin beams and their upconversion
+Chiroptical response of a single plasmonic nanohelix
+Weak measurement of elliptical dipole moments by C point splitting
+UV Soliton Dynamics and Raman-Enhanced Supercontinuum Generation in Photonic Crystal Fiber
+Long-Lived Refractive-Index Changes Induced by Femtosecond Ionization in Gas-Filled Single-Ring Photonic-Crystal Fibers
+Quantum Limits of Coherent Beam Combining
+Broadband and tunable time-resolved THz system using argon-filled hollow-core photonic crystal fiber
+Quantum Langevin approach to cavity quantum electrodynamics with molecules
+Stabilization of transmittance fluctuations caused by beam wandering in continuous-variable quantum communication over free-space atmospheric channels

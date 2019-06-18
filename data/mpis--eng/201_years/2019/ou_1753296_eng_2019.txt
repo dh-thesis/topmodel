@@ -1,0 +1,80 @@
+Coordinated responses of mitochondrial antioxidative enzymes, respiratory pathways and metabolism in Arabidopsis thaliana thioredoxin trxo1 mutants under salinity
+A Solanum neorickii introgression population providing a powerful complement to the extensively characterized Solanum pennellii population
+Making sense of the complex role of the mitochondria in mediating the plant touch response
+Growth and metabolic adjustments in response to gibberellin deficiency in drought stressed tomato plants
+Systems genetics of nonsyndromic orofacial clefting provides insights into its complex aetiology
+Identification of an intracellular metabolic signature impairing beta cell function in the rat beta cell line INS-1E and human islets (vol 54, pg 2584, 2011)
+Insect egg deposition renders plant defence against hatching larvae more effective in a salicylic acid-dependent manner
+A regulatory role of autophagy for resetting the memory of heat stress in plants
+The ABCB7-Like Transporter PexA in Rhodobacter capsulatus Is Involved in the Translocation of Reactive Sulfur Species
+Identification and characterization of metabolite quantitative trait loci in tomato leaves and comparison with those reported for fruits and seeds
+Transcriptomics of manually isolated Amborella trichopoda egg apparatus cells
+Spatial and Temporal Profile of Glycine Betaine Accumulation in Plants Under Abiotic Stresses
+Inducible reporter/driver lines for the Arabidopsis root with intrinsic reporting of activity state
+Control of meristem determinacy by trehalose 6-phosphate phosphatases is uncoupled from enzymatic activity
+Structural and metabolic alterations in root systems under limited water conditions in forage grasses of Lolium-Festuca complex
+Volatiles of rhizobacteria Serratia and Stenotrophomonas alter growth and metabolite composition of Arabidopsis thaliana
+The Plant Journal actively supports Open Science and data transparency
+Seeing is believing: the three-way division of labor in the photosynthetic thylakoid membrane
+Cellular determinants of metabolite concentration ranges
+The Plastidic Sugar Transporter pSuT Influences Flowering and Affects Cold Responses
+The companion of cellulose synthase 1 confers salt tolerance through a Tau-like mechanism in plants
+Metabolomics for understanding stomatal movements
+Molecular signatures associated with increased freezing tolerance due to low temperature memory in Arabidopsis
+Response of the Circadian Clock and Diel Starch Turnover to One Day of Low Light or Low CO2
+A highly efficient sulfadiazine selection system for the generation of transgenic plants and algae
+Engineering Strategies to Boost Crop Productivity by Cutting Respiratory Carbon Loss
+Arabidopsis RCD1 coordinates chloroplast and mitochondrial functions through interaction with ANAC transcription factors
+Diverse paths to hybrid incompatibility in Arabidopsis
+A gene-stacking approach to overcome the trade-off between drought stress tolerance and growth in Arabidopsis
+Nitrate nutrition influences multiple factors in order to increase energy efficiency under hypoxia in Arabidopsis
+Exploring the Diversity of Plant Metabolism
+Ion-dependent metabolic responses of Vicia faba L. to salt stress
+Improved protein production and codon optimization analyses in Escherichia coli by bicistronic design
+In vivo detection of protein cysteine sulfenylation in plastids
+C and N metabolism in barley leaves and peduncles modulates responsiveness to changing CO2
+The proof is in the bulb: glycerol influences key stages of lily development
+Focus Issue Editorial: Synthetic Biology
+Chloroplast competition is controlled by lipid biosynthesis in evening primroses
+Modulation of auxin signalling through DIAGETROPICA and ENTIRE differentially affects tomato plant growth via changes in photosynthetic and mitochondrial metabolism
+Continuous dynamic adjustment of the plant circadian oscillator
+Nitrate nutrition influences multiple factors in order to increase energy efficiency under hypoxia in Arabidopsis
+Mal de Río Cuarto virus infection causes hormone imbalance and sugar accumulation in wheat leaves
+The proteOMIC era: a useful tool to gain deeper insights into plastid physiology
+Genetic basis of plasticity in plants
+Kingdom-wide comparison reveals the evolution of diurnal gene expression in Archaeplastida
+The assembly pathway of complex I in Arabidopsis thaliana
+Partial replacement of red and blue by green light increases biomass and yield in tomato
+Differential root and shoot responses in the metabolism of tomato plants exhibiting reduced levels of gibberellin
+Impairment of hormone pathways results in a general disturbance of fruit primary metabolism in tomato
+From genome to phenome: genome-wide association studies and other approaches that bridge the genotype to phenotpe gap
+Plasmodium Para-Aminobenzoate Synthesis and Salvage Resolve Avoidance of Folate Competition and Adaptation to Host Diet
+Rice Grain Quality Benchmarking Through Profiling of Volatiles and Metabolites in Grains Using Gas Chromatography Mass Spectrometry
+Nutrimetabolomics: An Integrative Action for Metabolomic Analyses in Human Nutritional Studies
+Opposite fates of the purine metabolite allantoin under water and nitrogen limitations in bread wheat
+MetNet: Metabolite Network Prediction from High-Resolution Mass Spectrometry Data in R Aiding Metabolite Annotation
+Photometric screens identified Arabidopsis peroxisome proteins that impact photosynthesis under dynamic light conditions
+The Role of Abscisic Acid Signaling in Maintaining the Metabolic Balance Required for Arabidopsis Growth under Nonstress Conditions
+Downregulation of mitochondrial alternative oxidase affects chloroplast function, redox status and stress response in a marine diatom
+Update: Improving the Efficiency of Photosynthetic Carbon Reactions
+Publisher Correction: Lipidome determinants of maximal lifespan in mammals
+Efficient 2-phosphoglycolate degradation is required to maintain carbon assimilation and allocation in the C4 plant Flaveria bidentis
+The role of abscisic acid signaling in maintaining the metabolic balance required for arabidopsis growth under nonstress conditions
+A Non-canonical Pathway with Potential for Safer Modulation of Transforming Growth Factor-beta 1 in Steroid-Resistant Airway Diseases
+Multiple circadian clock outputs regulate diel turnover of carbon and nitrogen reserves
+Engineering of high-precision base editors for site-specific single nucleotide replacement
+Both cold and sub-zero acclimation induce cell wall modification and changes in the extracellular proteome in Arabidopsis thaliana
+Identification of quantitative trait loci and candidate genes for primary metabolite content in strawberry fruit
+High-efficiency generation of fertile transplastomic Arabidopsis plants
+Adding blue to red supplemental light increases biomass and yield of greenhouse-grown tomatoes, but only to an optimum
+Synthetic biology approaches for improving photosynthesis
+Induced, Imprinted, and Primed Responses to Changing Environments: Does Metabolism Store and Process Information?
+Limited nitrogen availability has cultivar-dependent effects on potato tuber yield and tuber quality traits
+Structural properties and enzyme stabilization function of the intrinsically disordered LEA_4 protein TdLEA3 from wheat
+Branched-Chain Amino Acid Catabolism Impacts Triacylglycerol Homeostasis in Chlamydomonas reinhardtii
+Computational Approaches to Design and Test Plant Synthetic Metabolic Pathways
+Recent Advances and Current Challenges in Synthetic Biology of the Plastid Genetic System and Metabolism
+The metabolic response to drought
+Metabolite profiles reveal interspecific variation in operation of the Calvin–Benson cycle in both C4 and C3 plants
+Multi-tissue integration of transcriptomic and specialized metabolite profiling provides tools for assessing the common bean (Phaseolus vulgaris) metabolome
+Correction to: Identification of an intracellular metabolic signature impairing beta cell function in the rat beta cell line INS-1E and human islets

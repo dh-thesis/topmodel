@@ -1,0 +1,242 @@
+Optical laser-induced CO desorption from Ru(0001) monitored with a free-electron X-ray laser: DFT prediction and X-ray confirmation of a precursor state
+Fiber-Slab-Pumped OPCPA for XUV-Based Time-Resolved Photoelectron Spectroscopy at 500 kHz Repetition Rate
+Disentangling the Contribution of Multiple Isomers to the Infrared Spectrum of the Protonated Water Heptamer
+Inside Back Cover: Electrochemical Degradation of Multiwall Carbon Nanotubes at High Anodic Potential for Oxygen Evolution in Acidic Media
+Cooperative Chemisorption-Induced Physisorption of CO2 Molecules by Metal–Organic Chains
+Potential-Induced Segregation Phenomena in Bimetallic PtAu Nanoparticles: An In Situ Near-Ambient-Pressure Photoelectron Spectroscopy Study
+GlycoMob - an Ion Mobility Mass Spectrometry Database
+Hybrid functionals for large periodic systems in an all-electron, numeric atom-centered basis framework
+Coiled-Coils in Phage Display Screening: Insight into Exceptional Selectivity Provided by Molecular Dynamics
+Ultrathin Ti-Silicate Film on a Ru(0001) Surface
+Activating Nonreducible Oxides via Doping
+Structural Identification of Gold-Doped Silicon Clusters via Far-Infrared Spectroscopy
+Ultrafast multiphoton pump-probe photoemission excitation pathways in rutile TiO2(110)
+Ultra-thin silicate films on metals
+Kohn–Sham approach to quantum electrodynamical density-functional theory: Exact time-dependent effective potentials in real space
+Hydrodynamic collective effects of active protein machines in solution and lipid bilayers
+Probing the electronic properties and charge state of gold nanoparticles on ultrathin MgO versus thick doped CaO films
+Ultraviolet photodetectors with high photosensitivity based on type-II ZnS/SnO2 core/shell heterostructured ribbons
+Multiscale approach to the electronic structure of doped semiconductor surfaces
+Spectators Control Selectivity in Surface Chemistry: Acrolein Partial Hydrogenation Over Pd
+Reversible amorphization and the catalytically active state of crystalline Co3O4 during oxygen evolution
+Ultrafast dynamics during the photoinduced phase transition in VO2
+Physisorption Controls the Conformation and Density of States of an Adsorbed Porphyrin
+Developing catalytic materials for the oxidative coupling of methane through statistical analysis of literature data
+Direct Observation of Graphene Growth and Associated Copper Substrate Dynamics by in Situ Scanning Electron Microscopy
+Quantitative Prediction of Molecular Adsorption: Structure and Binding of Benzene on Coinage Metals
+Model for the overall phase-space acceptance in a Zeeman decelerator
+Revealing highly unbalanced energy barriers in the extension and contraction of the muscle-like motion of a [c2]daisy chain
+Growth of Fe3O4(001) thin films on Pt(100): Tuning surface termination with an Fe buffer layer
+Multi-lattice Kinetic Monte Carlo Simulations from First Principles: Reduction of the Pd(100) Surface Oxide by CO
+Detection of Hopf bifurcations in chemical reaction networks using convex coordinates
+GW100: Benchmarking G0W0 for Molecular Systems
+Boron-doped onion-like carbon with enriched substitutional boron: the relationship between electronic properties and catalytic performance
+CO oxidation as a test reaction for strong metal-support interaction (SMSI) in nanostructured Pd/FeOx powder catalysts
+Photon-induced oxidation of graphene/Ir(111) by SO2 adsorption
+The new IR and THz FEL facility at the Fritz Haber Institute in Berlin
+Second harmonic generation spectroscopy in the Reststrahl band of SiC using an infrared free-electron laser
+Identification of carbohydrate anomers using ion mobility–mass spectrometry
+Control of electron localization in the dissociation of H2+ and its isotopes with a THz pulse
+Water Interaction with Iron Oxides
+Oxidative Dehydrogenation on Nanocarbon: Intrinsic Catalytic Activity and Structure–Function Relationships
+Efficient Metal-Free Catalytic Reaction Pathway for Selective Oxidation of Substituted Phenols
+Enhancement of Stability and Activity of MnOx/Au Electrocatalysts for Oxygen Evolution through Adequate Electrolyte Composition
+Mechanosensitive Von Willebrand Factor Protein-Protein Interactions Regulate Hemostasis
+Nitrogen-Doping in ZnO via Combustion Synthesis?
+Direct observation and control of hydrogen-bond dynamics using low-temperature scanning tunneling microscopy
+Accessing the fundamentals of magnetotransport in metals with terahertz probes
+Entrapping an Ionic Liquid with Nanocarbon: The Formation of a Tailorable and Functional Surface
+The von Willebrand factor A2 domain disulfide bond exists in oxidized and reduced states in the circulation and regulates function
+Investigation of technology for lithium-oxygen battery
+Electron Microscopy of Solid Catalysts—Transforming from a Challenge to a Toolbox
+Thermodynamics of Water Dimer Dissociation in the Primary Hydration Shell of the Iodide Ion with Temperature-Dependent Vibrational Predissociation Spectroscopy
+Atomic Scale Characterization of Defects on Oxide Surfaces
+Ionic Liquid Based Approaches to Carbon Materials Synthesis
+Probing the transition state region in catalytic CO oxidation on Ru
+Oxides in Catalysis
+Lithium ion battery application of porous composite oxide microcubes prepared via metal-organic frameworks
+Acid Properties of Nanocarbons and Their Application in Oxidative Dehydrogenation
+MgO on Mo(001): Local Work Function Measurements above Pristine Terrace and Line Defect Sites
+Electrocatalytic Oxidation of Formic Acid: Closing the Gap Between Fundamental Study and Technical Applications
+Gas sensing properties and p-type response of ALD TiO2 coated carbon nanotubes
+A new Stark decelerator based surface scattering instrument for studying energy transfer at the gas-surface interface
+Nature of the N-Pd Interaction in Nitrogen-Doped Carbon Nanotube Catalysts
+Machine Learning for Quantum Mechanical Properties of Atoms in Molecules
+Electronic Structure of Self-Assembled Ag Nanowires on Si(557): Spectroscopic Evidence for Dimensionality
+IR spectroscopy of protonated leu-enkephalin and its 18-crown-6 complex embedded in helium droplets
+Conductance of a single flexible molecular wire composed of alternating donor and acceptor units
+Nature of active sites in Ni2P hydrotreating catalysts as probed by iron substitution
+Effect of metal precursor on Cu/ZnO/Al2O3 synthesized by flame spray pyrolysis for direct DME production
+Cocatalyst Designing: A Regenerable Molybdenum-Containing Ternary Cocatalyst System for Efficient Photocatalytic Water Splitting
+Photoelectron Spectroscopy at the Graphene–Liquid Interface Reveals the Electronic Structure of an Electrodeposited Cobalt/Graphene Electrocatalyst
+Gold-dotted hydroxyapatite nanoparticles as multifunctional platforms for medical applications
+Thermodynamic and spectroscopic properties of oxygen on silver under an oxygen atmosphere
+Approaching Truly Freestanding Graphene: The Structure of Hydrogen-Intercalated Graphene on 6H-SiC(0001)
+Real-Time Measurement of the Vertical Binding Energy during the Birth of a Solvated Electron
+Characterizing Crystalline-Vitreous Structures: From Atomically Resolved Silica to Macroscopic Bubble Rafts
+Photocatalytic oxidation of the organic monolayers on TiO2 surface investigated by in-situ sum frequency generation spectroscopy
+Selective Template Removal by Thermal Depolymerization to Obtain Mesostructured Molybdenum Oxycarbide
+Does the Surface Structure of Oxide Affect the Strong Metal-Support Interaction with Platinum? Platinum on Fe3O4(001) vs Fe3O4(111)
+Optimized Effective Potential for Quantum Electrodynamical Time-Dependent Density Functional Theory
+Systemic aspects of the transition to sustainable energy
+Electronic and geometric structure of graphene/SiC(0001) decoupled by lithium intercalation
+Real-time observation of collective excitations in photoemission
+Surface Structure of V2O3(0001) Revisited
+Carbon nanotubes oxidized by a green method as efficient metal-free catalysts for nitroarene reduction
+Machine Learning Predictions of Molecular Properties: Accurate Many-Body Potentials and Nonlocality in Chemical Space
+Defect complexes in Li-doped MgO
+Measuring and manipulating the temperature of cold molecules trapped on a chip
+Department of Inorganic Chemistry - Fritz-Haber-Institut der Max-Planck-Gesellschaft
+Coherent ultrafast spin-dynamics probed in three dimensional topological insulators
+Bio-inspired Construction of Advanced Fuel Cell Cathode with Pt Anchored in Ordered Hybrid Polymer Matrix
+Back Cover: The Mechanism of CO and CO2 Hydrogenation to Methanol over Cu-Based Catalysts
+Long-Term Passivation of Strongly Interacting Metals with Single-Layer Graphene
+Models in Catalysis
+Influence of Synthesis pH and Oxidative Strength of the Catalyzing Acid on the Morphology and Chemical Structure of Hydrothermal Carbon
+Structure sensitivity of the oxidative activation of methane over MgO model catalysts: I. Kinetic study
+Formation of Water Chains on CaO(001): What Drives the 1D Growth?
+Weak thermal reduction of biphase Fe2O3(0001) films grown on Pt(111): Sub-surface Fe2+ formation
+Machine learning for quantum mechanics in a nutshell
+Strengthening gold-gold bonds by complexing gold clusters with noble gases
+Direct Imaging of Octahedral Distortion in a Complex Molybdenum Vanadium Mixed Oxide
+Role of protein disulfide isomerase pdi in von Willebrand factor dimerization
+Deciphering the design principles of dynamic cell cycle control
+The Atomic Structure of Two-Dimensional Silica
+Rotationally inelastic scattering of OH by molecular hydrogen: Theory and experiment
+The Revolution Continues: Energiewende 2.0
+Optically probing Al—O and O—H vibrations to characterize water adsorption and surface reconstruction on α-alumina: An experimental and theoretical study
+Inside Cover: Synergistic Effect of Nitrogen in Cobalt Nitride and Nitrogen-Doped Hollow Carbon Spheres for the Oxygen Reduction Reaction
+Nonlinear gradient denoising: Finding accurate extrema from inaccurate functional derivatives
+John T. Yates, Jr. 1935–2015: Pioneer of Modern Surface Science
+Electrochemical Degradation of Multiwall Carbon Nanotubes at High Anodic Potential for Oxygen Evolution in Acidic Media
+Ultrathin silicatene/silicon-carbide hybrid film on a metal substrate
+Coprecipitation: An excellent tool for the synthesis of supported metal catalysts – From the understanding of the well known recipes to new materials
+Static correlation and electron localization in molecular dimers from the self-consistent RPA and GW approximation
+Promoting Strong Metal Support Interaction: Doping ZnO for Enhanced Activity of Cu/ZnO:M (M = Al, Ga, Mg) Catalysts
+Methane Activation by Heterogeneous Catalysis
+Enhancing Electrochemical Water-Splitting Kinetics by Polarization-Driven Formation of Near-Surface Iron(0): An In Situ XPS Study on Perovskite-Type Electrodes
+Spatially coupled catalytic ignition of CO oxidation on Pt: mesoscopic versus nano-scale
+Oxide-Supported IrNiOx Core-Shell Particles as Efficient, Cost-Effective, and Stable Catalysts for Electrochemical Water Splitting
+Exploring the conformational preferences of 20-residue peptides in isolation: Ac-Ala19-Lys + H+ vs. Ac-Lys-Ala19 + H+ and the current reach of DFT
+Computational design of nanoclusters by property-based genetic algorithms: Tuning the electronic properties of (TiO2 )n clusters
+Evidence for photogenerated intermediate hole polarons in ZnO
+Strong Influence of Coadsorbate Interaction on CO Desorption Dynamics on Ru(0001) Probed by Ultrafast X-Ray Spectroscopy and Ab Initio Simulations
+Local aspects of hydrogen-induced metallization of the ZnO(101¯0) surface
+Time-domain separation of optical properties from structural transitions in resonantly bonded materials
+Molecular Adsorption Changes the Quantum Structure of Oxide-Supported Gold Nanoparticles: Chemisorption versus Physisorption
+Phonon-Mediated Electron Transport through CaO Thin Films
+Weimar 2015: Catalysing Tomorrow’s Solutions
+Chirally-modified metal surfaces: energetics of interaction with chiral molecules
+Protecting nickel with graphene spin-filtering membranes: A single layer is enough
+Formation of a ZnO Overlayer in Industrial Cu/ZnO/Al2O3 Catalysts Induced by Strong Metal–Support Interactions
+In Situ Scanning Electron Microscopy Observation of Growth Kinetics and Catalyst Splitting in Vapor–Liquid–Solid Growth of Nanowires
+Structure and reactivity of ceria-zirconia catalysts for bromine and chlorine production via the gas-phase oxidation of hydrogen halides
+Secondary batteries with multivalent ions for energy storage
+Accurate localized resolution of identity approach for linear-scaling hybrid density functionals and for many-body perturbation theory
+Length dependence of ionization potentials of transacetylenes: Internally consistent DFT/GW approach
+The impact of steam on the electronic structure of the selective propane oxidation catalyst MoVTeNb oxide (orthorhombic M1 phase)
+Trapping molecules on chips
+Special issue on machine learning and quantum mechanics
+Improving textural properties of γ-alumina by using second generation biomass in conventional hydrothermal method
+Big Data of Materials science: Critical Role of the Descriptor
+Far-IR Spectra and Structures of Small Cationic Ruthenium Clusters: Evidence for Cubic Motifs
+Integer versus Fractional Charge Transfer at Metal(/Insulator)/Organic Interfaces: Cu(/NaCl)/TCNE
+Influence of hydrogen on the structure and stability of ultra-thin ZnO on metal substrates
+The Frontiers of Catalysis Science and Future Challenges
+Electron-Irradiation-Stimulated Atomic-Scale Structural Dynamics of the Pentagonal Channel in a Complex MoVTeNbOx Catalyst
+Water splitting on model-composite La0.6Sr0.4FeO3-δ (LSF) electrodes in H2/H2O atmosphere
+Wildfires in the Lab: Simple Experiment and Models for the Exploration of Excitable Dynamics
+Ultrafast Spin Precession and Transport Controlled and Probed with Terahertz Radiation
+THz Spin Dynamics: Phonon-Induced Spin Order
+An Experimental and Theoretical Approach to Understanding the Surface Properties of One-Dimensional TiO2 Nanomaterials
+Stabilization of Palladium Nanoparticles on Nanodiamond–Graphene Core–Shell Supports for CO Oxidation
+John T. Yates, Jr. (1935–2015): Pionier der modernen Oberflächenforschung
+Synergistic Effect of Nitrogen in Cobalt Nitride and Nitrogen-Doped Hollow Carbon Spheres for the Oxygen Reduction Reaction
+Influence of Functionalization of Nanocontainers on Self-Healing Anticorrosive Coatings
+Model Approach in Heterogeneous Catalysis: Kinetics and Thermodynamics of Surface Reactions
+Terahertz-field-induced optical birefringence in common window and substrate materials
+Observation of the Efimov state of the helium trimer
+Ultrafast Laser-Excited Spin Transport in Au/Fe/MgO(001): Relevance of the Fe Layer Thickness
+Origin of “memory glass” effect in pressure-amorphized rare-earth molybdate single crystals
+Vacuum space charge effects in sub-picosecond soft X-ray photoemission on a molecular adsorbate layer
+Ultrafast electron dynamics at water covered alkali adatoms adsorbed on Cu(111)
+Visualization of Photocurrents in Nanoobjects by Ultrafast Low-Energy Electron Point-Projection Imaging
+Coherent Ultrafast Charge Transfer in an Organic Photovoltaic Blend
+Why graphene growth is very different on the C face than on the Si face of SiC: Insights from surface equilibria and the (3×3)−3C−SiC(1¯1¯1¯) reconstruction
+Online monitoring the isomerization of an azobenzene-based dendritic bolaamphiphile using ion mobility-mass spectrometry
+Directional properties of polar paramagnetic molecules subject to congruent electric, magnetic and optical fields
+Adatoms underneath Single Porphyrin Molecules on Au(111)
+The role of exposed silver in CO oxidation over MgO(0 0 1)/Ag(0 0 1) thin films
+Photoelektronenspektroskopie an der Graphen-Flüssigelektrolyt-Grenzfläche zur Bestimmung der elektronischen Struktur eines elektrochemisch abgeschiedenen Cobalt/Graphen-Elektrokatalysators
+Bioinspired nanovalves with selective permeability and pH sensitivity
+Insights into the electronic structure of the oxygen species active in alkene epoxidation on silver
+Ultrafast Dynamics of Fluctuations in High-Temperature Superconductors Far from Equilibrium
+Heterogeneous Catalysis
+New challenges in gold catalysis: bimetallic systems
+Surface Structure of V2O3(0001) – A Combined I/V-LEED + STM Study
+Probing Operating Electrochemical Interfaces by Photons and Neutrons
+500 kHz OPCPA delivering tunable sub-20 fs pulses with 15 W average power based on an all-ytterbium laser
+The New IR FEL Facility at the Fritz-Haber-Institut in Berlin
+Oxidation of propylene over Pd(5 5 1): Temperature hysteresis induced by carbon deposition and oxygen adsorption
+Supersymmetry and eigensurface topology of the spherical quantum pendulum
+Enhanced CO Oxidation on Oxide/Metal Interface: From Ultra-High Vacuum to Near-Atmospheric Pressures
+Steps or Terraces? Dynamics of Aromatic Hydrocarbons Adsorbed at Vicinal Metal Surfaces
+Microhydrated dihydrogen phosphate clusters probed by gas phase vibrational spectroscopy and first principles calculations
+Characterizing Graphitic Carbon with X-ray Photoelectron Spectroscopy: A Step-by-Step Approach
+Near-Ambient-Pressure X-ray Photoelectron Spectroscopy Study of Methane-Induced Carbon Deposition on Clean and Copper-Modified Polycrystalline Nickel Materials
+Efficient and highly selective boron-doped carbon materials-catalyzed reduction of nitroarenes
+First-Principles Molecular Structure Search with a Genetic Algorithm
+Evidence for a diamondlike electronic band structure of Si multilayers on Ag(111)
+Molecular Insight in Structure and Activity of Highly Efficient, Low-Ir Ir–Ni Oxide Catalysts for Electrochemical Water Splitting (OER)
+Active Sites in Olefin Metathesis over Supported Molybdena Catalysts
+Current Understanding of Van der Waals Effects in Realistic Materials
+Cryogenic ion trap vibrational spectroscopy of hydrogen-bonded clusters relevant to atmospheric chemistry
+The Electronic Factor in Alkane Oxidation Catalysis
+Compact femtosecond electron diffractometer with 100 keV electron bunches approaching the single-electron pulse duration limit
+Hydrogenation of CO2 to methanol and CO on Cu/ZnO/Al2O3: Is there a common intermediate or not?
+Direct observation of electron propagation and dielectric screening on the atomic length scale
+Bulk electronic structure of Zn-Mg-Y and Zn-Mg-Dy icosahedral quasicrystals
+MAXNET Energy – Focusing Research in Chemical Energy Conversion on the Electrocatlytic Oxygen Evolution
+The Active Sites of a Rod-Shaped Hollandite DeNOx Catalyst
+Opening of an icosahedral boron framework: A combined infrared spectroscopic and computational study
+500 kHz OPCPA-Based UV-XUV Light Source For Time-Resolved Photoemission Spectroscopy
+Hot Carrier-Induced Tautomerization within a Single Porphycene Molecule on Cu(111)
+Walther Nernst and the Development of Physical Chemistry
+Surface-Assisted Reactions toward Formation of Graphene Nanoribbons on Au(110) Surface
+Carbon Dioxide Activation and Reaction Induced by Electron Transfer at an Oxide-Metal Interface
+Insight into organic reactions from the direct random phase approximation and its corrections
+N: Stickstoff - ein Element schreibt Weltgeschichte
+Spin catalysts: A quantum trigger for chemical reactions
+Kinetics of deactivation on Cu/ZnO/Al2O3 methanol synthesis catalysts
+Direct observation of epitaxial organic film growth: temperature-dependent growth mechanisms and metastability
+Redox dynamics of Ni catalysts in CO2 reforming of methane
+Real-time probing of the electron dynamics of an atom in a strong infrared laser field
+Force-Sensitive Autoinhibition of the von Willebrand Factor ls Mediated by Interdomain Interactions
+Structural evolution of aragonite superstructures obtained in the presence of the siderophore deferoxamine
+van der Waals dispersion interactions in molecular materials: beyond pairwise additivity
+Ultrafast Non-local Spin Dynamics in Metallic Bi-Layers by Linear and Non-linear Magneto-Optics
+Electronic Properties of Molecules and Surfaces with a Self-Consistent Interatomic van der Waals Density Functional
+Large-Scale Growth of Two-Dimensional SnS2 Crystals Driven by Screw Dislocations and Application to Photodetectors
+Evolution of the electronic structure of CaO thin films following Mo interdiffusion at high temperature
+The oxidation of copper catalysts during ethylene epoxidation
+Beyond the GW approximation: A second-order screened exchange correction
+Could the extensive use of rare elements in renewable energy technologies become a cause for concern?
+Evidence for the Bifunctional Nature of Pt–Re Catalysts for Selective Glycerol Hydrogenolysis
+An in situ near-ambient pressure X-ray Photoelectron Spectroscopy study of Mn polarised anodically in a cell with solid oxide electrolyte
+Many-body dispersion effects in the binding of adsorbates on metal surfaces
+In situ investigation of dissociation and migration phenomena at the Pt/electrolyte interface of an electrochemical cell
+Characterization of O--Centers on Single Crystalline MgO(001)-Films
+Announcement of a special virtual issue on the EuroGRAPHENE program
+Stabilization of Ultrathin Zinc Oxide Films on Metals: Reconstruction versus Hydroxylation
+Exploring N-Rich Phases in LixNy Clusters for Hydrogen Storage at Nanoscale
+Laser-induced magnetisation dynamics in La0.7Sr0.3MnO3/SrRuO3 superlattices
+Native like helices in a specially designed β peptide in the gas phase
+Collision cross sections of high-mannose N-glycans in commonly observed adduct states – identification of gas-phase conformers unique to [M − H]- ions
+Going clean: structure and dynamics of peptides in the gas phase and paths to solvation
+Sulfidation of Single-Phase Oxide on Copper and as Powder Studied Using Soft X-Ray Spectroscopy
+Protomers of Benzocaine: Solvent and Permittivity Dependence
+Low-temperature spectroscopy of the 12C2H2 (υ1 + υ3) band in a helium buffer gas
+The Mechanism of CO and CO2 Hydrogenation to Methanol over Cu-Based Catalysts
+Structure sensitivity of the oxidative activation of methane over MgO model catalysts: II. Nature of active sites and reaction mechanism
+Analyzing the higher order structure of proteins with conformer-selective ultraviolet photodissociation
+Ternary and quaternary Cr or Ga-containing ex-LDH catalysts—Influence of the additional oxides onto the microstructure and activity of Cu/ZnAl2O4 catalysts

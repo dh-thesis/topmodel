@@ -1,0 +1,210 @@
+Integrating signals from the t-cell receptor and the interleukin-2 receptor
+Improved 3-D Particle Tracking Velocimetry with colored particles
+Uniqueness for the coagulation-fragmentation equation with strong fragmentation
+Practical Robust Positive Invariance for Large–Scale Discrete Time Systems
+Constructing Extended Formulations from Reflection Relations
+Instationäre Strömungssimulationen und Auswertung von Blutströmungen in zerebralen Aneurysmen mit Stent
+Influence of stenting on hemodynamics and wall shear stress in a patient-specific geometry
+Efficient Polynomial-time Outer Bounds on State Trajectories for Uncertain Polynomial Systems using Skewed Structured Singular Values
+Numerical Prediction of Hemolysis Based on Computational Fluid Dynamics
+Design of Experiments for Guaranteed Parameter Estimation in Membership Setting
+Set Membership Parameter Estimation and Design of Experiments Using Homothety
+Fault Diagnosis for Polynomial Hybrid Systems
+Distinct cavemoviruses interact synergistically with sweet potato chlorotic stunt virus (genus Crinivirus) in cultivated sweet potato
+Investigation Of The Unsteady Blood Flow In Cerebral Aneurysms With Stent Using The Open-Source Software OpenFOAM®
+Sensitising to security risks in manufacturing engineering: An exemplary VR prototype
+Optimal Exact Path-Following for Constrained Differentially Flat Systems
+Impact of different flow diverters on hemodynamics in an idealized aneurysm model
+Graph problems arising from parameter identiﬁcation of discrete dynamical systems
+Set-based Parameter Estimation for Symmetric Network Motifs
+Heterogeneity reduces sensitivity of cell death for TNF-Stimuli
+Event-based NMPC for networked control systems over UDP-like communication channels
+Robustness of Prediction Based Delay Compensation for Nonlinear Systems
+MARCIE - Model Checking and Reachability Analysis Done EffiCIEntly
+A Model Predictive Control Approach to Trajectory Tracking Problems via Time-Varying Level Sets of Lyapunov Functions
+Uniqueness of steady-state solutions for thermodynamically consistent Becker-Döring models
+Gas flow measurements by 3D Particle Tracking Velocimetry using coloured tracer particles
+Overview of the virtual intracranial stenting challenge 2010
+High-Throughput Glycosylation Pattern Analysis of Glycoproteins Utilizing a Multiplexing Capillary-DNA-Sequencer
+Model Order Reduction of Large-Scale Dynamical Systems with Jacobi-Davidson Style Eigensolvers
+[NiFe] and [FeS] Cofactors in the Membrane-Bound Hydrogenase of Ralstonia eutropha Investigated by X-ray Absorption Spectroscopy: Insights into O2-Tolerant H2 Cleavage
+Damping Optimization for Linear Vibrating Systems Using Dimension Reduction
+Model Reduction for Circuit Simulation
+Direct hybrid glucose-oxygen enzymatic fuel cell based on tetrathiafulvalene-tetracyanoquinodimethane charge transfer complex as anodic mediator
+Bioinformatics in Glycoproteomics – Challenges, Frontiers and Solutions
+Fast predictive control of linear systems combining Nesterov’s gradient method and the method of multipliers
+On the Computation of particular Eigenvectors of Hamiltonian Matrix Pencils
+Population balance modelling of influenza virus replication during vaccine prodcution - Influence of apoptosis
+An application programming interface for CellNetAnalyzer
+Optimal Reactor Design for the Hydroformylation of Long Chain Alkenes in Biphasic Liquid Systems
+Morphology–transport relationships for silica monoliths: From physical reconstruction to pore-scale simulations
+Comment on "A Nickel(II)-Based Radical-Ligand Complex as a Functional Model of Hydrogenase"
+Quantifying temperature and flow rate effects on the performance of a fixed-bed chromatographic reactor
+Robust suboptimal control over lossy networks using extended input schemes
+Metaproteome analysis of sewage sludge from membrane bioreactors
+Self-Triggered Control over Wireless Sensor and Actuator Networks
+Analysis and Demonstration of a Control Concept for a Heat Integrated Simulated Moving Bed Reactor
+Experimental validation of a new integrated simulated moving bed process for the production of single enantiomers
+Thermal simulated moving bed concentrator
+Efficient influenza B virus propagation due to deficient interferon-induced antiviral activity in MDCK cells
+On the left eigenstructure assignment and state feedback design
+Optimal and optimal-linear control over lossy, distributed networks
+Effect of influenza virus infection on key metabolic enzyme activities in MDCK cells
+Metabolic and Kinetic analyses of influenza production in perfusion HEK293 cell culture
+Purification and characterization of hydroquinone dioxygenase from Sphingomonas sp. strain TTNP3
+Impact of Host Cell Line Adaptation on Quasispecies Composition and Glycosylation of Influenza A Virus Hemagglutinin
+Multi-stage crystallization for resolution of enantiomeric mixtures in a solid solution forming system
+Experimental analysis of the separation efficiency of an orientation independent gas/liquid membrane separator
+Efficient and accurate numerical simulation of nonlinear chromatographic processes
+Application of discontinuous Galerkin scheme to batch crystallization models
+Efficient Balancing-Based MOR for Large-Scale Second-Order Systems
+On the Computation of Particular Eigenvectors of Hamiltonian Matrix Pencils
+High Performance Matrix Inversion of SPD Matrices on Graphics Processors
+A Mixed-Precision Algorithm for the Solution of Lyapunov Equations on Hybrid CPU-GPU Platforms
+Process Intensification : 1. Fundamentals and Molecular Level
+Robust control of switched linear systems
+Proceedings of the workshop "Integration of OMICs datasets into metabolic pathway analysis" Edingburgh, U.K., 15 October 2010 IOMPA 2010
+Discussion on: Modeling and Identification of a Nuclear Reactor with Temperature Effects and Xenon Poisoning
+On the Numerical Solution of Large-Scale Sparse Discrete-Time Riccati Equations
+Particle Tracking Velocimetry with fluorescent micro-particles
+The Phase Behavior and Crystallization of 2-Chloromandelic Acid: The Crystal Structure of the Pure Enantiomer and the Behavior of Its Metastable Conglomerate
+Preferential Crystallization of L-Asparagine in Water
+The Gas Diffusion Layer in Polymer Electrolyte Membrane Fuel Cells: A Process Model of the Two-phase Flow
+Rational process design of a continuous crystallization for separation of substances with solid solution behavior
+Nonlinear Dynamics of Fuel Cells: A Review
+Periodic open-cell foams: Pressure drop measurements and modeling of an ideal tetrakaidecahedra packing
+Multiscale modeling strategy for structured catalytic reactors
+Dynamics of Liquid-Liquid Systems Based on Linear Thermodynamics of Irreversible Processes
+Model-based Measurement of Particle Size Distributions in Layering Granulation Processes
+Composition, Structure, and Mobility of Water−Acetonitrile Mixtures in a Silica Nanopore Studied by Molecular Dynamics Simulations
+Crystal size distribution of L-glutamic acid in a fluidized bed crystallizer
+Downstream processing of cell culture-derived virus particles
+Thermodynamic description of solid-liquid equilibria for the enantiomers of 3-chloromandelic acid
+From random sphere packings to regular pillar arrays: Effect of the macroscopic confinement on hydrodynamic dispersion
+Optimale FE-Reduktion, Moderne Modellreduktion elastischer Bauteile für die Simulation flexibler Mehrkörpersysteme
+Simultaneous preferential crystallization in a coupled batch operation mode. Part II: Experimental study and model refinement
+Process Intensification : 3. Process Unit Level
+Metabolic adaptation of MDCK cells to different growth conditions: Effects on catalytic activities of central metabolic enzymes
+Modeling the Light- and Redox-Dependent Interaction of PpsR/AppA in Rhodobacter sphaeroides
+Inferential control of reactive distillatiion columns - An algorithmic approach
+Qualitative and Quantitative Optimal Experimental Design for Parameter Identification of a MAP Kinase Model
+Criteria for bioreactor comparison and operation standardisation during process development for mammalian cell culture
+Recombinant protein purification using gradient-assisted simulated moving bed hydrophobic interaction chromatography. Part I: Selection of chromatographic system and estimation of adsorption isotherms
+Portable Energiesysteme : Von elektrochemischer Wandlung bis Energy Harvesting
+Nonlinear Frequency Analysis of the Ferrocyanide Oxidation Kinetics. Part I. A Theoretical Analysis
+Experimental Investigations into Phosphoric Acid Adsorption on Platinum Catalyst in a High Temperature PEM Fuel Cell
+Model-based Analysis of the Environmental Operating Range of Direct Methanol Fuel Cell Systems
+Spontaneous oscillations of cell voltage, power density, and anode exit CO concentration in a PEM fuel cell
+Iterative Learning Control for Variable Pass Length Systems
+A discontinuous Galerkin method to solve chromatographic models
+Active Vibration Control of a Light and Flexible Stress Ribbon Footbridge Using Pneumatic Muscles
+Optimization of startup and shutdown operation of simulated moving bed chromatographic processes
+Dimension reduction of bivariate population balances using the quadrature method of moments
+The Glansdorff-Prigogine stability criterion for biochemical reaction networks
+Proceedings / WODES 2010 - 10th International Workshop on Discrete Event Systems
+Experimental and theoretical analysis of poly (β-hydroxybutyrate) formation and consumption in Ralstonia eutropha
+A Model for the Freeze Start Behavior of a PEM Fuel Cell Stack
+Adiabatic operation of chromatographic fixed-bed reactors
+Impact of Influenza A virus hemagglutinin N-glycosylation on immunogenicity
+Theoretical analysis of steady state recycling chromatography with solvent removal
+A unique iron-sulfur cluster is crucial for oxygen tolerance of a [NiFe]-hydrogenase
+Solving Differential Riccati Equations on Multi-GPU Platforms
+Robust Formulas for Optimal H∞ Controllers
+Impact of the Gold Support on the Electrocatalytic Oxidation of Sugars by enzyme-modified Electrodes
+AlGaN/GaN-based HEMTs for electrical stimulation of neuronal cell cultures
+On Stability, Passivity and Reciprocity Preservation of ESVDMOR
+High-Throughput CGE-LIF Based Analysis of APTS-labeled N-Glycans, Utilizing a Multiplex Capillary DNA Sequencer
+High-Throughput Glycosylation Pattern Analysis of Glycoproteins, Utilizing a Multiplexing Capillary-DNA-Sequencer
+Locally Optimal Block Preconditioned Conjugate Gradient Method for Hierarchical Matrices
+Simplified Design of Steady-State Recycling Chromatography Under Ideal and Nonideal Conditions
+The S-Shaped Negative Differential Resistance during the Electrooxidation of H2/CO in Polymer Electrolyte Membrane Fuel Cells: Modeling and Experimental Proof
+Decentralized set-valued state estimation and prediction for hybrid systems : A symbolic approach
+Modeling (vapour-liquid) and (vapour-liquid-liquid) equilibria of {water (H2O) + methanol (MeOH) + dimethyl ether (DME) + carbon dioxide (CO2)} quaternary system using the Peng-Robinson EoS with Wong-Sandler mixing rule
+A Mass Integration Concept for High Temperature Fuel Cell Plants
+On H2-Model Reduction of Linear Parameter-Varying Systems
+Set-based Parameter Estimation for Symmetric Network Models
+Characterisation of cultivation of the human cell line AGE1.HN.AAT
+Nonsmooth Control Design for Stabilizing the Switching Linear Systems by Left Eigenstructure Assignment
+Simple and reliable model for estimation of methanol cross-over in direct methanol fuel cells and its application on methanol-concentration control
+Amplifier design for EMG recording from stimulation electrodes during functional electrical stimulation leg cycling ergometry
+Optimizing the separation of gaseous enantiomers by simulated moving bed and pressure swing adsorption
+A Worst-Case observer for impurities in enantioseparation by preferential crystallization
+Multicomponent Dosing in Membrane Reactors Including Recycling – Concept and Demonstration for the Oxidative Dehydrogenation of Propane
+Modeling and Control of Nested Manufacturing Processes using Dioid Models
+Decentralized set-valued state estimation based on non-deterministic chains
+Tailored methods for CGE-LIF based multiplexed high-throughput glycoanalysis with respect to sample characteristics
+Instationäre Strömungssimulation und Auswertung von Blutströmungen in zerebralen Aneurysmen mit Stent
+A hybrid process for chiral separation of compound-forming systems
+Computing complex metabolic intervention strategies using constrained minimal cut sets
+Prediction of melting characteristic and solubility determintation for the amino acid arginine in mixtures of water/ethanol
+High-density microcarrier cell cultures for influenza virus production
+Production of Crystals with Specific Size from L-Glutamic Acid in a Fluidized Bed Crystallizer
+Development of a Novel Catalytic Distillation Process for Cyclohexanol Production: Mini Plant Experiments and Complementary Process Simulations
+Erratum to “A thermodynamically consistent explicit competitive adsorption isotherm model based on second-order single component behaviour” [J. Chromatogr. A 1217 (14) (2010) 2132–2137]
+Mesoporous glass membranes as model systems to study gas diffusion through porous media
+System inversion of multidimensional population balance systems
+Analysis and Comparison of Commonly Used Acidic Resolving Agents in Diastereomeric Salt Resolution – Examples for DL-Serine
+Preparation of Ni-MCM-41 by equilibrium adsorption — Catalytic evaluation for the direct conversion of ethene to propene
+Autonomous potential oscillations at the Pt anode of a PEM Fuel Cell under CO poisoning
+Nonlinear Frequency Response Analysis for the Diagnosis of Carbon Monoxide Poisoning in PEM Fuel Cell Anodes
+Chiral Separations
+Analysis and optimal design of an ethylene oxide reactor
+Iterative Feedback Tuning of PID Controllers for Reactive Distillation Processes: a Comparison with Relay Feedback Tuning
+Influence of an excess of resolving agent on diastereomeric salt resolution
+Crystal Aggregation in a Flow Tube: Image-based Observation
+Structure-transport correlation for the diffusive tortuosity of bulk, monodisperse, random sphere packings
+Determining the specific surface area of ceramic foams: The tetrakaidecahedra model revisted
+Two-sided Harmonic Subspace Extractions for the Generalized Eigenvalue Problem
+L∞-Norm Computation for Discrete-Time Descriptor Systems
+Generalized Tangential Interpolation for Model Reduction of Discrete-Time MIMO Bilinear Systems
+On coupled Lane-Emden equations arising in dusty fluid models
+Fast predictive control of linear, time-invariant systems using an algorithm based on the fast gradient method and augmented lagrange multipliers
+Partial Stabilization of Descriptor Systems Using Spectral Projectors
+Process Intensification : 2. Phase Level
+Process Intensification : 4. Plant Level
+Characterization of the human AGE1.HN cell line: a systems biology approach
+A fast gradient method for embedded linear predictive control
+Interpolatory Projection Methods for Parameterized Model Reduction
+Large-scale models of IL-1 and IL-6 signaling and their hepatocellular specification
+Effects of a recombinant gene expression on ColE1-like plasmid segregation in Escherichia coli
+Corrigendum to “Selective crystallisation of a chiral compound-forming system—Solvent screening, SLE determination and process design” by Henning Kaemmerer et al. [Fluid Phase Equilibr. 296 (2010) 192–205]
+A novel concept combining experimental and mathematical analysis for the identification of unknown interspecies effects in a mixed culture
+Distributed Lifetime Maximisation in Wireless Sensor Networks using Cooperation Techniques
+Electrochemical Oxidation of Carbon Containing Fuels and Their Dynamics in Low Temperature Fuel Cells
+Characterization of E. coli MG1655 and frdA and sdhC mutants at various aerobiosis levels
+Glutathione Redox Effect on Photosynthetic Membrane Expression in Rhodospirillum rubrum
+The space–time CE/SE method for solving ultra-relativistic Euler equations
+Selective Oxidation of Cyclohexanol to Cyclohexanone in the Ionic Liquid 1-Octyl-3-Methylimidazolium Chloride
+Metabolic network modeling of redox balancing and biohydrogen production in purple nonsulfur bacteria
+Integration and dynamic inversion of population balance equations with size-dependent growth rate
+Basic model of secondary zinc air batteries to quantify environmental impacts
+Haptic control of a table-placed mobile robot for arm/shoulder rehabilitation
+Towards global optimization of combined distillation-crystallization processes for the separation of closely boiling mixtures
+A Software Tool for Automated High-Throughput Processing of CGE-LIF Based Glycoanalysis Data, Generated by a Multiplexing Capillary DNA Sequencer
+Brownian diffusion of ion channels in different membrane patch geometries
+Integrated Simulated Moving Bed Processes for Production of Single Enantiomers
+Experimental Characterization of Flow Conditions in 2- and 20-L Bioreactors with Wave-Induced Motion
+Optimal Design of Nonlinear Temperature Programmed Reduction Experiments
+Towards fully distributed global chassis control
+Investigation of gas transport through porous membranes based on nonlinear frequency response analysis
+Application of Preferential Crystallization to Diastereomeric Salts
+High-Throughput Characterization of the Human Milk Oligosaccharide Composition Utilizing a Multiplexing Capillary DNA Sequencer
+Predicting the Specific Surface Area and Pressure Drop of Reticulated Ceramic Foams Used as Catalyst Support
+Inter-Species Effects in Ceftazidime-Treated Mixed Culture of Pseudomonas aeruginosa, Burkholderia cepacia and Staphylococcus aureus – Analysis on the Single Species Level
+Chiral Task-Specific Solvents for Mandelic Acid and Their Impact on Solution Thermodynamics and Crystallization Kinetics
+Modeling of innate immune responses of cells for vaccine production
+Convex optimization for shape manipulation of multidimensional crystal particles
+Flatness-based feed-forward control of an HVDC power transmission network
+Impact of Influenza Virus Adaptation Status on HA N-Glycosylation Patterns in Cell Culture-Based Vaccine Production
+Analysis of Spatio-Temporal Pattern Formation in a PEM Fuel Cell with Pt/Ru Anode exposed to H2/CO Mixtures
+Impact of different influenza cultivation conditions on HA N-glycosylation
+Compatibility of Transport and Reaction in Membrane Reactors Used for the Oxidative Dehydrogenation of Short-Chain Hydrocarbons
+Recombinant protein purification using gradient assisted simulated moving bed hydrophobic interaction chromatography - Part II: Process design and experimental validation
+Numerical solution of a multi-dimensional batch crystallization model with fines dissolution
+Optimization of simulated moving bed chromatography with fractionation and feedback incorporating an enrichment step
+A Gaussian quadrature method for solving batch crystallization models
+Nonlinear Frequency Analysis of the Ferrocyanide Oxidation Kinetics. Part II. Measurement Routine and Experimental Validation
+Optimal control for batch crystallization with size-dependent growth kinetics
+Influence of molybdenum on the stability of iron oxide materials for hydrogen production with cyclic water gas shift process
+Optimal control of multidimensional population balance systems for crystal shape manipulation
+Investigation Of The Unsteady Blood Flow In Cerebral Aneurysms With Stent Using The Open-source Software OpenFOAM®

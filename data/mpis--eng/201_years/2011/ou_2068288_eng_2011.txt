@@ -1,0 +1,57 @@
+Optogenetic Long-Term Manipulation of Behavior and Animal Development
+Ribosome recycling depends on a mechanistic link between the FeS cluster domain and a conformational switch of the twin-ATPase ABCE1
+ATP-Synthase - A Paradigmatic Molecular Machine
+One β Hairpin Follows the Other: Exploring Refolding Pathways and Kinetics of the Transmembrane β-Barrel Protein OmpG
+Role of Bundle Helices in a Regulatory Crosstalk in the Trimeric Betaine Transporter BetP
+Mutations in a Helix-1 Motif of the ATP Synthase c-Subunit of Bacillus pseudofirmus OF4 Cause Functional Deficits and Changes in the c-Ring Stability and Mobility on Sodium Dodecyl Sulfate–Polyacrylamide Gel Electrophoresis
+Structure of Ralstonia eutropha Flavohemoglobin in Complex with Three Antibiotic Azole Compounds
+Evidence for an allosteric mechanism of substrate release from membrane-transporter accessory binding proteins
+Arrangement of electron transport chain components in bovine mitochondrial supercomplex I1III2IV1
+Chloroplast Omp85 proteins change orientation during evolution
+Transport mechanism and pH regulation of the Na+/H+ antiporter NhaA from Escherichia coli: An electrophysiological study
+Computational and Experimental Studies of Substrate Binding, Conformational Change and Importance of the Trimeric State in the Glycine Betaine Transporter BetP
+Homeodomain binding motifs modulate the probability of odorant receptor gene choice in transgenic mice
+Cyclohexane-1,2-Dione Hydrolase from Denitrifying Azoarcus sp. Strain 22Lin, a Novel Member of the Thiamine Diphosphate Enzyme Family
+Several ADP-ribosylation Factor (Arf) Isoforms Support COPI Vesicle Formation
+Spatially asymmetric reorganization of inhibition establishes a motion-sensitive circuit
+Regulation of the Probability of Mouse Odorant Receptor Gene Choice
+Structure and Function of PilQ, a Secretin of the DNA Transporter from the Thermophilic Bacterium Thermus thermophilus HB27
+Structure of the E-1-hydroxy-2-methyl-but-2-enyl-4-diphosphate synthase (GcpE) from Thermus thermophilus
+The structural basis of secondary active transport mechanisms
+Robust Electrophysiological Assays using Solid Supported Membranes: the Organic Cation Transporter OCT2
+Modeling and simulation of ion-coupled and ATP-driven membrane proteins
+Cell-Free Expression and Assembly of ATP Synthase
+G117C MelB, a mutant melibiose permease with a changed conformational equilibrium
+Outer membrane continuity and septosome formation between vegetative cells in the filaments of Anabaena sp. PCC 7120
+Electron tomography of plant thylakoid membranes
+Structure of Human Na+/H+ Exchanger NHE1 Regulatory Region in Complex with Calmodulin and Ca2+
+Amphipols From A to Z
+GRIFFIN: A Versatile Methodology for Optimization of Protein-Lipid Interfaces for Membrane Protein Simulations
+Dissimilatory adenosine-5’-phosphosulfate reductase
+Energy-filtered transmission electron microscopy of biological samples on highly transparent carbon nanomembranes
+Tilt-Pair Analysis of Images from a Range of Different Specimens in Single-Particle Electron Cryomicroscopy
+Structure and Mechanism of the Diiron Benzoyl-Coenzyme A Epoxidase BoxB
+Draft Genome Sequence of the Thermoalkaliphilic Caldalkalibacillus thermarum Strain TA2.A1
+Structure and Function of [Fe]-Hydrogenase and its Iron–Guanylylpyridinol (FeGP) Cofactor
+The Alternating-Access Mechanism of MFS Transporters Arises from Inverted-Topology Repeats
+Projection Structure of Channelrhodopsin-2 at 6 Å Resolution by Electron Crystallography
+Structure of the archaeal Na+/H+ antiporter NhaP1 and functional role of transmembrane helix 1
+Single-walled carbon nanotubes and nanocrystalline graphene reduce beam-induced movements in high-resolution electron cryo-microscopy of ice-embedded biological samples
+The role of trimerization in the osmoregulated betaine transporter BetP
+A1Ao-ATP Synthase of Methanobrevibacter ruminantium Couples Sodium Ions for ATP Synthesis under Physiological Conditions
+The high-affinity QH binding site in quinol oxidase as studied by DONUT-HYSCORE spectroscopy and density functional theory
+Ultra light-sensitive and fast neuronal activation with the Ca2+-permeable channelrhodopsin CatCh
+Thirteen novel VKORC1 mutations associated with oral anticoagulant resistance: insights into improved patient diagnosis and treatment
+Reconstructing a Chloride-binding Site in a Bacterial Neurotransmitter Transporter Homologue
+PICKScreens, A New Database for the Comparison of Crystallization Screens for Biological Macromolecules
+In-focus electron microscopy of frozen-hydrated biological samples with a Boersch phase plate
+Substrate specificity and ion coupling in the Na+/betaine symporter BetP
+Dissimilatory Sulfite Reductase
+Structural Asymmetry in a Trimeric Na+/Betaine Symporter, BetP, from Corynebacterium glutamicum
+Influence of ground-state structure and Mg2+ binding on folding kinetics of the guanine-sensing riboswitch aptamer domain
+Coordinated coexpression of two vomeronasal receptor V2R genes per neuron in the mouse
+A gene-fusion strategy for stoichiometric and co-localized expression of light-gated membrane proteins
+Homology Model of the Na+/Proline Transporter PutP of Escherichia coli and Its Functional Implications
+Molecular Mechanism of Selective Recruitment of Syk Kinases by the Membrane Antigen-Receptor Complex
+Macromolecular organization of ATP synthase and complex I in whole mitochondria
+Interconversions of P and F intermediates of cytochrome c oxidase from Paracoccus denitrificans

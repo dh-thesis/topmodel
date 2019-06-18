@@ -1,0 +1,355 @@
+Imprints of magnetic power and helicity spectra on radio polarimetry statistics
+The role of galaxy mergers in the evolution of supermassive black holes
+The core helium flash: 3D hydrodynamic models
+Modelling signatures of outflow in X-ray spectra of active galactic nuclei
+Information field theory applied to a spatially distorted log-normal field with Poissonian noise
+Evolution of radio galaxies across cosmic time
+Modeling detonations in type Ia supernovae
+A possible signature of terrestrial planet formation in the chemical composition of solar analogs
+The kinematics of ionized gas in Lyman-break analogs at z ~ 0.2
+Bayesian non-linear large-scale structure inference of the sloan digital sky survey data release 7
+Search for Non-Gaussian signatures in the cosmic microwave background radiation
+Barred galaxy photometry: comparing results from the Cananea sample with N-body simulations
+Dynamical constraints on the origin of the young B-stars in the galactic center
+Hydrodynamical N-body simulations of coupled dark energy cosmologies
+Chromium: NLTE abundances in metal-poor stars and nucleosynthesis in the galaxy
+Determining the initial helium abundance of the Sun
+Manganese abundances in the globular cluster ω Centauri
+Radio haloes from simulations and hadronic models - II. The scaling relations of radio haloes
+Revisiting the WMAP-NVSS angular cross correlation - a skeptic's view
+Planck pre-launch status: design and description of the low frequency instrument
+Planck pre-launch status: the Planck-LFI programme
+Substructure depletion in the Milky Way halo by the disk
+Lithium abundances of halo dwarfs based on excitation temperatures - II. Non-local thermodynamic equilibrium
+Nucleosynthesis in two-dimensional delayed detonation models of type Ia supernova explosions
+Universal merger histories of dark-matter haloes
+Axisymmetric general relativistic simulations of the accretion-induced collapse of white dwarfs
+Nebular spectra and explosion asymmetry of type Ia supernovae
+The asteroseismic potential of Kepler: first results for solar-type stars
+Three-dimensional simulations of mixing instabilities in supernova explosions
+Pulsation period changes as a tool to identify pre-zero age horizontal branch stars
+Binary quasars at high redshift - II. Sub-Mpc clustering at z ~ 3-4
+Binary quasars at high redshift - I. 24 new quasar pairs at z ~ 3-4
+Simulating the chemical enrichment of the intergalactic medium
+Constraints on black hole duty cycles and the black hole-halo relation from SDSS quasar clustering
+An examination of recent transformations to the BV(RI) C photometric system from the perspective of stellar models for old stars
+UGC8802: a massive disk galaxy in formation
+Reconstructing the evolution of dark energy with variations of fundamental parameters
+3C28 in Abell 115- a radio source with a twist
+Constraining a possible time-variation of the gravitational constant through "gravitochemical heating" of neutron stars
+Rapid timing studies of black hole binaries in optical and X-rays: correlated and non-linear variability
+The light elements in the light of 3D and non-LTE effects
+Gravitational recoil: effects on massive black hole occupation fraction over cosmic time
+Unresolved X-ray emission in M31 and constraints on progenitors of classical novae
+Neutrino signal of electron-capture supernovae from core collapse to cooling
+A scaling relation of the evolving tidal fields in a ΛCDM cosmology
+Baryons and dark matter halo distributions in ΛCDM cosmology
+Observational signatures for depletion in the Spite plateau: Solving the cosmological Li discrepancy?
+Growing supermassive black holes in cosmological simulations of structure formation
+Stellar populations and morphology on the red sequence at z [approximate] 1
+Rapid optical and X-ray timing observations of GX 339−4: multicomponent optical variability in the low/hard state
+Semi-analytic models on the molecular and neutral gas in galaxies
+A path to radio-loudness through gas-poor galaxy mergers and the role of retrograde accretion
+Stellar evolution and death models and modeling
+INTEGRAL/IBIS 7-year all-sky hard X-ray survey - I. Image reconstruction
+The earliest stars and their relics in the Milky Way
+Oxygen recombination in the nebular phase of supernovae 1998bw and 2002ap
+Local kinematics and the local standard of rest
+A wide angle view of the Sagittarius dwarf spheroidal galaxy - I. VIMOS photometry and radial velocities across Sgr dSph major and minor axis
+Type Ia supernovae and accretion induced collapse
+Multiple stellar populations in galactic globular clusters: observational evidence
+Chemical analysis of globular star clusters: theory and observation
+Solar quiescent prominences: filamentary structure and energetics
+Formation and evolution of cataclysmic variables
+The metal-poor end of the Spite plateau - I. Stellar parameters, metallicities, and lithium abundances
+Effects of turbulence on zero- and low-metallicity star formation
+The fundamental plane of EDisCS galaxies - the effect of size evolution
+Hydrodynamical neutron star kicks in three dimensions
+Fiducial stellar population sequences for the VJKS photometric system
+The Atacama cosmology telescope: a measurement of the 600 < l < 8000 cosmic microwave background power spectrum at 148 GHz
+Central gas entropy excess as direct evidence for AGN feedback in galaxy groups and clusters
+The SuperN-Project: current advances in understanding core collapse supernovae
+A massive star origin for an unusual helium-rich supernova in an elliptical galaxy
+Magnetic acceleration and instabilities of astrophysical jets
+The galactic centre star S2 as a dynamical probe for intermediate-mass black holes
+Hyperfine structure radio lines from hot ISM in elliptical galaxies
+The internal structure of cold dark matter haloes
+Unprecedented accurate abundances: Signatures of other Earths?
+On merger bias and the clustering of quasars
+Solar-like oscillations in low-luminosity red giants: first results from Kepler
+Relic density and CMB constraints on dark matter annihilation with Sommerfeld enhancement
+Substructure of the galaxy clusters in the REXCESS sample: observed statistics and comparison to numerical simulations
+How do galaxies populate dark matter haloes?
+Star formation and AGN activity in SDSS cluster galaxies
+Metal-line emission from the warm-hot intergalactic medium - II. Ultraviolet
+Sub-luminous type Ia supernovae from the mergers of equal-mass white dwarfs with mass ~0.9Msolar
+Transport coefficients of dilute hydrogen gas, calculations and comparisons with experiments
+Physics and structure of the galactic disc(s)
+Galactic plane structure in hard X-rays
+Analyses of the 2dF deep field
+Mapping extragalactic dark matter structures through gamma-rays
+Lithium depletion in solar-like stars: no planet connection
+Non-Gaussian halo assembly bias
+Thermal diffusion in the intergalactic medium of clusters of galaxies
+E pur si muove: Galilean-invariant cosmological hydrodynamical simulations on a moving mesh
+Turbulence in a three-dimensional deflagration model for type Ia supernovae - II. Intermittency and the deflagration-to-detonation transition probability
+Dissecting the Gravitational lens B1608+656 - II. Precision measurements of the Hubble constant, spatial curvature, and the dark energy equation of state
+Assembly bias and the dynamical structure of dark matter halos
+The primordial non-Gaussianity of local type (f local(NL)) in the WMAP 5-year data: the length distribution of CMB skeleton
+Modeling type Ia supernovae
+Clustering of radio galaxies and quasars
+Fast time variations of supernova neutrino fluxes and their detectability
+The r-process in black hole winds
+One moment in time - modeling star formation in the antennae
+The evolution of the density of galaxy clusters and groups: denser environments at higher redshifts
+Absorption-line probes of the prevalence and properties of outflows in present-day star-forming galaxies
+Secondary infall and the pseudo-phase-space density profiles of cold dark matter haloes
+Lithium in a metal-poor external galaxy: ω Centauri
+Lithium in other Suns: no connection between stars and planets
+Radiative hydrodynamics simulations of red supergiant stars - II. Simulations of convection on Betelgeuse match interferometric observations
+One simulation to fit them all - changing the background parameters of a cosmological N-body simulation
+Efficient cosmological parameter sampling using sparse grids
+The VIMOS-VLT deep survey: evolution in the halo occupation number since z∼ 1
+Stellar atmosphere parameters with MAχ, a MAssive compression of χ2 for spectral fitting
+Revisiting ΔY/ΔZ from multiple main sequences in globular clusters: insight from nearby stars
+Fallback supernovae: a possible origin of peculiar supernovae with extremely low explosion energies
+The absolute magnitudes of type Ia supernovae in the ultraviolet
+Local helioseismology: three-dimensional imaging of the solar interior
+A large number of z > 6 galaxies around a QSO at z = 6.43: Evidence for a protocluster?
+Monte Carlo radiative transfer simulations: applications to astrophysical outflows and explosions
+Bayesian methods for analyzing the large scale structure of the universe
+Chemical evolution of the galactic bulge as traced by microlensed dwarf and subgiant stars - III. Detection of lithium in the metal-poor bulge dwarf MOA-2010-BLG-285S
+Local non-Gaussianity in the cosmic microwave background the Bayesian way
+The accretion of gas on to galaxies as traced by their satellites
+Three-dimensional hydrodynamical simulations of red giant stars: semi-global models for interpreting interferometric observations
+Striation and convection in penumbral filaments
+Characteristic velocities of stripped-envelope core-collapse supernova cores
+The diversity and similarity of simulated cold dark matter haloes
+The stellar mass components of galaxies: comparing semi-analytical models with observation
+ANTARES - A Numerical Tool for Astrophysical RESearch with applications to solar granulation
+Granulation across the HR diagram
+Atmospheric parameter determination for massive stars via non-LTE spectrum analysis
+The axis of evil - a polarization perspective
+An observer's view of simulated galaxies: disc-to-total ratios, bars and (pseudo-)bulges
+Sizes and ages of SDSS ellipticals: comparison with hierarchical galaxy formation models
+Bayesian analysis of spatially distorted cosmic signals from Poissonian data
+INTEGRAL/IBIS 7-year all-sky hard X-ray survey - II. Catalog of sources
+uvby-β photometry of solar twins - the solar colors, model atmospheres, and the Teff and metallicity scales
+Search for outbursts in the Narrow 511-keV line from compact sources - based on INTEGRAL data
+The first stars: formation of binaries and small multiples
+Further constraining galaxy evolution models through the size function of SDSS early-type galaxies
+Formation of isolated dwarf galaxies with feedback
+The halo mass function conditioned on density from the millennium simulation: insights into missing baryons and galaxy mass functions
+Relativistic simulations of neutron star and strange star mergers
+A faint type of supernova from a white dwarf with a helium-rich companion
+The Planck/LFI data processing: real-time analysis, data management and scientific workflows
+The two phases of galaxy formation
+The type Ic SN 2007gr: a census of the ejecta from late-time optical-infrared spectra
+Foregrounds for observations of the cosmological 21 cm line - II. Westerbork observations of the fields around 3C 196 and the North Celestial Pole
+Soft band X/K luminosity ratios for gas-poor early-type galaxies
+Ly α escape during cosmological hydrogen recombination: the 3d-1s and 3s-1s two-photon processes
+Active galactic nucleus pairs: Chance superpositions or black hole binaries?
+Lyman-alpha emitters and Lyman-break galaxies at z= 3-6 in cosmological SPH simulations
+Measurement of the orbital period of the X-ray burster GS 1826-238 based on observations of its optical brightness variations
+Chemical similarities between galactic bulge and local thick disk red giants: O, Na, Mg, Al, Si, Ca, and Ti
+Clustering and descendants of MUSYC galaxies at z < 1.5
+The enrichment history of cosmic metals
+Kinematics of Milky Way satellites in a Lambda cold dark matter universe
+Lyα cooling emission from galaxy formation
+The first galaxies: chemical enrichment, mixing, and star formation
+Nucleosynthetic post-processing of type Ia supernovae with variable tracer masses
+HIP 60350: A supernova ejected hyper-runaway star?
+Detailed numerical simulations on the formation of pillars around H II regions
+Deciphering the ancient universe with high-energy gamma-rays from gamma-ray bursts
+Similarity and difference in GRB-associated SN Ic 1998bw and other type Ib/c supernovae
+Multi-dimensional explosion geometry of supernovae: spectropolarimetric study with Subaru
+Relativistic simulations of compact object mergers for nucleonic matter and strange quark matter
+Probing intergalactic radiation fields during cosmic reionization through gamma-ray absorption
+Local simulations of the magnetized Kelvin-Helmholtz instability in neutron-star mergers
+A galaxy populations study of a radio-selected protocluster at z∼ 3.1
+A spectroscopic study of the Hα surface brightness profiles in the outer discs of galaxies
+Bayesian power-spectrum inference for large-scale structure data
+Observational evidence for a broken Li Spite plateau and mass-dependent Li depletion
+Statistical comparison of the observed and synthetic hydrogen Lyman line profiles in solar prominences
+The 2010 interferometric imaging beauty contest
+Mixing of CNO-cycled matter in massive stars
+A semi-analytic model comparison - gas cooling and galaxy mergers
+Episodic accretion on to strongly magnetic stars
+There's no place like home? Statistics of Milky Way-mass dark matter haloes
+Gas cooling in semi-analytic models and smoothed particle hydrodynamics simulations: Are results consistent?
+Observational signatures of lithium depletion in the metal-poor globular cluster NGC6397
+Particle hydrodynamics with tessellation techniques
+The merger rates and mass assembly histories of dark matter haloes in the two Millennium simulations
+Constraints on variation in α and me from WMAP 7-year data
+Recombinations to the Rydberg states of hydrogen and their effect during the cosmological recombination epoch
+The peculiar optical spectrum of 4C+22.25: Imprint of a massive black hole binary?
+Semiconvective mixing in low-mass stars
+X-ray emission from the sombrero galaxy: discrete sources
+On the role of magnetic reconnection in jet/accretion disk systems
+Magnetic fields and cosmic rays in galaxy clusters
+ID 3 evolution of structure in the universe
+Warm ionized ISM in the bulge of Andromeda galaxy
+How BAO measurements can fail to detect quintessence
+Feedback under the microscope - II. Heating, gas uplift and mixing in the nearest cluster core
+Genus statistics using the Delaunay tessellation field estimation method - I. Tests with the millennium simulation and the SDSS DR7
+Merger-induced quasars, their light curves, and their host halos
+Detection of solar-like oscillations from Kepler photometry of the open cluster NGC 6819
+Multidimensional modelling of X-ray spectra for AGN accretion disc outflows - II
+Fe-peak element abundances in disk and halo stars
+Recovering the non-linear density field from the galaxy distribution with a Poisson-lognormal filter
+Clumpy metal concentrations in elliptical galaxies NGC 4374 and NGC 4636
+Simulations of the microwave sky
+MAGIC gamma-ray telescope observation of the Perseus cluster of galaxies: implications for cosmic rays, dark matter, and NGC 1275
+Simulating magnetic fields in the antennae galaxies
+Annual Report 2009
+A census of nuclear stellar discs in early-type galaxies
+The case for AGN feedback in galaxy groups
+An upper limit on the contribution of accreting white dwarfs to the type Ia supernova rate
+An asymmetric explosion as the origin of spectral evolution diversity in type Ia supernovae
+3D simulations of large-scale mixing in core collapse supernova explosions
+Auswirkungen der neuen solaren Elementhäufigkeiten auf die Analyse von galaktischen Sternhaufen und Binären
+Polarization of X-ray lines from galaxy clusters and elliptical galaxies
+Radiative transfer with scattering for domain-decomposed 3D MHD simulations of cool stellar atmospheres - numerical methods and application to the quiet, non-magnetic, surface of a solar-type star
+The geometry and ionization structure of the wind in the eclipsing nova-like variables RW Tri and UX UMa
+Double-detonation sub-Chandrasekhar supernovae: synthetic observables for minimum helium shell mass models
+Dark matter response to galaxy formation
+Intracluster stars in simulations with active galactic nucleus feedback
+New fast X-ray transient IGR J18462-0223 discovered by the INTEGRAL observatory
+Autocorrelations of stellar light and mass in the low-redshift universe
+Fast Hamiltonian sampling for large-scale structure inference
+Numerical viscosity in hydrodynamics simulations in general relativity
+Polytropic neutron star - black hole merger simulations with a Paczyński-Wiita potential
+The Spitzer survey of stellar structure in galaxies ( S 4 G )
+Revisiting the helium abundance in globular clusters with multiple main sequences
+The metal-poor end of the Spite plateau: gravity sensitivity of the Hα wings fitting
+Dynamical difference between the cD galaxy and the diffuse, stellar component in simulated galaxy clusters
+The degeneracy of galaxy formation models
+Power spectrum extraction for redshifted 21-cm epoch of reionization experiments: the LOFAR case
+Radiative transfer modelling in protoplanetary disks with the P-N approximation and Monte Carlo techniques
+The impact of AGN feedback and baryonic cooling on galaxy clusters as gravitational lenses
+Weighing simulated galaxy clusters using lensing and X-ray
+The growth of dark matter halos: evidence for significant smooth accretion
+The LISA gravitational wave foreground: a study of double white dwarfs
+Cluster galaxies die hard
+Galaxy luminosities, stellar masses, sizes, velocity dispersions as a function of morphological type
+Probing local non-Gaussianities within a Bayesian framework
+VLTI/AMBER spectro-interferometric imaging of VX Sagittarii's inhomogenous outer atmosphere
+The GALEX Arecibo SDSS survey - I. Gas fraction scaling relations of massive galaxies and first data release
+The formation of nebular spectra in core-collapse supernovae
+Radiative transfer in disc galaxies - IV. The effects of dust attenuation on bulge and disc structural parameters
+Photocentric variability of red supergiant stars and consequences on Gaia measurements
+The X-ray AGN bias factor at zero redshift
+Smoothed particle hydrodynamics in astrophysics
+Nucleosynthesis in thermonuclear supernovae with tracers: convergence and variable mass particles
+Relativistic MHD simulations of Alfvén QPOs in magnetars
+Simulations of the magneto-rotational instability in core-collapse supernovae
+Black hole binary mergers within gas discs
+Origin of Hund’s multiplicity rule in quasi-two-dimensional two-electron quantum dots
+The two- and three-point correlation functions of the polarized five-year WMAP sky maps
+The nature of the hyper-runaway candidate Hip 60350
+A puzzle involving galactic bulge microlensing events
+The effective temperature scale: resolving different versions
+Abundance analysis of the halo giant HD 122563 with three-dimensional model stellar atmospheres
+The atomic-to-molecular transition and its relation to the scaling properties of galaxy discs in the local universe
+The lithium history of NGC 6397
+The Arecibo L-band feed array zone of avoidance survey - I. Precursor observations through the inner and outer galaxy
+The surface mass density and structure of the outer disk of NGC 628
+Abundances, masses and weak-lensing mass profiles of galaxy clusters as a function of richness and luminosity in ΛCDM cosmologies
+Elemental abundances in the galactic bulge from microlensed dwarf stars
+Hot gas in clusters, groups and galaxies: from SMBH outbursts to cosmology
+DIORAMAS: a wide-field visible and near-infrared imaging multi-slit spectrograph for the EELT
+Large scale structure of the local universe traced by hard X-ray emitting AGNs
+Probing early dark energy and primordial non-Gaussianity with cosmological simulations
+CRASHα: coupling continuum and line radiative transfer
+Magnetic turbulence in clusters of galaxies
+The Atacama cosmology telescope: physical properties and purity of a galaxy cluster sample selected via the Sunyaev-Zel'dovich effect
+Type IIP supernova 2009kf: Explosion driven by black hole accretion?
+Exploiting HI surveys with stacking - the HI content of massive galaxies from ALFALFA and GASS
+Modeling the diversity of type Ia supernova explosions
+Galactic stellar haloes in the CDM model
+The coronal emission-line region in AGNs: a Hubble Space Telescope view
+Kinematics of the barred spiral galaxy NGC 1291
+Redshift distribution and luminosity function of long gamma-ray bursts from cosmological simulations
+Photometric and clustering properties of hydrodynamical galaxies in a cosmological volume: results at z= 0
+Measuring cosmic magnetic fields by rotation measure-galaxy cross-correlations in cosmological simulations
+The radial distribution of stars of different stellar generations in the globular cluster NGC 3201
+Helium in first and second-generation stars in globular clusters from spectroscopy of red giants
+Substructure lensing: effects of galaxies, globular clusters and satellite streams
+Multidimensional modelling of X-ray spectra for AGN accretion disc outflows - III. Application to a hydrodynamical simulation
+Component separation methods for CMB data
+Hydrogen and helium in the late phase of supernovae of type IIb
+Polarization of X-ray lines from galaxy clusters and elliptical galaxies - a way to measure the tangential component of gas velocity
+Three carbon-enhanced metal-poor dwarf stars from the SDSS: chemical abundances from CO5BOLD 3D hydrodynamical model atmospheres
+The Coma cluster magnetic field from Faraday rotation measures
+Supermassive black hole in an elliptical galaxy: accretion of a hot gas with a low but finite angular momentum
+Modeling of thermonuclear reaction fronts in white dwarfs
+Formation of slowly rotating early-type galaxies via major mergers: a resolution study
+The transition from population III to population II-I star formation
+Stationary, axisymmetric neutron stars with meridional circulation in general relativity
+Galaxy Formation and Evolution
+Solar surface flow simulations at ultra-high resolution
+The impact of IAU educational programs on Peruvian astronomy
+How to identify and separate bright galaxy clusters from the low-frequency radio sky
+Algorithm for the evaluation of reduced Wigner matrices
+Non-spherical core collapse supernovae - III. Evolution towards homology and dependence on the numerical resolution
+A precise asteroseismic age and radius for the evolved sun-like star KIC 11026764
+Progress with the LOFAR imaging pipeline
+Massive dense nuclei in young starbursts: Progenitors of early-type galaxy cusps?
+Imaging simulations of selected science with the Magdalena Ridge Observatory Interferometer
+Near-ultraviolet properties of a large sample of type Ia supernovae as observed with the Swift UVOT
+Tepid supergiants: chemical signatures of stellar evolution and the extent of blue loops
+Improving stellar parameter and abundance determinations of early B-type stars
+HI and star formation properties of massive galaxies: first results from the GALEX Arecibo SDSS Survey
+The relation between gas accretion and resolved star formation in galaxies
+Direct imaging with a hypertelescope of red supergiant stellar surfaces
+The impact of environment on the dynamical structure of satellite systems
+The GALEX Arecibo SDSS Survey - II. The star formation efficiency of massive galaxies
+Ultraviolet-bright stellar populations and their evolutionary implications in the collapsed-core cluster M15
+The VIMOS-VLT deep survey: the group catalogue
+The core helium flash revisited - III. From population I to population III stars
+Planck pre-launch status: the Planck mission
+A new multi-dimensional general relativistic neutrino hydrodynamic code for core-collapse supernovae - I. Method and code tests in spherical symmetry
+The effect of neutrinos on the matter distribution as probed by the intergalactic medium
+Evidence of the accelerated expansion of the universe from weak lensing tomography with COSMOS
+Double-detonation sub-Chandrasekhar supernovae: Can minimum helium shell masses detonate the core?
+An axis-free overset grid in spherical polar coordinates for simulating 3D self-gravitating flows
+The structure of gravitationally unstable gas-rich disk galaxies
+Morphologies of local Lyman break galaxy analogs - II. A comparison with galaxies at z 2-4 in ACS and WFC3 images of the Hubble ultra deep field
+Discriminating strange star mergers from neutron star mergers by gravitational-wave measurements
+Satellites in the field and lens galaxies: SDSS/COSMOS versus SLACS/CLASS
+New insights into the foreground analysis of the WMAP 5-year data using fastica
+Metal transport by gas sloshing in M87
+On using the color-magnitude diagram morphology of M67 to test solar abundances
+Nonlinear matter spectra in coupled quintessence
+The formation and fragmentation of primordial protostellar discs
+The chemical enrichment of the first galaxies
+Spread of matter over a neutron-star surface during disk accretion: deceleration of rapid rotation
+X-ray emission from nearby early-type galaxies and origin of type Ia supernovae
+Long-term monitoring of the dynamics and particle acceleration of knots in the jet of Centaurus A
+WMAP 5-year constraints on α and me
+Broad view on hard X-ray background emission of the galaxy
+Faint core-collapse supernovae with fallback
+Constraints on turbulent pressure in the X-ray halos of giant elliptical galaxies from resonant scattering
+Modeling the subsurface structure of sunspots
+Spectra of type Ia supernovae from double degenerate mergers
+Temperature and polarization studies of the cosmic microwave background
+Precise Li abundances in metal-poor stars: depletion in the Spite plateau
+Spectropolarimetry of extremely luminous type Ia supernova 2009dc: nearly spherical explosion of super-Chandrasekhar mass white dwarf
+Possibility of measuring the amount of intergalactic metals with 14N VII HFS line
+Chemical similarities between the galactic bulge and local thick disk red giant stars: analysis from optical data
+Detonations in Sub-Chandrasekhar-mass C+O white dwarfs
+On the progenitor and early evolution of the type II supernova 2009kr
+Extragalactic gamma-ray background radiation from dark matter annihilation
+The Atacama Cosmology Telescope (ACT): beam profiles and first SZ cluster maps
+Resonant scattering of X-ray emission lines in the hot intergalactic medium
+Calculated cross sections for transport coefficients of H2 dilute in He and HI gas
+On the absolute age of the globular cluster M92
+X-shooter observations of main-sequence stars in the globular cluster NGC 2808: first chemical tagging of a He-normal and a He-rich dwarf
+The small scale angular anisotropy at 148 GHz as seen by the Atacama Cosmology Telescope
+INTEGRAL all-sky survey: deep inside galaxy and beyond
+Multiple major outbursts from a restless luminous blue variable in NGC 3432
+The lithium content of ω Centauri - new clues to the cosmological Li problem from old stars in external galaxies
+Testing approximations of thermal effects in neutron star merger simulations
+Comparison of approximately isothermal gravitational potentials of elliptical galaxies based on X-ray and optical data
+Metal-line emission from the warm-hot intergalactic medium - I. Soft X-rays
+On the evolution of the intrinsic scatter in black hole versus galaxy mass relations

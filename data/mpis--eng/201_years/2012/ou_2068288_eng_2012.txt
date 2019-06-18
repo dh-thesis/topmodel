@@ -1,0 +1,48 @@
+Hydrogen-Bonded Networks Along and Bifurcation of the E-Pathway in Quinol:Fumarate Reductase
+Genetic analysis of MA4079, an aldehyde dehydrogenase homolog, in Methanosarcina acetivorans
+Crystal structure of a ring-cleaving cyclohexane-1,2-dione hydrolase, a novel member of the thiamine diphosphate enzyme family
+A Model-Structure of a Periplasm-facing State of the NhaA Antiporter Suggests the Molecular Underpinnings of pH-induced Conformational Changes.
+The nitrite transport protein NirC from Salmonella typhimurium is a nitrite/proton antiporter
+Stability of Purple Membranes from Halobacterium salinarum toward Surfactants: Inkjet Printing of a Retinal Protein
+Structural Changes in Bacteriorhodopsin Caused by Two-Photon-Induced Photobleaching
+Structure of a methyl-coenzyme M reductase from Black Sea mats that oxidize methane anaerobically
+Practical aspects of Boersch phase contrast electron microscopy of biological specimens
+Isolation, functional characterization and crystallization of Aq_1259, an outer membrane protein with porin features, from Aquifex aeolicus
+Alternating-access mechanism in conformationally asymmetric trimers of the betaine transporter BetP
+Structure of the yeast F1F0-ATP synthase dimer and its role in shaping the mitochondrial cristae
+Heterologous production and characterisation of two distinct dihaem-containing membrane integral cytochrome b561 enzymes from Arabidopsis thaliana in Pichia pastoris and Escherichia coli cells
+Step size of the rotary proton motor in single FoF1-ATP synthase from a thermoalkaliphilic bacterium by DCO-ALEX FRET (Proceedings Paper)
+Kinetics of proton release and uptake by channelrhodopsin-2
+Supramolecular Organization of the Respiratory Chain
+Dissecting a regulatory calcium-binding site of CLC-K kidney chloride channels
+A c Subunit with Four Transmembrane Helices and One Ion (Na+)-binding Site in an Archaeal ATP Synthase
+Chapter One – Amino Acid Secondary Transporters: Toward a Common Transport Mechanism
+In situ opening/closing of OmpG from E. coli and the splitting of β-sheet signals in ATR–FTIR spectroscopy
+Natural variations at position 93 of the invariant Vα24-Jα18 α chain of human iNKT-cell TCRs strongly impact on CD1d binding
+Two-Photon-Induced Selective Decarboxylation of Aspartic Acids D85 and D212 in Bacteriorhodopsin
+Heterologous production and functional and thermodynamic characterization of cation diffusion facilitator (CDF) transporters of mesophilic and hyperthermophilic origin
+Heme-copper terminal oxidase using both cytochrome c and ubiquinol as electron donors
+The Nonsense of Biofuels
+Directed deposition of silicon nanowires using neopentasilane as precursor and gold as catalyst
+Structure of the c10 ring of the yeast mitochondrial ATP synthase in the open conformation
+Active site analysis of yeast flavohemoglobin based on its structure with a small ligand or econazole
+Promiscuous archaeal ATP synthase concurrently coupled to Na+ and H+ translocation
+Structural study on the architecture of the bacterial ATP synthase F0 motor
+Structure and Catalytic Mechanism of N5,N10-Methenyltetrahydromethanopterin Cyclohydrolase
+Nature’s Polyoxometalate Chemistry: X-ray Structure of the Mo Storage Protein Loaded with Discrete Polynuclear Mo−O Clusters
+Engineering rotor ring stoichiometries in the ATP synthase
+Atmospheric Pressure, Temperature-Induced Conversion of Organic Monolayers into Nanocrystalline Graphene
+Structure of the GcpE (IspG)-MEcPP complex from Thermus thermophilus
+Combining Cryo-EM and X-ray Crystallography to Study Membrane Protein Structure and Function
+Net Proton Uptake Is Preceded by Multiple Proton Transfer Steps upon Electron Injection into Cytochrome c Oxidase
+A New Link to Mitochondrial Impairment in Tauopathies
+Promoter architecture of mouse olfactory receptor genes
+Structure of the SecY Complex Unlocked by a Preprotein Mimic
+Investigation of the sodium binding sites in the betaine transporter BetP
+Unusual N-terminal ααβαββα Fold of PilQ from Thermus thermophilus Mediates Ring Formation and Is Essential for Piliation
+The ESFRI Instruct Core Centre Frankfurt: automated high-throughput crystallization suited for membrane proteins and more
+Analysis of 2-D Crystals of Membrane Proteins by Electron Microscopy
+Critical Role of Asp227 in the Photocycle of Proteorhodopsin
+Tuning the Primary Reaction of Channelrhodopsin-2 by Imidazole, pH, and Site-Specific Mutations
+GRecon: A Method for the Lipid Reconstitution of Membrane Proteins
+FlaX, A Unique Component of the Crenarchaeal Archaellum, Forms Oligomeric Ring-shaped Structures and Interacts with the Motor ATPase FlaI

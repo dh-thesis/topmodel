@@ -1,0 +1,88 @@
+A two-component adhesive: Tau fibrils arise from a combination of a well-defined motif and conformationally flexible interactions
+Alcohol-enhanced Cu-mediated radiofluorination
+Neurogenesis upregulation on the healthy hemisphere after stroke enhances compensation for age-dependent decrease of basal neurogenesis
+Tracking Tau in neurons: How to transfect and track exogenous tau into primary neurons
+Validation of MRI determination of the penumbra by PET measurements in ischemic stroke
+MRI mouse brain data of ischemic lesion after transient middle cerebral artery occlusion
+Whole-brain 3D mapping of human neural transplant innervation
+IL-6 regulates M2 polarization and local proliferation of adipose tissue macrophages in obesity
+Interindividual differences in motor network connectivity and behavioral response to iTBS in stroke patients
+Saccades to explicit and virtual features in the Poggendorff figure show perceptual biases
+Positron emission tomography imaging in gliomas: applications in clinical diagnosis, for assessment of prognosis and of treatment effects, and for detection of recurrences
+Mitochondrial biology in cancer stem cells
+A microRNA screen reveals that elevated hepatic ectodysplasin A expression contributes to obesity-induced insulin resistance in skeletal muscle
+RANK rewires energy homeostasis in lung cancer cells and drives primary lung cancer
+A PET-guided framework supports a multiple arterial input functions approach in DSC-MRI in acute stroke
+IL-6 trans-signaling is essential for the development of hepatocellular carcinoma in mice
+7,8-dihydroxyflavone ameliorates cognitive and motor deficits in a Huntington’s disease mouse model through specific activation of the PLCc1 pathway
+Energy imbalance alters Ca2+ handling and excitability of POMC neurons
+The human longevity gene homolog INDY and interleukin-6 interact in hepatic lipid metabolism
+Valence-dependent belief updating: Computational validation
+Large field-of-view movement-compensated intrinsic optical signal imaging for the characterization of the haemodynamic response to spreading depolarizations in large gyrencephalic brains
+IL-6 improves energy and glucose homeostasis in obesity via enhanced central IL-6 trans-signaling
+Roquin paralogs differentially regulate functional NKT cell subsets
+Contribution of neuro-imaging for prediction of functional recovery after ischemic stroke
+Hypothalamic circuits regulating appetite and energy homeostasis: pathways to obesity
+Insulin controls food intake and energy balance via NPY neurons
+Construction of a viral T2A-peptide based knock-in mouse model for enhanced Cre recombinase activity and fluorescent labeling of podocytes
+Basal ganglia and cerebellar interconnectivity within the human thalamus
+Regulatory B10 cells display an altered homoeostasis in acute graft-versus-host disease
+Metformin causes a futile intestinal–hepatic cycle which increases energy expenditure and slows down development of a type 2 diabetes-like state
+What is unrealistic optimism?
+Computational neuroimaging strategies for single patient predictions
+Susceptibility to Ebbinghaus and Muller-Lyer illusions in autistic children: a comparison of three different methods
+Action at its place: Contextual settings enhance action recognition in 4-to 8-year-old children
+White matter lesions and the cholinergic deficit in aging and mild cognitive impairment
+Models of neuromodulation for computational psychiatry
+Metformin prevents metabolic side effects during systemic glucocorticoid treatment
+Copeptin for risk stratification in non-traumatic headache in the emergency setting: a prospective multicenter observational cohort study
+Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: Review and recommendations of the COSBID research group
+Perspectives of in vivo bioluminescence imaging: Application to basic and translational neuroscience
+CD40-activated B cells induce anti-tumor immunity in vivo
+Two mouse models reveal an actionable PARP1 dependence in aggressive chronic lymphocytic leukemia
+Using droplet digital PCR to analyze MYCN and ALK copy number in plasma from patients with neuroblastoma
+Anti-aggregant tau mutant promotes neurogenesis
+Axodendritic sorting and pathological missorting of Tau are isoform-specific and determined by axon initial segment architecture
+Distractor-resistant short-term memory is supported by transient changes in neural stimulus representations
+Inhibition of Tau protein aggregation by rhodanine-based compounds solubilized via specific formulation additives to improve bioavailability and cell viability
+Computational psychosomatics and computational psychiatry: Toward a joint framework for differential diagnosis
+Choose, rate or squeeze: Comparison of economic value functions elicited by different behavioral tasks
+Episodic tags enhance striatal valuation signals during temporal discounting in pathological gamblers
+Tracking Tau in neurons: How to grow, fix, and stain primary neurons for the investigation of Tau in all developmental stages
+The PhysIO toolbox for modeling physiological noise in fMRI data
+Inhibition of P2Y6 signaling in AgRP neurons reduces food intake and improves systemic insulin sensitivity in obesity
+Caenorhabditis elegans models of tauopathy
+Atypical, non-standard functions of the microtubule associated Tau protein
+Time course of Tau toxicity and pharmacologic prevention in a cell model of Tauopathy
+A phase I study of the CDK4/6 inhibitor ribociclib (LEE011) in pediatric patients with malignant rhabdoid tumors, neuroblastoma, and other solid tumors
+Amplification of N-Myc is associated with a T-cell-poor microenvironment in metastatic neuroblastoma restraining interferon pathway activity and chemokine expression
+Analysis and correction of field fluctuations in fMRI data using field monitoring
+The differentiated networks related to essential tremor onset and its amplitude modulation after alcohol intake
+Structural differences in impaired verbal fluency in essential tremor patients compared to healthy controls
+IL-6/Stat3-dependent induction of a distinct, obesity-associated NK cell subpopulation deteriorates energy and glucose homeostasis
+Elevated levels of Bcl-3 inhibits Treg development and function resulting in spontaneous colitis
+Temporal and tissue-specific requirements for T-lymphocyte IL-6 signalling in obesity-associated inflammation and insulin resistance
+Introduction to the Special Issue: Using neuroimaging to probe mechanisms of behavior change
+Radioiodinated indomethacin amide for molecular imaging of cyclooxygenase-2 expressing tumors
+MRI-based mismatch detection in acute ischemic stroke: Optimal PWI maps and thresholds validated with PET
+Safety and efficacy of Cerebrolysin in motor function recovery after stroke: a meta-analysis of the CARS trials
+The sense of smell impacts metabolic health and obesity
+Standard-sampling microdialysis and spreading depolarizations in patients with malignant hemispheric stroke
+What’s she doing in the kitchen? Context helps when actions are hard to recognize
+Multiparametric model for penumbral flow prediction in acute stroke
+Hierarchical prediction errors in midbrain and septum during social learning
+Characterization of tumor-associated T-lymphocyte subsets and immune checkpoint molecules in head and neck squamous cell carcinoma
+Motor impairment and compensation in a hemiparkinsonian rat model: correlation between dopamine depletion severity, cerebral metabolism and gait patterns
+Convenient preparation of 18F-labeled peptide probes for potential claudin-4 PET imaging
+Post-stroke dementia - a comprehensive review
+Automated ischemic lesion segmentation in MRI mouse brain data after transient middle cerebral artery occlusion
+Whole-brain microscopy meets in vivo neuroimaging: techniques, benefits, and limitations
+Trans-presentation of IL-6 by dendritic cells is required for the priming of pathogenic T H 17 cells
+Hypothalamic inflammation in obesity and metabolic disease
+Labeled lines for image blur and contrast
+Neuronal control of peripheral insulin sensitivity and glucose metabolism
+ERCC1-XPF cooperates with CTCF and cohesin to facilitate the developmental silencing of imprinted genes
+Macrophage function in obesity-induced inflammation and insulin resistance
+A hypothalamic phosphatase switch coordinates energy expenditure with feeding
+Antagonistic modulation of NPY/AgRP and POMC neurons in the arcuate nucleus by noradrenalin
+A brain-sparing diphtheria toxin for chemical genetic ablation of peripheral cell lineages

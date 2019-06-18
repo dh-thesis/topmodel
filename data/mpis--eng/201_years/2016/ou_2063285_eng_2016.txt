@@ -1,0 +1,172 @@
+Surface tension regularizes the crack singularity of adhesion
+Current fluctuations in nanopores: The effects of electrostatic and hydrodynamic interactions
+Effective dynamics of microorganisms that interact with their own trail
+Species-dependent hydrodynamics of flagellum-tethered bacteria in early biofilm development
+Multicellular self-organization of P. aeruginosa due to interactions with secreted trails
+Reprint of: Comparison of relaxation phenomena in binary gas-mixtures of Maxwell molecules and hard spheres
+Liquid drops attract or repel by the inverted Cheerios effect
+Active micromachines: Microfluidics powered by mesoscale turbulence
+Reduction in tension and stiffening of lipid membranes in an electric field revealed by x-ray scattering
+Lubrication of soft viscoelastic solids
+Regularized moment equations for binary gas mixtures: Derivation and linear analysis
+The power spectrum of ionic nanopore currents: The role of ion correlations
+Curling liquid crystal microswimmers: A cascade of spontaneous symmetry breaking
+Quantum de Finetti theorems and mean-field theory from quantum phase space representations.
+Upper bound on the Edwards entropy in frictional monodisperse hard-sphere packings
+Quasistatic packings of droplets in flat microfluidic channels
+Collective fluctuations in the dynamics of adaptation and other traveling waves.
+Controlling the growth modes of femtoliter sessile droplets nucleating on chemically patterned surfaces.
+Single-particle motion and vortex stretching in three-dimensional turbulent flows.
+Vacancy-induced flow of solid helium.
+Solid capillarity: When and how does surface tension deform soft solids?
+Slip-mediated dewetting of polymer microdroplets.
+Stochastic Rotation Dynamics simulations of wetting multi-phase flows.
+Low-temperature linear thermal rectifiers based on Coriolis forces.
+How a surface nanodroplet sits on the rim of a microcap.
+Opposing effects of neuronal activity on structural plasticity.
+Two-particle dispersion in weakly turbulent thermal convection.
+Thermalized connectivity networks of jammed packings.
+Collective and convective effects compete in patterns of dissolving surface droplets.
+Extracting hidden hierarchies in 3D distribution networks.
+On the drag of freely falling non-spherical particles.
+Line tension and wettability of nanodrops on curved surfaces.
+Spontaneous concentrations of solids through two-way drag forces between gas and sedimenting particles.
+Kinneyia: A flow-induced anisotropic fossil pattern from ancient microbial mats.
+Response behavior of aging systems with temporal disorder.
+Momentum and heat transport scalings in laminar vertical convection.
+Self-propelled droplets.
+Numerical investigation on characteristic flow regions for three staggered stationary circular cylinders.
+Evaporation-triggered microdroplet nucleation and the four life phases of an evaporating Ouzo drop
+Self-similar decay of high Reynolds number Taylor-Couette turbulence.
+Visible and near-infrared up-conversion luminescence of KGd(WO4)(2) micro-crystals doped with Er3+, Tm3+, Ho3+ and Yb3+ ions.
+Model-free estimation of tuning curves and their attentional modulation, based on sparse and noisy data
+Dynamic information routing in complex networks.
+Growing neuronal islands on multi-electrode arrays using an accurate positioning-μCP device
+A one donor–two acceptor lipid bilayer FRET assay based on asymmetrically labeled liposomes
+Closed loop neuroscience
+Hydrodynamics of driven granular matter: Leidenfrost effect and convection rolls
+Neural and response correlations to complex natural sounds in the auditory midbrain
+A new defibrillation mechanism: Termination of reentrant waves by propagating action potentials induced by nearby heterogeneities
+Crack patterns over uneven substrates.
+Scanning and resetting the phase of a pinned spiral wave using periodic far field pulses.
+Self-driven jamming in growing microbial populations.
+The physics of biofilms—an introduction.
+Connecting and disconnecting nematic disclination lines in microfluidic channels.
+Role of natural convection in the dissolution of sessile droplets.
+Prandtl-number dependence of heat transport in laminar horizontal convection.
+Heat-flux enhancement by vapour-bubble nucleation in Rayleigh-Benard turbulence.
+Taylor-Couette turbulence at radius ratio eta=0.5: Scaling, flow structures and plumes.
+A reanalysis of “Two types of asynchronous activity in networks of excitatory and inhibitory spiking neurons”.
+Dimensionality matters in the collective behaviour of active emulsions.
+Curling liquid crystal microswimmers: A cascade of spontaneous symmetry breaking.
+Structure and dynamics of confined alcohol–water mixtures.
+Swimming droplets.
+Filling transitions on rough surfaces: Inadequacy of Gaussian surface models.
+Critical links and nonlocal rerouting in complex supply networks.
+Directed percolation phase transition to sustained turbulence in Couette flow.
+Optogenetic light crafting tools for the control of cardiac arrhythmias.
+Taming instabilities in power grid networks by decentralized control.
+Rupture and recoil of bent-core liquid crystal filaments.
+A novel model for smectic liquid crystals: Elastic anisotropy and response to a steady-state flow.
+AC electrified jets in a flow-focusing device: Jet length scaling.
+Path length tunable light-matter interaction in magnetic nanofluid based field-induced photonic crystal-glass structure.
+Exploring the phase space of multiple states in highly turbulent Taylor-Couette flow.
+Induction and consolidation of calcium-based homo- and heterosynaptic potentiation and depression.
+3D spherical-cap fitting procedure for (truncated) sessile nano- and micro-droplets & -bubbles.
+Hydrophobic ice confined between graphene and MoS2.
+Avalanche dynamics.
+Morphological transitions during melting of small cylindrical aggregates
+Light-matter interaction induces a shadow vortex.
+The flip-flopping wake pattern behind two side-by-side circular cylinders: a global stability analysis.
+Declustering in a granular gas as a finite-size effect.
+Quantifying group specificity of animal vocalizations without specific sender information.
+Influence of dc voltage on the dielectric properties of nematics.
+Promotion of cooperation by selective group extinction.
+Allele surfing promotes microbial adaptation from standing variation.
+Energy spectra in turbulent bubbly flows.
+Controlling molecular transport in minimal emulsions.
+Growing neuronal islands on multi-electrode arrays using an accurate positioning-mu CP device.
+Non-equilibrium steady states of stochastic processes with intermittent resetting.
+Vapour-bubble nucleation and dynamics in turbulent Rayleigh-Benard convection.
+Discrete scale invariance in supercritical percolation.
+Cell-substrate impedance fluctuations of single amoeboid cells encode cell-shape and cell-substrate adhesion dynamics.
+Azimuthal diffusion of the large-scale-circulation plane, and absence of significant non-Boussinesq effects, in turbulent convection near the ultimate-state transition.
+A three-dimensional quantitative study on the hydrodynamic focusing of particles with the immersed boundary - Lattice Boltzmann method.
+Lagrangian view of time irreversibility of fluid turbulence.
+Bifurcations, chaos, and sensitivity to parameter variations in the Sato cardiac cell model.
+Synchronizing noisy nonidentical oscillators by transient uncoupling.
+Quantum entanglement percolation.
+On the spreading of impacting drops.
+Scaling laws in spatial network formation.
+Conductive heat flux in measurements of the Nusselt number in turbulent Rayleigh-Bénard convection.
+Wettability controls slow immiscible displacement through local interfacial instabilities.
+Stability of surface nanobubbles: A molecular dynamics study.
+Non-Gaussianity and intermittency in an ensemble of Gaussian fields.
+Flow-induced deformation of closed disclination lines near a spherical colloid immersed in a nematic host phase.
+Anisotropy and probe-medium interactions in the microrheology of nematic fluids.
+Genuine non-self-averaging and ultraslow convergence in gelation.
+Natural vocalizations in the mammalian inferior colliculus are broadly encoded by a small number of independent multi-unit clusters
+Note: Reconstruction of fluid flows in porous media using geometric a priori information.
+Low somatic sodium conductance enhances action potential precision in time-coding auditory neurons.
+Experiments for the investigation of convection of salt water in porous media
+Deformation and orientation statistics of neutrally buoyant sub-Kolmogorov ellipsoidal droplets in turbulent Taylor-Couette flow.
+The developmental polarity and morphogenesis of a single cell
+Cilia-based flow network in the brain ventricles
+Role of sarcoplasmic reticulum calcium leak in heart failure
+A worldwide competition to compare the speed and chemotactic accuracy of neutrophil-like cells.
+Liquid morphologies and capillary forces between three spherical beads.
+A nonlinear structural subgrid-scale closure for compressible MHD. I. Derivation and energy dissipation properties.
+Pruning to increase Taylor dispersion in Physarum polycephalum networks.
+Peculiarities of the magneto-optical response in dispersions of anisometric pigment nano-particles.
+Interface propagation in fiber bundles: Local, mean-field and intermediate range-dependent statistics.
+A cohesive granular material with tunable elasticity.
+Estimability and dependency analysis of model parameters based on delay coordinates.
+Homogeneous nucleation: Patching the way from the macroscopic to the nanoscopic description.
+Random focusing of tsunami waves.
+Upper bound on the Edwards entropy in frictional monodisperse hard-sphere packings.
+Direct numerical simulation of Taylor-Couette flow with grooved walls: Torque scaling and flow structure.
+Spatio-temporal patterns in inclined layer convection.
+A universal scaling law for the evolution of granular gases.
+Spontaneous chiral symmetry breaking in collective active motion.
+Dynamical phase diagram of Gaussian wave packets in optical lattices.
+Natural vocalizations in the mammalian inferior colliculus are broadly encoded by a small number of independent multi-units.
+Heat-transport enhancement in rotating turbulent Rayleigh-Benard convection.
+Thermal convection in inclined cylindrical containers.
+Hiding in plain view: Colloidal self-assembly from polydisperse populations.
+Estimating Lyapunov exponents from time series.
+Effect of disjoining pressure on surface nanobubbles.
+Atomic force microscopy on liquid crystals.
+Taming instabilities in power grid networks by decentralized control
+From convection rolls to finger convection in double-diffusive turbulence.
+High-Reynolds number Taylor-Couette turbulence.
+How do polydisperse repulsive colloids crystallize?
+Vesicles-on-a-chip: A universal microfluidic platform for the assembly of liposomes and polymersomes.
+A nonlinear structural subgrid-scale closure for compressible MHD. II. A priori comparison on turbulence simulation data.
+Self-consistent sources for integrable equations via deformations of binary Darboux transformations.
+Microbubbles and microparticles are not faithful tracers of turbulent acceleration.
+Impact of a high-speed train of microdrops on a liquid pool.
+Small-scale anisotropy in turbulent boundary layers.
+Turbulent Taylor-Couette flow with stationary inner cylinder.
+The minimization of mechanical work in vibrated granular matter.
+Topology of sustainable management of dynamical systems with desirable states: From defining planetary boundaries to safe operating spaces in the earth system.
+Drag reduction in numerical two-phase Taylor-Couette turbulence using an Euler-Lagrange approach.
+Heat and momentum transport scalings in horizontal convection.
+High refractive index immersion liquid for superresolution 3D imaging using sapphire-based aplanatic numerical aperture increasing lens optics.
+Suppression of spatially periodic patterns by dc voltage.
+Dynamic Leidenfrost effect: Relevant time and length scales.
+Microswimmers – From single particle motion to collective behavior.
+Leaf growth is conformal.
+Noisy oscillations in the actin cytoskeleton of chemotactic amoeba.
+Surface dynamics of the wetting layers and ultrathin films on a dynamic substrate: (0.5−4) ML Pb/Cu(111).
+Resilience of PT symmetry against stochasticity in a gain-loss balanced oscillator.
+Interaction control to synchronize non-synchronizable networks.
+An accurate potential model for the a3Σu+ state of the alkali dimers Na2, K2, Rb2, and Cs2.
+Timing and nature of volcanic particle clusters based on field and numerical investigations.
+Bubble drag reduction requires large bubbles.
+Surfactant adsorption kinetics in microfluidics.
+Vertically bounded double diffusive convection in the finger regime: Comparing no-slip versus free-slip boundary conditions.
+Volume entrained in the wake of a disk intruding into an oil-water interface.
+Bayesian filtering of surface EMG for accurate simultaneous and proportional prosthetic control.
+Natural vocalizations in the mammalian inferior colliculus are broadly encoded by a small number of independent multi-unit clusters.
+Coarse-grained treatment of the self-assembly of colloids suspended in a nematic host phase.
+Encoding in balanced networks: Revisiting spike patterns and chaos in stimulus-driven systems.

@@ -1,0 +1,161 @@
+Photon shuttle: Landau-Zener-Stuckelberg dynamics in an optomechanical system
+Nanofocusing radially-polarized beams for high-throughput funneling of optical energy to the near field
+Optical lattices with micromechanical mirrors
+Resonant quantum gates in circuit quantum electrodynamics
+Testing Ultrafast Two-Photon Spectral Amplitudes via Optical Fibres
+Efficient coupling of single photons to single plasmons
+Introduction to quantum noise, measurement, and amplification
+Optomechanical approach to cooling of small polarizable particles in a strongly pumped ring cavity
+Biaxial Strain in Graphene Adhered to Shallow Depressions
+Fluorescence Enhancement with the Optical (Bi-) Conical Antenna
+Geometry-induced electrostatic trapping of nanometric objects in a fluid
+Spontaneous emission of a nanoscopic emitter in a strongly scattering disordered medium
+Single-atom cavity QED and optomicromechanics
+ac conductance through an interacting quantum dot
+Nonequilibrium Quantum Dynamics in Optomechanical Systems
+Optomechanics with multiple optical and vibrational modes
+A scanning microcavity for in situ control of single-molecule emission
+Quantum Interference of Tunably Indistinguishable Photons from Remote Organic Molecules
+Single-Molecule Sensitivity in Optical Absorption at Room Temperature
+Coherent nonlinear single-molecule microscopy
+Electron-plasmon scattering in chiral one-dimensional systems with nonlinear dispersion
+Examples of Quantum Dynamics in Optomechanical Systems
+Optimal control of circuit quantum electrodynamics in one and two dimensions
+Near-infrared single-photons from aligned molecules in ultrathin crystalline films at room temperature
+Improvements of the MPG-2 transportable absolute ballistic gravimeter
+Instabilities and solitons in nonlinear excitonic waveguides
+How orbital angular momentum affects beam shifts in optical reflection
+Phase-preserving Multilevel Amplitude Regeneration Using Modified Nonlinear Amplifying Loop Mirrors
+Quantum key distribution with multi letter alphabets
+Bio-sensing using recessed gold-filled capillary amperometric electrodes
+Teleportation is necessary for faithful quantum state transfer through noisy channels of maximal rank
+High index-contrast all-solid photonic crystal fibers by pressure-assisted melt infiltration of silica matrices
+Continuous-variable entanglement distillation of non-Gaussian mixed states
+Measurement of group-velocity dispersion of Bloch modes in photonic-crystal-fiber rocking filters
+Stress and doping uniformity of laser crystallized amorphous silicon in thin film silicon solar cells
+Dispersion of photonic Bloch modes in periodically twisted birefringent media
+Quantum Electrodynamics of One-Photon Wave Packets
+Polarization sensitive lateral photoconductivity in GaAs/AlGaAs quantum well based structures on low-temperature grown GaAs(001)
+Catalytic and chaperone-like functions in an intrinsically disordered protein associated with desiccation tolerance
+Quantum-optical state engineering up to the two-photon level
+Universal linear Bogoliubov transformations through one-way quantum computation
+In-Fiber Unidirectional Variable-Optical-Attenuator Controlled by Light
+Theory of Raman multipeak states in solid-core photonic crystal fibers
+Nonlinear Phase-Shift Compensation by a Nonlinear Amplifying Loop Mirror
+Accessing the purity of a single photon by the width of the Hong-Ou-Mandel interference
+Quantum Measurement of Phonon Shot Noise
+Probing the Negative Wigner Function of a Pulsed Single Photon Point by Point
+On the experimental investigation of the electric and magnetic response of a single nano-structure
+Optical Properties of Individual Silicon Nanowires for Photonic Devices
+Bistability, multistability and non-reciprocal light propagation in Thue-Morse multilayered structures
+Direct Observation of Self-Similarity in Evolution of Transient Stimulated Raman Scattering in Gas-Filled Photonic Crystal Fibers
+Thermal blinding of gated detectors in quantum cryptography
+Complex source beam: A tool to describe highly focused vector beams analytically
+Interacting waves on chains of split-ring resonators in the presence of retardation
+Comment on 'Evaluation of the local value of the Earth gravity field in the context of the new definition of the kilogram'
+Coherent state quantum key distribution with multi letter phase-shift keying
+Extraordinary transmission through a single coaxial aperture in a thin metal film
+Discrimination of binary coherent states using a homodyne detector and a photon number resolving detector
+Transverse angular momentum of photons
+The quantum vacuum at the foundations of classical electrodynamics
+Comparison of three digital fringe signal processing methods in a ballistic free-fall absolute gravimeter
+Solitons in curved space of constant curvature
+Tuning the structural properties of femtosecond-laser-induced nanogratings
+Free-Space Squeezing Assists Perfectly Matched Layers in Simulations on a Tight Domain
+Assessing the Polarization of a Quantum Field from Stokes Fluctuations
+Silver Coated Platinum Core-Shell Nanostructures on Etched Si Nanowires: Atomic Layer Deposition (ALD) Processing and Application in SERS
+Demonstration of a quasi-scalar angular Goos-Hanchen effect
+Sound, Light and Particles in Photonic Crystal Fibres
+Roughness of silicon nanowire sidewalls and room temperature photoluminescence
+Effect of fabrication errors on the diffraction pattern produced by sawtooth gratings
+Environment-assisted quantum-information correction for continuous variables
+Influence of Rayleigh Backscattering on the Performance of NOLM-Based Phase-Preserving Amplitude Limiters
+Witnessing effective entanglement over 2km of optical fiber
+Prospect for detecting squeezed states of light created by a single atom in free space
+Naturally Phase Matched Second Harmonic Generation in a Whispering Gallery Mode Resonator
+Hacking commercial quantum cryptography systems by tailored bright illumination
+Sub-Hertz frequency stabilization of a commercial diode laser
+Spatiotemporal evolution of femtosecond laser pulses guided in air-clad fused-silica nanoweb
+Atmospheric channel characteristics for quantum communication with continuous polarization variables
+Demonstration of Coherent-State Discrimination Using a Displacement-Controlled Photon-Number-Resolving Detector
+Auto-Stabilization of Ring Lasers based on Whispering Gallery Mode Resonators
+Nanobore PCF Maintaining Cylindrically Polarized Modes
+Phase-shifting point-diffraction interferometry with common-path and in-line configuration for microscopy
+A generator for unique quantum random numbers based on vacuum states
+Quantum optical coherence can survive photon losses using a continuous-variable quantum erasure-correcting code
+Precise balancing of viscous and radiation forces on a particle in liquid-filled photonic-bandgap fiber (vol 34, pg 3674, 2009)
+Quantum benchmarks for the storage or transmission of quantum light from minimal resources
+Displacement Controlled Photon Number Resolving Detector for Coherent State Discrimination
+4% Conversion of Sub-mu J Near-IR Pulses to Deep UV in Fundamental Mode of Ar-filled PCF
+Improvement of NOLM-Based Phase-Preserving Amplitude Limiters by Fiber Optimizations
+Raman Amplifiers without Quantum-Defect Heating
+Widely tunable optical delay generator
+Extraordinary Low Transmission of a Metamaterial for Application in Lithography
+Plasmon Resonances on Gold Nanowires Directly Drawn in Step-Index Fiber
+A Blind Spot in Confocal Reflection Microscopy: The Dependence of Fiber Brightness on Fiber Orientation in Imaging Biopolymer Networks
+Witnessing effective entanglement over a 2km fiber channel
+Entanglement properties of optical coherent states under amplitude damping
+Direct Observation of Spatial Modes in Waveguided Parametric Downconversion
+Nonlinear Phase Noise Compensation Using a Modified Nonlinear Optical Loop Mirror
+Low-Threshold Optical Parametric Oscillations in a Whispering Gallery Mode Resonator
+Two-color bright squeezed vacuum
+Highly Noninstantaneous Solitons in Liquid-Core Photonic Crystal Fibers
+Measurement of nonlinear rheology of cross-linked biopolymer gels
+Generation of ultrashort pulses via self-pulsations in coupled nonlinear microcavities
+Avoiding the blinding attack in QKD reply
+Influence of Surface Tension and Inner Pressure on the Process of Fibre Drawing
+Electron Microscopy Mechanical Testing of Silicon Nanowires Using Electrostatically Actuated Tensile Stages
+Discrimination of optical coherent states using a photon number resolving detector
+Microstructure and lattice bending in polycrystalline laser-crystallized silicon thin films for photovoltaic applications
+First Experience with the Transportable MPG-2 Absolute Gravimeter
+Concentration of Phase-Information
+Experimental demonstration of squeezed-state quantum averaging
+Phase-Coherent Frequency Comparison of Optical Clocks Using a Telecommunication Fiber Link
+Angular momenta and spin-orbit interaction of nonparaxial light in free space
+Realization of Vertical and Zigzag Single Crystalline Silicon Nanowire Architectures
+Pressure-controlled phase matching to third harmonic in Ar-filled hollow-core photonic crystal fiber
+Passive decoy-state quantum key distribution with practical light sources
+Bridging visible and telecom wavelengths with a single-mode broadband photon pair source
+Efficient III-V tunneling diodes with ErAs recombination centers
+Optics in Curved Space
+Forward Stimulated Inter-polarization Scattering by Torsional-radial Acoustic Resonances in PCF Core
+THz Pulse Train Generation in Small Core PCF
+Flexible beam shaping system using fly's eye condenser
+Approaching the full octave: Noncollinear optical parametric chirped pulse amplification with two-color pumping
+Naturally Phase-Matched Second-Harmonic Generation in a Whispering-Gallery-Mode Resonator
+Photons Walking the Line: A Quantum Walk with Adjustable Coin Operations
+Broadband NIR photoluminescence from Bi-doped Ba2P2O7 crystals: Insights into the nature of NIR-emitting Bismuth centers
+Photochemistry in Photonic Crystal Fiber Nanoreactors
+Following interfacial kinetics in real time using broadband evanescent wave cavity-enhanced absorption spectroscopy: a comparison of light-emitting diodes and supercontinuum sources
+Ordered arrays of epitaxial silicon nanowires produced by nanosphere lithography and chemical vapor deposition
+All-Optical Control of Gigahertz Acoustic Resonances by Forward Stimulated Interpolarization Scattering in a Photonic Crystal Fiber
+On the Analogy between a Single Atom and an Optical Resonator
+Emergence of Geometrical Optical Nonlinearities in Photonic Crystal Fiber Nanowires
+Direct measurement of micromotion speed in a linear quadrupole trap
+Near-unit-fidelity entanglement distribution scheme using Gaussian communication
+Multiple hydrodynamical shocks induced by the Raman effect in photonic crystal fibers
+Robustness of bipartite Gaussian entangled beams propagating in lossy channels
+Understanding Raman-shifting multipeak states in photonic crystal fibers: two convergent approaches
+Continuous-variable quantum information processing
+Noise-powered probabilistic concentration of phase information
+The Phenomenology of Ion Implantation-Induced Blistering and Thin-Layer Splitting in Compound Semiconductors
+Imaging Pharmaceutical Tablets with Optical Coherence Tomography
+Plasmon resonances on gold nanowires directly drawn in a step-index fiber
+Entanglement of mechanical oscillators coupled to a nonequilibrium environment
+Scaling and complex avalanche dynamics in the Abelian sandpile model
+A novel method for polarization squeezing with Photonic Crystal Fibers
+Ultraviolet-enhanced supercontinuum generation in tapered photonic crystal fiber
+A bridge between the single-photon and squeezed-vacuum states
+A note on quantum error correction with continuous variables
+Bistability and stationary gap solitons in quasiperiodic photonic crystals based on Thue-Morse sequence
+EXCITON-POLARITONS IN BRAGG GRATINGS
+Continuous wave Terahertz emitter arrays for spectroscopy and imaging applications
+Optimized generation of heralded Fock states using parametric down-conversion
+Distillation of mixed-state continuous-variable entanglement by photon subtraction
+Nonlinear Phase-Shift Compensation for DQPSK Signals Using a Nonlinear Amplifying Loop Mirror
+Recent applications of photonic crystal fibres
+CaF2 whispering-gallery-mode-resonator stabilized-narrow-linewidth laser
+Accessing Higher Order Correlations in Quantum Optical States by Time Multiplexing
+Entanglement verification with realistic measurement devices via squashing operations
+Multi-pass Shack-Hartmann planeness test: monitoring thermal stress
+Demonstration of cluster-state shaping and quantum erasure for continuous variables

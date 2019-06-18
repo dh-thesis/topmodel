@@ -1,0 +1,211 @@
+Field synopsis of genetic association studies in Schizophrenia
+Metagenome and mRNA expression analyses of anaerobic methanotrophic archaea of the ANME-1 group
+Next-generation sequencing technologies for DNA methylation analyses in cancer genomics
+Augmentation index and the evolution of aortic disease in marfan-like syndromes.
+Cultivation-independent characterization of ‘Candidatus Magnetobacterium bavaricum’ via ultrastructural, geochemical, ecological and metagenomic methods
+Rap1-independent telomere attachment and bouqet formation in mammalian meiosis.
+Modulation of mitochondrial biogenesis and bioenergetic metabolism upon in vitro and in vivo differentiation of human ES and iPS cells.
+Different phylogenomic approaches to resolve the evolutionary relationships among model fish species
+The pursuit of susceptibility genes for Alzheimer's disease: progress and prospects.
+Phylogenetic diversity and metagenomics of candidate division OP3
+An Expressed Sequence Tag Analysis of the Intertidal Brown Seaweeds Fucus serratus (L.) and F. vesiculosus (L.) (Heterokontophyta, Phaeophyceae) in Response to Abiotic Stressors
+Proteomic analysis of sea urchin (Strongylocentrotus purpuratus) spicule matrix.
+Subtelomeric 6p monosomy and 12q trisomy in a patient with a 46,XX,der(6)t(6;12)(p25.3;q24.31) karyotype: Phenotypic overlap with Mutchinick syndrome.
+A calibrated diversity assay for nucleic acid libraries using DiStRO-a Diversity Standard of Random Oligonucleotides
+alpha-Helical nascent polypeptide chains visualized within distinct regions of the ribosomal exit tunnel
+Histone modification levels are predictive for gene expression
+Mutations in the small GTPase gene RAB39B are responsible for X-linked mental retardation associated with autism, epilepsy, and macrocephaly.
+Recurrent deletion of ZNF630 at Xp11.23 is not associated with mental retardation.
+The difference between rare and exceptionally rare: molecular characterization of ribose 5-phosphate isomerase deficiency.
+Altered Histone Acetylation Is Associated with Age-Dependent Memory Impairment in Mice.
+Semi-automated Magnetic Bead-Based Antibody Selection from Phage Display Libraries
+Alzheimer's Disease Neuroimaging Initiative biomarkers as quantitative phenotypes: Genetics core aims, progress, and plans.
+The human phenotype ontology.
+Novel mutations in Indian patients with autosomal recessive infantile malignant osteopetrosis.
+The genome of a songbird.
+Quantifying the effect of sequence variation on regulatory interactions
+A map of human genome variation from population-scale sequencing
+MACS syndrome: A combined collagen and elastin disorder due to abnormal Golgi trafficking.
+Identification of Y-box binding protein 1 as a core regulator of MEK/ERK pathway dependent gene signatures in colorectal cancer cells.
+Molecular signatures and new candidates to target the pathogenesis of rheumatoid arthritis.
+Functional analysis and identification of cis-regulatory elements of human chromosome 21 gene promoters
+Skin and brain age together: The role of hormones in the ageing process.
+Integrative analysis of genomic, functional and protein interaction data predicts long-range enhancer-target gene interactions.
+Genetic variants in PSEN2 and correlation to CSF beta-amyloid42 levels in AD.
+Synopsis of preterm birth genetic association studies : the preterm birth genetics knowledge base (PTBGene)
+The COPD genetic association compendium : a comprehensive online database of COPD genetic associations
+CYNTENATOR : progressive gene order alignment of 17 vertebrate genomes
+Microindel detection in short-read sequence data
+Diet-induced gene expression of isolated pancreatic islets from a polygenic mouse model of the metabolic syndrome
+CDKL5 truncation due to a t(X;2)(p22.1;p25.3) in a girl with X-linked infantile spasm syndrome
+Impairment of Sox9 expression in limb buds of rats homozygous for hypodactyly mutation.
+Deep sequencing-based discovery of the Chlamydia trachomatis transcriptome
+Inferring evolutionary scenarios for protein domain compositions
+Cloning, tissue expression analysis, and functional characterization of two Δ6-desaturase variants of sea bass (Dicentrarchus labrax L.)
+Monozygotic twins with neurofibromatosis type 1 (NF1) display differences in methylation of NF1 gene promoter elements, 5' untranslated region, exon and intron 1.
+Receptor tyrosine kinase-like orphan receptor 2 (ROR2) and Indian hedgehog regulate digit outgrowth mediated by the phalanx-forming region
+Gill transcriptome response to changes in environmental calcium in the green spotted puffer fish
+Marfan syndrome and the evolving spectrum of heritable thoracic aortic disease: do we need genetics for clinical decisions?
+BISMA--fast and accurate bisulfite sequencing data analysis of individual clones from unique and repetitive sequences
+CD93/AA4.1 : a novel regulator of inflammation in murine focal cerebral ischemia
+High-throughput identification of genetic markers using representational oligonucleotide microarray analysis.
+Real-time xCELLigence impedance analysis of the cytotoxicity of dental composite components on human gingival fibroblasts.
+Breakpoint analysis of balanced chromosome rearrangements by next-generation paired-end sequencing
+Spinal cord atrophy in triple A syndrome associated with a novel compound heterozygous mutation.
+Plasticity of animal genome architecture unmasked by rapid evolution of a pelagic tunicate
+The genome maintenance and transcriptional regulation mechanisms of human high risk papillomaviruses as target points for antiviral treatment and cervical cancer prevention.
+A distinctive gene expression fingerprint in mentally retarded male patients reflects disease-causing defects in the histone demethylase KDM5C
+Heritable sclerosing bone disorders: presentation and new molecular mechanisms.
+Three novel mutations in the ANK membrane protein cause craniometaphyseal dysplasia with variable conductive hearing loss.
+A blueprint of ectoine metabolism from the genome of the industrial producer Halomonas elongata DSM 2581(T).
+The 2nd Berlin BedRest Study: protocol and implementation
+Next generation sequencing in a family with autosomal recessive Kahrizi syndrome (OMIM 612713) reveals a homozygous frameshift mutation in SRD5A3.
+Functional genomics, proteomics, and regulatory DNA analysis in isogenic settings using zinc finger nuclease-driven transgenesis into a safe harbor locus in the human genome
+Mesomelic dysplasia Kantaputra type is associated with duplications of the HOXD locus on chromosome 2q.
+Deletion and point mutations of PTHLH cause brachydactyly type E.
+Hyperphosphatasia with mental retardation, brachytelephalangy, and a distinct facial gestalt: Delineation of a recognizable syndrome.
+Bicoid: Morphogen function revisited
+Governing cell lineage formation in cloned mouse embryos
+Minimum information about a protein affinity reagent (MIAPAR)
+Lysosomal pathology and osteopetrosis upon loss of H+-driven lysosomal Cl- accumulation.
+Prediction of alternative isoforms from exon expression levels in RNA-Seq experiments
+A data integration approach to mapping OCT4 gene regulatory networks operative in embryonic stem cells and embryonal carcinoma cells
+Identity-by-descent filtering of exome sequence data identifies PIGV mutations in hyperphosphatasia mental retardation syndrome.
+11q14.1-11q22.1 deletion in a 1-year-old male with minor dysmorphic features.
+Analysis of relative gene dosage and expression differences of the paralogs RABL2A and RABL2B by Pyrosequencing.
+Centrosomes : methods for preparation
+Deletions of the RUNX2 gene are present in about 10% of individuals with cleidocranial dysplasia
+Mutations causing Greenberg dysplasia but not Pelger anomaly uncouple enzymatic from structural functions of a nuclear membrane protein.
+A novel homozygous Arg222Trp missense mutation in WNT7A in two sisters with severe Al-Awadi/Raas-Rothschild/Schinzel phocomelia syndrome.
+Mutations in GRIN2A and GRIN2B encoding regulatory subunits of NMDA receptors cause variable neurodevelopmental phenotypes.
+A Cyclic AMP Analog, 8-Br-cAMP, Enhances the Induction of Pluripotency in Human Fibroblast Cells
+Localization of eukaryote-specific ribosomal proteins in a 5.5-A cryo-EM map of the 80S eukaryotic ribosome
+Structural basis for translational stalling by human cytomegalovirus and fungal arginine attenuator peptide
+A genome-wide association study identifies GLT6D1 as a susceptibility locus for periodontitis
+Single gene disorders come into focus – again. Dialogues.
+Lipids from Lipomyces starkeyi.
+Emerging role of Alzheimer's disease-associated ubiquilin-1 in protein aggregation
+CALHM1 P86L polymorphism does not alter amyloid-beta or tau in cerebrospinal fluid
+The application of massively parallel sequencing technologies in diagnostics
+Identification of a DMBT1 polymorphism associated with increased breast cancer risk and decreased promoter activity.
+Chromosome aberrations involving 10q22: report of three overlapping interstitial deletions and a balanced translocation disrupting C10orf11.
+Analysis of a normalised expressed sequence tag (EST) library from a key pollinator, the bumblebee Bombus terrestris
+Parallel evolution of nacre building gene sets in molluscs
+Genome comparison of the epiphytic bacteria Erwinia billingiae and E. tasmaniensis with the pear pathogen E. pyrifoliae
+Multi-transcript expression patterns in the gastrolith disk and the hypodermis of the crayfish Cherax quadricarinatus at premolt
+The primary transcriptome of the major human pathogen Helicobacter pylori
+Context-dependent annotation of protein domains
+Positioning of necrotic lobular intraepithelial neoplasias (LIN, grade3) within the sequence of breast carcinoma progression.
+Screening chromosomal aberrations by array comparative genomic hybridization in 80 patients with congenital hypothyroidism and thyroid dysgenesis.
+Negative regulation of Wnt signaling mediated by CK1-phosphorylated Dishevelled via Ror2.
+Tumor necrosis factor receptor superfamily member 19 (TNFRSF19) regulates differentiation fate of human mesenchymal (stromal) stem cells through canonical Wnt signalling and C/EBP
+Membrane attack complex inhibitor CD59a protects against focal cerebral ischemia in mice
+MethVisual - visualization and exploratory statistical analysis of DNA methylation profiles from bisulfite sequencing
+A streamlined protocol for emulsion polymerase chain reaction and subsequent purification.
+Novel missense mutations in the ubiquitination-related gene UBE2A cause a recognizable X-linked mental retardation syndrome.
+Alternative Splicing and Extensive RNA Editing of Human TPH2 Transcripts.
+Coupled chaperone action in folding and assembly of hexadecameric Rubisco.
+MicroRazerS: rapid alignment of small RNA reads
+The caspase recruitment domain-containing protein 8 (CARD8) negatively regulates NOD2-mediated signaling.
+Establishment of a mouse model with misregulated chromosome condensation due to defective Mcph1 function.
+Alzheimer disease : new light on an old CLU
+Dicer is required for Sertoli cell function and survival
+Whole-exome sequencing for finding de novo mutations in sporadic mental retardation
+Brachydactyly type A1 with short humerus and associated skeletal features.
+V-gene amplification revisited - An optimised procedure for amplification of rearranged human antibody genes of different isotypes.
+Studying the evolution of promoter sequences : a waiting time problem
+High-throughput Universal Probe Salmonella Serotyping (UPSS) by nanoPCR.
+TransFind--predicting transcriptional regulators for gene sets
+Obesity and the brain: a possible genetic link
+The genetics of Alzheimer disease : back to the future
+Mechanism of eIF6-mediated inhibition of ribosomal subunit joining
+Translocation and Deletion around SOX9 in a Patient with Acampomelic Campomelic Dysplasia and Sex Reversal.
+Frequency of sleep apnea in adults with the Marfan syndrome.
+Erratum to: Mutation screening in 86 known X-linked mental retardation genes by droplet-based multiplex PCR and massive parallel sequencing.
+Expression patterns of sulfatase genes in the developing mouse embryo.
+Cryo-EM structure and rRNA model of a translating eukaryotic 80S ribosome at 5.5-A resolution
+Autosomal recessive mental retardation: homozygosity mapping identifies 27 single linkage intervals, at least 14 nvel loci and several mutation hotspots
+Identification of FOXP1 deletions in three unrelated patients with mental retardation and significant speech and language deficits
+Evidence mining and novelty assessment of protein-protein interactions with the ConsensusPathDB plugin for Cytoscape.
+The LARGE principle of cellular reprogramming: lost, acquired and retained gene expression in foreskin and amniotic fluid-derived human iPS cells.
+Diversity of human copy number variation and multicopy genes.
+The KRAB-containing zinc-finger transcriptional regulator ZBRK1 activates SCA2 gene transcription through direct interaction with its gene product ataxin-2.
+Somatic mutation profiles of MSI and MSS colorectal cancer identified by whole exome next generation sequencing and bioinformatics analysis
+A new dominant peroxiredoxin allele identified by whole-genome re-sequencing of random mutagenized yeast causes oxidant-resistance and premature aging.
+Chromatin methylation activity of Dnmt3a and Dnmt3a/3L is guided by interaction of the ADD domain with the histone H3 tail.
+Genetic and diet effects on Ppar-α and Ppar-γ signaling pathways in the Berlin Fat Mouse Inbred line with genetic predisposition for obesity
+FISH as a tool to investigate chromosome behaviour in budding yeast.
+Meta-Analysis approach for the identification of molecular networks related to infections of the oral cavity
+Gene amplification as double minutes or homogeneously staining regions in solid tumors: Origin and structure
+Development of an oligo DNA microarray for the European sea bass and its application to expression profiling of jaw deformity
+Studies of accuracy during protein synthesis involving the E-tRNA and the Shine-Dalgarno interaction
+SOAP/WSDL-Based Web Services for Biomedicine: Demonstrating the Technique with the CancerResource.
+Genomic Analysis of miRNAs in an Extreme Mammalian Hibernator, the Arctic Ground Squirrel.
+Clinical variability and novel mutations in the NHEJ1 gene in patients with a Nijmegen breakage syndrome-like phenotype.
+Familiality and molecular genetics of attention networks in ADHD
+Quantitative analysis of TGFBR2 mutations in Marfan-syndrome-related disorders suggests a correlation between phenotypic severity and Smad signaling activity.
+An inducible RNA interference system for the functional dissection of mouse embryogenesis.
+The senescence-related mitochondrial/oxidative stress pathway is repressed in human induced pluripotent stem cells.
+International network of cancer genome projects
+Comparative Analysis of Transposable Element Vector Systems in Human Cells.
+Mutations in PVRL4, encoding cell adhesion molecule nectin-4, cause ectodermal dysplasia-syndactyly syndrome
+A Flexible Multiwell Format for Immunofluorescence Screening Microscopy of Small-Molecule Inhibitors.
+Brachyphalangy, polydactyly and tibial aplasia/hypoplasia syndrome (OMIM 609945): case report and review of the literature.
+Targetfinder.org: a resource for systematic discovery of transcription factor target genes
+Strand-specific deep sequencing of the transcriptome.
+GOing Bayesian: model-based gene set analysis of genome-scale data.
+Homeobox genes d11-d13 and a13 control mouse autopod cortical bone and joint formation.
+Cancer stem cells in solid tumors: elusive or illusive?
+Deciphering the porcine intestinal microRNA transcriptome.
+Severe developmental bone phenotype in ClC-7 deficient mice.
+Aging in mouse brain is a cell/tissue-level phenomenon exacerbated by proteasome loss
+Genome-wide copy number variation analysis in attention-deficit/hyperactivity disorder: association with neuropeptide Y gene dosage in an extended pedigree1
+Microindel detection in short-read sequence data.
+Marfan syndrome with neonatal progeroid syndrome-like lipodystrophy associated with a novel frameshift mutation at the 3' terminus of the FBN1-gene.
+A clinical and molecular genetic study of 112 Iranian families with primary microcephaly.
+WDR11, a WD protein that interacts with transcription factor EMX1, is mutated in idiopathic hypogonadotropic hypogonadism and Kallmann syndrome.
+The globin gene family of the cephalochordate amphioxus : implications for chordate globin evolution
+Proteomic and functional analysis of the mitotic Drosophila centrosome.
+Cohort of Balanced Reciprocal Translocations Associated with Dyslexia: Identification of Two Putative Candidate Genes at DYX1.
+The effect of MNase on nucleosome positioning data.
+Haplotype misclassification from genotype error and statistical reconstruction and its impact on association estimates
+A computational evaluation of over-representation of regulatory motifs in the promoter regions of differentially expressed genes
+Moderate alcohol consumption aggravates high-fat diet induced steatohepatitis in rats
+Screening of human gene promoter activities using transfected-cell arrays
+Common pathological mutations in PQBP1 induce nonsense-mediated mRNA decay and enhance exclusion of the mutant exon.
+PTGL : a database for secondary structure-based protein topologies
+Global transcriptomic analysis of murine embryonic stem cell-derived brachyury (T) cells
+High-throughput sequencing of frozen and paraffin-embedded tumor and normal tissue
+The European sea bass Dicentrarchus labrax genome puzzle: comparative BAC-mapping and low coverage shotgun sequencing
+Personal genomes in progress: from the human genome project to the personal genome project.
+Prognostic relevance of TLX3 (HOX11L2) expression in childhood T-cell acute lymphoblastic leukaemia treated with Berlin–Frankfurt–Münster (BFM) protocols containing early and late re-intensification elements
+Suppression of the transcription factor MSX1 gene delays bovine preimplantation embryo development in vitro.
+Evaluation of Recombinant Antibodies on Protein Microarrays Applying the Multiple Spotting Technique
+Cranioectodermal Dysplasia, Sensenbrenner syndrome, is a ciliopathy caused by mutations in the IFT122 gene.
+A global view of the nonprotein-coding transcriptome in Plasmodium falciparum
+Genome expansion and gene loss in powdery mildew fungi reveal tradeoffs in extreme parasitism
+Dynamic link of DNA demethylation, DNA strand breaks and repair in mouse zygotes
+Presence of late embryogenesis abundant (LEA) proteins in a nondesiccated, diapausing invertebrate embryo (Rotifers)
+Characterization of an interstitial 4q32 deletion in a patient with mental retardation and a complex chromosome rearrangement.
+Identification of Y-box binding protein 1 as a core regulator of MEK/ERK pathway-dependent gene signatures in colorectal cancer cells
+Expression analysis of proline rich 15 (Prr15) in mouse and human gastrointestinal tumors.
+TRPV1 acts as a synaptic protein and regulates vesicle recycling.
+A small, variable, and irregular killer cell Ig-like receptor locus accompanies the absence of MHC-C and MHC-G in gibbons
+A distinctive gene expression fingerprint in mentally retarded male patients reflects disease-causing defects in the histone demethylose KDM5C.
+A transcriptional roadmap to the induction of pluripotency in somatic cells
+An atlas of combinatorial transcriptional regulation in mouse and man.
+Four unrelated patients with Lubs X-linked mental retardation syndrome and different Xq28 duplications.
+Regulatory crosstalk of the metabolic network
+Ecophysiology of food-borne pathogens: Essential knowledge to improve food safety.
+Automation in the high-throughput selection of random combinatorial libraries-different approaches for select applications
+Data integration using scanners with SQL output--the bioscanners project at sourceforge
+Systematic analysis of candidate genes for Alzheimer's disease in a French, genome-wide association study.
+The CALHM1 P86L polymorphism is a genetic modifier of age at onset in Alzheimer's disease: a meta-analysis study
+An ES-like pluripotent state in FGF-dependent murine iPS cells
+A trans-acting locus regulates an anti-viral expression network and type 1 diabetes risk
+Frequency and age-related course of mitral valve dysfunction in the Marfan syndrome.
+Introducing knowledge into differential expression analysis
+Med12 is essential for early mouse development and for canonical Wnt and Wnt/PCP signaling.
+Mosaic Expression of Med12 in Female Mice Leads to Exencephaly, Spina Bifida, and Craniorachischisis.
+Long-Term Expression of Tissue-Inhibitor of Matrix Metalloproteinase-1 in the Murine Central Nervous System Does Not Alter the Morphological and Behavioral Phenotype but Alleviates the Course of Experimental Allergic Encephalomyelitis.
+A quantitative study of the Hog1 MAPK response to fluctuating osmotic stress in Saccharomyces cerevisiae

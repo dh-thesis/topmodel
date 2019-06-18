@@ -1,0 +1,64 @@
+The ERBB-STAT3 Axis Drives Tasmanian Devil Facial Tumor Disease
+Hybrid ASP-based Approach to Pattern Mining
+Face2Face: Real-Time Face Capture and Reenactment of RGB Videos
+Fréchet Distance Under Translation: Conditional Hardness and an Algorithm via Offline Dynamic Grid Reachability
+Optimal Algorithm for Geodesic Nearest-point Voronoi Diagrams in Simple Polygons
+Convergence of the Non-Uniform Physarum Dynamics
+Algorithms for Approximate Subtropical Matrix Factorization
+The Query Complexity of a Permutation-based Variant of Mastermind
+Combined Chemosensitivity and Chromatin Profiling Prioritizes Drug Combinations in CLL
+IoT Data Prefetching in Indoor Navigation SOAs
+Identification of Transcription Factor Binding Sites using ATAC-seq
+SacCalib: Reducing Calibration Distortion for Stationary Eye Trackers Using Saccadic Eye Movements
+Recent Developments in Prophet Inequalities
+Self-Stabilizing Byzantine Clock Synchronization with Optimal Precision
+KADABRA is an ADaptive Algorithm for Betweenness via Random Approximation
+Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera
+On the Complexity of Symmetric Polynomials
+SETH-Based Lower Bounds for Subset Sum and Bicriteria Path
+No Occurrence Obstructions in Geometric Complexity Theory
+Polynomial-Sized Topological Approximations Using the Permutahedron
+Formalizing the Metatheory of Logical Calculi and Automatic Provers in Isabelle/HOL (Invited Talk)
+Spec-QP: Speculative Query Planning for Joins over Knowledge Graphs
+Geometric Inhomogeneous Random Graphs
+Temporal Enhancer Profiling of Parallel Lineages Identifies AHR and GLIS1 as Regulators of Mesenchymal Multipotency
+Multi-platform Discovery of Haplotype-resolved Structural Variation in Human Genomes
+Texture Completion of People in Diverse Clothing
+A Deterministic PTAS for the Algebraic Rank of Bounded Degree Polynomials
+A PTAS for Euclidean TSP with Hyperplane Neighborhoods
+Improved Topological Approximations by Digitization
+NRST: Non-rigid Surface Tracking from Monocular Video
+Adaptive Sparse Matrix-Matrix Multiplication on the GPU
+ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text
+RnBeads 2.0: Comprehensive Analysis of DNA Methylation Data
+A Physical Sine-to-Square Converter Noise Model
+Distributed Distance Computation and Routing with Small Messages
+Multivariate Analysis of Orthogonal Range Searching and Graph Distances Parameterized by Treewidth
+SNP and Indel Frequencies at Transcription Start Sites and at Canonical and Alternative Translation Initiation Sites in the Human Genome
+Automated Analysis of Small RNA Datasets with RAPID
+A Perception-driven Hybrid Decomposition for Multi-layer Accommodative Displays
+Emergent Leadership Detection Across Datasets
+A PTAS for l_p-Low Rank Approximation
+The Geometry of Rank Decompositions of Matrix Multiplication II: 3 x 3 Matrices
+Improving in-silico Normalization using Read Weights
+Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources
+Causal Inference on Multivariate and Mixed-Type Data
+A Verified Prover Based on Ordered Resolution
+The Arboricity Captures the Complexity of Sampling Edges
+Structured Search in Annotated Document Collections
+On the Problem of Confounders in Modeling Gene Expression
+Relative Principal Components Analysis: Application to Analyzing Biomolecular Conformational Changes
+Hadwiger's Conjecture for Squares of 2-Trees
+Bindings as Bounded Natural Functors
+MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation
+Minimum-width Annulus with Outliers: Circular, Square, and Rectangular Cases
+Moment-to-Moment Detection of Internal Thought from Eye Vergence Behaviour
+Self-Stabilizing Repeated Balls-into-Bins
+Chromatin-Based Classification of Genetically Heterogeneous AMLs into Two Distinct Subtypes with Diverse Stemness Phenotypes
+Few Matches or Almost Periodicity: Faster Pattern Matching with Mismatches in Compressed Texts
+Fault Tolerant Gradient Clock Synchronization
+With Great Speed Come Small Buffers: Space-Bandwidth Tradeoffs for Routing
+Identifying the Parametric Occurrence of Multiple Steady States for some Biological Networks
+FAIRY: A Framework for Understanding Relationships between Users' Actions and their Social Feeds
+Targeting Actin Inhibits Repair of Doxorubicin-induced DNA Damage: A Novel Therapeutic Approach for Combination Therapy
+The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research

@@ -1,0 +1,83 @@
+Fermi Volume Evolution and Crystal-Field Excitations in Heavy-Fermion Compounds Probed by Time-Domain Terahertz Spectroscopy
+Spin-polaron ladder spectrum of the spin-orbit-induced Mott insulator Sr2IrO4 probed by scanning tunneling spectroscopy
+High-Temperature Ferrimagnetic Half Metallicity with Wide Spin-up Energy Gap in NaCu3Fe2Os2O12
+Modulated vacancy ordering in SrGe6-x (x≈0.45)
+Distortions in the cubic primitive high-pressure phases of calcium
+Direct imaging of orbitals in quantum materials
+Kinetics of Ag300 nanoclusters formation: The catalytically effective nucleus via a steady-state approach
+Floquet Engineering of Quantum Materials
+Tomonaga–Luttinger liquid behavior and spinon confinement in YbAlO3
+Chemical vapor transport of intermetallics
+Dual quantum confinement and anisotropic spin splitting in the multivalley semimetal PtSe2
+TbO+ in a calcium apatite matrix featuring a triple trigger-type relaxation of magnetization
+Discovery of Elusive K4O6, a Compound Stabilized by Configurational Entropy of Polarons
+The heat capacity and entropy of the four lithium stannides Li17Sn4, Li7Sn2, Li13Sn5 and Li7Sn3 in the temperature range (2 to 865) K
+Single antiferromagnetic axis of Fe in orthorhombic YMn0.5Fe0.5O3 films observed by x-ray magnetic linear dichroism
+Hard x-ray spectroscopy of the itinerant magnets RFe4Sb12 (R=Na, K, Ca, Sr, Ba)
+Elastic properties and stability of Heusler compounds: Cubic Co2YZ compounds with L21 structure
+Transition to the quantum hall regime in InAs nanowire cross-junctions
+Sr4N[CN2][C2N]: The First Carbodiimide Acetonitriletriide
+Topological Hall effect in thin films of Mn1.5PtSn
+Singlet ground state in the alternating spin-1/2 chain compound NaVOAsO4
+239Pu nuclear magnetic resonance in the candidate topological insulator PuB4
+Phase relations in the ternary system Ga-Pd-Sn at 500 °C
+Divalent EuRh2Si2 as a reference for the Luttinger theorem and antiferromagnetism in trivalent heavy-fermion YbRh2Si2
+11B and 89Y solid state MAS NMR spectroscopic investigations of the layered borides YTB4 (T = Mo, W, Re)
+Orbital-and kz-Selective Hybridization of Se 4p and Ti 3d States in the Charge Density Wave Phase of TiSe2
+Ferromagnetic ordering along the hard axis in the Kondo lattice YbIr3Ge7
+Ferromagnetic ordering of linearly coordinated Co ions in LiSr2[CoN2]
+Improved Single-Crystal Growth of Sr2RuO4
+Pressure tuning of the electrical transport properties in the Weyl semimetal TaP
+Thermal annealing induced competition of oxidation and grain growth in nickel thin films
+High-pressure magnetism of the double perovskite Sr2FeOsO6 studied by synchtrotron 57Fe Mössbauer spectroscopy
+Large anomalous Hall and Nernst effects from nodal line symmetry breaking in Fe2MnX (X = P, As, Sb)
+Medium-temperature thermoelectric GeTe: vacancy suppression and band structure engineering leading to high performance
+Fine tuning of magnetization relaxation parameters of the DyO+ single ion magnet in a hydroxy/fluoro-apatite solid solution
+In(CH3COO)3: The first example of group 13 elements triacetate with an infinite chain crystal structure
+Topological chiral crystals with helicoid-arc quantum states
+Crystal Growth and Structure Determination of Pigment Orange 82
+Magnetoresistance and anomalous Hall effect in micro-ribbons of the magnetic Weyl semimetal Co3Sn2S2
+Pressure-induced structural and electronic transitions of thiospinel Fe3S4
+Interplay between Structural and Thermoelectric Properties in Epitaxial Sb2+xTe3 Alloys
+Low-field switching of noncollinear spin texture at La0.7Sr0.3MnO3-SrRuO3 interfaces
+Nematicity in the superconducting mixed state of strain detwinned underdoped Ba(Fe1-xCox)2As2
+Intermetallic compounds and their single crystals
+Thermodynamic Signatures of Weyl Fermions in NbP
+Enhanced performance of thermoelectric nanocomposites based on Cu12Sb4S13 tetrahedrite
+Multi-active sites derived from a single/double perovskite hybrid for highly efficient water oxidation
+Publisher Correction: Spin transport and spin torque in antiferromagnetic devices
+Electron spin resonance on the spin-1/2 triangular magnet NaYbS2
+Magnetic phase diagram of the frustrated spin chain compound linarite PbCuSO4(OH)2 as seen by neutron diffraction and 1H-NMR
+Magnetic and thermodynamic properties and spin-flop-driven magnetodielectric response of the antiferromagnetic Pb2Fe2Ge2O9 single crystals
+Tuning of a Kagome Magnet: Insulating Ground State in Ga-Substituted Cu4(OH)6Cl2
+Photothermal effects induced by surface plasmon resonance at graphene/gold nanointerfaces: A multiscale modeling study
+Electronic band structure and proximity to magnetic ordering in the chiral cubic compound CrGe
+Microscopic investigation of low dimensional magnet Sc2Cu2O5: combined experimental and ab initio approach
+The new ordered double perovskite SrLaCuIrO6
+Crystal Growth of Intermetallics
+Spectral dynamics of shift current in ferroelectric semiconductor SbSI
+Oxo-Hydroxoferrate K2-xFe4O7-x(OH)x: Hydroflux Synthesis, Chemical and Thermal Instability, Crystal and Magnetic Structures
+Large magnetoresistance effects in Fe3O4
+Magneto-optical confirmation of Landau level splitting in a GaN/AlGaN 2DEG grown on bulk GaN
+Colossal mid-infrared bulk photovoltaic effect in a type-I Weyl semimetal
+Anisotropic topological Hall effect with real and momentum space Berry curvature in the antiskrymion-hosting Hensler compound Mn1.4PtSn
+Hidden kagome-lattice picture and origin of high conductivity in delafossite PtCoO2
+All Electrical Access to Topological Transport Features in Mn1.8PtSn Films
+Boosting the oxygen evolution reaction activity of a perovskite through introducing multi-element synergy and building an ordered structure
+A complete catalogue of high-quality topological materials
+Unusual synergistic effect in layered Ruddlesden - Popper oxide enables ultrafast hydrogen evolution
+High-Pressure Synthesis and Chemical Bonding of Barium Trisilicide BaSi3
+Enhancement of the effective mass at high magnetic fields in CeRhIn5
+Nuclear spin-lattice relaxation time in TaP and the Knight shift of Weyl semimetals
+Valence-state and spin-state transition of Co in LaCo0.5Rh0.5O3
+Impact of fluoride for hydroxide substitution on the magnetic properties of a Co-based single-ion magnet imbedded in the barium apatite crystal lattice
+Evolution from Ferromagnetism to Antiferromagnetism in Yb(Rh1-xCox)2Si2
+The Intermetalloid Clusters [Ni2Bi12]4+ and [Rh2Bi12]4+ - Ionothermal Synthesis, Crystal Structures, and Chemical Bonding
+Piezoelectric-based uniaxial pressure cell with integrated force and displacement sensors
+Development of a long trace profiler in situ at National Synchrotron Radiation Research Center
+Synergistic modulation of mobility and thermal conductivity in (Bi,Sb)2Te3 towards high thermoelectric performance
+Redetermination of Sr2PdO3 from single-crystal X-ray data
+Cu2MSiO5 (M = Co, Ni): A new silicate material with chains of Cu and M ions
+Valence band hard x-ray photoelectron spectroscopy on 3d transition-metal oxides containing rare-earth elements
+μSR and magnetometry study of the type-I superconductor BeAu
+Field-induced instability of the quantum spin liquid ground state in the Jeff=1/2 triangular-lattice compound NaYbO2

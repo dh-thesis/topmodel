@@ -1,0 +1,274 @@
+Sequential Salinomycin Treatment Results in Resistance Formation through Clonal Selection of Epithelial-Like Tumor Cells
+A role of cortical acto-myosin dynamics in epithelial morphogenesis and plasma membrane organization
+Experimental Identification of MicroRNA Targets
+Asymmetric Supported Lipid Bilayer Formation via Methyl-beta-Cyclodextrin Mediated Lipid Exchange: Influence of Asymmetry on Lipid Dynamics and Phase Behavior
+Initial stages of calcium uptake and mineral deposition in sea urchin embryos
+Cre recombinase induces DNA damage and tetraploidy in the absence of LoxP sites
+Minimal, encapsulated proteomic-sample processing applied to copy-number estimation in eukaryotic cells
+The FtsZ-Like Protein FtsZm of Magnetospirillum gryphiswaldense Likely Interacts with Its Generic Homolog and Is Required for Biomineralization under Nitrate Deprivation
+Towards unified vesicle endocytosis
+Deep proteomic evaluation of primary and cell line motoneuron disease models delineates major differences in neuronal characteristics.
+Fluorescence Correlation Spectroscopy: Principles and Applications
+The structure of the Pan2-Pan3 core complex reveals cross-talk between deadenylase and pseudokinase
+Growing Tissues in Real and Simulated Microgravity: New Methods for Tissue Engineering
+Structural Analysis of the Human Fibroblast Growth Factor Receptor 4 Kinase
+XPF-ERCC1 Acts in Unhooking DNA Interstrand Crosslinks in Cooperation with FANCD2 and FANCP/SLX4
+Modeling DNA condensation on freestanding cationic lipid membranes
+Decrease in cytosine methylation at CpG island shores and increase in DNA fragmentation during zebrafish aging
+DJ-1 protein and apolipoprotein A are targets for LVVYPW in the brain of streptozotocin-induced diabetic rats
+Automatic particle picking and multi-class classification in cryo-electron tomograms
+High susceptibility to fatty liver disease in two-pore channel 2-deficient mice
+Bacterial Cell Division: A Swirling Ring to Rule Them All?
+Complement activation correlates with liver necrosis and fibrosis in chronic hepatitis C
+Automated detection of polysomes in cryoelectron tomography
+Structural analyses of the CRISPR protein Csc2 reveal the RNA-binding interface of the type I-D Cas7 family.
+Study of the Protein Complex, Pore Diameter, and Pore-forming Activity of the Borrelia burgdorferi P13 Porin
+The mitochondrial lysine acetylome of Arabidopsis
+In vitro reconstitution of protein gradients and oscillations as spatial cues for cell division.
+Asymmetry Determines the Effect of Ceramides on Model Membranes. In Natural Membranes Too?
+The Late Endosomal Transporter CD222 Directs the Spatial Distribution and Activity of Lck
+Discovery and Biological Evaluation of Novel Dual EGFR/c-Met Inhibitors
+MaxQuant for In-Depth Analysis of Large SILAC Datasets
+Uncovering global SUMOylation signaling networks in a site-specific manner
+Volta potential phase plate for in-focus phase contrast transmission electron microscopy
+Time-resolved dissection of early phosphoproteome and ensuing proteome changes in response to TGF-beta
+JAGN1 deficiency causes aberrant myeloid cell homeostasis and congenital neutropenia
+Simultaneous Assessment of Kinetic, Site-Specific, and Structural Aspects of Enzymatic Protein Phosphorylation
+Self-Diffusion in Cell Membranes in the Long Time Regime
+Inhibition of Arginyltransferase 1 Induces Transcriptional Activity of Myocardin-related Transcription Factor A (MRTF-A) and Promotes Directional Migration
+CreER(T2) expression from within the c-Kit gene locus allows efficient inducible gene targeting in and ablation of mast cells
+Integrin-mediated type II TGF-beta receptor tyrosine dephosphorylation controls SWIAD-dependent profibrotic signaling
+A DNA-Dependent Protease Involved in DNA-Protein Crosslink Repair
+Cofilin recruits F-actin to SPCA1 and promotes Ca2+-mediated secretory cargo sorting
+The integrin adhesome: from genes and proteins to human disease
+The E3 ligase Cbl-b and TAM receptors regulate cancer metastasis via natural killer cells
+A "Proteomic Ruler" for Protein Copy Number and Concentration Estimation without Spike-in Standards.
+Emerging mechanistic insights into AAA complexes regulating proteasomal degradation.
+Ret rescues mitochondrial morphology and muscle degeneration of Drosophila Pink1 mutants
+Transcriptional regulation and alternative splicing cooperate in muscle fiber-type specification in flies and mammals
+Phospho-dependent and phospho-independent interactions of the helicase UPF1 with the NMD factors SMG5-SMG7 and SMG6
+PyCorrFit-generic data evaluation for fluorescence correlation spectroscopy
+BRCA1 Is a Histone-H2A-Specific Ubiquitin Ligase
+Proteostasis impairment in protein-misfolding and -aggregation diseases
+Functional characterization of polysaccharide utilization loci in the marine Bacteroidetes 'Gramella forsetii' KT0803
+Deep classification of a large cryo-EM dataset defines the conformational landscape of the 26S proteasome
+Kindlin-1 controls Wnt and TGF-beta availability to regulate cutaneous stem cell proliferation
+Blood Clot Formation Does Not Affect Metastasis Formation or Tumor Growth in a Murine Model of Breast Cancer
+Haloferax volcanii, a Prokaryotic Species that Does Not Use the Shine Dalgarno Mechanism for Translation Initiation at 5 '-UTRs
+Global phosphoproteome analysis of human bone marrow reveals predictive phosphorylation markers for the treatment of acute myeloid leukemia with quizartinib
+Crystal structure of the proteasomal deubiquitylation module Rpn8-Rpn11
+Ultradeep Human Phosphoproteome Reveals a Distinct Regulatory Nature of Tyr and Ser/Thr-Based Signaling
+Structural basis for the extended CAP-Gly domains of p150(glued) binding to microtubules and the implication for tubulin dynamics
+Global Proteome Turnover Analyses of the Yeasts S-cerevisiae and S-pombe
+A Versatile Two-Step CRISPR- and RMCE-Based Strategy for Efficient Genome Engineering in Drosophila
+Isomerization- and Temperature-Jump-Induced Dynamics of a Photoswitchable beta-Hairpin
+Development of targeted cancer therapies
+Development and binding characteristics of phosphonate inhibitors of SplA protease from Staphylococcus aureus
+Fabrication of Micropatterned Arrays of Gold Nanoparticles for Photothermal Manipulation of Living Cells
+Super-Heating and Micro-Bubble Generation around Plasmonic Nanoparticles under cw Illumination
+Investigation of the mode of action of sunitinib kinase inhibitor profile analogues in insulin release
+Reconstitution of regulated FtsZ localization by Min protein gradients in vitro
+Intrathecal somatic hypermutation of IgM in multiple sclerosis and neuroinflammation
+The NLRP3 inflammasome is regulated by phosphorylation and ubiquitinylation
+Elimination of B-RAF in Oncogenic C-RAF-expressing Alveolar Epithelial Type II Cells Reduces MAPK Signal Intensity and Lung Tumor Growth
+microRNA-mediated regulation of mTOR complex components facilitates discrimination between activation and anergy in CD4 T cells
+Continuous T Cell Receptor Signals Maintain a Functional Regulatory T Cell Pool
+Molecular architecture of the HerA-NurA DNA double-strand break resection complex
+The Caenorhabditis elegans pericentriolar material components SPD-2 and SPD-5 are monomeric in the cytoplasm before incorporation into the PCM matrix
+The exosome-binding factors Rrp6 and Rrp47 form a composite surface for recruiting the Mtr4 helicase
+Quantitative shotgun proteomics: considerations for a high-quality workflow in immunology
+Lysine-specific demethylase 1 regulates differentiation onset and migration of trophoblast stem cells
+Electron microscopy and in vitro deneddylation reveal similar architectures and biochemistry of isolated human and Flag-mouse COP9 signalosome complexes
+A practical guide to the ICPL_ESIQuant software for ICPL-based quantitative proteomics
+Pharmacophore and Binding Analysis of Known and Novel B-RAF Kinase Inhibitors
+Lattice-Based Monte Carlo Simulations of Lipid Membranes: Correspondence between Triangular and Square Lattices
+Getting tubulin to the tip of the cilium: One IFT train, many different tubulin cargo-binding sites?
+Fragment-Based Library Generation for the Discovery of a Peptidomimetic p53-Mdm4 Inhibitor
+Robust membrane detection based on tensor voting for electron tomography
+The impact of microgravity-based proteomics research
+Maintaining photosynthetic CO2 fixation via protein remodelling: the Rubisco activases
+Osteoporosis and fractures in liver disease: Relevance, pathogenesis and therapeutic implications
+MRTF-A controls vessel growth and maturation by increasing the expression of CCN1 and CCN2
+The Terminal Oxidase cbb(3) Functions in Redox Control of Magnetite Biomineralization in Magnetospirillum gryphiswaldense
+Membrane tension drives ligand-independent integrin signaling
+Interaction of Circadian Clock Proteins CRY1 and PER2 Is Modulated by Zinc Binding and Disulfide Bond Formation
+Profilin 1 is essential for retention and metabolism of mouse hematopoietic stem cells in bone marrow
+The RNA helicase FRH is an ATP-dependent regulator of CK1a in the circadian clock of Neurospora crassa
+Dynamic karyotype, dynamic proteome: buffering the effects of aneuploidy
+Is demethylation by deaminase and glycosylase occurred in zebrafish embryos?
+Bosutinib inhibits migration and invasion via ack1 in kras mutant non-small cell lung cancer
+The unfolded protein response affects readthrough of premature termination codons
+In-Vivo Quantitative Proteomics Reveals a Key Contribution of Post-Transcriptional Mechanisms to the Circadian Regulation of Liver Metabolism
+Identification of Protein Kinase Inhibitors with a Selective Negative Effect on the Viability of Epstein-Barr Virus Infected B Cell Lines
+Unique features of the transcriptional response to model aneuploidy in human cells
+Incomplete pneumolysin oligomers form membrane pores
+The lysine methyltransferase SMYD3 interacts with hepatitis C virus NS5A and is a negative regulator of viral particle production
+Reconstitution of self-organizing protein gradients as spatial cues in cell-free systems
+The Ubiquitin E3 Ligase NOSIP Modulates Protein Phosphatase 2A Activity in Craniofacial Development
+How Do Haloarchaea Synthesize Aromatic Amino Acids?
+The cytoplasmic poly(A) polymerases GLD-2 and GLD-4 promote general gene expression via distinct mechanisms
+Overexpression of Q-rich prion-like proteins suppresses polyQ cytotoxicity and alters the polyQ interactome
+Assessing the physiological and pathological functions of mast cells by the use of novel mouse models
+Scaffolding the expansion of autophagosomes
+Conformational Switching in PolyGln Amyloid Fibrils Resulting from a Single Amino Acid Insertion
+IR laser-induced protein crystal transformation
+Autophagic Clearance of PolyQ Proteins Mediated by Ubiquitin-Atg8 Adaptors of the Conserved CUET Protein Family
+Isolation of clathrin-coated vesicles from tissue culture cells.
+Pupylation as a signal for proteasomal degradation in bacteria
+Crystal structure of a Chiamydomonas reirjharclui flagellar RabGAP TBC-domain at 1.8 angstrom resolution
+Beyond the proteome: Mass Spectrometry Special Interest Group (MS-SIG) at ISMB/ECCB 2013
+Combined inhibition of AXL, Lyn and p130Cas kinases block migration of triple negative breast cancer cells
+The Q Exactive HF, a Benchtop Mass Spectrometer with a Pre-filter, High-performance Quadrupole and an Ultra-high-field Orbitrap Analyzer.
+HSF1 deficiency and impaired HSP90-dependent protein folding are hallmarks of aneuploid human cells
+Ploidy changes and genome stability in yeast
+Crystal structures of IFT70/52 and IFT52/46 provide insight into intraflagellar transport B core complex assembly
+Cerebral small vessel disease-related protease HtrA1 processes latent TGF-beta binding protein 1 and facilitates TGF-beta signaling
+Structural basis for membrane targeting of the BBSome by ARL6.
+GroEL/ES Chaperonin Modulates the Mechanism and Accelerates the Rate of TIM-Barrel Domain Folding
+PP2A delays APC/C-dependent degradation of separase-associated but not free securin
+Scanning Fluorescence Correlation Spectroscopy (SFCS) with a Scan Path Perpendicular to the Membrane Plane
+Differential global structural changes in the core particle of yeast and mouse proteasome induced by ligand binding
+Reconstitution of Protein Oscillations in Micro Compartments
+Knockdown and knockout of beta 1-integrin in hepatocytes impairs liver regeneration through inhibition of growth factor signalling
+A simple TALEN-based protocol for efficient genome-editing in Drosophila
+Diffusion and Freezing Transition of Rod-Like DNA Origami on Freestanding Lipid Membranes
+Immunoproteomics Using Polyclonal Antibodies and Stable Isotope-labeled Affinity-purified Recombinant Proteins
+Tolerance to mitotic defects contributes to chromosomal instability in post-tetraploid progeny
+DNA damage Mechanisms and principles of homology search during recombination
+Asymmetric Supported Lipid Bilayer Formed via Methyl-beta-Cyclodextrin Mediated Lipid Exchange: a Membrane Model System to Study Phase Separation and Transbilayer Lipid Movement
+Iterative reconstruction of cryo-electron tomograms using nonuniform fast Fourier transforms
+Tension and Force-Resistant Attachment Are Essential for Myofibrillogenesis in Drosophila Flight Muscle
+Structure of the mammalian oligosaccharyltransferase complex in the native ER protein translocon
+Cleavage of roquin and regnase-1 by the paracaspase MALT1 releases their cooperatively repressed targets to promote T(H)17 differentiation
+Free-flow electrophoresis in proteome sample preparation
+Host-cell sensors for Plasmodium activate innate immunity against liver-stage infection
+Ag/Pd core-shell nanoparticles by a successive method: Pulsed laser ablation of Ag in water and reduction reaction of PdCl2
+Effect of Embryonic Development on the Chicken Egg Yolk Plasma Proteome after 12 Days of Incubation
+Dynamics and Interaction of Interleukin-4 Receptor Subunits in Living Cells
+The Molecular Architecture of the TRAMP Complex Reveals the Organization and Interplay of Its Two Catalytic Activities
+The TGF-beta-inducible miR-23a cluster attenuates IFN-gamma levels and antigen-specific cytotoxicity in human CD8(+) T cells
+Isotropic actomyosin dynamics promote organization of the apical cell cortex in epithelial cells
+O-GlcNAcylation Prevents Aggregation of the Polycomb Group Repressor Polyhomeotic
+Fractionation profiling: a fast and versatile approach for mapping vesicle proteomes and protein-protein interactions
+Reconstitution of cytoskeletal protein assemblies for large-scale membrane transformation
+Secretory cargo sorting at the trans-Golgi network
+Identification of a Novel Complex Required for WASH-dependent Receptor Trafficking
+A new class of ubiquitin-Atg8 receptors involved in selective autophagy and polyQ protein clearance
+Tamoxifen resistance can be overcome by salinomycin treatment
+A gain of function by the cancer-associated FGFR4 c. 1162G>A (p. Gly388Arg) variant
+Sgo1 Regulates Both Condensin and Ipl1/Aurora B to Promote Chromosome Biorientation
+C9orf72 FTLD/ALS-associated Gly-Ala dipeptide repeat proteins cause neuronal toxicity and Unc119 sequestration
+Active Cage Mechanism of Chaperonin-Assisted Protein Folding Demonstrated at Single-Molecule Level
+Ex vivo processing for maturation of Arabidopsis KDEL-tailed cysteine endopeptidase 2 (AtCEP2) pro-enzyme and its storage in endoplasmic reticulum derived organelles
+PTK7 as a potential prognostic and predictive marker of response to adjuvant chemotherapy in breast cancer patients, and resistance to anthracycline drugs
+Drosophila melanogaster LRPPRC2 is involved in coordination of mitochondrial translation
+Structure-Function Analyses of Human Kallikrein-related Peptidase 2 Establish the 99-Loop as Master Regulator of Activity
+Aim24 and MICOS modulate respiratory function, tafazzin-related cardiolipin modification and mitochondrial architecture
+Characterization of the pigmented shell-forming proteome of the common grove snail Cepaea nemoralis
+In vitro assembly and activity of an archaeal CRISPR-Cas type I-A Cascade interference complex.
+Activation of HER3 Interferes with Antitumor Effects of Axl Receptor Tyrosine Kinase Inhibitors: Suggestion of Combination Therapy
+Metastasis of prostate cancer and melanoma cells in a preclinical in vivo mouse model is enhanced by L-plastin expression and phosphorylation
+DNA bending facilitates the error-free DNA damage tolerance pathway and upholds genome integrity
+Architecture and ssDNA interaction of the Timeless-Tipin-RPA complex
+Metformin and salinomycin as the best combination for the eradication of NSCLC monolayer cells and their alveospheres (cancer stem cells) irrespective of EGFR, KRAS, EML4/ALK and LKB1 status
+Toward Spatially Regulated Division of Protocells: Insights into the E. coli Min System from in Vitro Studies
+Towards a spectrum-based bar code for identification of weakly fluorescent microparticles
+Reversible Membrane Pearling in Live Cells upon Destruction of the Actin Cortex
+Biosynthesis of magnetic nanostructures in a foreign organism by transfer of bacterial magnetosome gene clusters
+Hepatic Uptake of Atorvastatin: Influence of Variability in Transporter Expression on Uptake Clearance and Drug-Drug Interactions
+Biological role of prolyl 3-hydroxylation in type IV collagen
+Autofocused 3D Classification of Cryoelectron Subtomograms
+PROTEOMICS APPROACHES TO IDENTIFYING PROTEINS INVOLVED IN ADENOMA-TO-COLORECTAL CARCINOMA PROGRESSION
+The mouse PYHIN protein P207 regulates transcription of TNF
+Stereoselective Construction of the 5-Hydroxy Diazabicyclo[4.3.1]decane-2-one Scaffold, a Privileged Motif for FK506-Binding Proteins
+The growing landscape of lysine acetylation links metabolism and cell signalling
+Huber, R.; Sondermann, P.; Jacob, U.; Wendt, K.; Chiara, C.; Moroder, L. Substance binding human Igg FC Receptor IIB (FCYRIIB). US Patent: US 08853363
+The late endosomal p14-MP1 (LAMTOR2/3) complex regulates focal adhesion dynamics during cell migration
+Actin and PIP3 waves in giant cells reveal the inherent length scale of an excited state
+Cell-type-resolved quantitative proteomics of murine liver.
+A Tailored galK Counterselection System for Efficient Markerless Gene Deletion and Chromosomal Tagging in Magnetospirillum gryphiswaldense
+Viperin is an iron-sulfur protein that inhibits genome synthesis of tick-borne encephalitis virus via radical SAM domain activity
+Proteomic differences between microvascular endothelial cells and the EA. hy926 cell line forming three-dimensional structures
+Benzylidene-indolinones are effective as multi-targeted kinase inhibitor therapeutics against hepatocellular carcinoma
+Histone H2A monoubiquitination promotes histone H3 methylation in Polycomb repression
+Interplay of Acetyltransferase EP300 and the Proteasome System in Regulating Heat Shock Transcription Factor 1
+Combinatorial treatment of lung cancer cell lines and their spheroids-cancer stem cells with standard therapeutic drug and salinomycin
+Activation of HER3 interferes with antitumor effects of Axl receptor tyrosine kinase inhibitors - suggestion of combination therapy
+Molecular Mechanism of Autophagic Membrane-Scaffold Assembly and Disassembly
+Tension-Sensitive Actin Assembly Supports Contractility at the Epithelial Zonula Adherens
+Closing the cohesin ring: Structure and function of its Smc3-kleisin interface
+Nascent Adhesions: From Fluctuations to a Hierarchical Organization
+Stable Closure of the Cytoplasmic Half-Channel Is Required for Efficient Proton Transport at Physiological Membrane Potentials in the Bacteriorhodopsin Catalytic Cycle
+MinCDE exploits the dynamic nature of FtsZ filaments for its spatial regulation
+Sugarcoating ER Stress
+DJ-1 protein and Apolipoprotein E are new targets for LVVYPW in diabetic rat brain. Dopaminergic system in the striatum of healthy rats is also target for hemorphin
+Improvement of Virtual Screening Results by Docking Data Feature Analysis
+ER Stress-Induced eIF2-alpha Phosphorylation Underlies Sensitivity of Striatal Neurons to Pathogenic Huntingtin
+Accurate Proteome-wide Label-free Quantification by Delayed Normalization and Maximal Peptide Ratio Extraction, Termed MaxLFQ
+Identification of Significant Features by the Global Mean Rank Test
+The actin homologue MreB organizes the bacterial cell membrane
+Chemical cross-linking/mass spectrometry targeting acidic residues in proteins and protein complexes
+A20-Deficient Mast Cells Exacerbate Inflammatory Responses In Vivo
+The mzTab Data Exchange Format: Communicating Mass-spectrometry-based Proteomics and Metabolomics Experimental Results to a Wider Audience
+5 ' isomiR variation is of functional and evolutionary importance
+The conserved ubiquitin-like protein Hub1 plays a critical role in splicing in human cells
+morFeus: a web-based program to detect remotely conserved orthologs using symmetrical best hits and orthology network scoring
+PTK 7 Is a Transforming Gene and Prognostic Marker for Breast Cancer and Nodal Metastasis Involvement
+Specificity and Commonality of the Phosphoinositide-Binding Proteome Analyzed by Quantitative Mass Spectrometry
+PsicquicGraph, a BioJS component to visualize molecular interactions from PSICQUIC servers
+The exosome-binding factors Rrp6 and Rrp47 form a composite surface for recruiting the Mtr4 helicase.
+Highlight issue: membranes in motion
+Interlinked Sister Chromosomes Arise in the Absence of Condensin during Fast Replication in B. subtilis
+Sorting Nexin 31 Binds Multiple beta Integrin Cytoplasmic Domains and Regulates beta 1 Integrin Surface Levels and Stability
+Structural and Biochemical Insights to the Role of the CCR4-NOT Complex and DDX6 ATPase in MicroRNA Repression
+Quantitative live-cell imaging reveals spatio-temporal dynamics and cytoplasmic assembly of the 26S proteasome
+Discovery of Highly Potent p53-MDM2 Antagonists and Structural Basis for Anti-Acute Myeloid Leukemia Activities
+Protein complex purification from Thermoplasma acidophilum using a phage display library
+The Membrane-targeted Alkylphosphocholine Erufosine Interferes with Survival Signals from the Extracellular Matrix
+Interaction of Semiflexible Filamentous Virus Particles with Freestanding Lipid Membranes
+Uniform nomenclature for the mitochondrial contact site and cristae organizing system.
+Expression and turnover of proteins govern their sampling for HLA class I presentation
+Synthetic Membrane Curvature-Inducing DNA Origami Scaffolds
+A guide to study Drosophila muscle biology
+Subcellular localization, interactions and dynamics of the phage-shock protein-like Lia response in Bacillus subtilis
+The Arabidopsis ZINC FINGER PROTEIN3 Interferes with Abscisic Acid and Light Signaling in Seed Germination and Plant Development
+Fifteen Years of Stable Isotope Labeling by Amino Acids in Cell Culture (SILAC)
+Recent developments in the technology of mass spectrometry-based clinical proteomics
+Opening Windows into the Cell: Focused-Ion-Beam Milling for Cryo-Electron Tomography
+Staphylococcal SplB Serine Protease Utilizes a Novel Molecular Mechanism of Activation
+Complex regulation of nucleic-acid sensing TLRs by UNC93B1
+Profilin 1 is required for peripheral nervous system myelination
+A ROLE OF OCRL IN CLATHRIN-COATED PIT DYNAMICS AND UNCOATING REVEALED BY STUDIES OF LOWE SYNDROME CELLS
+Regulated assembly of a supramolecular centrosome scaffold in vitro.
+Visualization of tumor formation in the WAP-TGFa/FGFR4Arg385 KI breast cancer mouse model
+Fluorescence fluctuation microscopy: a diversified arsenal of methods to investigate molecular dynamics inside cells
+STRUCTURAL BIOLOGY Enzyme-chromatin complex visualized
+Differential gene expression profile and altered cytokine secretion of thyroid cancer cells in space
+Maintaining photosynthetic CO2 fixation via protein remodelling: the Rubisco activases
+Virulence Factor NSs of Rift Valley Fever Virus Recruits the F-Box Protein FBXO3 To Degrade Subunit p62 of General Transcription Factor TFIIH
+Cryo-electron tomography reveals the 3D structure of the ciliary tip.
+Structural Model of a CRISPR RNA-Silencing Complex Reveals the RNA-Target Cleavage Activity in Cmr4
+Cross-linked and pH sensitive supported polymer bilayers from polymersomes - studies concerning thickness, rigidity and fluidity
+N-linked Glycosylation Enrichment for In-depth Cell Surface Proteomics of Diffuse Large B-cell Lymphoma Subtypes
+An early cytoplasmic step of peptidoglycan synthesis is associated to MreB in Bacillus subtilis
+Coordinate transformation based cryo-correlative methods for electron tomography and focused ion beam milling
+HupB, a Nucleoid-Associated Protein of Mycobacterium tuberculosis, Is Modified by Serine/Threonine Protein Kinases In Vivo
+A cell cycle-regulated Slx4-Dpb11 complex promotes the resolution of DNA repair intermediates linked to stalled replication
+ESCRT-III mediated cell division in Sulfolobus acidocaldarius - a reconstitution perspective
+Multi-enzyme digestion FASP and the 'Total Protein Approach'-based absolute quantification of the Escherichia coli proteome.
+Copy number analysis of the murine platelet proteome spanning the complete abundance range.
+Conserved active site cysteine residue of archaeal THI4 homolog is essential for thiamine biosynthesis in Haloferax volcanii
+Surface topology assisted alignment of Min protein waves
+The Lottia gigantea shell matrix proteome: re-analysis including MaxQuant iBAQ quantitation and phosphoproteome analysis
+The ETS family member GABP alpha modulates androgen receptor signalling and mediates an aggressive phenotype in prostate cancer
+A role of OCRL in clathrin-coated pit dynamics and uncoating revealed by studies of Lowe syndrome cells
+Electron Cryomicroscopy: From Molecules to Cells
+qcML: An Exchange Format for Quality Control Metrics from Mass Spectrometry Experiments
+Protein signatures of oxidative stress response in a patient specific cell line model for autism
+On the extent and role of the small proteome in the parasitic eukaryote Trypanosoma brucei
+The Arabidopsis class II sirtuin is a lysine deacetylase and interacts with mitochondrial energy metabolism
+Spheroid formation of human thyroid cancer cells under simulated microgravity: a possible role of CTGF and CAV1
+Quantitative analysis of the Escherichia coli proteome.
+Multi layer chromosome organization through DNA bending, bridging and extrusion
+No Evidence for AID/MBD4-Coupled DNA Demethylation in Zebrafish Embryos
+KEGGViewer, a BioJS component to visualize KEGG Pathways

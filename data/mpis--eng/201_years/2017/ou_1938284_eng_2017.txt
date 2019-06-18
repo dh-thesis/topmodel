@@ -1,0 +1,161 @@
+Advanced ultrafast fiber laser sources enabled by fiber nonlinearities
+Characterization and optimization of a thin direct electron detector for fast imaging applications
+Analysis of XFEL serial diffraction data from individual crystalline fibrils
+Cascaded second-order processes for the efficient generation of narrowband terahertz radiation
+Towards ultrafast time-resolved experiments with nanoscale objects and surfaces
+Terahertz Accelerator Technology
+Narrowband terahertz generation with chirped-and-delayed laser pulses in periodically poled lithium niobate
+Light-Induced Radical Formation and Isomerization of an Aromatic Thiol in Solution Followed by Time-Resolved X-ray Absorption Spectroscopy at the Sulfur K-Edge
+Visualization of Cellular Components in a Mammalian Cell with Liquid-Cell Transmission Electron Microscopy
+Nonlinear Optical Control of Josephson Coupling in Cuprates
+Low-dose cryo electron ptychography via non-convex Bayesian optimization
+Generation and control of super-octave-spanning spectra
+Advanced Beam Dynamics and Diagnostics Concepts for Laser-Plasma Accelerators
+Power scaling of ultrafast mid-IR source enabled by high-power fiber laser technology
+Correlations in Scattered X-Ray Laser Pulses Reveal Nanoscale Structural Features of Viruses
+State-resolved attosecond reversible and irreversible dynamics in strong optical fields
+Laser control over the ultrafast Coulomb explosion of N22+ after Auger decay: A quantum-dynamics investigation
+Double-flow focused liquid injector for efficient serial femtosecond crystallography
+Coherent two-dimensional electronic broad-band UV-spectroscopy of DNA and its nucleobases
+Pilot Study of Synchronization on a Femtosecond Scale between the Electron Gun REGAE and a Laser-Plasma Accelerator
+Investigating photoinduced phenomena in molecular crystals with prospects for atomically-resolved dynamics
+Large-Scale Laser-Microwave Synchronization for Attosecond Photon Science Facilities
+Multi-spectroscopic and theoretical analyses on the diphenyl ether–tert-butyl alcohol complex in the electronic ground and electronically excited state
+Theory and computation of time-resolved spectroscopies for molecular systems in complex environments
+High energy multi-cycle terahertz generation
+A global study of the conformers of 1,2-propanediol and new vibrationally excited states
+Probing Transient Valence Orbital Changes with Picosecond Valence-to-Core X-ray Emission Spectroscopy
+Coherent soft X-ray diffraction imaging of coliphage PR772 at the Linac coherent light source
+Ultrafast X-ray Spectroscopies of Transition Metal Complexes Relevant for Catalysis
+Nonequilibrium electron-lattice dynamics
+Exact functionals for correlated electron-photon systems
+TDDFT-Based Study on the Proton-DNA Collision
+Electronic non-adiabatic dynamics in enhanced ionization of isotopologues of hydrogen molecular ions from the exact factorization perspective
+Multiple supersonic phase fronts launched at a complex-oxide hetero-interface
+Ultrashort Free-Electron Laser X-ray Pulses
+The photoinduced dynamics of X[M(dmit)2]2 salts
+Low-dose fixed-target serial synchrotron crystallography
+Optical melting of the transverse Josephson plasmon: a comparison between bilayer and trilayer cuprates
+A Brief History of Silicene
+Time zero determination for FEL pump-probe studies based on ultrafast melting of bismuth
+Primary Charge Separation in the Photosystem II Reaction Center Revealed by a Global Analysis of the Two-dimensional Electronic Spectra
+Enhancement of superexchange pairing in the periodically driven Hubbard model
+Creating stable Floquet-Weyl semimetals by laser-driving of 3D Dirac materials
+Cold Snapshot of a Molecular Rotary Motor Captured by High‐Resolution Rotational Spectroscopy
+Coherent Enantiomer‐Selective Population Enrichment Using Tailored Microwave Fields
+Nonlinear optical response in molecular nitrogen: from ab-initio calculations to optical pulse simulations
+Dephasing enhanced spin transport in the ergodic phase of a many‐body localizable system
+A First-Principles Time-Dependent Density Functional Theory Framework for Spin and Time-Resolved Angular-Resolved Photoelectron Spectroscopy in Periodic Systems
+Transiently enhanced interlayer tunneling in optically driven high-Tc superconductors
+Optically induced lattice deformations, electronic structure changes and enhanced superconductivity in YBa2Cu3O6.48
+Momentum-Resolved View of Electron-Phonon Coupling in Multilayer WSe2
+h-AlN-Mg(OH)2 van der Waals bilayer heterostructure: Tuning the excitonic characteristics
+Dynamical Stability Limit for the Charge Density Wave in K0.3MoO3
+A three operator split-step method covering a larger set of non-linear partial differential equations
+Charge transfer excitations from particle-particle random phase approximation—Opportunities and challenges arising from two-electron deficient systems
+Imaging aligned OCS molecules by laser induced electron diffraction
+Ellipticity dependence of higher-order harmonics in solids: Unraveling the interplay between intraband and interband dynamics
+Ultrafast electron diffraction study of single-crystal (EDO-TTF)2SbF6: Counterion effect and dimensionality reduction
+Square selenene and tellurene: novel group VI elemental 2D materials with nontrivial topological properties
+[Viewpoint:] Inducing Multiple Reactions with a Single Photon
+Exact Maps in Density-Functional Theory
+Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer
+Introduction to the Physics of Silicene and other 2D Materials
+Generation of narrowband, high-intensity, carrier-envelope phase-stable pulses tunable between 4 and 18 THz
+High Reflectance Nanoscale V/Sc Multilayer for Soft X-ray Water Window Region
+Study on laser characteristics of Ho:YLF regenerative amplifiers: Operation regimes, gain dynamics, and highly stable operation points
+Time-Dependent Extension of the Long-Range Corrected Density Functional Based Tight-Binding Method
+Vortex circulation patterns in planar microdisk arrays
+Optically induced lattice deformations, electronic structure changes, and enhanced superconductivity in YBa2Cu3O6.48
+Simulation of photo-excited adenine in water with a hierarchy of equations of motion approach
+Transient structures and chemical reaction dynamics
+Ground-State Quantum-Electrodynamical Density-Functional Theory
+Probing carrier dynamics in photo-excited graphene with time-resolved ARPES
+Functional theories of thermoelectric phenomena
+Modelling of Polymer-Carbon Nanotube Heterojunctions for Photovoltaic Applications
+Nonequilibrium GW+EDMFT: Antiscreening and Inverted Populations from Nonlocal Correlations
+Mechanism Underlying the Nucleobase-Distinguishing Ability of Benzopyridopyrimidine (BPP)
+Structural Dynamics upon Photoexcitation in a Spin Crossover Crystal Probed with Femtosecond Electron Diffraction
+Nonlocally sensing the magnetic states of nanoscale antiferromagnets with an atomic spin sensor
+Structural Studies of Nicotinoids: Cotinine versus Nicotine
+Dynamical Negative Differential Resistance in Antiferromagnetically Coupled Few-Atom Spin Chains
+Intramolecular London Dispersion Interaction Effects on Gas-Phase and Solid-State Structures of Diamondoid Dimers
+Theory of Laser-Controlled Competing Superconducting and Charge Orders
+Atoms and molecules in cavities, from weak to strong coupling in quantum-electrodynamics (QED) chemistry
+Ellipticity dependence of high-harmonic generation in solids originating from coupled intraband and interband dynamics
+Ultrafast momentum imaging of pseudospin-flip excitations in graphene
+Review of the theoretical description of time-resolved angle-resolved photoemission spectroscopy in electron-phonon mediated superconductors
+Picosecond infrared laser - fibre-assisted-sclerostomy (PIRL-FAST): A first proof of principle analysis
+Exchange-correlation approximations for reduced-density-matrix-functional theory at finite temperature: Capturing magnetic phase transitions in the homogeneous electron gas
+Capturing Chemistry in Action with Electrons: Realization of Atomically Resolved Reaction Dynamics
+Compression of high-density 0.16 pC electron bunches through high field gradients for ultrafast single shot electron diffraction: The Compact RF Gun
+The Primary Photochemistry of Vision Occurs at the Molecular Speed Limit
+Efficient and accurate modeling of electron photoemission in nanostructures with TDDFT
+Anomalous relaxation kinetics and charge density wave correlations in underdoped BaPb1-xBixO3
+Thermal x-ray diffraction and near-field phase contrast imaging
+Nonequilibrium steady states and transient dynamics of conventional superconductors under phonon driving
+Structural Monitoring of the Onset of Excited-State Aromaticity in a Liquid Crystal Phase
+Time-dependent Landauer-Büttiker approach to charge pumping in ac-driven graphene nanoribbons
+Light-enhanced electron-phonon coupling from nonlinear electron-phonon coupling
+Characterization and optimization of a thin direct electron detector for fast imaging applications
+Controlling heat and particle currents in nanodevices by quantum observation
+Robust reconstruction of time-resolved diffraction from ultrafast streak cameras
+Corannulene and its complex with water: a tiny cup of water
+Structural determination and population transfer of 4-nitroanisole by broadband microwave spectroscopy and tailored microwave pulses
+Multielectron effects in strong-field ionization of CO2: Impact on differential photoelectron spectra
+Development of a LaB6 based ultra-bright cold field emitter electron source
+Wound healing study and ablation rate measurements with the novel picosecond infrared laser (PIRL)
+Theoretical study on the photoswitching mechanism of negative reversibly photoswitchable fluorescent proteins
+Modeling linear and non-linear light-matter interactions: From classical to atomistic nanoplasmonics
+Modelling Thermo-Electric Transport and Excited States in Low Dimensional Systems
+Generation of narrowband, high-intensity, carrier-envelope phase stable pulses tunable between 4 and 18 THz
+On the structural intricacies of a metabolic precursor: Direct spectroscopic detection of water-induced conformational reshaping of mevalonolactone
+Anomalous anisotropic exciton temperature dependence in rutile TiO2
+Nuclear Resonant Surface Diffraction of Synchrotron Radiation
+Ultrafast electronic band gap control in an excitonic insulator
+Ab initio Modelling of Plasmons in Metal-semiconductor Bilayer Transition-metal Dichalcogenide Heterostructures
+Silicene on Ag Substrate
+Germanene, Stanene and Other 2D Materials
+Strain Engineering of 2D Materials
+Ellipticity dependence of higher-order harmonics in solids: unraveling the coupled intraband and interband dynamics
+A first principles TDDFT framework for spin and time-resolved ARPES in periodic systems
+Monodisperse Hexagonal Pyramidal and Bipyramidal Wurtzite CdSe-CdS Core–Shell Nanocrystals
+Serial Synchrotron Cryallography with a Fixed Target
+Picoscale materials engineering
+Towards efficient data exchange and sharing for big-data driven materials science: metadata and data formats
+Hot carrier relaxation in CdTe via phonon–plasmon modes
+Cavity Born-Oppenheimer Approximation for Correlated Electron-Nuclear-Photon Systems
+Effective mass of quasiparticles from thermodynamics
+Probing the Fluctuations of Optical Properties in Time-Resolved Spectroscopy
+Electronic band gaps of confined linear carbon chains ranging from polyyne to carbyne
+Dynamical multiferroicity
+Tracking an electronic wave packet in the vicinity of a conical intersection
+Time-resolved soft X-ray absorption spectroscopy in transmission mode on liquids at MHz repetition rates
+Building Complex Kondo Impurities by Manipulating Entangled Spin Chains
+Chirped-pulse Fourier transform millimeter-wave spectroscopy of ten vibrationally excited states of i-propyl cyanide: exploring the far-infrared region
+Attosecond dynamics of light-induced resonant hole transfer in high-order-harmonic generation
+Simultaneous control of magnetic topologies for reconfigurable vortex arrays
+Bypassing the energy-time uncertainty in time-resolved photoemission
+Quantum Electrodynamical Time-Dependent Density Functional Theory
+Electron-energy-loss and time-dependent density functional theory study on the plasmon dispersion in 2H-NbS2
+Ultrafast reversal of the ferroelectric polarization
+Modeling of laser-pulse induced water decomposition on two-dimensional materials by simulations based on time-dependent density functional theory
+Freestanding Silicene
+Multilayer Silicene
+Bimodal supramolecular functionalization of carbon nanotubes triggered by covalent bond formation
+Sensitivity of core-level spectroscopy to electrostatic environments of nitrile groups: An ab initio study
+Protein crystals IR laser ablated from aqueous solution at high speed retain their diffractive properties: applications in high-speed serial crystallography
+Narrowband carrier-envelope phase stable mid-infrared pulses at wavelengths beyond 10  μm by chirped-pulse difference frequency generation
+Emergent elemental two-dimensional materials beyond graphene
+Ultrafast switching of composite order in A3C60
+Ultra‐Fast Control of Magnetic Relaxation in a Periodically Driven Hubbard Model
+Self-consistent DFT + U method for real-space time-dependent density functional theory calculations
+Atomic-scale sensing of the magnetic dipolar field from single atoms
+Capturing the Elusive Water Trimer from the Stepwise Growth of Water on the Surface of the Polycyclic Aromatic Hydrocarbon Acenaphthene
+Enhanced electron-phonon coupling in graphene with periodically distorted lattice
+Fs level laser-to-RF synchronization at REGAE
+Pressure induced phase transition in correlated oxides and simple metals: Mott and charge-transfer insulators
+U(1)×SU(2) gauge invariance made simple for density functional approximations
+An effective magnetic field from optically driven phonons
+Impact of the electronic band structure in high-harmonic generation spectra of solids
+Strongly bound excitons in anatase TiO2 single crystals and nanoparticles

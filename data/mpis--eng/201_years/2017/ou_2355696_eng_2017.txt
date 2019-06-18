@@ -1,0 +1,153 @@
+Tuning the Pseudospin Polarization of Graphene by a Pseudomagnetic Field
+Effect of interactions on quantum-limited detectors
+Coherent control of flexural vibrations in dual-nanoweb fibers using phase-modulated two-frequency light
+Phase sensitivity of gain-unbalanced nonlinear interferometers
+Extremely broadband single-shot cross-correlation frequency-resolved optical gating using a transient grating as gate and dispersive element
+Unconstrained Capacities of Quantum Key Distribution and Entanglement Distillation for Pure-Loss Bosonic Broadcast Channels
+Broadband high-resolution multi-species CARS in gas-filled hollow-core photonic crystal fiber
+Towards next-generation label-free biosensors: recent advances in whispering gallery mode sensors
+Dimensionality of random light fields
+Generic method for lossless generation of arbitrarily shaped photons
+High-dimensional intracity quantum cryptography with structured photons
+Generation of microjoule pulses in the deep ultraviolet at megahertz repetition rates
+Flexible femtosecond inscription of fiber Bragg gratings by an optimized deformable mirror
+Nanoscale characterization of GaN/InGaN multiple quantum wells on GaN nanorods by photoluminescence spectroscopy
+Experimental realization of an absolute single-photon source based on a single nitrogen vacancy center in a nanodiamond
+Small sets of complementary observables
+Higher-order mode suppression in twisted single-ring hollow-core photonic crystal fibers
+Continuously wavelength-tunable high harmonic generation via soliton dynamics
+Generation of unipolar half-cycle pulses via unusual reflection of a single-cycle pulse from an optically thin metallic or dielectric layer
+On diagnostics of media using extremely short terahertz radiation pulses
+Many-Particle Dephasing after a Quench
+Phase-Insensitive Scattering of Terahertz Radiation
+Optical alignment of oval graphene flakes
+Anderson localization of composite excitations in disordered optomechanical arrays
+General Linearized Theory of Quantum Fluctuations around Arbitrary Limit Cycles
+Experimental demonstration of a predictable single photon source with variable photon flux
+Unraveling beam self-healing
+Chip-Based All-Optical Control of Single Molecules Coherently Coupled to a Nanoguide
+Invariant perfect tensors
+Coherent Coupling of a Single Molecule to a Scanning Fabry-Perot Microcavity
+Optimally cloned binary coherent states
+A Single-Emitter Gain Medium for Bright Coherent Radiation from a Plasmonic Nanoresonator
+Efficient Nitrogen Doping of Single-Layer Graphene Accompanied by Negligible Defect Generation for Integration into Hybrid Semiconductor Heterostructures
+Universality of Coherent Raman Gain Suppression in Gas-Filled Broadband-Guiding Photonic Crystal Fibers
+Enhanced Control of Transient Raman Scattering Using Buffered Hydrogen in Hollow-Core Photonic Crystal Fibers
+Quantum-limited measurements of optical signals from a geostationary satellite
+Free-space propagation of high-dimensional structured optical fields in an urban environment
+Production of Isolated Giant Unilamellar Vesicles under High Salt Concentrations
+Optimal measurements for resolution beyond the Rayleigh limit
+Plasmonic gold helices for the visible range fabricated by oxygen plasma purification of electron beam induced deposits
+Light-matter interactions in multi-element resonators
+Optical gating and streaking of free electrons with sub-optical cycle precision
+Quantum field theory and classical optics: determining the fine structure constant
+New self-dual additive F_4-codes constructed from circulant graphs
+Some results on the structure of constacyclic codes and new linear codes over GF(7) from quasi-twisted codes
+Roadmap on structured light
+Pseudomagnetic fields for sound at the nanoscale
+Fluorescence intermittency originates from reclustering in two-dimensional organic semiconductors
+Core-Shell Plasmonic Nanohelices
+Real time monitoring of membrane GPCR reconstitution by plasmon waveguide resonance
+Numerical and experimental analysis of polarization dependent gain vector in Brillouin amplification system
+From Kardar-Parisi-Zhang scaling to explosive desynchronization in arrays of limit-cycle oscillators
+Radiation of a resonant medium excited by few-cycle optical pulses at superluminal velocity
+All-optical control of unipolar pulse generation in a resonant medium with nonlinear field coupling
+Cavity-Enhanced Transport of Charge
+Laser-Patterning Engineering for Perovskite Solar Modules With 95% Aperture Ratio
+Low temperature solid-state wetting and formation of nanowelds in silver nanowires
+Strong plasmonic enhancement of biexciton emission: controlled coupling of a single quantum dot to a gold nanocone antenna
+Coarse graining the phase space of N qubits
+Progress toward optimal quantum tomography with unbalanced homodyning
+Superiority of heterodyning over homodyning: An assessment with quadrature moments
+Multiparameter quantum metrology of incoherent point sources: Towards realistic superresolution
+Quantum metrology at the limit with extremal Majorana constellations
+Polarization and phase shifting interferometry
+Experimental demonstration of a predictable single photon source with variable photon flux (vol 54, pg 218, 2017)
+Polarization and phase-shifting interferometry for arbitrary, locally varying polarization states
+Photon bunching reveals single-electron cathodoluminescence excitation efficiency in InGaN quantum wells
+Fresnel-Reflection-Free Self-Aligning Nanospike Interface between a Step-Index Fiber and a Hollow-Core Photonic-Crystal-Fiber Gas Cell
+Development of an optimal filter substrate for the identification of small microplastic particles in food by micro-Raman spectroscopy
+Potential of PEDOT: PSS as a hole selective front contact for silicon heterojunction solar cells
+Multiphoton Effects Enhanced due to Ultrafast Photon-Number Fluctuations
+Directivity Based Nanoscopic Position Sensing
+Analytical formulation for the bend loss in single-ring hollow-core photonic crystal fibers
+Population density gratings induced by few-cycle optical pulses in a resonant medium
+Synchronization of an optomechanical system to an external drive
+Generalized non-reciprocity in an optomechanical circuit via synthetic magnetism and reservoir engineering
+Discrete phase-space structures and Wigner functions for N qubits
+Improving the phase super-sensitivity of squeezing-assisted interferometers by squeeze factor unbalancing
+Helically twisted photonic crystal fibres
+Pore spanning membranes as a versatile biomimetic tool to study phase separation and lipid diffusion
+Polarization-Selective Out-Coupling of Whispering-Gallery Modes
+Experimental detection of entanglement polytopes via local filters
+Low-loss single-mode negatively curved square-core hollow fibers
+Hybrid photonic-crystal fiber
+How Latitude Location on a Micro-World Enables Real-Time Nanoparticle Sizing
+Plasmon coherence determination by nanoscattering
+Rapid screening of photoactivatable metallodrugs: photonic crystal fibre microflow reactor coupled to ESI mass spectrometry
+Acceleration of sub-relativistic electrons with an evanescent optical wave at a planar interface
+Detection Loss Tolerant Supersensitive Phase Measurement with an SU(1,1) Interferometer
+Small slot waveguide rings for on-chip quantum optical circuits
+Effect of stray fields on Rydberg states in hollow-core PCF probed by higher-order modes
+Label-free optical detection of single enzyme-reactant reactions and associated conformational changes
+Free-space quantum links under diverse weather conditions
+Experimental demonstration of negative-valued polarization quasiprobability distribution
+Quantum communication with coherent states of light
+Characterization and shaping of the time-frequency Schmidt mode spectrum of bright twin beams generated in gas-filled hollow-core photonic crystal fibers
+Fundamental precision limit of a Mach-Zehnder interferometric sensor when one of the inputs is the vacuum
+Temporal shaping of single photons enabled by entanglement
+Interaction Between Dirac Solitons and Jackiw-Rebbi States in Binary Waveguide Arrays
+Generation of spectral clusters in a mixture of noble and Raman-active gases (vol 41, pg 5543, 2016)
+Multi-event waveform-retrieved distributed optical fiber acoustic sensor using dual-pulse heterodyne phase-sensitive OTDR
+Stabilization of class-B broad-area laser emission by external optical injection
+Generation of unipolar pulses in nonlinear media
+Nonlinear-Photonics Devices on the Basis of the Coherent Interaction of Optical Radiation with Resonant Media (a Review)
+Theory of metasurface based perfect absorbers
+Chiral Plasmonic Core-Shell Nanohelices
+Fundamental limits of optical force and torque
+A single molecule as a high-fidelity photon gun for producing intensity-squeezed light
+Free space excitation of coupled Anderson-localized modes in photonic crystal waveguides with polarization tailored beam
+Mid-infrared dispersive wave generation in gas-filled photonic crystal fibre by transient ionization-driven changes in dispersion
+Complementarity and Polarization Modulation in Photon Interference
+Effect of ammonification temperature on the formation of coaxial GaN/Ga2O3 nanowires
+Understanding GaN/InGaN core-shell growth towards high quality factor whispering gallery modes from non-polar InGaN quantum wells on GaN rods
+Levitated Plasmonic Nanoantennas in an Aqueous Environment
+Mode Matching for Optical Antennas
+The Formation of Calcified Nanospherites during Micropetrosis Represents a Unique Mineralization Mechanism in Aged Human Bone
+Fiber-Coupled 2-D n-i-pn-i-p Superlattice Photomixer Array
+PHz-Wide Spectral Interference Through Coherent Plasma-Induced Fission of Higher-Order Solitons
+Refractometry-based air pressure sensing using glass microspheres as high-Q whispering-gallery mode microresonators
+Reduction of phase singularities in a speckle Michelson setup
+Broadband, Lensless, and Optomechanically Stabilized Coupling into Microfluidic Hollow-Core Photonic Crystal Fiber Using Glass Nanospike
+Extracting the physical sector of quantum states
+Lempel-Ziv Complexity of Photonic Quasicrystals
+Orbital angular momentum modes of high-gain parametric down-conversion
+Photochemistry in a soft-glass single-ring hollow-core photonic crystal fibre
+High average power and single-cycle pulses from a mid-IR optical parametric chirped pulse amplifier
+Generation of broadband mid-IR and UV light in gas-filled single-ring hollow-core PCF
+Quantum-coherent phase oscillations in synchronization
+Linear and angular momenta in tightly focused vortex segmented beams of light
+Noncritical generation of nonclassical frequency combs via spontaneous rotational symmetry breaking
+Using the focal phase to control attosecond processes
+Optical gating and streaking of free electrons with sub-optical cycle precision
+Tracing the phase of focused broadband laser pulses
+Soft-glass photonic crystal fibers: from advanced fabrication techniques to novel applications
+Photonic crystal fibers for generating three-photon states
+High Resolution Position Measurement of "Flying Particles" Inside Hollow-Core Photonic Crystal Fiber
+Topology of Light and Sound
+High visibility in two-color above-threshold photoemission from tungsten nanotips in a coherent control scheme
+Dielectric laser acceleration of sub-relativistic electrons by few-cycle laser pulses
+Demonstration of local teleportation using classical entanglement
+Focusing characteristics of a 4 pi parabolic mirror light-matter interface
+Significant performance enhancement of InGaN/GaN nanorod LEDs with multi-layer graphene transparent electrodes by alumina surface passivation
+Cavity Antiresonance Spectroscopy of Dipole Coupled Subradiant Arrays
+The Multifaceted World of Photonic Crystal Fibres
+Ultrafast carrier dynamics in GaN/InGaN multiple quantum wells nanorods
+Gaussian and Non-Gaussian Highly Multimode Quantum Light
+L lines, C points and Chern numbers: understanding band structure topology using polarization fields
+Shifting the phase of a coherent beam with a Yb-174(+) ion: influence of the scattering cross section
+Cavity optomechanics in a levitated helium drop
+Cryogenic optical localization provides 3D protein structure data with Angstrom resolution
+Codes for Simultaneous Transmission of Quantum and Classical Information
+Joint measurement of complementary observables in moment tomography
+Preparation of single photon states with rising exponential shape

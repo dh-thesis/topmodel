@@ -1,0 +1,72 @@
+Evolution of a salt marsh in the southeastern North Sea region - Anthropogenic and natural forcing
+Influence of anthropogenic activities on metals in Arctic permafrost: A characterization of benchmark soils on the Yamal and Gydan Peninsulas in Russia
+Tropical rainfall predictions from multiple seasonal forecast systems
+Seasonal predictability of European summer climate re-assessed
+Disproportionately strong climate forcing from extratropical explosive volcanic eruptions
+The future regime of Atlantic nutrient supply to the Northwest European Shelf
+Measuring area-averaged vertical motions with dropsondes
+Diving into the past - a paleo data-model comparison workshop on the Late Glacial and Holocene
+Characterization of wind-shear effects on entrainment in a convective boundary layer
+Summers with low Arctic sea ice linked to persistence of spring atmospheric circulation patterns
+Trends of intense cyclone activity in the Arctic from reanalyses data and regional climate models (Arctic-CORDEX)
+Detecting regional modes of variability in observation-based surface ocean pCO2
+User-oriented global predictions of the GPCC drought index for the next decade
+Urbanization and climate change: Insights from eco-hydrological diagnostics
+Influence of anthropogenic emission inventories on simulations of air quality in China during winter and summer 2010
+Calibration of a 35 GHz airborne cloud radar: Lessons learned and intercomparisons with 94 GHz cloud radars
+Downscaling SMAP soil moisture estimation with gradient boosting decision tree regression over the Tibetan Plateau
+Assessing the scales in numerical weather and climate predictions: Will Exascale be the rescue?
+Observations and models of low-mode internal waves in the ocean
+The interior energy pathway: Inertia-gravity wave emission by oceanic flows
+Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal
+Diurnal cloud and circulation changes in simulated tropical cyclones
+Preface: Ernst Maier-Reimer and his way of modelling the ocean
+Diving into the Past: A Paleo Data–Model Comparison Workshop on the Late Glacial and Holocene
+The impact of the Madden-Julian Oscillation on hydrological extremes
+Convectively generated gravity waves and convective aggregation in numerical models of tropical dynamics
+Deep learning and process understanding for data-driven Earth system science
+Characterizing the vertical distribution of chlorophyll-a in the German Bight
+Carbonate dissolution enhanced by ocean stagnation and respiration at the onset of the Paleocene-Eocene thermal maximum
+Nonlocal effects dominate the global mean surface temperature response to the biogeophysical effects of deforestation
+Risks of precipitation extremes over Southeast Asia: does 1.5 degrees °C or 2 degrees °C global warming make a difference?
+The role of local surface temperature pattern changes in shaping climate change in the North Atlantic sector
+Ensemble forecasts of air quality in eastern China - Part 2: Evaluation of the MarcoPolo-Panda prediction system, version 1
+The Polar Amplification Model Intercomparison Project (PAMIP) contribution to CMIP6: investigating the causes and consequences of polar amplification
+Effects of solar activity variations on dynamical processes in the atmosphere: Analysis of empirical data and modeling
+Slowdown of the Walker circulation at solar cycle maximum
+The two diurnal modes of tropical upward motion
+Northern hemisphere monsoon response to mid-holocene orbital forcing and greenhouse gas-induced global warming
+Heinrich events show two-stage climate response in transient glacial simulations
+Towards operational predictions of the near-term climate
+Establishing causation in climate litigation: admissibility and reliability
+On the Role of the eastern Pacific teleconnection in ENSO impacts on wintertime weather over East Asia and North America
+Earth system models underestimate Carbon fixation by plants in the high lattitudes
+DCMIP2016: the splitting supercell test case
+Widespread global peatland establishment and persistence over the last 130,000 y
+Initialization and ensemble generation for decadal climate predictions: A comparison of different methods
+Historical background and current developments for mapping burned area from satellite Earth observation
+The role of tides in the spreading of Mediterranean outflow waters along the Southwestern Iberian margin
+The variable southern ocean carbon sink
+Impact of SST diurnal cycle on ENSO asymmetry
+A statistical model for isolated convective precipitation events
+Harmonising plant funtional type distributions for evaluating Earth System Models
+Ensemble forecasts of air quality in eastern China - Part 1: Model description and implementation of the MarcoPolo-Panda prediction system, version 1
+Cloud feedbacks in extratropical cyclones: insight from long-term satellite data and high-resolution global simulations
+Quantifying the irreducible uncertainty in near-term climate projections
+China and India lead in greening of the world through land-use management
+Wintertime fCO2 variability in the subpolar North Atlantic since 2004
+Modeling the consequences of land plant evolution on silicate weathering
+Diagnosing the influence of mesoscale eddy fluxes on the deep western boundary current in the 1/10° STORM / NCEP simulation
+Targeting carbon dioxide removal in the European Union
+Size distributions of arctic waterbodies reveal consistent relations in their statistical moments in space and time
+Climate information for the preservation of cultural heritage: needs and challenges
+Atlantic inflow to the North Sea modulated by the subpolar gyre in a historical simulation with MPI-ESM
+Predicting the variable ocean carbon sink
+Development and prospects of the regional MiKlip decadal prediction system over Europe: Predictive skill, added value of regionalization and ensemble size dependency
+The IDEMIX model: parameterization of internal gravity waves for circulation models of ocean and atmosphere
+Energetics of the climate system
+Simulating growth-based harvest adaptive to future climate change
+An effective drift correction for dynamical downscaling of decadal global climate predictions
+Clarifying the relative role of forcing uncertainties and initial-condition unknowns in spreading the climate response to volcanic eruptions
+State-of-the-art global models underestimate impacts from climate extremes
+First forcing estimates from the future CMIP6 scenarios of anthropogenic aerosol optical properties and an associated Twomey effect

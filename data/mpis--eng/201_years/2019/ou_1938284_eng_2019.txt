@@ -1,0 +1,36 @@
+Density-matrix embedding theory study of the one-dimensional Hubbard-Holstein model
+Fixed-target serial oscillation crystallography at room temperature
+X-ray Emission Spectroscopy at X-ray Free Electron Lasers: Limits to Observation of the Classical Spectroscopic Response for Electronic Structure Analysis
+The effect of Coulomb repulsion on the space-time resolution limits for ultrafast electron diffraction
+Cavity Quantum-Electrodynamical Chern Insulator: Route Towards Light-Induced Quantized Anomalous Hall Effect in Graphene
+Local adsorption structure and bonding of porphine on Cu(111) before and after self-metalation
+Nonadiabatic quantum dynamics without potential energy surfaces
+Thermal and nonthermal melting of III-V compound semiconductors
+Ultrafast Energy Transfer in Excitonically Coupled Molecules Induced by a Nonlocal Peierls Phonon
+Controlling Nanoparticle Orientations in the Self-Assembly of Patchy Quantum Dot-Gold Heterostructural Nanocrystals
+The ultrafast Einstein–de Haas effect
+Big data approach for effective ionic radii
+Nonlinear polarization evolution using time-dependent density functional theory
+Unraveling materials Berry curvature and Chern numbers from real-time evolution of Bloch states
+Cavity-mediated electron-photon superconductivity
+Ab initio simulation of laser-induced water decomposition close to carbon nanotubes
+Ultrafast Pathways of the Photoinduced Insulator–Metal Transition in a Low‐Dimensional Organic Conductor
+Efficient computation of the second-Born self-energy using tensor-contraction operations
+Quantum theory of superfluorescence based on two-point correlation functions
+Theory for Electron Excitation in Dielectrics under an Intense Linear and Circularly Polarized Laser Fields
+Terahertz-driven phonon upconversion in SrTiO3
+Asymmetry in energy versus spin transport in certain interacting disordered systems
+Polarization-state-resolved high-harmonic spectroscopy of solids
+SALMON: Scalable Ab-initio Light–Matter simulator for Optics and Nanoscience
+Sampling of Tissues with Laser Ablation for Proteomics: Comparison of Picosecond Infrared Laser and Microsecond Infrared Laser
+Hidden order in quantum many-body dynamics of driven-dissipative nonlinear photonic lattices
+Stimulated resonant inelastic x-ray scattering with chirped, broadband pulses
+Time-resolved impurity-invisibility in graphene nanoribbons
+Measuring non-equilibrium dynamics in complex solids with ultrashort x-ray pulses
+Highly stable, 100 W average power from fiber-based ultrafast laser system at 1030 nm based on single-pass photonic-crystal rod amplifier
+Strictly-correlated-electron approach to excitation energies of dissociating molecules
+Distinguishing Majorana Zero Modes from Impurity States through Time-Resolved Transport
+Orbital magneto-optical response of periodic insulators from first principles
+Spectroscopic Determination of the Electronic Structure of a Uranium Single‐Ion Magnet
+Modification of excitation and charge transfer in cavity quantum-electrodynamical chemistry
+Functional Printing of Conductive Silver-Nanowire Photopolymer Composites

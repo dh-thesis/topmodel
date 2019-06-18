@@ -1,0 +1,460 @@
+Assessment of impact of climate change on the blue and green water resources in large river basins in China
+Regional climate modelling in CLARIS-LPB: a concerted approach towards twentyfirst century projections of regional temperature and precipitation over South America
+One metaphor – several meanings: An interdisciplinary approach to sustainable development
+Ash iron mobilization through physicochemical processing in volcanic eruption plumes : a numerical modeling approach
+Non-exponential return time distributions for vorticity extremes explained by fractional Poisson processes
+A limiter-based well-balanced discontinuous Galerkin method for shallow-water flows with wetting and drying: One-dimensional case
+Impacts of regional mixing on the temperature structure of the equatorial Pacific Ocean. Part 2: Depth-dependent vertical diffusion
+Uncertainty in estimations of sea level change in northern Europe due to internal climate variability
+Drivers of past and future Arctic sea-ice evolution in CMIP5 models
+Investigation of Spatial Sensitivities in view of a Cost-Effectiveness Analysis of Stratospheric Sulfur Aerosol Solar Radiation Management
+Impact of Sahara dust on solar radiation at Cape Verde Islands derived from MODIS and surface measurements
+Quasi-nodal third-order Bernstein polynomials in a discontinuous Galerkin model for flooding and drying
+Spatial patterns in CO2 evasion from the global river network
+Heritage and climate change: a fatal affair
+Human mobility, climate adaptation, and development
+What controls the size of a tropical cyclone? Investigations with an axisymmetric model
+Variability in the abundance and species composition of diatoms in sinking particles in the northern South China Sea: Results from time-series moored sediment traps
+Nationalisms and Identities among Indigenous Peoples: Case Studies from North America
+Securitizing Global Warming
+Revisiting the Energetics of the Ocean in Boussinesq Approximation
+The Connection between Southern Ocean Winds, the Atlantic Meridional Overturning Circulation, and Indo-Pacific Upwelling
+How do soil properties affect alpine treelines? General principles in a global perspective and novel findings from Rolwaling Himal, Nepal
+A dynamical systems explanation of the Hurst effect and atmospheric low-frequency variability
+Impacts of regional mixing on circulations in the equatorial Pacific Ocean. Part 1: Vertically uniform vertical diffusion
+Socio-economic Impacts-Forestry and Agriculture
+Assimilation of oceanic observations in a global coupled Earth system model with the SEIK filter
+Turbulence and mixing by internal waves in the Celtic Sea determined from ocean glider microstructure measurements
+Climate Change and Genocide : Environmental Violence in the 21st Century
+The North Sea : A shelf sea in the Anthropocene
+Do N-isotopes in atmospheric nitrate deposition reflect air pollution levels?
+Seasonal response of air–water CO2 exchange along the land–ocean aquatic continuum of the northeast North American coast
+Visiting artist researchers as therapists for climate scientists
+Applying the rules: Testing European refugee and asylum policy
+Analysis of CAPE in Intensifying Tropical Cyclones Simulated by CM1
+Forecast Skill Visualization in Climate Research
+Constructions of climate justice in German, Indian and US media
+Nitrogen cycling in the northern Benguela Upwelling system based on the δ15N of chlorophyll pigment
+Statistical mechanics of the fluctuations of a turbulent quasi-geostrophic model of the atmosphere: instabilities and feedbacks
+Decadal to centennial variability of daily wind over Northern Europe and its application to migrating dunes in the Baltic Sea region
+Efficient Bayesian inference for ARFIMA processes
+A new hierarchically-structured n-dimensional covariant form of rotating equations of geophysical fluid dynamics
+Remote Sensing of Sustainable Rural-Urban Land Use in Mexico City : a Qualitative Analysis for Reliability and Validity
+Multi-model Simulations of Arctic Ocean Sea Surface Height Variability in the Period 1970-2009
+A holistic view of marine regime shifts
+Climate sciences meet visual arts
+Snow thickness retrieval from L-band brightness temperatures: a model comparison
+Prevailing climatic trends and runoff response from Hindukush-Karakoram-Hiamalaya
+Improved Sea Level record over the satellite altimetry era (1993-2010) from the Climate Change Initiative project
+Quality Assessment of Space-borne Sea Surface Salinity Observations over the Subpolar North Atlantic
+Thermal structure and basal sliding parametrisation at Pine Island Glacier – a 3-D full-Stokes model study
+Zeeman effect in atmospheric O2 measured by ground-based microwave radiometry
+Artistic research — why and wherefore?
+Socio-environmental cooperation and conflict? A discursive understanding and its application to the case of Israel and Palestine
+Carbon
+Establishing the skill of climate field reconstruction techniques for precipitation with pseudoproxy experiments
+Anomalous dispersion of sea ice in the Fram Strait region
+Artistic research and climate science: transdisciplinary learning and spaces of possibilities
+Making sense of (exceptional) causal relations. A cross-cultural and cross-linguistic study
+Improved retrieval of sea ice thickness from SMOS and CRYOSAt-2
+Ecosystem Services in Coastal and Marine Areas – Scientific State of the Art and Research Needs
+High methane emissions dominated annual greenhouse gas balances 30 years after bog rewetting
+The Portal Component, Strategic Perspectives and Review of Tactical plans for Full Implementation of WUDAPT
+Lead detection in Arctic sea ice from CryoSat-2 : quality assessment, lead area fraction and with distribution
+Rezension von: Andreas Pettenkofer: Die Entstehung der grünen Politik. Kultursoziologie der westdeutschen Umweltbewegung
+System for automated geoscientific analyses (SAGA) v. 2.1.4
+Climatology of Mediterranean cyclones
+The impact of snow depth, snow density and ice density on sea ice thickness retrieval from satellite radar altimetry : results from the ESA-CCI Sea Ice ECV Project Round Robin Exercise
+Carbon dioxide production potential in soils of a degraded peatland
+Barriers to Migration as an Adaptation Strategy to Climate Change (and Other Governance Failures): A Case Study of Hamburg
+Estimating Ocean Bottom Friction by Assimilating Tidal Information into a Global Barotropic Tidal Model
+SPARE-ICE Satellite Cloud Ice Retrievals
+Analysing uncertainties in the calculation of fluxes using whole-plant chambers: random and systematic errors
+Decadal variability and trends of the Benguela Upwelling System as simulated in a high-resolution ocean simulation
+Climate-related flood risks and urban responses in the Pearl River Delta, China
+Assessing the sustainability in community based forestry: A case from Nepal
+Inter-comparison and evaluation of sea ice algorithms: towards further identification of challenges and optimal approach using passive microwave observations
+Pacific Ocean surface freshwater variability underneath the double ITCZ as seen by satellite sea surface salinity retrievals
+Systematic decomposition of the Madden-Julian Oscillation into balanced and inertio-gravity components
+Hurricane Gonzalo and its Extratropical Transition to a Strong European Storm
+Influence of large offshore wind farms on North German climate
+Changes in the predictability of the North Atlantic ocean under global warming
+Inter-Calibration of Microwave Temperature Sounders using Radio Occultation Measurements
+NCL - a workhorse for data analysis and visualization in climate research
+Impacts of regional mixing on the temperature structure of the equatorial Pacific Ocean. Part 1: Vertically uniform vertical diffusion
+Mediatized Opinion Leaders: New Patterns of Opinion Leadership in New Media Environments?
+Climate targets and cost effective climate stabilization pathways
+Visualization and Analysis of Climate Simulation Performance Data
+Tall wind profiles in heteorogeneous terrain
+Hydrological extremes in the Aksu-Tarim River Basin and midlatitude atmospheric circulation: climatology and regime shift
+Low-frequency climate variability of an aquaplanet
+Storminess over the North Atlantic and Northwestern Europe : A review
+Mapping local climate zones for a worldwide database of the form and function of cities
+Modeling the role of pH on Baltic Sea Cyanobacteria
+Reconciling collaborative action research with existing institutions: insights from Dutch and German climate knowledge programmes
+Tidal controls on trace gas dynamics in a seagrass meadow of the Ria Formosa lagoon (southern Portugal)
+Urban-induced changes in tree leaf litter accelerate decomposition
+Glacial-interglacial changes in bottom-water oxygen content on the Portuguese margin
+Climate change adaptation under a social capital approach : an analytical framework for small islands
+Carbon governance in China by the creation of a carbon market
+Gender, conflict and global environmental change
+Storm Surge Case Studies
+Mean spring conditions at Helgoland Roads, North Sea: Graphical modeling of the influence of hydro-climatic forcing and Elbe River discharge
+Marine ecosystem regime shifts: challenges and opportunities for ecosystem-based management
+Contrasting sea surface temperature of summer and winter monsoon variability in the northern Arabian Sea over the last 25 ka
+The LatMix Summer Campaign: Submesoscale Stirring in the Upper Ocean
+Nitrate drawdown and its unexpected isotope effect in the Danube estuarine transition zone
+Climate change and military planning
+Modelling forest lines and forest distribution patterns with remote sensing data in a mountanious region of semi-arid Central Asia
+Linking sediment and sentiment: on observing a sci-art project
+Recent Change—Sea Level and Wind Waves
+Coupling a minimal stochastic lattice gas model of a cloud system to an atmospheric general circulation model
+Detecting anthropogenic footprints in sea level rise
+Uncertainties in Antarctic sea-ice thickness retrieval from ICESat
+Ocean Velocity and Tracer Wavenumber Spectra inferred from Remote Sensing Data and Numerical Simulations
+Assessment of Medicane characteristics in reanalysis and station data
+Bioenergy and Irrigation in an integrated Climate Model Analysis
+Temporal and spatial extrapolation of carbon dioxide exchange fluxes of polygonal tundra applying a satellite and reanalysis data-driven model
+Recent advances in thermal remote sensing for urban planning and management
+Comparing isopycnal eddy diffusivities in the Southern Ocean with predictions from linear theory
+Von weitem sieht man besser: Satellitensensoren und andere Akteure der Versicherheitlichung
+CENSUS of Cities: LCZ Classification of Cities (Level 0): Workflow and Initial Results from Various Cities
+The dynamic soil organic carbon mitigation potential of European cropland
+Spatial and temporal scales of sea surface salinity variability in the Atlantic Ocean
+Inverse Energy Cascades in an Eddy-Induced NAO-Type Flow: Scale Interaction Mechanism
+Pulsed Vulcanian explosions : A characterization of eruption dynamics using Doppler radar
+How many days are required to represent the urban climate statistics?
+On the microwave optical properties of randomly oriented ice hydrometeors
+MEVA - An interactive visualization application for validation of multifaceted meteorological data with multiple 3D devices
+Blickpunkt Küste: Aktuelle Forschungsansätze in der Meeres- und Küstengeographie
+Avoiding treatment bias of REDD+ monitoring by sampling with partial replacement
+Global radiative and climate effect of the water vapour continuum at visible and near-infrared wavelengths
+Science Media Centres and Public Policy
+Energy Transition in Hamburg and Hong Kong
+Modelling Remobilization of Volcanic Ash from the 1991 Eruption of Mount Hudson Utilizing the Model REMOTE
+Routes to Dissipation under Different Dynamical Conditions
+Both tree and soil carbon need to be quantified for carbon assessments of cities
+Silicon isotope composition of dissolved silica in surface waters of the Elbe Estuary and its tidal marshes
+Analysis of rainfall seasonality from observations and climate models
+Environmental Impacts - Freshwater Biogeochemistry
+The nexus of oil, conflict, and climate change vulnerability of pastoral communities in northwest Kenya
+Predictability of the Atlantic meridional overturning circulation at 26.5°N in two differently initialized hindcast ensembles
+Hydrodynamic Nambu brackets derived by geometric constraints
+Regulation of methane production, oxidation, and emission by vascular plants and bryophytes in ponds of the northeast Siberian polygonal tundra
+ESG and financial performance: aggregated evidence from more than 2000 empirical studies
+Validation of SMOS sea ice thickness retrieval in the northern Baltic Sea
+Konfliktfeld Wasser: Argumente für mehr Kooperation am Nil
+Climate change vulnerability and adaptation options for the coastal communities of Pakistan
+Changes in forest production, biomass and carbon: Results from the 2015 UN FAO Global Forest Resource Assessment
+Comparison and integration of LCZ classification methods based remote sensing and GIS
+Lithological map of the world. - Scale: 1:35 000 000
+Gender, Natural Resources, and Peacebuilding in Kenya and Nepal
+Ecosystem functions of tidal marsh soils of the Elbe estuary
+The impact of advection schemes on restratifiction due to lateral shear and baroclinic instabilities
+Gendering flood early warning systems: the case of Pakistan
+Drought Adaptation and Coping Strategies Among the Turkana Pastoralists of Northern Kenya
+The North Sea — A shelf sea in the Anthropocene
+Social networks in water governance and climate adaptation in Kenya
+To be up in the air — on being a visiting artist researcher in theoretical meteorology
+Evaluation of the GECCO2 ocean synthesis: transports of volume, heat and freshwater in the Atlantic
+Metastability of northern hemisphere teleconnection modes
+Seasonal variations and spatial distributions of perfluoroalkyl substances in the rivers Elbe and lower Weser and the North Sea
+Adaptation to change in the North Sea area Maritime spatial planning as a new planning challenge in times of climate change
+Comparative biogeochemistry–ecosystem–human interactions on dynamic continental margins
+Inorganic carbon fluxes in the inner Elbe estuary, Germany
+The importance of within-system spatial variation in drivers of marine ecosystem regime shifts
+Why do conflicts over scarce renewable resources turn violent? A qualitative comparative analysis
+A comparison of the emergence of wind energy landscapes in France, Germany and Portugal
+Trapped in refuge: the syrian crisis in Jordan worsens
+Making coastal research useful – cases from practice
+Anthropology in the Anthropocene: Sustainable Development, Climate Change and Interdisciplinary Research
+Transition to agroforestry significantly improves soil quality : A case study in the central mid-hills of Nepal
+Reconstructed late Quaternary hydrological changes from Lake Tso Moriri, NW Himalaya
+Migration and global environmental change: methodological lessons from mountain areas of the global South
+A new framework for climate sensitivity and prediction: a modelling perspective
+Systematic physics constrained parameter estimation of stochastic differential equations
+Radiative flux and forcing parameterization error in aerosol-free clear skies
+The Value of Landscapes in Northern Namibia: A System of Intertwined Material and Nonmaterial Services
+Nitrogen cycling in the northern Benguela Upwelling system based on the δ15N of chlorophyll pigment
+Visualization of volumetric seismic data
+Evaluating Delayed Climate Policy by Cost-Risk Analysis
+Modeling the CO2-effects of forest management and wood usage on a regional basis
+A theoretical investigation of the diatom cell size reduction–restitution cycle
+Application of the EOF reduction method to idealized models for the wind-driven ocean and the thermohaline circulation
+The analog-method as statistical upscaling tool for meteorological field reconstructions over Northern Europe since 1850
+Farmers' perceptions of and adaptation strategies to climate change and their determinants : the case of Punjab province, Pakistan
+Impact of Balance Use of Fertilizers on Wheat Efficiency in Cotton Wheat Cropping System of Pakistan
+Marine regime shifts around the globe: theory, drivers and impacts
+Satellite and Ground Based Thermal Observation of the 2014 Effusive Eruption at Stromboli Volcano
+Methane oxidation following submarine permafrost degradation: Measurements from a central Laptev Sea shelf borehole
+Submarine groundwater discharge from tropical islands: a review
+Storm surge risk perception and resilience: A pilot study in the German North Sea coast
+Including trees in the numerical simulations of the wind flow in urban areas: Should we care?
+Anomalous hydrographic conditions in the western Barents Sea observed in March 2014
+Urban planning and climate issues of Beirut and Hamburg: Comparison of approaches and decision-making tools
+The oceanic shipboard precipitation measurement network for surface validation - OceanRAIN
+Climate Change and the Media
+Stoichiometric analysis of nutrient availability (N, P, K) within soils of polygonal tundra
+Developing a community-based worldwide urban morphology and materials database (WUDAPT) using remote sensing and crowdsourcing for improved urban climate modelling
+Source area estimation of urban air temperatures
+Changes in surface solar radiation in Northeastern Spain over the past six centuries recorded by tree-ring δ13C
+Analysis of meteorology–chemistry interactions during air pollution episodes using online coupled models within AQMEII phase-2
+Sensitivity of Tropical Cyclone Activity to Sea Surface Temperature Anomalies in a Global Climate Model
+Mediterranean Cyclones in a High-Resolution Model
+Integrated Assessment and Adaptive Management of Climate Engineering
+Towards an 'Environmental Migration Management' Discourse: A Discursive Turn in Environmental Migration Advocacy
+Local trend disparities of European minimum and maximum temperature extremes
+Large scale atmospheric forcing and topographic modification of precipitation rates over High Asia – a neural network based approach
+Stochastic climate theory and modeling
+A New Global Climatology of Annual Land Surface Temperature
+Climate sciences meet visual arts - The visiting artist researcher experiment
+A halocarbon survey from a seagrass dominated subtropical lagoon, Ria Formosa (Portugal): flux pattern and isotopic composition
+The impact of regional multidecadal and century-scale internal climate variability on sea level trends in CMIP5 models
+Spatial distribution of perfluoroalkyl acids in surface sediments of the German Bight, North Sea
+Climate change, migration and violent conflict: vulnerabilities, pathways and adaptation strategies
+Do Himalayan treelines respond to recent climate change? An evaluation of sensitivity indicators
+Drivers of the 2013/14 winter floods in the UK
+Predictive Skill for Regional Interannual Steric Sea Level and Mechanisms for Predictability
+DigitalCrust - A 4D Data System of Material Properties for Transforming Research on Crustal Fluid Flow
+Climate Change and Environmental Pressure: Adaptation and Resilience of Local Communities in the Hindu-Kush-Himalaya
+The Dynamics of Issue Attention in Online Communication on Climate Change
+Systematic attribution of observed Southern Hemisphere circulation trends to external forcing and internal variability
+Influence of large-scale climate variability on upwelling regimes off the Namibian coast : implications for past and future climates
+The Agency of Politics and Science
+Scale-dependency of the global mean surface temperature trend and its implication for the recent hiatus of global warming
+Going Offshore: Investments in German Wind Energy Under Uncertainty
+Snow height on sea ice and sea ice drift from autonomous measurements from buoy 2015S26, deployed during the Norwegian Young sea ICE cruise N-ICE 2015
+UN-Klimakonferenz 2015 – Wissen, Einstellungen und Zweifel der Deutschen zum Thema Klimapolitik
+‘Heimat’ as a boundary object? Exploring the potentialities of a boundary object to instigate productive science-stakeholder interaction in North Frisia (Germany)
+The European Transdisciplinary Assessment of Climate Engineering (EuTRACE): Removing Greenhouse Gases from the Atmosphere and Reflecting Sunlight away from Earth
+Zur Integration von Wissenschaft und Praxis als Forschungsmodus ─ ein Literaturüberblick
+Disabling the Steering Wheel? National and International Actors' Climate Change Mitigation Strategies in Latin America
+The Climate-Nuclear Nexus: Exploring the linkages between climate change and nuclear threats
+Opinion Leadership Revisited: A Classical Concept in a Changing Media Environment. Editorial Introduction
+Effect of surface properties on tropical cyclone in a global climate model
+Modelling of adaptation to climate change and decision-makers behaviours for the Veluwe forest area in the Netherlands
+Toward a record of Central Pacific El Niño events since 1880
+Covariant Lyapunov vectors of a quasi-geostrophic baroclinic model: analysis of instabilities and feedbacks
+Holocene climate dynamics, biogeochemical cycles and ecosystem variability in the Eastern Mediterranean Sea
+A renormalization approach to the universality of scaling in phyllotaxis
+Earth's climate response to a changing sun
+Vegetation, climate, man—Holocene variability in monsoonal Central Asia
+Forcing, feedback and internal variability in global temperature trends
+Comparison of SSM/I and AMSR-E sea ice concentrations with ASPeCt ship observations around antarctica
+Influence of wind speed on the global variability of burned fraction: A global fire model's perspective
+Variability of winter extreme precipitation in Southeast China: contributions of SST anomalies
+A twentieth-century reanalysis forced ocean model to reconstruct the North Atlantic climate variation during the 1920s
+Extreme precipitation events over north China in August 2010 and their link to eastward-propagating wave-trains across Eurasia: Observations and monthly forecasting
+Potential effects of perfect seasonal climate forecasting on agricultural markets, welfare and land use: A case study of Spain
+Large-scale turbulence modelling via alpha-regularisation for atmospheric simulations
+Forestry professionals' perceptions of climate change, impacts and adaptation strategies for forests in south-west Germany
+The M2 internal tide simulated by a 1/10° OGCM
+Fire emission heights in the climate system - Part 2: Impact on transport, black carbon concentrations and radiation
+Turbulent enhancement of the melt-rate at an ice-ocean interface
+Continental-scale temperature variability in PMIP3 simulations and PAGES 2k regional temperature reconstructions over the past millennium
+Vertical structure and physical processes of the Madden-Julian Oscillation: Exploring key model physics in climate simulations
+Upscaling with the dynamic two-layer classification concept (D2C): TreeMig-2L, an efficient implementation of the forest-landscape model TreeMig
+Reconciling reconstructed and simulated features of the winter Pacific/North American pattern in the early 19th century
+A Lagrangian drop model to study warm rain microphysical processes in a shallow cumulus
+Prognostic precipitation with three liquid water classes in the ECHAM5-HAM GCM
+A vertically discretised canopy description for ORCHIDEE (SVN r2290) and the modifications to the energy, water and carbon fluxes
+Coupling of convection and circulation at various resolutions
+Internally generated decadal cold events in the northern North Atlantic and their possible implications for the demise of the Norse settlements in Greenland
+The Atlantic Multidecadal Oscillation without a role for ocean circulation
+Validation of reactive gases and aerosols in the MACC global analysis and forecast system
+International Geosphere–Biosphere Programme and Earth system science: Three decades of co-evolution
+DNS of a radiatively driven cloud-top mixing layer as a model for stratocumulus clouds
+Additional contributions to CMIP5 regional sea level projections resulting from Greenland and Antarctic ice mass loss
+Controlling entrainment in the smoke cloud using level set-based front tracking
+Transitivity of the climate–vegetation system in a warm climate
+Data assimilation of satellite-retrieved ozone, carbon monoxide and nitrogen dioxide with ECMWF's Composition-IFS
+The water and heat cycles in a coupled ocean-atmosphere-model for the Baltic Sea
+Corrigendum to "Comparing the influence of net and gross anthropogenic land-use and land-cover changes on the carbon cycle in the MPI-ESM" (Biogeosciences, 11, 4817–4828, 2014)
+Interannual coupling between summertime surface temperature and precipitation over land: Processes and implications for climate change
+Evolving particle size is the key to improved volcanic forcings
+Implications of land use changes in tropical West Africa under global warming
+Controls on terrestrial carbon feedbacks by productivity vs. turnover in the CMIP5 Earth System Models
+How well must climate models agree with observations?
+Atmospheric transport of persistent organic pollutants to and from the Arctic under present-day and future climate
+Comparison of climate and carbon cycle dynamics during Late Quaternary interglacials
+The mutual importance of anthropogenically and climate induced changes in global vegetation cover for future land carbon emissions in the MPI-ESM CMIP5 simulations
+Clouds, circulation and climate sensitivity
+The diurnal cycle of marine cloud feedback in climate models
+Variability patterns of the general circulation and sea water temperature in the North Sea
+Numerical models of atmosphere and ocean
+Atmospheric boundary layer: Integrating air chemistry and land interactions
+How complex climate networks complement eigen techniques for the statistical analysis of climatological data
+Pacific variablity under present-day and middle Miocene boundary conditions
+Land unlikely to become large carbon source
+Sustainable early-career networks
+Solar signals in CMIP-5 simulations: The ozone response
+Controlling high-latitude Southern Ocean convection in climate models
+Two methods for estimating limits to large-scale wind power generation
+An economic evaluation of solar radiation management
+Detection and attribution of climate change signal in ocean wind waves
+Fluctuations in a quasi-stationary shallow cumulus cloud ensemble
+Evaluation of European regional reanalyses and downscalings for precipitation in the Alpine region
+Statistical precipitation bias correction of gridded model data using point measurements
+Observed and modeled patterns of covariability between low-level cloudiness and the structure of the trade-wind layer
+Large-eddy simulation of the transient and near-equilibrium behavior of precipitating shallow convection
+Initiation of a runaway greenhouse in a cloudy column
+Strong dependence of CO2 emissions from anthropogenic land cover change on soil carbon parametrization and initial land cover
+Evaluating light rain from satellite- and ground-based remote sensing data over the subtropical North Atlantic
+The Atlantic ITCZ bias in CMIP5 models
+Marine sources of bromoform in the global open ocean - Global patterns and emissions
+Rethinking the default construction of multi-model climate ensembles
+Causal feedbacks in climate change
+Late glacial initiation of Holocene eastern Mediterranean sapropel formation
+A new Geoengineering Model Intercomparison Project (GeoMIP) experiment designed for climate and chemistry models
+The combined effects of changes in ocean chemistry, biology, and hydrodynamics on alkalinity
+Effects of changing ocean circulation on the marine carbon cycle during the Paleocene-Eocene thermal maximum
+A closer look at boundary layer inversion in Large-Eddy Simulations and bulk models: Buoyancy-driven case
+The role of aerosol in altering North Atlantic atmospheric circulation in winter and its impact on air quality
+The quasi-biennial oscillation in a warmer climate: sensitivity to different gravity wave parameterizations
+Temporal and spatial scaling impacts on extreme precipitation
+Large eddy simulation using the general circulation model ICON
+Adjustments in the forcing-feedback framework for understanding climate change
+Vegetation-atmosphere interactions in the early Eocene climate
+A novel approach for absolute radar calibration: Formulation and theoretical validation
+The POLARCAT Model Intercomparison Project (POLMIP): Overview and evaluation with observations
+Aerosol single-scattering albedo over the global oceans: Comparing PARASOL retrievals with AERONET, OMI, and AeroCom models estimates
+The role of climate services in adapting to climate variability and change
+The effect of moist convection on thermally induced mesoscale circulations
+Northern-hemispheric differential warming is the key to understanding the discrepancies in the projected Sahel rainfall
+Climate Symposium 2014: Findings and Recommendations
+Climate for Culture: assessing the impact of climate change on the future indoor climate in historic buildings using simulations
+On the role of soil moisture in the generation of heavy rainfall during the Oder flood event in July 1997
+Polar lower-latitude linkages and their role in weather and climate prediction
+A coordinated modeling assessment of the climate response to volcanic forcing
+WETCHIMP-WSL: intercomparison of wetland methane emissions models over West Siberia
+A minimalist model of terminal lakes: Qinghai Lake (China) and Lake Chad (N Africa)
+Effect of horizontal resolution on ECHAM6-AMIP performance
+Multi-model ensemble forecasts of tropical cyclones in 2010 and 2011 based on the Kalman Filter method
+The potential impact of ocean acidification upon eggs and larvae of yellowfin tuna (Thunnus albacares)
+Mineral dust variability in Antarctic ice for different climate conditions
+The effect of atmospheric radiative heating by clouds on the Madden-Julian Oscillation
+Insights on past and future sea-ice evolution from combining observations and models
+Impact of the soil hydrology scheme on simulated soil moisture memory
+Separation of the effects of land and climate model errors on simulated contemporary land carbon cycle trends in the MPI Earth System Model version 1
+Ensemble-type numerical uncertainty information from single model integrations
+An assessment of a multi-model ensemble of decadal climate predictions
+The prediction of surface temperature in the new seasonal prediction system based on the MPI-ESM coupled climate model
+Arctic sea ice and Eurasian climate: a review
+The influence of cloud feedbacks on equatorial Atlantic variability
+Rethinking the lower bound on aerosol radiative forcing
+Global carbon budget 2014
+Corrigendum to "Evaluating the ocean biogeochemical components of Earth system models using atmospheric potential oxygen and ocean color data" (Biogeosciences, 12, 193–208, 2015)
+Palaeo plant diversity in subtropical Africa – ecological assessment of a conceptual model of climate–vegetation interaction
+Radiative forcing by forest and subsequent feedbacks in the early Eocene climate
+Vegetation dynamics on the Tibetan Plateau (1982 to 2006): An attribution by eco-hydrological diagnostics
+Missing iris effect as a possible cause of muted hydrological change and high climate sensitivity in models
+The nexus of climate change, land use, and conflict: complex human-environment interactions in Northern Africa
+Response of Karakoram-Himalayan glaciers to climate variability and climatic change: A regional climate model assessment
+The evolution of sub-monsoon systems in the Afro-Asian monsoon region during the Holocene comparison of different transient climate model simulations
+Impact of initial conditions versus external forcing in decadal climate predictions: A sensitivity experiment
+The role of the terrestrial biosphere in CLIMBER-2 simulations of the last glacial CO2 cycles
+Influence of ENSO on the QBO: Results from an ensemble of idealized simulations
+Continuous estimate of Atlantic oceanic freshwater flux at 26.5 degrees N
+The hydrological cycle response to cirrus cloud thinning
+The importance of Harmattan surges for the emission of North African dust aerosol
+Eurasian winter cooling in the warming hiatus of 1998-2012
+Ocean biogeochemistry in the warm climate of the late Paleocene
+The role of heterogeneities and land-atmosphere interactions in the development of moist convection
+Effects of injected ice particles in the lower stratosphere on the Antarctic ozone hole
+Persistent drying in the tropics linked to natural forcing
+Using aquaplanets to understand the robust responses of comprehensive climate models to forcing
+An examination of the long-term CO records from MOPITT and IASI: Comparison of retrieval methodology
+The IITM earth system model
+Modeling micro-topographic controls on boreal peatland hydrology and methane fluxes
+Solar signals in CMIP-5 simulations: The stratospheric pathway
+Long-range atmospheric transport of polycyclic aromatic hydrocarbons is worldwide problem-results from measurements at remote sites and modelling
+Catalogue of abrupt shifts in Intergovernmental Panel on Climate Change climate models
+The Geoengineering Model Intercomparison Project Phase 6 (GeoMIP6): Simulation design and preliminary results
+Quantifying the present and future climate impact of wildfire emission heights in an Earth System Model
+Arctic low-level boundary layer clouds: in situ measurements and simulations of mono- and bimodal supercooled droplet size distributions at the top layer of liquid phase clouds
+The North Atlantic deep western boundary current : seasonal cycle, decadal variability and relation to the Atlantic Meridional Overturning Circulation
+Visualization of 2D uncertainty in decadal climate predictions
+Climate, land use, and conflict in Northern Africa
+Global change: Put people at the centre of global risk management
+Evaluation of Eemian and Holocene climate trends: Combining marine archives with climate modelling
+Modelling of mineral dust for interglacial and glacial climate conditions with a focus on Antarctica
+Different El Nino types and intense typhoons in the Western North Pacific
+Analysis of diagnostic climate model cloud parametrizations using large-eddy simulations
+Regionally coupled atmosphere-ocean-sea ice-marine biogeochemistry model ROM. Part 1: Description and validation
+Forests, savannas and grasslands: bridging the knowledge gap between ecology and Dynamic Global Vegetation Models
+Relevance of methodological choices for accounting of land use change carbon fluxes
+Seasonal predictability over Europe arising from El Niño and stratospheric variability in the MPI-ESM seasonal prediction system
+Quasi-biennial oscillation of the tropical stratospheric aerosol layer
+Subcloud-layer feedbacks driven by the mass flux of shallow cumulus convection over land (Corrigendum Vol 71, 881, 2014)
+Ringberg15: Earth's climate sensitivity. 23-27 March, Schloss Ringberg, Germany
+Implementation of the CORINE land use classification in the regional climate model REMO
+Variability and predictability of West African droughts: A review on the role of sea surface temperature anomalies
+A 1D model study of Arctic sea-ice salinity
+The influence of misrepresenting the nocturnal boundary layer on idealized daytime convection in large-eddy simulation
+On the seasonal and synoptic time scale variability of the North Atlantic trades and its low-level clouds
+Modelling the carbon cycle during the Paleocene-Eocene thermal maximum
+Quantifying emerging local anthropogenic emissions in the arctic region: The access aircraft campaign experiment
+Tropical rainforest response to marine sky brightening climate engineering
+Modelling the Carbon cycle during the Paleocene-Eocene thermal maximum
+Europe on fire three thousand years ago: Arson or climate?
+Improving a global model from the boundary layer: Total turbulent energy and the neutral limit Prandtl number
+Projected river discharge in the Euphrates-Tigris Basin from a hydrological discharge model forced with RCM and GCM outputs
+Using simulations of the last millenium to understand variability seen in paleo-observations: Similar variation of Iceland-Scotland overflow strength and Atlantic Multidecadal Oscillation
+Causes of regional change—land cover
+On the discrepancy between observed and simulated dynamical responses of Northern Hemisphere winter climate to large tropical volcanic eruptions
+What is the limit of climate engineering by stratospheric injection of SO2?
+Future directions for the World Climate Research Programme
+The impact of parametrized convection on cloud feedback
+Observations of the variability of shallow trade wind cumulus cloudiness and mass flux
+Plant functional type classification for earth system models: results from the European Space Agency's Land Cover Climate Change Initiative
+The effect of stratospheric sulfur from Mount Pinatubo on tropospheric oxidizing capacity and methane
+The influence of the spectral truncation on the simulation of waves in the tropical stratosphere
+The role of moisture in summertime low-level jet formation and associated rainfall over the East Asian monsoon region
+Controls on terrestrial carbon feedbacks by productivity versus turnover in the CMIP5 Earth System Models
+Free-riders to forerunners
+Global Carbon Budget 2015
+The last four glacial CO2 cycles simulated with the CLIMBER-2 model
+Evaluation of the ESA CCI soil moisture product using ground-based observations
+A Meta-Analysis on the Return on Investment of Geospatial Data and Systems: A Multi-Country Perspective
+Evaluation of seven European aerosol optical depth retrieval algorithms for climate analysis
+Inclusion of ecologically based trait variation in plant functional types reduces the projected land carbon sink in an earth system model
+Interannual variability of winter precipitation in Southeast China
+A case study of multi-annual temperature oscillations in the atmosphere: Middle Europe
+Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6): Experimental design and organisation
+Anthropogenic effects on global mean fire size
+Interannual variability patterns of the world’s total column water content: Amazon River basin
+Validation of an ideal rainfall-runoff chain in a GCM environment
+Impact of fuel variability on wildfire emission estimates
+On the connection between tropical circulation, convective mixing, and climate sensitivity
+Policies, economic incentives and the adoption of modern irrigation technology in China
+Effects of subgrid-scale snow thickness variability on radiative transfer in sea ice
+Fire emission heights in the climate system - Part 1: Global plume height patterns simulated by ECHAM6-HAM2
+Extreme rainfall of the South American monsoon system: A dataset comparison using complex networks
+Coupled simulations of the Greenland ice sheet and climate change up to AD 2300
+The behavior of trade-wind cloudiness in observations and models: the major cloud components and their variability
+Amplified Arctic warming by phytoplankton under greenhouse warming
+On the reduced sensitivity of the Atlantic overturning to Greenland ice sheet melting in projections: a multi-model assessment
+Analysis and application of the ensemble Kalman filter for the estimation of bounded quantities
+Cloud structures and rain formation in the atmospheric boundary layer
+On the thermodynamics of melting sea ice versus melting freshwater ice
+A stochastic parameterization of shallow cumulus convection for high-resolution numerical weather and climate models
+On-line and off-line data assimilation in palaeoclimatology: a case study
+A framework for the cross-sectoral integration of multi-model impact projections: Land use decisions under climate impacts uncertainties
+Evaluation of soil moisture downscaling using a simple thermal-based proxy - the REMEDHUS network (Spain) example
+The signature of aerosols and meteorology in long-term cloud radar observations of trade-wind cumuli
+Contributions of soil moisture interactions to climate change in the tropics in the GLACE–CMIP5 experiment
+West African monsoon rainfall in a warming climate
+Impact of particle shape on the morphology of noctilucent clouds
+Adaptation as climate risk management: Methods and approaches
+Effect of spatial sampling from European flux towers for estimating carbon and water fluxes with artificial neural networks
+Controls on fire activity over the Holocene
+Evaluating the ocean biogeochemical components of Earth system models using atmospheric potential oxygen and ocean color data
+Evaluation of satellite and reanalysis soil moisture products over Southwest China using ground-based measurements
+Multimodel analysis on the response of the AMOC under an increase of radiative forcing and its symmetrical reversal
+Climate extremes in multi-model simulations of stratospheric aerosol and marine cloud brightening climate engineering
+Impact of surface heterogeneities on land surface water and energy fluxes
+Mitigation potential, risks, and side-effects of ocean alkalinity enhancement
+Evaporative cooling amplification of the entrainment velocity in radiatively driven stratocumulus
+How to compare modeled fire dynamics with charcoal records?
+Improving the global applicability of the RUSLE model - Adjustment of the topographical and rainfall erosivity factors
+Mixing driven by radiative and evaporative cooling at the stratocumulus top

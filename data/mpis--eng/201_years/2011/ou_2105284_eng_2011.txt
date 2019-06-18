@@ -1,0 +1,49 @@
+VCG with Communities on Random Ad Hoc Networks
+Pessoa 2.0: A Controller Synthesis Tool for Cyber-Physical Systems
+Excalibur : Building Trustworthy Cloud Services
+On Word-of-Mouth Based Discovery of the Web
+A theory of robust software synthesis
+Provenance as dependency analysis
+Kinetic mesh refinement in 2D
+Defending against large-scale crawls in online social networks
+Privad: Practical Privacy in Online Advertising
+Efficient middleware for Byzantine fault tolerant database replication
+Coordinate-invariant incremental Lyapunov functions
+Iterative Refinement of Specification for Component Based Embedded Systems
+HMC: Verifying Functional Programs Using Abstract Interpreters
+How to Make Ad Hoc Proof Automation Less Ad Hoc
+Large-scale incremental data processing with change propagation
+Self-adjusting stack machines
+Relaxed-Memory Concurrency and Verified Compilation
+Cause Clue Clauses:Error Localization using Maximum Satisfiability
+Verifying Fence Elimination Optimisations
+NetEx : Cost-effective Bulk Data Transfers for Cloud Computing
+Non-Parametric Parametricity
+Incoop: MapReduce for incremental computations
+Performance-Aware Scheduler Synthesis for Control Systems
+Logical Step-Indexed Logical Relations
+Separation Logic in the Presence of Garbage Collection
+Oracle scheduling: controlling granularity in implicitly parallel languages
+Robust Discrete Synthesis against Unspecified Disturbances
+Concurrent Separation Logic and Operational Semantics
+Characteristic formulae for the verification of imperative programs
+Auctions in Do-Not-Track Compliant Internet Advertising
+Regret Freedom Isn’t Free
+Social Trust and Reputation in Online Social Networks
+Bug-Assist: Assisting Fault Localization in ANSI-C Programs
+Incoop : MapReduce for Incremental Computations
+Autonomous Storage Management for Personal Devices with PodBase
+Analyzing Facebook Privacy Settings:User Expectations vs. Reality
+Fighting Cybercrime with Packet Attestation
+Minimum Attention Controller Synthesis for Omega-Regular Objectives
+Parallelism in dynamic well-spaced point sets
+Autonomous storage management for personal devices with PodBase
+Fast parallel and adaptive updates for dual-decomposition solvers
+The Locally Nameless Representation
+The Local and Global Effects of Traffic Shaping in the Internet
+A Kripke Logical Relation Between ML and Assembly
+Peer-to-peer multipoint video conferencing with layered video
+Adaptive exact inference in graphical models
+Finding complex concurrency bugs in large multi-threaded applications
+Bring Order to Online Social Networks
+System Designs for Bulk and User-generated Content Delivery in the Internet

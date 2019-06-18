@@ -1,0 +1,632 @@
+Inter-machine Validation Study of Neoclassical Transport Modelling in Medium - to High-density Stellarator-Heliotron Plasmas
+Influence of the dual-scale random morphology on the heat conduction of plasma-sprayed tungsten via image-based FEM
+NTM stabilization experiments at ASDEX Upgrade
+Investigation of the transport shortfall in Alcator C-Mod L-mode plasmas
+Geodesic acoustic mode frequencies in experimental tokamak equilibria
+Stark effect in neutral hydrogen by direct integration of the Hamiltonian in parabolic coordinates
+Experimental investigation of the potentials modified by radio frequency sheaths during ion cyclotron range of frequency on EAST
+Three-dimensional fluid modeling of plasma edge transport and divertor fluxes during RMP control at ITER
+Recrystallization and grain growth behavior of rolled tungsten under VDE-like short pulse high heat flux loads
+Reduced deuterium retention in self-damaged tungsten exposed to high-flux plasmas at high surface temperatures
+ELM pacing and trigger investigations at JET with the new ITER Like Wall
+Extension of operation regimes and investigation of three-dimensional currentless plasmas in the Large Helical Device
+Progress in characterization of the pedestal stability and turbulence during the edge-localized-mode cycle on National Spherical Torus Experiment
+Corrigendum: Summary of the ARIES Town Meeting: "Edge Plasma Physics and Plasma Material Interactions in the Fusion Power Plant Regime"
+Dissociation of 13CH4 and 15N2 and the global transport of impurities in an ASDEX Upgrade L-mode plasma
+Disruption heat loads and their mitigation in JET with the ITER-like wall
+Real-time reflectometry for plasma control on ASDEX Upgrade - status and future developments
+Broad-band efficiency calibration of ITER bolometer prototypes using Pt absorbers on SiN membranes
+Experimental wavelengths for intrashell transitions in tungsten ions with partially filled 3p and 3d subshells
+Remote-Steering Launchers for the ECRH system on the Stellarator W7-X
+Design of the MITICA neutral beam injector: from physics analysis to engineering design
+Global simulations of GAMs and Alfven instabilities in tokamaks with the gyrokinetic codes NEMORB and LIGKA
+Scaling of the tokamak near scrape-off layer H-mode power width and implications for ITER
+Global gyrokinetic ion temperature gradient turbulence simulations of ITER
+Reflection of Gyrotron TEon Modes at Open-Ended Circular Waveguide
+Integrated commissioning of ECRH for W7-X
+Do we need a Quality Management System in Fusion Research? – Experience from W7-X
+Modification of scrape-off layer transport and turbulence by non-axisymmetric magnetic perturbations in ASDEX Upgrade
+Injection of nitrogen-15 tracer into ASDEX-Upgrade: New technique in material migration studies
+Enhanced microstability in quasi-isodynamic stellarators
+A pellet cloud database to investigate isotope effects for ASDEX Upgrade
+Assessment of H&CD System Capabilities for DEMO
+EU development of the ITER neutral beam injector and test facilities
+TEM observations of radiation damage in tungsten irradiated by 20 MeV W ions
+Demonstration of the ITER Baseline Scenario on ASDEX Upgrade
+Investigation of the pellet cloud radiation dynamics at ASDEX Upgrade
+Symmetries and Asymmetries in the Divertor Detachment in ASDEX Upgrade
+Optimization of out-vessel magnetic diagnostics for plasma boundary reconstruction in tokmaks
+Features of an electricity supply system based on variable input
+Optimized Stellarator as a Candidate for a Fusion Power Plant
+Behavior of zonal flows and transport in the high-rs-regime
+Inter-machine validation study of neoclassical transport modelling in medium- to high-density stellarator-heliotron plasmas
+Empirical scaling of inter-ELM power widths in ASDEX Upgrade and JET
+Investigation of Dielectronic Recombination Satellite Emission to Fe XVIII for Temperature Measurements of Stellar Atmospheres
+International Perspectives on a Path to MFE DEMO
+Comparisons between EDGE2D/EIRENE simulations and D and low Z impurity spectral emission from JET ITER-like wall L-mode plasmas
+Temperature dependence of D atom adsoption on polycrystalline tungsten
+Influence of assembly and operation asymmetries on Wendelstein 7-X magnetic field perturbations
+Modelling of JET hybrid scenarios with the European Transport Solver
+Mitigation of Edge Localised Modes with small non-axisymmetric magnetic perturbations in ASDEX Upgrade
+Numerical studies of effects associated with the Super-X divertor on target parameters in MAST-U
+Control of 3D edge radiation structure with resonant magnetic perturbation fields applied to the stochastic layer and stabilization of radiative divertor plasma in LHD
+Theory of external geodesic acoustic mode excitation
+Nonlinear Stabilization of Tokamak Microturbulence by Fast Ions
+ELM energy losses in high triangularity baseline plasma in JET with the ILW compared to the CFC first-wall
+Technology gaps for the fuel cycle of a fusion power plant
+Magnetic stochasticity and transport due to nonlinearly excited subdominant microtearing modes
+The obscured fraction of active galactic nuclei in the XMM-COSMOS survey: a spectral energy distribution perspective
+Can aluminium or magnesium be a surrogate for beryllium: A critical investigation of their chemistry
+Guiding center simulations on curvilinear grids
+Non-linear magnetic perturbations during edge-localized modes in TCV dominated by low n mode components
+Nonuniversal Power-law Spectra in Turbulent Systems
+Response of LaBr3(Ce) scintillators to 2.5 MeV fusion neutrons
+Non-linear magnetohydrodynamic modeling of plasma response to resonant magnetic perturbations
+Assessment of cracks in lateral supports of the magnet system of Wendelstein 7-X
+Concepts for improving the accuracy of gas balance measurement at ASDEX Upgrade
+Characterizing turbulent transport in ASDEX Upgrade L-mode plasmas via nonlinear gyrokinetic simulations
+Thermal insulation of high confinement mode with dominant electron heating in comparison to dominant ion heating and corresponding changes of torque input
+Novel free-boundary equilibrium and transport solver with theory-based models and its validation against ASDEX Upgrade current ramp scenarios (invited paper)
+Surfey of the H-mode power threshold and transition physics studies in ASDEX Upgrade
+Spatial structure of drift-wave turbulence and transport in a stellarator
+Deuterium trapping and release in Be(0001), Be(11-20) and polycrystalline beryllium
+An efficient interface between the solvers of Maxwell’s equations and of the quasilinear kinetic equation for simulations of ion cyclotron heating in tokamak plasmas
+Electron-cyclotron-current-drive efficiency in DEMO plasmas
+A step-by-step analysis of the polishing process for tungsten specimens
+Towards assembly completion and preparation of experimental campaigns of Wendelstein 7-X in the perspective of a path to a stellarator fusion power plant
+Ion temperature gradient instability at sub-Larmor radius scales with non-zero ballooning angle
+Toroidal momentum transport in a tokamak caused by symmetry breaking parallel derivatives
+Practical expressions for local magnetic shear, normal and geodesic curvatures in an axisymmetric plasma equilibrium of arbitrary cross-section
+Edge Impurity Transport Study in Stochastic Layer of LHD and Scrape-off Layer of HL-2A
+Ideal magnetohydrodynamic stability of configurations without nested flux surfaces
+Validation of gyrokinetic modelling of impurity transport including rotation in ASDEX Upgrade
+Effect of hydrogen on the slip resistance of tungsten single crystals
+On the nature and origin of dicationic, charge-separated species formed in liquid water on X-ray irradiation
+Comparing deuterium retention in tungsten films measured by temperature programmed desorption and nuclear reaction analysis
+Relativistic neoclassical radial fluxes in 1/ν regime
+Schemes of microwave heating of overdense plasmas in the stellarator TJ-K
+In situ synchrotron tomography estimation of toughening effect by semi-ductile fibre reinforcement in a tungsten-fibre-reinforced tungsten composite system
+Mitigation of edge localised modes with magnetic perturbations in ASDEX Upgrade
+The role of temperature fluctuations in the dynamics of type-I and type-II edge localized modes at ASDEX Upgrade
+Impact of Energetic-Particle-Driven Geodesic Acoustic Modes on Turbulence
+Modeling of the edge plasma of MAST Upgrade with a Super-X divertor including drifts and an edge transport barrier
+Sawtooth control using electron cyclotron current drive in the presence of energetic particles in high performance ASDEX Upgrade plasmas
+Investigation of European tungsten materials exposed to high heat flux H/He neutral beams
+Recent progress in R&D on tungsten alloys for divertor structural and plasma facing materials
+Implicit coupling of impurity transport at the SOL-core interface
+Advanced spatial discretizations in the B2.5 plasma fluid code
+Implementation of a diffusion convection surface evolution model in WallDYN
+Spatial structure of the geodesic acoustic mode in the FT-2 tokamak by upper hybrid resonance Doppler backscattering
+Deuterium retention in single-crystal tungsten irradiated with 10-500 eV/D+
+In situ "artificial plasma" calibration of tokamak magnetic sensors
+Event detection and exception handling strategies in the ASDEX Upgrade discharge control system
+The role of drifts in the plasma transport at the tokamak core-SOL interface
+Nonadiabatic electron response in the Hasegawa-Wakatani equations
+Measurements and ERO simulations of carbon flows in the high-field side main SOL in AUG
+Arc erosion on W plasma facing components in ASDEX Upgrade
+Recent progress on lower hybrid current drive and implications for ITER
+ICRF operation with improved antennas in ASDEX Upgrade with W wall
+High sensitive vectorial Ḃ-probe for low frequency plasma waves
+First experiments with the Greifswald electron-beam ion trap
+Benchmark of the SLACCAD code against data from the MANITU testbed at IPP
+Deuterium inventory in Tore Supra: Coupled carbon-deuterium balance
+Fast-ion redistribution and loss due to edge perturbations in the ASDEX Upgrade, DIII-D and KSTAR tokamaks
+Far-reaching Impact of Intermittent Transport across the Scrape-off Layer: Latest Results from ASDEX Upgrade
+Progress in the theoretical description and the experimental characterization of impurity transport at ASDEX Upgrade
+Identification of vortexes obstructing the dynamo mechanism in laboratory experiments
+Benchmark of gyrokinetic, kinetic MHD and gyrofluid codes for the linear calculation of fast particle driven TAE dynamics
+Nonlinear excitation of low-n harmonics in reduced magnetohydrodynamic simulations of edge-localized modes
+NEMOFFT project: Improved Fourier algorithms for global electromagnetic gyrokinetic simulations
+Pellet-induced MHD activity in H-mode plasmas at ASDEX Upgrade
+H-mode density limit studies at ASDEX Upgrade
+Influence of the resonant magnetic perturbations on particle transport in LHD
+Multi-machine comparisons of divertor heat flux mitigation by radiative cooling with nitrogen
+Feasibility and R&D Needs of a Negative Ion Based Neutral Beam System for DEMO
+Performance Assessment of the ITER ICRF Antenna
+Comparison of hybrid and baseline ELMy H-mode confinement in JET with the carbon wall
+Demonstrating the ITER baseline operation at q95=3
+Analysis of temperature and density pedestal in a multi-machine database
+Scrape-off layer properties of ITER-like limiter start-up plasmas in JET
+Measurements of HF-Plasma Oscillations by Means of a Laser-Heated Emissive Probe
+Tungsten Screening and Impurity Control in JET
+Overview of ASDEX Upgrade "Improved H-mode" Scenario Developments
+Low-recycling conditions and improved core confinement in steady-state operation scenarios in JET (Joint European Torus)
+Fusion Plasma Diagnostics with mm-Waves: An Introduction
+Photolysis of water-radical ions H2O+ in the xuv: Fragmentation through dicationic states
+TMAP-7 simulation of D2 thermal release data from Be co-deposited layers
+Commissioning and First Results of the ITER-Relevant Negative Ion Beam Test Facility ELISE
+Inverse bremsstrahlung heating rate in xenon clusters in the eikonal approximation
+Drift-based Model for Power-scrape-off Width in Low-gas-puff H-mode Tokamak Plasmas: Comparison with Experiment and Implications
+Optimisation of LIBS parameters for analyzing co-deposited layers in ITER
+A kinetic model of retarding field analyser measurements in strongly magnetized, flowing, collisional plasmas
+Dnmt2-dependent methylomes lack defined DNA methylation patterns
+Heat Flux and Design Calculations for the W7-X Divertor Scraper Element
+Connections between intrinsic toroidal rotation, density peaking, and plasma turbulence regimes in ASDEX Upgrade
+Runaway electron dynamics and transport anisotropy due to resonant magnetic perturbations in ITER
+Electron temperature evolution during mitigated ELM regimes in ASDEX Upgrade
+Study of physical and chemical sputtering og Beryllium in the JET ITER-Like Wall
+Understanding the effect resonant magnetic perturbations have on ELMs (invited paper)
+Residual carbon content in the initial ITER-like wall experiments at JET
+Low-Z perturbative impurity transport and microstability analysis on MAST
+RMP ELM suppression analysis by means of a low-dimensional model system for quasi-periodic plasma perturbations
+Energetic particle instabilities in fusion plasmas
+Towards an Emerging Understanding of Non-local Transport
+Fast-ion transport studies by FIDA spectroscopy at ASDEX Upgrade
+Multivariate statistical models for disruption prediction at ASDEX Upgrade
+Wall conditioning of JET with the ITER-Like Wall
+Long-term evolution of the impurity composition and impurity events with the ITER-like wall at JET
+Simulations of tungsten transport in the edge of JET ELMy H-mode plasmas
+Technical challenges in the construction of the steady-state stellarator Wendelstein 7-X
+Extended fluid models: Pressure tensor effects and equilibria
+Pellet as tool for high density operation and ELM control in ASDEX Upgrade
+Study of Plasma Start-up Initiated by Second Harmonic Electron Cyclotron Resonance Heating on WEGA Experiment
+Physics of magnetic confinement fusion
+Tungsten Experiences in ASDEX Upgrade and JET
+Adaptive mirror control for an optical resonator cavity
+Investigation on the beam homogeneity in large sources for negative hydrogen ions
+Development of infrared and visible endoscope as the safety diagnostic for steady-state operation of Wendelstein 7-X
+Erosion of beryllium under high-flux plasma impact
+A method to determine arc position in ICRF systems
+Impact of deuterium recycling on neutral fuelling in H-mode plasmas in JET carbon and ITER-like wall using EDGE2D/EIRENE
+A quasar–galaxy mixing diagram: quasar spectral energy distribution shapes in the optical to near-infrared
+Background-source separation-not only for astronomical images
+Inverse heat conduction problem using thermocouple deconvolution: application to the heat flux estimation in a tokamak
+Dynamic of density profiles in JET during slow L-H transition
+Studies of beryllium surfaces under the impact of nitrogen and deuterium
+Improved phase detection schemes for plasma interferometry
+Verification of the equilibrium and MHD stability codes within the Integrated Tokamak Modeling Task Force framework
+Continuous linear time-frequency transforms in the analysis of fusion plasma transients
+3D-microscopy of hydrogen in tungsten
+Dynamics of tilted eddies in a transversal flow at the edge of tokamak plasmas and the consequences for L–H transition (invited paper)
+W7-X Precision Metrology
+"West" like divertor geometry experiments in ASDEX Upgrade
+On the accuracy of port assembly at Wendelstein 7-X
+RF sheath-enhanced beryllium sources at JET’s ICRH antennas
+Compatibility of erbium oxide coating with liquid lithium-lead alloy and corrosion protection effect of iron layer
+Recent Results from Ion Cyclotron Resonance Heating Experiments in HT-7 and EAST Tokamaks
+Interactions of Stable Modes and Zonal Flows in ITG Turbulence
+L-H Power Threshold, Confinement, and Pedestal Stability in JET with a Metallic Wall
+Spectroscopic measurements of Be erosion at JET ILW and interpretation with ERO modelling
+Tungsten injector for scrape-off layer impurity transport experiments in the Tore Supra tokamak
+Development of Advanced Gyrotrons in Europe
+Global and local gyrokinetic simulations of high-performance discharges in view of ITER
+Performance tests of the ASDEX Upgrade Imaging Motional Stark Effect diagnostic (IMSE)
+Influence of resistive on filamentary transport in the SOL of ASDEX Upgrade
+Deuterium retention in Be:N:D codeposits
+Impact and mitigation of disruptions with the ITER-like wall in JET
+Tokamak Experiments to Study the Parametric Dependences of Momentum Transport
+Calculation of Realistic Snowflake Equilibria for Next-step Devices
+Impact of magnetic perturbation coils on the edge radial electric field in ASDEX Upgrade
+Experimental study of H-L transitions in JET
+Spatiotemporal and wavenumber resolved bicoherence at hte low to high confinement transition in the TJ-II stellarator
+L-H transition, pedestal development and I-mode studies in the ASDEX Upgrade tokamak
+Risk Management as an executive task in the construction of Wendelstein 7-X
+Assessment of line of sight characteristics of ITER bolometer prototype collimators
+The enhanced high speed inboard pellet fuelling system at ASDEX Upgrade
+Influence of rotation on the (m,n)=(3,2) neoclassical tearing mode threshold in the ASDEX Upgrade
+Service oriented architecture for scientific analysis at W7-X. An example of a field line tracer
+Characterization of temperature-induced changes in amorphous hydrogenated carbon thin films
+Development of surface relief on polycrystalline metals due to sputtering
+Blistering and re-deposition on tungsten exposed to ASDEX Upgrade divertor plasma
+Outer target heat fluxes and power decay length scaling in L-mode plasmas at JET and AUG
+On the Challenge of Plasma Heating with the JET Metallic Wall
+Trapping of hydrogen isotopes in radiation defects formed in tungsten by neutron and ion irradiations
+Status of the JET high frequency pellet injector
+High-accuracy characterization of the edge radial electric field at ASDEX Upgrade
+Carbide formation in tungsten coatings on carbon-fibre reinforced carbon substrates
+Core transport analysis of nitrogen seeded H-mode discharges in the ASDEX Upgrade
+L-mode radiative plasma edge studies for model validation in ASDEX Upgrade and JET
+Combination of fast-ion diagnostics in velocity-space tomographies
+Ab initio study of the Stark effect in neutral hydrogen
+Characterization of the fluctuating detachment state in ASDEX Upgrade
+The effect of displacement damage on deuterium retention in tungsten exposed to D neutrals and D2 gas
+Modeling of divertor particle and heat loads during application of resonant magnetic perturbation fields for ELM control in ITER
+Comparison of kinetic and fluid models for tungsten impurity transport using IMPGYRO and SOLPS
+Collisionless microinstabilities in stellarators II. Numerical simulations
+SDTrimSP-2D: Simulation of Particles Bombarding on a Two Dimensional Target - Version 2.0
+Contribution of E×B drifts and parallel currents to divertor asymmetries
+EMC3-Eirene simulations of the tungsten injection experiments in Tore Supra
+Numerical sensitivity analysis of divertor heat flux and edge temperature at DIII-D under the influence of resonant magnetic perturbations
+Bayesian soft X-ray tomography using non-stationary Gaussian Processes
+Passive runaway electron suppression in tokamak disruptions
+Cesium dynamics and H- density in the extended boundary layer of negative hydrogen ion sources for fusion
+LaBr3 scintillator response to admixed neutron and γ-ray fluxes
+Reflection of TE0n Modes at Open-Ended Oversized Circular Waveguide
+What makes a dangling bond a binding site for thermal CH3 radicals? — A combined molecular dynamics and potential energy analysis study on amorphous hydrocarbon films
+Deuterium retention in tungsten damaged with W ions to various damage levels
+Stabilization of energetic-ion-driven MHD modes by ECCD in Heliotron J
+Interplay between fast ions and turbulence in magnetic fusion plasmas (invited paper)
+The influence of plasma edge dynamics on blob properties in the stellarator TJ-K
+Nonlinear evolution of the magnetized Kelvin-Helmholtz instability: From fluid to kinetic modeling
+Bayesian parameter estimation for stochastic models of biological cell migration
+Mechanisms of layer growth in microwave-PECVD silan plasmas – Experiment and simulation
+Protection of W7-X diagnostics from radiation heat loads
+Improved measurements of ICRF antenna coupling on ASDEX Upgrade and comparison with the ICRF coupling code TOPICA
+Design and manufacturing status of trim coils for the Wendelstein 7-X stellarator experiment
+Measuring the Efficiency of Interatomic Coulombic Decay in Ne Clusters
+Filament velocity scaling laws for warm ions
+The ASDEX upgrade digital video processing system for real-time machine protection
+Collisionless microinstabilities in stellarators I. Analytical theory of trapped-particle modes
+Collisionless damping of flows in the TJ-II stellarator
+Lessons learned from the design and fabrication of the baffles and heat shields of Wendelstein 7-X
+Kinetic modelling of temperature equilibration rates in the plasma
+Power Inverter Design for Magnetic Perturbation Coils in Nuclear Fusion Experiments
+Overview of the International Research on Ion Cyclotron Wall Conditioning
+Vlasov versus reduced kinetic theories for helically symmetric equilibria
+Nonlinear heat flux estimation in the JET divertor with the ITER like wall
+Thermal analysis of the Mirnov coils of Wendelstein 7-X
+Disruption Impacts and their Mitigation Target Values for ITER Operation and Machine Protection
+Modeling statistical properties of solar active regions through direct numerical simulations of 3D-MHD turbulence
+Impact of nitrogen seeding on confinement and power load control of a high-triangularity JET ELMy H-mode plasma with a metal wall
+Real-time magnetic equilibria for pre-emptive NTM stabilisation experiments on ASDEX Upgrade
+Study of heavy impurity poloidal asymmetries induced by ICRH in ASDEX Upgrade using SXR tomography reconstruction
+Power Handling of the Tungsten Divertor in JET
+Neoclassical and turbulent transport of W in toridally rotating JET plasmas
+Actively Water-cooled Plasma Facing Components of the Wendelstein 7-X Stellarator
+Fuel Retention Studies with the ITER-like Wall in JET
+Scrape-off layer power flux measurements in the Tore Supra tokamak
+Radial transport in the far scrape-off layer of ASDEX Upgrade during L-mode and ELMy H-mode
+M-mode: axi-symmetric magnetic oscillation and ELM-less H-mode in JET
+Action of magnetic islands on GAMs and zonal flows
+Reconstruction Accuracy of the Soft X-Ray Tomography System on MHD Modes in Wendelstein 7-X Stellarator
+Synthetic Diagnostics in the European Union Integrated Tokamak Modelling Simulation Platform
+Workshop on performance variations in H− ion sources 2012: PV H−12
+Using the Radiation of Hydrogen Atoms and Molecules to Determine Electron Density and Temperature in the Linear Plasma Device PSI-2
+Thermal and mechanical properties of infiltrated W/CuCrZr composite materials for functionally graded heat sink
+Effect of radiation-induced damage on deuterium retention in tungsten, tungsten coatings and Eurofer
+Improved framework for the maintenance of the JET intershot analysis chain
+Ergodicity of gyrofluid edge localized ideal ballooning modes
+Stabilization of Energetic-Ion-Driven MHD Mode by ECCD in Heliotron J
+Confinement and edge studies towards low ρ* and ν* at JET
+How to compute velocity-space tomographies using several fast-ion diagnostics
+Calorimetry of the JET ITER-like wall components
+Turbulent optimization in stellarators & tokamaks via shaping
+Use of the disruption mitigation valve in closed loop for routine protection at JET
+Inverse bremsstrahlung heating rate for dense plasmas in laser fields
+RF optimisation of the port plug layout and performance assessment of the ITER ICRF antenna
+Variation of ELM signatures observed by ECE Imaging on ASDEX Upgrade
+Global gyrokinetic simulations of TEM microturbulence
+H-mode and L-H threshold experiments during ITER-like plasma current ramp up/down at JET with ILW
+Divertor plasma and neutral conditions in JET ohmic plasmas in semihorizontal and vertical divertor plasma configurations
+A model for microinstability destabilization and enhanced transport in the presence of shielded 3-D magnetic perturbations
+Separatrix displacement in the presence of 3D external magnetic perturbations on ASDEX Upgrade
+Characterisation of local ICRF heat loads on the JET ILW
+Thermo-Mechanical Investigation of the New Solid Tungsten Divertor Tile for Special Purposes at ASDEX Upgrade
+Advanced materials characterization and modeling using synchrotron, neutron, TEM, and novel micro-mechanical techniques - A European effort to accelerate fusion materials development
+Mechanics of tungsten blistering: A finite element study
+Interpretation of helium charge exchange spectra for transport studies in fusion plasmas
+Bulk tungsten in the JET divertor: Potential influence of the exhaustion of ductility and grain growth on the lifetime
+Deuterium Retention in EUROFER steel at gas and plasma exposure
+Nitrogen balance and ammonia formation during nitrogen seeded discharges at ASDEX Upgrade
+Strength and conductivity of unidirectional copper composites reinforced by continuous SiC fibers
+On the gyrokinetic model in long wavelength regime
+Power load studies in JET and ASDEX-Upgrade with full-W divertors (invited paper)
+Study of the effect of the outer-strike point location on the divertor neutral pressure in JET-ILW using EDGE2D/EIRENE
+Impact of Carbon and Tungsten as Divertor Materials on the Scrape-off Layer Conditions in JET
+Hydrogen isotope exchange in tungsten: Discussion as removal method for tritium
+Melt layer erosion of pure and lanthanum doped tungsten under VDE-like high heat flux loads
+Generation of an atmospheric plasmoid from a water discharge: An analysis of the dissipated energy
+Overview of the RFX-mod fusion science programme
+Large-scale magnetic strucutre formation in three-dimensionla magnetohydrodynamic turbulence
+Divertor Heat Load in JET - Comparing Langmuir Probe and IR Data
+Transition between Saturation Regimes of Gyrokinetic Turbulence
+Non-Neutral Plasma Physics VIII: 10th International Workshop on Non-Neutral Plasmas
+EMC3-Eirene simulations of the impact of Magnetic Perturbations on the neutral particle recycling in ASDEX Upgrade
+Cutting Edge Concepts for Control and Data Acquisition for Wendelstein 7-X
+On the reduction of deuterium retention in damaged Re-doped W
+Genome of the Haloarchaeon Natronomonas moolapensis, a Neutrophilic Member of a Previously Haloalkaliphilic Genus
+Power requirements for electron cyclotron current drive and ion cyclotron resonance heating for sawtooth control in ITER
+Characterization of edge localized modes in tokamak plasmas
+Effect of sputtering on self-damaged recrystallized W mirror specimens
+Commissioning and first results of the ITER-relevant negative ion beam test facility ELISE
+Nonlinear evolution of surface morphology under shadowing
+Ion chemistry in H2-Ar low temperature plasmas
+Aspects of linear Landau damping in discretized systems
+Characterization of saturated MHD instabilities through 2D electron temperature profile reconstruction from 1D ECE measurements
+Global migration of 13C in high-density L-mode plasmas at ASDEX Upgrade
+Investigation of Helicon discharges as RF coupling concept of negative hydrogen ion sources
+Commissioning of the negative ion testbed ELISE
+The photoelectron angular distribution of water clusters
+Overview on plasma operation with a full tungsten wall in ASDEX Upgrade
+Pedestal study across a deuterium fuelling scan for high δ ELMy H-mode plasmas on JET with the carbon wall
+Power inverter design for ASDEX Upgrade saddle coils
+First studies of ITER-diagnostic mirrors in a tokamak with an all-metal interior: results of the first mirror test in ASDEX Upgrade
+Turbulent momentum transport in core tokamak plasmas and penetration of scrape-off layer flows
+Temporal behavior of the plasma edge density throughout the L-H transition in ASDEX Upgrade
+3-D simulations of plasma transport in the ring limiter scrape-off layer of tokamak Aditya
+Tungsten divertor erosion in all metal devices: Lessons from the ITER like wall of JET
+Challenges in the Realization of the In-Vessel-Components of Wendelstein 7-X
+Simulation der Soft-X-Ra Diagnostik an ASDEX Upgrade in Anwesenheit von Plasmainstabilitäten und rotationsbedingten Strahlungsasymmetrien
+On secondary and tertiary instability in electromagnetic plasma microturbulence
+Electromagnetic and structural global model of the TF magnet system in ASDEX Upgrade
+Deuterium retention in tungsten-doped amorphous carbon films exposed to deuterium plasma
+Long-term carbon transport and fuel retention in gaps of the main toroidal limiter in TEXTOR
+Study of deuterium retention in/release from ITER-relevant Be-containing mixed material layers implanted at elevated temperatures
+Analysis of Lithium Driven Electron Density Peaking in FTU Liquid Lithium Limiter Experiments
+Synthetic Doppler spectroscopy and curvilinear camera diagnostics in the ERO code
+Note: Implementation of a cold spot setup for controlled variation of vapor pressures and its application to an InBr containing discharge lamp
+Long-term H-release of hard and intermediate between hard and soft amorphous carbon evidenced by in situ Raman microscopy under isothermal heating
+Rotation and density asymmetries in the presence of large poloidal impurity flows in the edge pedesta (invited paper)
+The effect of ITER-like wall on runaway electron generation in JET
+Properties of high-β microturbulence and the non-zonal transition
+Design and analysis of the W7-X divertor scraper element
+Hydraulic analysis of the Wendelstein 7-X cooling loops
+Investigations of sawtooth oscillations with the Greifswald EBIT
+Multi-mode Alfvénic fast particle transport and losses: numerical versus experimental observation
+Analysis of the H-mode density limit in the ASDEX Upgrade tokamak using bolometry
+Hydrogen retention in tungsten materials studied by Laser Induced Desorption
+Ausbreitung hochfrequenter Wellen in fluktuierenden Plasmen
+Multi-view fast-ion D-alpha spectroscopy diagnostic at ASDEX Upgrade
+Variational integrators in plasma physics
+Application of Particle-In-Cell Methods for Stellarators
+Paramagnetic Solovév equilibrium with flow
+Measurements of Gross and Net Erosion of Beryllium
+Status of series production and test of the HTS current leads for Wendelstein 7-X
+Multiscale gyrokinetics for rotating tokamak plasmas: fluctuations, transport and energy flows
+Overview of ASDEX Upgrade Results
+ITER Implications of the Beta Scaling of Energy Con finement
+New Strategies for Energy Generation, Conversion and Storage
+First studies of ITER diagnostic mirrors in a tokamak with all-metal interior: results of first mirror test in ASDEX Upgrade
+Wavenumber-resolved turbulence investigations in the ASDEX Upgrade tokamak and comparison to numerical simulations
+Studies of the fast ion energy spectra in TJ-II
+Material deposition and migration processes with resonant magnetic perturbation fields at TEXTOR
+On the physics guidelines for a tokamak DEMO
+Absorption and diffusion of beryllium in graphite, beryllium carbide formation investigated by density functional theory
+Scaling of the tokamak near the scrape-off layer H-mode power width and implications for ITER
+Study of thermal hydrogen atom interaction with undamaged and self-damaged tungsten
+Dominant ECR heating of H-mode plasmas on ASDEX Upgrade using the upgraded ECRH system and comparison to dominant NBI or ICR heating
+Towards the density required for runaway electron suppression in ITER
+Dynamical coupling between magnetic equilibrium and transport in tokamak scenario modelling, with application to current ramps
+Overview of physics results from MAST towards ITER/DEMO and the MAST Upgrade
+Erratum: First experimental studies of the physics of plasmas of arbitrary degree of neutrality [2012 Plasma Phys. Control. Fusion, 54, 124008]
+Characterization of temperature fluctuations during type-I and type-II edge localized modes at ASDEX Upgrade
+Particle transport analysis of the density build-up after the L-H transition in ASDEX Upgrade
+Assessment of the H-mode Power Threshold Requirements for ITER
+Science and technology research and development in support to ITER and the Broader Approach at CEA
+Inter-ELM Ion Transport in the ASDEX Upgrade Far Scrape-Off Layer
+Statistical analysis of temporal and spatial evolution of in-vessel dust particles in fusion devices by using CCD images
+Influence of cesium on the plasma parameters in front of the plasma grid in sources for negative hydrogen ions
+A comparison of hydrogen and deuterium plasmas in the IPP prototype ion source for fusion
+IDEEAA: a novel, versatile tool for electron spectroscopy
+Comparison of JET main chamber erosion with dust collected in the divertor
+Microwave stray radiation: Measures for steady state diagnostics at Wendelstein 7-X
+Modeling of I-phase of ASDEX-Upgrade
+Transport of tungsten in the H-mode edge transport barrier of ITER
+FlareLab: Short time-scale diagnostics for rapidly moving magnetic flux tubes
+Comparison of long term fuel retention in JET between carbon and the ITER-Like Wall
+Nitrogen seeding for heat load control in JET ELMy H-mode plasmas and its compatibility with ILW materials
+Impact of the ITER-like wall on divertor detachment and on the density limit in the JET tokamak
+First operation with the JET International Thermonuclear Experimental Reactor-like wall
+Influence of plasma diagnostics and constraints on the quality of equilibrium reconstructions on Joint European Torus
+Equilibrium reconstruction of local shear in the pedestal on ASDEX Upgrade
+Detecting nonlinear response of spring phenology to climate change by Bayesian analysis
+MGI in plasmas with locked modes
+Poloidal velocity of MHD modes at the edge of the ASDEX Upgrade tokamak
+Turbulent transport analysis of JET H-mode and hybrid plasmas using QuaLiKiz, TGLF and GLF23
+Comparison of edge turbulence imaging at two different poloidal locations in the scrape-off layer of Alcator C-Mod
+Overview of erosion-deposition diagnostic tools for the ITER-Like Wall in the JET tokamak
+Accuracy of momentum and gyrodensity transport equations in global gyrokinetic PIC simulations
+Roughening and reflection performance of molybdenum coatings exposed to a high-flux deuterium plasma
+First analysis of Tungsten transport in the edge of Tore Supra plasmas
+On the Fluctuating Detachment State at ASDEX Upgrade
+Ion Cyclotron Wall Conditioning in KSTAR and ASDEX-Upgrade
+Design and Preliminary Measurements of a Diagnostic Calorimeter for BATMAN
+Velocimetry aided wavelet cross-phase analysis of type-I ELM precursors in ASDEX Upgrade
+Fast-ion losses induced by ELMs and externally applied magnetic perturbations in the ASDEX Upgrade tokamak (invited paper)
+Nuclear fusion and the helium supply problem
+Scrape-off layer ion temperature measurements at the divertor target in MAST by retarding field energy analyser
+Triple probe measurements benchmarked by interferometry in a pulsed-power plasma
+Divertor plasma and neutral conditions in JET-ILW ohmic plasmas in semi-horizontal and vertical divertor configurations
+A helicon plasma source as a prototype for a proton-driven plasma wakefield accelerator
+Correlation of kinetic edge data with type-I and mitigated ELMs at ASDEX Upgrade
+DEMO: Heating and current drive system integration with blanket system
+Investigations of the magnetic field dependence of blob velocity and size with Li-BES at ASDEX Upgrade
+Hydrogen Isotope Trapping at Defects Created with Neutron and Ion-Irradiation in Tungsten
+Deuterium Retention in self damaged tungsten after atomic and plasma exposure
+Predictive ASCOT modelling of 10Be transport in JET with the ITER-like wall
+Identification of the beta limit in ASDEX Upgrade
+Super-thermal particles in hot plasmas
+EU DEMO design and R&D studies
+Magnetic equilibrium reconstruction using geometric informationfrom temperature measurements at ASDEX upgrade
+Isotope exchange experiments in tungsten with sequential deuterium and protium plasmas in PISCES
+ELM energy losses in baseline plasma in JET with the ILW compared to the CFC first-wall
+Velocity-space tomography using many-view CTS or FIDA systems
+ICRF Operation with Improved Antennas in a Full W-wall ASDEX Upgrade, Status and Developments
+Ion energy measurements on MAST using a midplane RFEA
+Impact of the carbon and tungsten wall materials on deuterium recycling and neutral fuelling in JET using EDGE2D/EIRENE
+EDGE2D-EIRENE modelling of divertor detachment in JET high triangularity L-mode plasmas in carbon and Be/W environment
+Power handling of the bulk tungsten divertor row at JET: First measurements and comparison to the GTM thermal model
+Final Design of the Dispersion Interferometer for the Wendelstein7-X Stellarator
+Fast measurements of ion temperature in ELM filaments in the ASDEX Upgrade scrape-off layer
+The ELPA Library - Scalable Parallel Eigenvalue Solutions for Electronic Structure Theory and Computational Science
+Multifrequency Notch Filter for Sub-THz Applications based on Photonic Bandgaps in Corrugated Circular Waveguides
+Bayesian Tomography of Soft X-ray and Bolometer systems using Gaussian Processes
+Studying the interaction of high-energy deuterons with plasma in the Globus-M spherical tokamak
+Design and integration of the ground level platform for W7-X
+Search for an ELM suppression regime with non-axisymmetric magnetic perturbations at low edge collisionality in ASDEX Upgrade
+High Harmonic ECH Experiment for Extension of Heating Parameter Regime in LHD
+A data acquisition system for real-time magnetic equilibrium reconstruction on ASDEX Upgrade and its application to NTM stabilization experiments
+The effect of a metal wall on confinement in JET and ASDEX Upgrade (invited paper)
+Preliminary Design of the ITER ECH Upper Launcher
+A brief summary of the progress on the EFDA tungsten materials program
+Technology development of the soft X-ray tomography system in Wendelstein 7-X stellarator
+Deformation measurement of internal components of ASDEX Upgrade using optical strain sensors
+On the applicability of dye penetrant tests on vacuum components: Allowed or forbidden?
+Optimization strategy for the VMEC stellarator equilibrium code
+Zur Machbarkeit einer Randstromdichtemessung am Tokamak ASDEX Upgrade mittels Zeemanaufspaltung der Lithium- und Natrium-Linien
+Numerical analysis of JET discharges with the European Transport Simulator
+FEM investigation and thermo-mechanic tests of the new solid tungsten divertor tile for ASDEX Upgrade
+Thermo-mechanical tests on W7-X current lead flanges
+Impurity seeding for tokamak power exhaust: from present devices via ITER to DEMO (invited paper)
+Global migration of impurities in tokamaks (invited paper)
+Observations on the W-transport in the core plasma of JET and ASDEX Upgrade (invited paper)
+Understanding the effect of resonant magnetic perturbations on tearing mode dynamics
+Assessment of DEMO challenges in technology and physics
+ELM pacing and trigger investigations at JET with the new ITER-like wall
+Analysis of temperature and density pedestal gradients in AUG, DIII-D and JET
+Simulation of the neutron rate in ASDEX Upgrade H-mode discharges
+Open source hard- and software: Using Arduino boards to keep old hardware running
+Spectrally resolved motional Stark effect measurements on ASDEX Upgrade
+Evolution of surface melt damage, its influence on plasma performance and prospects of recovery
+Erosion and deposition on JET divertor and limiter tiles during the experimental campaigns 2005–2009
+Deuterium Retention in Toughened, Fine-grained Recrystallized Tungsten
+Spectroscopic characterisation of the PSI-2 plasma in the ionising and recombining state
+Laboratory investigations of arcing on W-coated graphite components
+Deuterium trapping at defects created with neutron and ion irradiations in tungsten
+Results and consequences of high heat flux testing as quality assessment of the Wendelstein 7-X divertor
+Raman spectroscopy investigation of the H content of heated hard amorphous carbon layers
+Recent progress in research on tungsten materials for nuclear fusion applications in Europe
+ELM control strategies and tools: status and potential for ITER
+Extreme Heat Fluxes in Gyrokinetic Simulations: A New Critical β
+The Extreme Ultraviolet (EUV) emissions of W23+ (4f5)
+Investigation of transport models in ASDEX Upgrade current ramps
+Operational limit of a planar DC magnetron cluster source due to target erosion
+Detecting plant seasonality from webcams using Bayesian multiple change point analysis
+Particle and Momentum Transport in Tokamak Plasmas, the Complicated Path towards the Experimental Validation of the Theoretical Predictions of Transport in Fusion Plasmas
+The impact of thermal fatigue and carbidisation of the W coatings deposited on CFC tiles for the ITER-like Wall project at JET
+Experimental Evidence of Turbulent Transport Regulation by Zonal Flows
+Surface modification of molten W exposed to high heat flux helium neutral beams
+Estimation of edge electron temperature profiles via forward modelling of the electron cyclotron radiation transport at ASDEX Upgrade
+Experimental resolution of hydrogen and deuterium depth profiling with the nuclear reactions D(3He,p)α and p(15N,α,γ)12C
+Erosion behavior of actively cooled tungsten under H/He high heat flux load
+Adsorption of beryllium atoms and clusters both on graphene and in a bilayer of graphite investigated by DFT
+Erosion at the inner wall of JET during the discharge campaigns 2001-2009
+First nitrogen-seeding experiments in JET with the ITER-like Wall
+Intermittent transport across the scrape-off layer: latest results from ASDEX Upgrade
+Modelling of Hybrid Scenario: from present-day experiments toward ITER
+Modelling of hybrid scenario: from present-day experiments towards ITER
+The effect of ELM pacing via vertical kicks on the access to stationary H-mode with good confinement (H98~1) on JET
+Preparation of the Wendelstein 7-X commissioning
+Wendelstein 7-X High Heat Flux Components
+Chloride and organic osmolytes: a hybrid strategy to cope with elevated salinities by the moderately halophilic, chloride-dependent bacterium Halobacillus halophilus
+Full-Wave Doppler Reflectometry Simulations for ASDEX Upgrade
+Measurement and impact of the n=1 intrinsic error field at ASDEX Upgrade
+The availability of rare elements for advanced energy technologies
+Interaction of neoclassical tearing modes with externally applied magnetic perturbations in ASDEX Upgrade
+The current leads of the Wendelstein 7-X superconducting magnet system
+Vlasov on GPU (VOG project)
+Depth-resolved quantitative XPS analysis of oxygen ion interactions wizh a beryllium-tungsten alloy
+Experiences from the installation of the superconducting bus bar system of Wendelstein 7-X
+Stellarators - an option for a fusion power plant
+The optimized steerable W-band Doppler reflectometer on ASDEX Upgrade: possibilities and issues
+Summary of the ARIES Town Meeting: "Edge Plasma Physics and Plasma Material Interactions in the Fusion Power Plant Regime"
+Target particle and heat loads in low-triangularity L-mode plasmas in JET with carbon and beryllium/tungsten walls
+SOL Turbulence Modification by Non-axisymmetric Magnetic Perturbations in L-mode
+Landau damping in a turbulent setting
+Impact of carbon and tungsten as divertor materials on the scrape-off layer conditions in JET
+Transport analysis of tungsten and beryllium in JET hybrid plasmas with the ITER-like wall
+Simulations of edge configurations in quasi-helically symmetric geometry using EMC3–EIRENE
+Assessing the Power Requirements for Sawtooth Control in ITER through Modelling and Joint Experiments
+Contrasting H-mode behaviour with fuelling and nitrogen seeding in the all-carbon and metallic versions of JET
+Characterization of dust particles in the TEXTOR tokamak with Thomson scattering diagnostic
+Influence of the resonant magnetic pertubations on transport in Large Helical Device
+Relativistic neoclassical fluxes in hot plasmas
+Beryllium migration and evolution of first wall surface composition in the JET ILW configuration
+Observation of geodesic acoustic modes in the JET edge plasma
+Preparation of Steady-State Operation of the Wendelstein 7-X Stellarator
+Pellet induced high density phases during ELM suppression in ASDEX Upgrade
+Beam diagnostic tools for the negative hydrogen ion source test facility ELISE
+ESTELL: A Quasi-Toroidally Symmetric Stellarator
+Status of R&D on In-vessel Dust & Tritium Management in ITER
+Latest Developments in Data Analysis Tools for Disruption Prediction and for the Exploration of Multimachine Operational Spaces
+Simulation of tungsten sputtering with EDGE2D–EIRENE in low triangularity L-mode JET ITER like wall configuration
+Energetic Particle Instabilities in Fusion Plasmas
+Mitigation of type-I ELMs with n=2 fields on JET with ITER-like wall
+ITPA assessment of ITER microwave diagnostic design issues
+High-β island-divertor equilibria of a quasi-isodynamic stellarator
+3D trajectories re-construction of droplets ejected in controlled tungsten melting studies in ASDEX Upgrade
+Edge Er and turbulence behaviour with magnetic perturbations using Doppler reflectometry in ASDEX Upgrade
+Globus-M results as the basis for a compact spherical tokamak with enhanced parameters Globus-M2
+Non-linear effects in electron cyclotron current drive applied for the stabilization of neoclassical tearing modes
+Progress towards Wendelstein 7-X
+Fluid moments and spectral diagnostics in global gyrokinetic simulations
+Longterm Evolution of the Impurity Composition and Impurity Events with the ITER-like Wall at JET
+Scrape-off layer properties of ITER-like limiter start-up plasmas at JET
+Scenario development at JET with the new ITER-like wall
+Power distribution in the snowflake divertor in TCV (invited paper)
+Designing and running turbulence transport simulations using a distributed multiscale computing approach
+On the Physics Guidelines for a Tokamak DEMO
+Measurements of the parallel ion velocity distribution at the plasma–sheath interface
+Plasma operation with an all metal first-wall: Comparison of an ITER-like wall with a carbon wall in JET
+Spatiotemporal and spectral structure of the turbulence-flow interaction at the L-H transition in TJ-II plasma
+Optimization of Lines of Sight for Tomographic Reconstruction of the Bolometer Diagnostic at the W7-X Stellarator
+Study of the effect of the outer strike point location on the divertor neutral pressure in JET using EDGE2D
+Publisher’s Note: “Nonadiabatic electron response in the Hasegawa-Wakatani equations” [Phys. Plasmas 20, 082314 (2013)]
+Development activities for the target elements of the Wendelstein 7-X divertor
+Beyond least squares
+Experimental sheath heat transmission factors in diverted plasmas in JET
+40th EPS Conference on Plasma Physics
+First Results from the Imaging Motional Stark Effect diagnostic on ASDEX Upgrade
+A test bed for AC operation of Ti sublimation pumps in the NBI system for W7-X
+Mosaiced wide-field VLBI observations of the Lockman Hole/XMM
+MHD Activity in the Alfv én Range of Frequencies in the H-1NF Heliac
+Comparison of scrape-off layer transport in inner and outer wall limited JET plasmas
+Characterization of Tungsten Sputtering in the JET Divertor
+Negative ion test facility ELISE - Status and first results
+The European Transport Solver: an integrated approach for transport simulations in the plasma core
+Observation of different phases during an ELM crash with the help of nitrogen seeding
+Global gyrokinetic simulations of high-performance discharges in view of ITER
+Impact of long-term thermal exposure on a SiC fiber-reinforced copper matrix composite
+On Lyapunov boundary control of unstable magnetohydrodynamic plasmas
+Diagnostics of low pressure discharges containing InBr studied for lighting applications
+Real-time plasma state reconstruction and fault detection using a model-based dynamic observer
+Evidence for increased fuelling by application of magnetic perturbations at high density at ASDEX Upgrade
+Bayesian Inference and Maximum Entropy Methods in Science and Engineering: 32nd International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering
+ECCD capabilities for NTM stabilization via the Upper Launcher from ramp-up to ramp-down phases in ITER
+Fluctuation dynamo amplified by intermittent shear bursts in convectively driven magnetohydrodynamic turbulence
+Deuterium Balmer/Stark spectroscopy and impurity profiles: First results from mirror-link divertor spectroscopy system on the JET ITER-like wall
+Microtearing modes and the pedestal
+Preliminary Results of Glow Discharge Cleaning on SWIP Test Bench
+Simulation of neutron influence of tungsten mirrors
+Overview of results from Wendelstein 7-X HTS current lead testing
+First escaping fast ion measurements in ITER-like geometry using an activation probe
+Retention and enrichment of tungsten-containing carbon films under deuterium beam impact
+Survey of the H-mode power threshold and transition physics studies in ASDEX Upgrade
+HELIAS 5-B magnet system structure and maintenance concept
+On Neoclassical impurity transport in stellarator geometry
+Improvement of collisionless particle confinement in a non-quasi-symmetric stellarator vacuum magnetic field
+Magnetic filter field for ELISE - Concepts and design
+The wave energy flux of high frequency diffracting beams in complex geometrical optics
+Aspects of steady-state operation of the Wendelstein 7-X stellarator
+Fast-ion transport studies using FIDA spectroscopy at the ASDEX Upgrade tokamak
+Quantitative determination of mass-resolved ion densities in H2-Ar inductively coupled radio frequency plasmas
+The non-linear evolution of edge localized modes
+Up-scaling the island divertor along the W7-stellarator line
+A stable scheme for computation of coupled transport and equilibrium equation in tokamaks
+Oxidation of beryllium and exposure of beryllium oxide to deuterium plasmas in PISCES B
+ICRF specific plasma wall interactions in JET with the ITER-like wall
+Benchmarking of a 1D scrape-off layer code SOLF1D with SOLPS and its use in modelling long-legged divertors
+B2.5-Eunomia simulations of Pilot-PSI plasmas
+Annual Report 2012
+The implementation of the Wendelstein 7-X control and data acquisition concepts at VUV/XUV overview spectrometers HEXOS
+The enhanced ASDEX Upgrade pellet centrifuge launcher
+Design principles for handmade electrical insulation of superconducting joints in W7-X
+Role of helicities for the dynamics of turbulent magnetic fields
+Radial electric field studies in the plasma edge of ASDEX Upgrade
+Broad-band efficiency calibration of ITER bolometer prototypes using Pt absorbers on SiN membranes
+Tritium loading study of tungsten pre-exposed to TEXTOR plasmas
+The Potential Scarcity of Rare Elements for the Energiewende
+Modeling the particle transport and ion production in a RF driven negative hydrogen ion source for ITER NBI
+Development of the gas puff charge exchange recombination spectroscopy (GP-CXRS) technique for ion measurements in the plasma edge
+Quantitative depth-resolved photoelectron spectroscopy analysis of the interaction of energetic oxygen ions with the beryllium–tungsten alloy Be2W
+Dust investigations in TEXTOR: Impact of dust on plasma-wall interactions and on plasma performance
+Advances in lower hybrid current drive technology on Alcator C-Mod
+Matching of the ECRH transmission line of W7-X
+Recent achievements on tests of series gyrotrons for W7-X and planned extension at the KIT gyrotron test facility
+Employment of the covariance matrix in parameter estimation for stochastic processes in cell biology
+First observation of rotation acceleration of magnetic island by using rotating resonant magnetic perturbation on the J-TEXT tokamak
+Strongly Reduced Penetration of Atomic Deuterium in Radiation-Damaged Tungsten
+Current status of the neutral beam heating system of W7-X
+Bayesian data analysis of the dynamics of rolling leukocytes
+Fuel retention studies with the ITER-like wall in JET
+Investigation of the deformation of in-vessel components of a nuclear fusion experiment using optical strain sensors
+Simulation of feedback control system for NTM stabilisation in ASDEX Upgrade
+Design and concept validation of the new solid tungsten divertor for ASDEX Upgrade
+FE analyses and tests in support of Wendelstein 7-X trim coil development
+Thermo-mechanical analysis of Wendelstein 7-X plasma facing components
+Mechanical braking system for the pulsed power supply system of ASDEX Upgrade
+Nuclear fusion and renewable energy forms: Are they compatible?
+Optical emission spectroscopy at the large RF driven negative ion test facility ELISE: Instrumental setup and first results
+Dynamics of flows and confinement in the TJ-II stellarator
+The European Integrated Tokamak Modelling (ITM) Effort: Achievements and First Physics Results
+Stability analysis of Reynolds stress response functional cadidates

@@ -1,0 +1,97 @@
+Disordered spherical bead packs are anisotropic
+Smectic membranes in aqueous environment
+Do small worlds syncronize fastest?
+Photon scattering by a three-level emitter in a one-dimensional waveguide
+Optical structures with local PT-symmetry
+Inferring network topology from complex dynamics
+Bidifferential calculus approach to AKNS hierarchies and their solutions
+Stable and unstable periodic orbits in complex networks of spiking neurons with delays
+Call for cooperation to contain damage by Chile’s salmon farms
+A reactive-flow model of phase separation in fluid binary mixtures with continuously ramped temperature
+Fluidization of wet granulates under shear
+Photodissociation of ozone in the Hartley band: Product state and angular distributions
+Mass spectrometry of hydrogen bonded heterocycles: electron impact vs. photoionization
+State-to-state quantum dynamics of O + O2 isotope exchange reactions reveals nonstatistical behavior at atmospheric conditions
+Quantitative analysis of random ameboid motion
+ICA over Finite Fields
+Sperry versus Hebb: Topographic mapping in Isl2/EphA3 mutant mice
+Transfer of Bose-Einstein condensates through discrete breathers in an optical lattice
+Template-free Preparation of Mesoporous Silicia Spheres through Optimized Microfluidics
+Absorption Cross Section of Ozone Isotopologues Calculated with the Multiconfiguration Time-Dependent Hartree (MCTDH) Method: I. The Hartley and Huggins bands
+Temporal correlations and clustering of landslides
+Eliminating Turbulence in Spatially Intermittent Flows
+Dynamic x-ray optics with microfluidics: stabilization of gas bubbles by surface ordering and freezing
+Glass transition for driven granular fluids
+Inertial effects on two-particle relative dispersion in turbulent flows
+Transmural Ultrasound-based Visualization of Patterns of Action Potential Wave Propagation in Cardiac Tissue
+Communication: Photodissociation of N2O—Frustrated NN bond breaking causes diffuse vibrational structures
+Measurement of Particle Accelerations with the Laser Doppler Technique
+Live cell flattening - traditional and novel approaches
+Nonlinear Landau–Zener tunneling in quantum phase space
+Bilayer membranes in micro-fluidics: from gel emulsions to functional devices
+Onset coding is degraded in auditory nerve fibers from mutant mice lacking synaptic ribbons
+Phase-resolved analysis of the susceptibility of pinned spiral waves to far-field pacing in a two-dimensional model of excitable media
+Solvable Model of a Spiral Wave Chimeras
+Wave-train-induced termination of weakly anchored vortices in excitable media
+Chromatic polynomials of random graphs
+Signatures of synchrony in pairwise count correlations
+Sequence fractionation in symmetric random block copolymers
+Random networks of cross-linked directed polymers
+Optimized droplet-based microfluidics scheme for sol-gel reactions
+Bistability in the actin cortex
+Partial Reset in Pulse-coupled Oscillators
+Suppression of planar PIV errors due to particle intensity variations
+Platinum supported mesoporous silica spheres by optmized microfluidic sol-gel synthesize scheme
+Can We Understand Clouds Without Turbulence?
+Olfactory Coding with Patterns of Response Latencies
+Quantum walks and quantum simulations with Bloch oscillating spinor atoms
+The Determinants of the Onset Dynamics of Action Potentials in a Computational Model
+Communication: Observation of two classes of isomers of hydrated electrons in sodium-water clusters
+Analysis of historical landslide time series in the Emilia-Romagna region, northern Italy
+Universality in the Evolution of Orientation Columns in the Visual Cortex
+Closed-form treatment of the interactions between neuronal activity and spike-timing-dependent plasticity in networks of linear neurons
+Dynamical Entropy Production in Spiking Neuron Networks in the Balanced State
+The Lagrangian exploration module: An apparatus for the study of statistically homogeneous and isotropic turbulence
+Simple model for dice loading
+Photodissociation of ozone in the Hartley band: Potential energy surfaces, nonadiabatic couplings, and singlet/triplet branching ratio
+Nonlinear resonant tunneling of Bose-Einstein condensates in tilted optical lattices
+Correlations and synchrony in threshold neuron models
+Genetic demixing and evolution in linear stepping stone models
+Reorganization of columnar architecture in the growing visual cortex
+Controlling the Formation of Capillary Bridges in Binary Liquid Mixtures
+Photoelectron spectroscopy of liquid water and aqueous solution: Electron effective attenuation lengths and emission-angle anisotropy
+How does God play dice?
+Vibrational energy transfer in Ar-O3 collisions: comparison of rotational sudden, breathing sphere, and classical calculations
+Taming the Beast: Guided Self-organization of Behavior in Autonomous Robots
+Self-organized adaptation of a simple neural circuit enables complex robot behaviour
+On the swimming of Dictyostelium amoebae
+Solutions of matrix NLS systems and their discretizations: A unified treatment
+Southernmost Distribution of Common Bottlenose Dolphins (Tursiops truncatus) in the Eastern South Pacific
+PT optical lattices and universality in beam dynamics
+Universal Statistics of Branched Flows
+Sliding fluids: Dewetting experiments reveal the solid/liquid boundary condition
+Synchronization in a carpet of hydrodynamically coupled rotors with random intrinsic frequency
+Phase transitions and dynamics of bulk and interfacial water
+Liquid polymorphism: Water in nanoconfined and biological environments
+Metastable water under pressure
+Effect of hydrogen bond cooperativity on the behavior of water
+Can liquids slide? Linking stability and dynamics of thin liquid films to microscopic material properties
+Effect of the heterogeneity of metamaterials on the Casimir-Lifshitz interaction
+Nonlinear dynamics of a rack-pinion-rack device powered by the Casimir force
+The chirality of DNA: Elasticity cross-terms at base-pair level including A-tracts and the influence of ionic strength
+Coherent hydrodynamic coupling for stochastic swimmers
+Effect of film thickness and particle size on cracking stresses in drying latex films
+Solidification and ordering during directional drying of a colloidal dispersion
+Quantitative experimental study on the transition between fast and delayed coalescence of sessile droplets with different but completely miscible liquids
+Synthetic mechanochemical molecular swimmer
+Self-assembled autonomous runners and tumblers
+Peptidoglycan architecture can specify division planes in Staphylococcus aureus
+Synchronization and collective dynamics in a carpet of microfluidic rotors
+Stochastic aspects of pattern formation during the catalytic oxidation of CO on Pd(111) surfaces
+Evolution of mud-crack patterns during repeated drying cycles
+Entropy-driven enhanced self-diffusion in confined reentrant supernematics
+Natural selection of academic papers
+Controlled propulsion in viscous fluids of magnetically actuated colloidal doublets
+Using efference copy and a forward internal model for adaptive biped walking
+Preparation of monodisperse block copolymer vesicles via flow focusing in microfluidics.
+On complex singularities of the 2D Euler equation at short times

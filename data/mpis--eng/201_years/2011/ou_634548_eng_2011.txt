@@ -1,0 +1,298 @@
+Detection of visual-tactile contingency in the first year after birth
+Did you get the beat? Late proficient French-German learners extract strong-weak patterns in tonal but not in linguistic sequences
+Emotion triggers executive attention: Anterior cingulate cortex and amygdala responses to emotional words in a conflict task
+Velocity perception for sounds moving in frequency space
+Meta-analytic evidence for common and distinct neural networks associated with directly experienced pain and empathy for pain
+Neuroarchitecture of verbal and tonal working memory in nonmusicians and musicians
+Dyadic and tradic skills in preterm and full term infants: A longitudinal study in the first year
+The development of grasping comprehension in infancy: Covert shifts of attention caused by referential actions
+Chronic stroke recovery after combined BCI training and physiotherapy: A case report
+Perceiving performer identity and intended expression intensity in point-light displays of dance
+Peptide hormones regulating appetite: Focus on neuroimaging studies in humans
+FMRI investigation of cross-modal interactions in rhythm perception: Audition primes vision, but not vice versa
+Effects of feedback from active and passive body parts on spatial and temporal parameters in sensorimotor synchronization
+Do the congenitally blind have a stria of gennari? First intracortical insights in vivo
+Who was the agent? The neural correlates of reanalysis processes during sentence comprehension
+Musician advantages in music perception: An issue of motivation, not just ability
+What is for me is not for you: Brain correlates of intertemporal choice for self and other
+The impact of basal ganglia lesions on sensorimotor synchronization, spontaneous motor tempo, and the detection of tempo changes
+Predictors of adherence to antiretroviral treatment and therapeutic success among children in South Africa
+Multivariate information-theoretic measures reveal directed information structure and task relevant changes in fMRI connectivity
+Emotional speech processing: Disentangling the effects of prosody and semantic cues
+ERP signatures of cross-modal semantic fragment priming: Early context effects in speech perception
+Microstructural parcellation of the human cerebral cortex: From Brodmann's post-mortem map to in vivo mapping with high-field magnetic resonance imaging
+Violation of syntax and prosody: Disentangling their contributions to the early left anterior negativity (ELAN)
+Neuroanatomical prerequisites for language functions in the maturing brain
+Isn't it ironic? An electrophysiological exploration of figurative language processing
+Genetic and neural dissociation of individual responses to emotional expressions in human infants
+A three-dimensional cortical map of vowel space: Evidence from Turkish
+What iconic gesture fragments reveal about gesture-speech integration: When synchrony is lost, memory can help
+Multiple brain signatures of integration in the comprehension of degraded speech
+Beyond topographic representation: Decoding visuospatial attention from local activity patterns in the human frontal cortex
+Perception and production of object-related grasping in 6-month-olds
+The processing of two-digit numbers in bilinguals
+Two distinct neural networks support the mapping of meaning to a novel word
+The impact of iconic gestures on foreign language word learning and its neural substrate
+Low frequency fluctuations reveal integrated and segregated processing among the cerebral hemispheres
+Are left fronto-temporal brain areas a prerequisite for normal music-syntactic processing?
+Affective priming effects of musical sounds on the processing of word meaning
+Neuromagnetic evidence for a featural distinction of English consonants: Sensor- and source-space data
+Intonational phrase structure processing at different stages of syntax acquisition: ERP studies in 2-, 3-, and 6-year-old children
+Perception of speech in noise: Neural correlates
+Emotion speeds up conflict resolution: A new role for the ventral anterior cingulate cortex?
+Contribution of FDG-PET and MRI to improve understanding, detection and differentiation of Dementia
+Influence of eye gaze on spoken word processing: An ERP study with infants
+The self in action effects: Selective attenuation of self-generated sounds
+A note about insensitivity to pitch-change direction
+Is the Artifact Rejection enhanced if the EOG signals are included in the ICA decomposition?
+Does the clock drawing test predict dementia? Results of the Leipzig Longitudinal Study of the Aged (LEILA 75+)
+Audiovisual stimulation to influence alpha brain oscillations: An EEG study of gender differences
+Context and topic marking affect distinct processes during discourse comprehension in Japanese
+Dopamine-mediated reinforcement learning signals in the striatum and ventromedial prefrontal cortex underlie value-based choices
+Effects of selective attention on syntax processing in music and language
+Dissociating behavioral disorders in early dementia - An FDG-PET study
+Neural correlates of strategy use during auditory working memory in musicians and non-musicians
+Word learning in 6-month-olds: Fast encoding – weak retention
+Advances in MRI for 'cryptogenic' epilepsies
+Do surprised faces affect infants’ attention toward novel objects?
+Neural characterization of the speed–accuracy tradeoff in a perceptual decision-making task
+Relationship of monoamine oxidase A binding to adaptive and maladaptive personality traits
+Serotonin transporter occupancy and the functional neuroanatomic effects of citalopram in geriatric depression
+The shielding function of task sets and its relaxation during task switching
+A modified EPI sequence for high-resolution imaging at ultra-short echo time
+Performance-related increases in hippocampal N-acetylaspartate (NAA) induced by spatial navigation training are restricted to BDNF val homozygotes
+Meta-awareness, perceptual decoupling and the wandering mind
+Dynamic causal modeling of subcortical connectivity of language
+Exploring the detection of associatively novel events using fMRI
+Increased temporo-limbic cortical folding complexity in temporal lobe epilepsy
+Impact of impairment in instrumental activities of daily living and mild cognitive impairment on time to incident dementia: Results of the Leipzig Longitudinal study of the aged (LEILA 75+)
+Covert movements trigger repetition suppression of electroencephalography in sensorimotor cortex
+Event-related desynchronization of sensorimotor EEG rhythms in hemiparetic patients with acute stroke
+How two share two tasks: Evidence of a social psychological refractory period effect
+Interhemispheric interactions between the human primary somatosensory cortices
+Magnetic resonance imaging method for measuring functional cerebral blood volume changes at 7 Tesla
+Tracking the unconscious generation of free decisions using uItra-high field fMRI
+The effect of conditional probability of chord progression on brain response: An MEG study
+Comprehensive small animal imaging strategies on a clinical 3 T dedicated head MR-scanner: Adapted methods and sequence protocols in CNS pathologies
+Clock Drawing Test - Screening utility for mild cognitive impairment according to different scoring systems: Results of the Leipzig Longitudinal Study of the Aged (LEILA 75+)
+Direct structural connections between voice- and face-recognition areas
+Coordination of unimanual continuous movements with external events
+Brain responses to case-marking violations in German preschool children
+Computational models of spatial updating in peri-saccadic perception
+Quantitative evaluation of 10 tractography algorithms on a realistic diffusion MR phantom
+Generation and characterization of an Advillin-Cre driver mouse line
+Perisylvian functional connectivity during processing of sentential negation
+Disability, atrophy and cortical reorganization following spinal cord injury
+Combined imaging markers dissociate Alzheimer's disease and frontotemporal lobar degeneration: An ALE meta-analysis
+Free energy and dendritic self-organisation
+My hand or yours? Markedly different sensitivity to egocentric and allocentric views in the hand laterality task
+Impact of impairment in instrumental activities of daily living and mild cognitive impairment on time to incident dementia: Results of the Leipzig Longitudinal Study of the Aged
+Anterior hippocampus and goal-directed spatial decision making
+The industrious subject: Cognitive neuroscience's revaluation of 'rest'
+Catching the mind in flight: Using behavioral indices to detect mindless reading in real time
+Implicit processing of phonotactic cues: Evidence from electrophysiological and vascular responses
+Hard and fast rules about the body: Contributions of the action stream to judging body space
+The neural underpinnings of event-file management: Evidence for stimulus-induced activation of and competition among stimulus–response bindings
+Biophysical mechanisms of multistability in resting-state cortical rhythms
+Novel therapy approach in primary stroke prevention: Simultaneous inhibition of endothelin converting enzyme and neutral endopeptidase in spontaneously hypertensive, stroke-prone rats improves survival
+Recalibration of auditory space following milliseconds of cross-modal discrepancy
+Brain bases for auditory stimulus-driven figure–ground segregation
+One action system or two? Evidence for common central preparatory mechanisms in voluntary and stimulus-driven actions
+Threatened to distraction: Mind-wandering as a consequence of stereotype threat
+Tackling frontal lobe-related functions in PKU through functional brain imaging: A Stroop task in adult patients
+Reply to test-retest reliability of the speech-evoked ABR is supported by tests of covariance
+Self-reflection and the temporal focus of the wandering mind
+Monotonicity of the Lozi family and the zero entropy locus
+Differing roles for the dominant and non-dominant hands in the hand laterality task
+Imprisoned by the past: Unhappy moods lead to a retrospective bias to mind wandering
+Empathy
+Positive emotion speeds up conflict processing: ERP responses in an auditory Simon task
+Neuromagnetic reflections of harmony and constraint violations in Turkish
+S100B protein in neurodegenerative disorders
+Dynamic assignment of neural resources in auditory comprehension of complex sentences
+Perceptual learning and decision-making in human medial frontal cortex
+Attentional orienting towards emotion: P2 and N400 ERP effects
+Cholinergic receptor subtypes and their role in cognition, emotion, and vigilance control: An overview of preclinical and clinical findings
+The brain basis of language processing: From structure to function
+Effects of emotion regulation strategy on brain responses to the valence and social content of visual scenes.
+Impact of common KIBRA allele on human cognitive functions
+Influence of a dielectric insert of high permittivity on the transmit performance of a 300MHz multi-channel MRI loop array
+Evaluation of disease activity and damage in different subtypes of cutaneous lupus erythematosus using the CLASI
+Rhythm in disguise: Why singing may not hold the key to recovery from aphasia
+Using international emotional picture sets in countries suffering from violence
+Predicting decisions in human social interactions using real-time fMRI and pattern classification
+Three-year-old children intervene in third-party moral transgressions
+How ongoing neuronal oscillations account for evoked fMRI variability
+Prevention and intervention studies with Telmisartan, Ramipril and their combination in different rat stroke models
+Precursors to natural grammar learning: Preliminary evidence from 4-month-old infants
+How "social" is the social Simon effect?
+Practice-related reduction of dual-task costs under conditions of a manual-pedal response combination
+Incremental argument interpretation in a split ergative language: Neurophysiological evidence from Hindi
+Comparing the performances of apes (Gorilla gorilla, Pan troglodytes, Pongo pygmaeus) and human children (Homo sapiens) in the floating peanut task
+Learning foreign sounds in an alien world: Videogame training improves non-native speech categorization
+Flow of affective information between communicating brains
+Track density imaging (TDI): Validation of super resolution property
+Long-term effects of motor training on resting-state networks and underlying brain structure
+You had me at “Hello”: Rapid extraction of dialect information from spoken words
+The impact of physiological noise correction on fMRI at 7 T
+Decoding different roles for vmPFC and dlPFC in multi-attribute decision making
+Topographically specific functional connectivity between visual field maps in the human brain
+Encoding the identity and location of objects in human LOC
+Cognitive and affective judgements of syncopated musical themes
+Giving a helping hand: Effects of joint attention on mental rotation of body parts
+Why pitch sensitivity matters: Event-related potential evidence of metric and syntactic violation detection among Spanish late learners of German
+Enhancing the effect of repetitive I-wave paired-pulse TMS (iTMS) by adjusting for the individual I-wave periodicity
+Deep and superficial amygdala nuclei projections revealed in vivo by probabilistic tractography
+Relaxation of hyperpolarized 129Xe in a deflating polymer bag
+Effects of music listening on cortisol levels and propofol consumption during spinal anesthesia
+Beyond libet: Long-term prediction of free choices from neuroimaging signals
+Decoding successive computational stages of saliency processing
+Validity, reliability, and feasibility of clinical staging scales in dementia
+Effect of complete stimulus predictability on P3 and N2 components: an electroencephalographic study
+Comparing the performances of apes (gorilla gorilla, pan troglodytes, pongo pygmaeus) and human children (homo sapiens) in the floating peanut task
+Localization of ictal onset zones in Lennox-Gastaut syndrome using directional connectivity analysis of intracranial electroencephalography
+Neural and behavioral correlates of intentional actions
+Perception-production relationships and phase correction in synchronization with two-interval rhythms
+Causal evidence for frontal involvement in memory target maintenance by posterior brain areas during distracter interference of visual working memory
+Smoking reduces language lateralization: A dichotic listening study with control participants and schizophrenia patients
+Atlas-based analysis of structural maturation in the human brain
+Medicine for the wandering mind: Mind wandering in medical practice
+Modulation of working-memory maintenance by directed attention
+On the cross-linguistic validity of electrophysiological correlates of morphosyntactic processing: A study of case and agreement violations in Basque
+Gradient-induced longitudinal relaxation of hyperpolarized noble gases in the fringe fields of superconducting magnets used for magnetic resonance
+Encoding: The keystone to efficient functioning of verbal short-term memory
+The effect of musical experience on hemispheric lateralization in musical feature processing
+Safety of tirofiban in acute ischemic stroke: The SaTIS trial
+Keeping an eye on the conductor: Neural correlates of naïve and musicians for action synchronization with conductor
+Epidemiology of depression in old age: Results of the Leipzig longitudinal study of the aged (LEILA 75+)
+Activation of learned action sequences by auditory feedback
+Can you see me in the snow? Action simulation aids the detection of visually degraded human motion
+How the brain tissue shapes the electric field induced by transcranial magnetic stimulation
+How to regulate emotion? Neural networks for reappraisal and distraction
+I did it: Unconscious expectation of sensory consequences modulates the experience of self-agency and its functional signature
+The temporal dynamics of processing emotions from vocal, facial, and bodily expressions
+Perception of emotion in psychiatric disorders: On the possible role of task, dynamics, and multimodality
+Absorbed in thought: The effect of mind wandering on the processing of relevant and irrelevant events
+Proficiency in a second language influences the processing of number words
+Detecting neurophysiological alterations during Mild Cognitive Impairment and Dementia using wavelet-based energy computation and a Mahalanobis Distance classifier
+Sharing a bimanual task between two: Evidence of temporal alignment in interpersonal coordination
+Universal optical electric-field sensor covering frequencies from 10 to 100 GHz
+Pupillometric evidence for the decoupling of attention from perceptual input during offline thought
+MRI pattern recognition in Multiple Sclerosis normal-appearing brain areas
+Exploring the significance of task, timing and background noise on gesture-speech integration
+Synchronized drumming enhances activity in the caudate and facilitates prosocial commitment - If the rhythm comes easily
+Maturation of the language network: From inter- to intrahemispheric connectivities
+Combined evaluation of FDG-PET and MRI improves detection and differentiation of dementia
+Personality is reflected in the brain's intrinsic functional architecture
+In vivo anatomical segmentation of the human amygdala and parcellation of emotional processing
+The self in social interactions: Sensory attenuation of auditory action effects is stronger in interactions with others
+Presynapses in kenyon cell dendrites in the mushroom body calyx of drosophila
+The effect of combined sensory and semantic components on audio-visual speech perception in older adults
+Obesity-related differences between women and men in brain structure and goal-directed behavior
+A hierarchical neuronal model for generation and online recognition of birdsongs
+Regional specificity of MRI contrast parameter changes in normal ageing revealed by voxel-based quantification (VBQ)
+Elimination of visually evoked BOLD responses during carbogen inhalation: Implications for calibrated MRI
+Cortical surface-based searchlight decoding
+Effect of attention on cortical processing of sound motion: An EEG study
+Direct segmentation of the major white matter tracts in diffusion tensor images
+Modeling brain resonance phenomena using a neural mass model
+Thalamocingulate interactions in performance monitoring
+Evaluation of algorithms for intracranial EEG (iEEG) source imaging of extended sources: Feasibility of using iEEG source imaging for localizing epileptogenic zones in secondary generalized epilepsy
+Functional roles and cultural modulations of the medial prefrontal and parietal activity associated with causal attribution
+Sex influence on face recognition memory moderated by presentation duration and reencoding
+Symptom reporting in younger and older adults: Within-person variability and factor structures
+Positive and negative affect: From the between-person structure to individuals' daily experiences
+A stable sparse fear memory trace in human amygdala
+Nuclear magnetic resonance imaging using arterial blood-nulling for quantification of human cerebral blood volume
+Monoamine oxidase A (MAO-A)binding in prefrontal and anterior cingulate cortex in postpartum depression
+Causal role of dorsolateral prefrontal cortex in human perceptual decision making
+Mass counts: ERP correlates of non-adjacent dependency learning under different exposure conditions
+Conflict processing is modulated by positive emotion: ERP data from a flanker task
+Accessory stimuli affect prerequisites of conflict, not conflict control: A Simon-task ERP study
+Functional connectivity between voice- and face-sensitive cortices in human communication
+Music's impact on the visual perception of emotional dyadic interactions
+Mild cognitive impairment: Incidence and risk factors: Results of the Leipzig Longitudinal Study of the Aged (LEILA 75+)
+BrainModes: The role of neuronal oscillations in health and disease
+Back to the future: Autobiographical planning and the functionality of mind-wandering
+Stimulus independence, social cognition and consciousness
+Dynamic cross-modal priming of emotion investigated with event-related potentials
+The functional and neural mechanism of action preparation: Roles of EBA and FFA in voluntary action control
+Learning of timing patterns and the development of temporal expectations
+Selective suppression of self-initiated sounds in an auditory stream: An ERP study
+The role of temporal prediction abilities in interpersonal sensorimotor synchronization
+Temporal regularity effects on pre-attentive and attentive processing of deviance
+Neurological and neurocognitive deficits in adults with early treated phenylketonuria
+Dissociating improvement of attention and intelligence during written language acquisition in adults
+Filling the gap: Temporal and motor aspects of the mental simulation of occluded actions
+Visual stimuli evoke rapid activation (120 ms) of sensorimotor cortex for overt but not for covert movements
+Focal retrograde amnesia: Voxel-based morphometry findings in a case without MRI lesions
+On the time course of vocal emotion recognition
+Imagery of errors in typing
+The joint flanker effect: Sharing tasks with real and imagined co-actors
+Emotional speech perception unfolding in time: The role of the basal ganglia
+The neural language networks at birth
+The influence of animacy and context on word order processing: Neurophysiological evidence from Mandarin Chinese
+Motor execution affects action prediction
+MRI analysis in temporal lobe epilepsy: Cortical thinning and white matter disruptions are related to side of seizure onset
+Optically detunable, inductively coupled coil for self-gating in small animal magnetic resonance imaging
+The footprints of a wandering mind: Further examination of the time course of an attentional lapse
+Unified segmentation based correction of R1 brain maps for RF transmit field inhomogeneities (UNICORT)
+Neural correlates of dyadic interaction during infancy
+Parcellation of human amygdala in vivo using ultra high field structural MRI
+Investigating brain response to music: A comparison of different fMRI acquisition schemes
+A gateway system in rostral PFC? Evidence from biasing attention to perceptual information and internal representations
+Exploring functional relations between brain regions from fMRI meta-analysis data: Comments on Ramsey, Spirtes, and Glymour
+Where does the delay in L2 picture naming come from? Psycholinguistic and neurocognitive evidence on second language word production
+Transcranial magnetic stimulation intensities in cognitive paradigms
+Non-invasive optical imaging of stroke
+Impact of impairment in instrumental activities of daily living and mild cognitive impairment on time to incident dementia: Results of the Leipzig longitudinal study of the aged (LEILA75+)
+Preverbal skills as mediators for language outcome in preterm and full term children
+Why you think Milan is Larger than Modena: Neural correlates of the recognition
+Optimal imaging of cortico-muscular coherence through a novel regression technique based on multi-channel EEG and un-rectified EMG
+Impairing somatosensory working memory using rTMS
+Real-time functional magnetic imaging-brain-computer interface and virtual reality: promising tools for the treatment of pedophilia
+A non-elaborative mental stance and decoupling of executive and pain-related cortices predicts low pain sensitivity in Zen meditators
+Exploiting the potential of three dimensional spatial wavelet analysis to explore nesting of temporal oscillations and spatial variance in simultaneous EEG-fMRI data
+Shared language: Overlap and segregation of the neuronal infrastructure for speaking and listening revealed by functional MRI
+REG-ICA: A hybrid methodology combining Blind Source Separation and regression techniques for the rejection of ocular artifacts
+Strategy-effects in prefrontal cortex during learning of higher-order S-R rules
+Spontaneous but not explicit processing of positive sentences impaired in Asperger's syndrome: Pupillometric evidence
+Analysis of transmit magnetic field homogeneity for a 7T multi-channel MRI loop array
+Dreamed movement elicits activation in the sensorimotor cortex
+Monoamine oxidase A binding in the prefrontal and anterior cingulate cortices during acute withdrawal from heavy cigarette smoking
+Suitability of miniature inductively coupled RF coils as MR-visible markers for clinical purposes
+Investigation into the cross-correlation of salivary cortisol and alpha-amylase responses to psychological stress
+Mind-wandering while reading: Attentional decoupling, mindless reading and the cascade model of inattention
+A software tool for interactive exploration of intrinsic functional connectivity opens new perspectives for brain surgery
+Microstructure of frontoparietal connections predicts cortical responsivity and working memory performance
+Monoamine oxidase A inhibitor occupancy during treatment of major depressive episodes with moclobemide or St. John's wort: An [(11)C]-harmine PET study
+Can out-of-context musical sounds convey meaning? An ERP study on the processing of meaning in music
+Cross-modal validation of the Leipzig Affective Norms for German (LANG)
+Graph-theoretical analysis reveals disrupted small-world organization of cortical thickness correlation networks in temporal lobe epilepsy
+Emotion, language, and the brain
+Modeling of the human skull in EEG source analysis
+Observing shared attention modulates gaze following.
+Maturation of obligatory auditory responses and their neural sources: Evidence from EEG and MEG
+Predicting and memorizing observed action: Differential premotor cortex involvement
+A neural mechanism mediating the impact of episodic prospection on farsighted decisions
+Learning-related grey and white matter changes in humans: An update
+Sex-dependent influences of obesity on cerebral white matter investigated by diffusion-tensor imaging
+Neural language networks at birth
+Trigeminal nociceptive transmission in migraineurs predicts migraine attacks
+Skin conductance response to the pain of others predicts later costly helping
+Improved intertask coordination after extensive dual-task practice
+Trial-to-trial sequential dependencies in a social and non-social Simon task
+Structural connectivity via the tensor-based morphometry
+What is shared in joint action? Issues of co-representation, response conflict, and agent identification
+Short-term compassion training increases prosocial behavior in a newly developed prosocial game
+Spatio-temporal indications of sub-cortical involvement in leftward bias of spatial attention
+A novel method for reliable and fast extraction of neuronal EEG/MEG oscillations on the basis of spatio-spectral decomposition
+Syntactic and auditory spatial processing in the human temporal cortex: An MEG study
+Simple paradigm for extra-cerebral tissue removal: algorithm and analysis
+Continous theta-burst stimulation (cTBS) over the lateral prefrontal cortex alters reinforcement learning bias
+A computational model for the influence of corollary discharge and proprioception on the perisaccadic mislocalization of briefly presented stimuli in complete darkness
+The impact of aesthetic evaluation and physical ability on dance perception
+Acoustic processing of temporally modulated sounds in infants: Evidence from a combined near-infrared spectroscopy and EEG study
+Identification of signal bias in the variable flip angle method by linear display of the algebraic Ernst equation
+Parahippocampal cortex: translating vision into space
+Digital topology in brain image segmentation and registration

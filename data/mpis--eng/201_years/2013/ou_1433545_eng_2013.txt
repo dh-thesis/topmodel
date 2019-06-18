@@ -1,0 +1,124 @@
+Ascending aortic aneurysm and aortic valve dysfunction in bicuspid aortic valve disease
+Sequencing out complex diseases
+High-Throughput miRNA and mRNA Sequencing of Paired Colorectal Normal, Tumor and Metastasis Tissues and Bioinformatic Modeling of miRNA-1 Therapeutic Applications
+IT Future of Medicine (ITFoM)
+Ebstein's anomaly may be caused by mutations in the sarcomere protein gene MYH7
+Ubiquilin-1 Modulates gamma-Secretase-Mediated epsilon-Site Cleavage in Neuronal Cells
+Dual Coordination of Post Translational Modifications in Human Protein Networks
+IT Future of Medicine: from molecular analysis to clinical diagnosis and improved treatment
+Structural Characterization of Amorfrutins Bound to the Peroxisome Proliferator-Activated Receptor gamma
+Foam cell specific LXRalpha ligand
+Activating RNAs associate with Mediator to enhance chromatin architecture and transcription
+Amorfrutin B is an efficient natural peroxisome proliferator-activated receptor gamma (PPARgamma) agonist with potent glucose-lowering properties
+Brain white matter oedema due to ClC-2 chloride channel deficiency: an observational analytical study
+Mutations in the intellectual disability gene Ube2a cause neuronal dysfunction and impair parkin-dependent mitophagy
+Synaptic MAGUK multimer formation is mediated by PDZ domains and promoted by ligand binding
+A mosaic maternal splice donor mutation in the EHMT1 gene leads to aberrant transcripts and to Kleefstra syndrome in the offspring
+Loss of function of KIAA2022 causes mild to severe intellectual disability with an autism spectrum disorder and impairs neurite outgrowth
+Synthetic sickness or lethality points at candidate combination therapy targets in glioblastoma
+Zebrafish Expression Ontology of Gene Sets (ZEOGS): a tool to analyze enrichment of zebrafish anatomical terms in large gene sets
+Transcriptome sequencing and microarray design for functional genomics in the extremophile Arabidopsis relative Thellungiella salsuginea (Eutrema salsugineum)
+Inferring nucleosome positions with their histone mark annotation from ChIP data
+Analysis of variable retroduplications in human populations suggests coupling of retrotransposition to cell division
+Single-cell based high-throughput sequencing of full-length immunoglobulin heavy and light chain genes
+Human stromal (mesenchymal) stem cells from bone marrow, adipose tissue and skin exhibit differences in molecular phenotype and differentiation potential
+LGALS3BP regulates centriole biogenesis and centrosome hypertrophy in cancer cells
+The Medulloblastoma Methylome Reveals New Epigenetic Regulatory Mechanisms
+Generation and Characterization of a Leishmania tarentolae Strain for Site-Directed in Vivo Biotinylation of Recombinant Proteins
+Novel WDR35 mutations in patients with cranioectodermal dysplasia (Sensenbrenner syndrome)
+A Y328C missense mutation in spermine synthase causes a mild form of Snyder-Robinson syndrome
+Warburg effect and translocation-induced genomic instability: two yeast models for cancer cells
+Comprehensive proteomic data sets for studying adipocyte-macrophage cell-cell communication
+A Y2H-seq approach defines the human protein methyltransferase interactome
+Protein sets define disease states and predict in vivo effects of drug treatment
+Long noncoding RNAs usher in a new era in the biology of enhancers
+Protein set analyses: how could this impact the clinic?
+Molecular interaction networks in the analyses of sequence variation and proteomics data
+Dysfunction of the Heteromeric KV7.3/KV7.5 Potassium Channel is Associated with Autism Spectrum Disorders
+Genome-wide analysis of LXRα activation reveals new transcriptional networks in human atherosclerotic foam cells
+Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma
+Genome-wide significant association of ANKRD55 rs6859219 and multiple sclerosis risk
+Elucidation of the BACE1 Regulating Factor GGA3 in Alzheimer's Disease
+Synergism between Hedgehog-GLI and EGFR Signaling in Hedgehog-Responsive Human Medulloblastoma Cells Induces Downregulation of Canonical Hedgehog-Target Genes and Stabilized Expression of GLI1
+Hypermutation of the inactive X chromosome is a frequent event in cancer
+Integrative genomic analyses reveal an androgen-driven somatic alteration landscape in early-onset prostate cancer
+Effects of aging and dopamine genotypes on the emergence of explicit memory during sequence learning
+Genomics and epigenomics of colorectal cancer
+Neutral Evolution of Duplicated DNA: An Evolutionary Stick-Breaking Process Causes Scale-Invariant Behavior
+Fast and accurate read mapping with approximate seeds and multiple backtracking
+Genome-wide analysis of LXRalpha activation reveals new transcriptional networks in human atherosclerotic foam cells
+Distinct global shifts in genomic binding profiles of limb malformation associated HOXD13 mutations
+MicroRNA expression profile in human macrophages in response to Leishmania major infection
+De novo truncating mutations in ASXL3 are associated with a novel clinical phenotype with similarities to Bohring-Opitz syndrome
+The ConsensusPathDB interaction database: 2013 update
+Novel mutations in the sarcomeric protein myopalladin in patients with dilated cardiomyopathy
+HUWE1 mutation explains phenotypic severity in a case of familial idiopathic intellectual disability
+Clinical and neurocognitive characterization of a family with a novel MED12 gene frameshift mutation
+CCDC22 deficiency in humans blunts activation of proinflammatory NF-kappaB signaling
+PROmiRNA: a new miRNA promoter recognition method uncovers the complex regulation of intronic miRNAs
+Antidiabetic effects of chamomile flowers extract in obese mice through transcriptional stimulation of nutrient sensors of the peroxisome proliferator-activated receptor (PPAR) family
+Integrative analysis of cancer-related signaling pathways
+Integrative annotation of variants from 1092 humans: application to cancer genomics
+Identification of fibronectin as a major factor in human serum to recruit subchondral mesenchymal progenitor cells
+DNA sequencing methods in human genetics and disease research
+Dopamine modulates attentional control of auditory perception: DARPP-32 (PPP1R1B) genotype effects on behavior and cortical evoked potentials
+BMP10 as a potent inducer of trophoblast differentiation in human embryonic and induced pluripotent stem cells
+Future of Medicine: Models in Predictive Diagnostics and Personalized Medicine
+Aging and KIBRA/WWC1 Genotype Affect Spatial Memory Processes in a Virtual Navigation Task
+Current methods for inducing pluripotency in somatic cells
+Sox10 cooperates with the mediator subunit 12 during terminal differentiation of myelinating glia
+Comprehensive prediction in 78 human cell lines reveals rigidity and compactness of transcription factor dimers
+Genome sequence and functional genomic analysis of the oil-degrading bacterium Oleispira antarctica
+Genetic relationship between five psychiatric disorders estimated from genome-wide SNPs
+An integrative computational analysis provides evidence for FBN1-associated network de-regulation in trisomy 21
+Comparative analysis of resistant and susceptible macrophage gene expression response to Leishmania major parasite
+Protein array screening reveals IGA autoantigens predicting therapy response in rheumatoid arthritis patients
+Genome-wide linkage analysis is a powerful prenatal diagnostic tool in families with unknown genetic defects
+Investigation of primary microcephaly in Bushehr province of Iran: novel STIL and ASPM mutations
+Characterisation of de novo MAPK10/JNK3 truncation mutations associated with cognitive disorders in two unrelated patients
+Integrative analysis revealed the molecular mechanism underlying RBM10-mediated splicing regulation
+Identification of a long non-coding RNA-associated RNP complex regulating metastasis at the translational step
+Isolated bladder exstrophy associated with a de novo 0.9 Mb microduplication on chromosome 19p13.12.
+A naturally occuring insertion of a single amino acid rewires transcriptional regulation by glucocorticoid receptor isoforms
+Twisted signatures of GC-biased gene conversion embedded in an evolutionary stable karyotype
+Meiotic Recombination Strongly Influences GC-Content Evolution in Short Regions in the Mouse Genome
+Modeling of DNA curvature: comment on "Sequence-dependent collective properties of DNAs and their role in biological systems" by Pasquale De Santis and Anita Scipioni
+ERG Induces Epigenetic Activation of Tudor Domain-Containing Protein 1 (TDRD1) in ERG Rearrangement-Positive Prostate Cancer
+MANBA, CXCR5, SOX8, RPS6KB1 and ZBTB46 are genetic risk loci for multiple sclerosis
+Serum Iron Levels and the Risk of Parkinson Disease: A Mendelian Randomization Study
+Ebstein´s anomaly may be caused by mutations in the sarcomere protein gene MYH7
+Optimal precursor ion selection for LC-MALDI MS/MS
+Janus-a comprehensive tool investigating the two faces of transcription
+DNA-Methylome Analysis of Mouse Intestinal Adenoma Identifies a Tumour-Specific Signature That Is Partly Conserved in Human Colon Cancer
+Soluble Alpha-APP (sAPPalpha) Regulates CDK5 Expression and Activity in Neurons
+Distinguishing true from false positives in genomic studies: p values
+Anterior gradient 2 and 3--two prototype androgen-responsive genes transcriptionally upregulated by androgens and by oestrogens in prostate cancer cells
+Transcriptomic responses generated by hepatocarcinogens in a battery of liver-based in vitro models
+ZC4H2 mutations are associated with arthrogryposis multiplex congenita and intellectual disability through impairment of central and peripheral synaptic plasticity
+Aging magnifies the effects of dopamine transporter and D2 receptor genes on backward serial memory
+Analysis of the DNA-binding profile and function of TALE homeoproteins reveals their specialization and specific interactions with Hox genes/proteins
+The origin, evolution, and functional impact of short insertion-deletion variants identified in 179 human genomes
+A newly recognized autosomal recessive syndrome affecting neurologic function and vision
+Familial aggregation of pure tone hearing thresholds in an aging European population
+Dopaminergic Gene Polymorphisms Affect Long-term Forgetting in Old Age: Further Support for the Magnification Hypothesis
+Chromatin signaling and transcription initiation
+Finding Associations among Histone Modifications Using Sparse Partial Correlation Networks
+Genome-wide Kinase-Chromatin Interactions Reveal the Regulatory Network of ERK Signaling in Human Embryonic Stem Cells
+De novo microduplications at 1q41, 2q37.3, and 8q24.3 in patients with VATER/VACTERL association
+Discovery and Characterization of Protein-Modifying Natural Products by MALDI Mass Spectrometry Reveal Potent SIRT1 and p300 Inhibitors
+Breakpoint characterization of the der(19)t(11;19)(q13;p13) in the ovarian cancer cell line SKOV-3
+A novel ALDH5A1 mutation is associated with succinic semialdehyde dehydrogenase deficiency and severe intellectual disability in an Iranian family
+Development and application of a DNA microarray-based yeast two-hybrid system
+The tissue-specific IncRNA Fendrr is an essential regulator of heart and body wall development in the mouse.
+Role and control of X chromosome dosage in mammalian development
+Whole exome sequencing identified a novel zinc-finger gene ZNF141 associated with autosomal recessive postaxial polydactyly type A
+Evaluation of methods for modeling transcription factor sequence specificity
+Combined sequence-based and genetic mapping analysis of complex traits in outbred rats
+Evolutionary entropy predicts the outcome of selection: Competition for resources that vary in abundance and diversity
+TREM2 and Neurodegenerative Disease
+Transcriptome and genome sequencing uncovers functional variation in humans
+Conversion of skin fibroblasts of patients with Alzheimer's disease into induced pluripotent stem cells
+Induced pluripotent stem cell-derived neurons from a sporadic Alzheimer's disease donor as a model for investigating disease mechanisms
+The enzymatic activity of the VEGFR2 receptor for the biosynthesis of dinucleoside polyphosphates
+The enzymatic activity of the VEGFR2-receptor for the biosynthesis of dinucleoside polyphosphates
+DNA–Methylome Analysis of Mouse Intestinal Adenoma Identifies a Tumour-Specific Signature That Is Partly Conserved in Human Colon Cancer

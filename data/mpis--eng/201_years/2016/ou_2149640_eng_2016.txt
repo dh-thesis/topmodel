@@ -1,0 +1,88 @@
+Clarifying the role of perception in intergroup relations: origins of bias, components of perception, and practical implications
+In vivo non-invasive tracking of macrophage recruitment to experimental stroke
+Low-level mediation of directionally specific motion aftereffects: Motion perception is not necessary
+Pharmacological fingerprints of contextual uncertainty
+MYCN and HDAC5 transcriptionally repress CD9 to trigger invasion and metastasis in neuroblastoma
+Selection and characterization of tau binding D-enantiomeric peptides with potential for therapy of Alzheimer disease
+Changes in electrocorticographic beta frequency components precede spreading depolarization in patients with acute brain injury
+The functional networks of prepulse inhibition: Neuronal connectivity analysis based on FDG-PET in awake and unrestrained rats
+Anti-ALK antibodies in patients with ALK-positive malignancies not expressing NPM-ALK
+Automated synthesis of 4-[18F]fluoroanisole, [18F]DAA1106 and 4-[18F]FPhe using Cu-mediated radiofluorination under “minimalist” conditions
+The role of the neural reward circuitry in self-referential optimistic belief updates
+A hemodynamic model for layered BOLD signals
+Insulin-dependent activation of MCH neurons impairs locomotor activity and insulin sensitivity in obesity
+Dynamic modulation of microglia/macrophage polarization by miR-124 after focal cerebral ischemia
+Morphological maturation of the mouse brain: An in vivo MRI and histology investigation
+Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis
+Tau neurotoxicity and rescue in animal models of human Tauopathies
+IL-6 signaling in myelomonocytic cells is not crucial for the development of IMQ-induced psoriasis
+AgRP neurons control systemic insulin sensitivity via myostatin expression in brown adipose tissue
+MiRNA-124 induces neuroprotection and functional improvement after focal cerebral ischemia
+Plasma apelin concentrations in patients with polyuria-polydipsia syndrome
+Social Bayes: Using Bayesian modeling to study autistic trait-related differences in social cognition
+Immunological effects in patients with steroid-refractory graft-versus-host disease following treatment with basiliximab, a CD25 monoclonal antibody
+Hunger-driven motivational state competition
+Geometrical features underlying the perception of collinearity
+Regulation of nuclear hormone receptors by MYCN-driven miRNAs impacts neural differentiation and survival in neuroblastoma patients
+Theoretical approaches to emotion and its measurement
+Processing and MHC class II presentation of exogenous soluble antigen involving a proteasome-dependent cytosolic pathway in CD40-activated B cells
+Hybrid PET/MR imaging in neurology: Present applications and prospects for the future
+FOXO1 couples metabolic activity and growth state in the vascular endothelium
+Ageing changes effective connectivity of motor networks during bimanual finger coordination
+Severe cerebral venous and sinus thrombosis: Clinical course, imaging correlates, and prognosis
+The neural cell adhesion molecule-derived (NCAM)-peptide FG loop (FGL) mobilizes endogenous neural stem cells and promotes endogenous regenerative capacity after stroke
+LYN kinase in the tumor microenvironment is essential for the progression of chronic lymphocytic leukemia
+Lsd1 ablation triggers metabolic reprogramming of Brown adipose tissue
+Which aspects of stroke do animal models capture? A multitracer Micro-PET study of focal ischemia with Endothelin-1
+Can Bayesian theories of autism spectrum disorder help improve clinical practice?
+Obesogenic memory can confer long-term increases in adipose tissue but not liver inflammation and insulin resistance after weight loss
+Tau in physiology and pathology
+FTO gene variant modulates the neural correlates of visual food perception
+Imaging effects related to language improvements by rTMS
+Single and transient Ca2+ peaks in podocytes do not induce changes in glomerular filtration and perfusion
+A hierarchical model for integrating unsupervised generative embedding and empirical Bayes
+Myeloid-cell-derived VEGF maintains brain glucose uptake and limits cognitive impairment in obesity
+Behavioural and neuroimaging correlates of impaired self-awareness of hypo- and hyperkinesia in Parkinson's disease
+Funnel-freezing versus heat-stabilization for the visualization of metabolites by mass spectrometry imaging in a mouse stroke model
+Bayesian inference, dysconnectivity and neuromodulation in schizophrenia
+The computation of relative numerosity, size and density
+Dorsolateral neostriatum contribution to incentive salience: Opioid or dopamine stimulation makes one reward cue more motivationally attractive than another
+Allostatic self-efficacy: A metacognitive theory of dyshomeostasis-induced fatigue and depression
+Sweet mitochondrial dynamics in VMH neurons
+Shaping early reorganization of neural networks promotes motor function after stroke
+Transcranial direct current stimulation modulates neurogenesis and microglia activation in the mouse brain
+Next-generation personalised medicine for high-risk paediatric cancer patients – The INFORM pilot study
+Abnormal connectional fingerprint in schizophrenia: A novel network analysis of diffusion tensor imaging data
+Transcription factor activating protein 2 beta (TFAP2B) mediates noradrenergic neuronal differentiation in neuroblastoma
+Mpdcm: A toolbox for massively parallel dynamic causal modeling
+Perceiving the world through group-colored glasses: a perceptual model of intergroup relations
+Local tumor treatment in combination with systemic ipilimumab immunotherapy prolongs overall survival in patients with advanced malignant melanoma
+Adenosine A1 receptor antagonist rolofylline alleviates axonopathy caused by human Tau δK280
+B-cell-specific conditional expression of Myd88(p.L252P) leads to the development of diffuse large B-cell lymphoma in mice
+Tau mutant A152T, a risk factor for FTD/PSP, induces neuronal dysfunction and reduced lifespan independently of aggregation in a C. elegans Tauopathy model
+Malignant MCA infarction: Pathophysiology and imaging for early diagnosis and management decisions
+The Tau/A152T mutation, a risk factor for frontotemporal-spectrum disorders, leads to NR2B receptor-mediated excitotoxicity
+Dicer1-miR-328-Bace1 signalling controls brown adipose tissue differentiation and function
+Different roles of direct and indirect frontoparietal pathways for individual working memory capacity
+Embodied neurology: an integrative framework for neurological disorders
+An 18 gene expression‑based score classifier predicts the clinical outcome in stage 4 neuroblastoma
+Immune checkpoints programmed death 1 ligand 1 and cytotoxic T lymphocyte associated molecule 4 in gastric adenocarcinoma
+Transcranial direct current stimulation accelerates recovery of function, induces neurogenesis and recruits oligodendrocyte precursors in a rat model of stroke
+Acetylation mimic of lysine 280 exacerbates human Tau neurotoxicity in vivo
+Computational models of eye movements and their application to schizophrenia
+Prognostic value of somatosensory evoked potentials, neuron-specific enolase, and S100 for short-term outcome in ischemic stroke
+Transcranial direct current stimulation in the male mouse to promote recovery after stroke
+Decoding Lamarck—transgenerational control of metabolism by noncoding RNAs
+Neuroendocrinology: Electromagnetogenetic control over feeding and glucose metabolism
+Age-dependent neuroinflammation and cognitive decline in a novel Ala152Thr-Tau transgenic mouse model of PSP and AD
+6-hydroxydopamine-induced Parkinson's disease-like degeneration generates acute microgliosis and astrogliosis in the nigrostriatal system but no bioluminescence imaging-detectable alteration in adult neurogenesis
+Clinical-radiological parameters improve the prediction of the thrombolysis time window by both MRI signal intensities and DWI-FLAIR mismatch
+Neuroimaging in vascular cognitive impairment: A state-of-the-art review
+Regulation of cerebral metabolism during cortical spreading depression
+Telomere maintenance is pivotal for high-risk neuroblastoma
+Cerebrolysin and recovery after stroke (CARS): A randomized, placebo-controlled, double-blind, multicenter trial
+Glucose consumption of inflammatory cells masks metabolic deficits in the brain
+History of the Letzte Wiese/Last Meadow Concept of Brain Ischemia
+Seyferth-Gilbert homologation as a route to 18F-labeled building blocks: Preparation of radiofluor-inated phenylacetylenes and their application in PET chemistry
+Targeted nanoparticles for the non-invasive detection of traumatic brain injury by optical imaging and fluorine magnetic resonance imaging
+The place of neuroimaging in the assessment of cerebral small vessel disease

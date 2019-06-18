@@ -1,0 +1,319 @@
+Cobalt-56 γ-ray emission lines from the type Ia supernova 2014J
+New horizons for observational cosmology
+The formation and early evolution of young massive clusters
+Consistent thermostatistics forbids negative absolute temperatures
+Neutrinos from the formation, cooling, and black hole collapse of neutron stars
+eROSITA on SRG
+Reconciling the chemical properties of star-forming galaxies, the Milky Way, and local ellipticals
+Linking 1D stellar evolution to 3D hydrodynamic simulations
+New prescriptions of turbulent transport from local numerical simulations
+Broadband spectrum of the total X-ray emission from the galaxy M31
+Nebular excitation in z ~ 2 star-forming galaxies from the SINS and LUCI surveys: the influence of shocks and active galactic nuclei
+Numerical resolution limits on subhalo abundance matching
+The ejected mass distribution of type Ia supernovae: a significant rate of non-Chandrasekhar-mass progenitors
+Spectroscopic study of the open cluster NGC 6811
+SRG/eROSITA prospects for the detection of stellar tidal disruption flares
+A new procedure for defining a homogenous line-list for solar-type stars
+Linking X-ray AGN with dark matter halos: a model compatible with AGN luminosity function and large-scale clustering properties
+Turbulence sets the initial conditions for star formation in high-pressure environments
+Astrophysical data analysis with information field theory
+Nucleosynthesis constraints on the neutron star-black hole merger rate
+Driving the growth of the earliest supermassive black holes with major mergers of host galaxies
+The NIFTy way of Bayesian signal inference
+Trumpet slices in Kerr spacetimes
+Stars were born in significantly denser regions in the early universe
+Galaxy size trends as a consequence of cosmology
+Position-dependent power spectrum of the large-scale structure: a novel method to measure the squeezed-limit bispectrum
+Planet transit and stellar granulation detection with interferometry - Using the three-dimensional stellar atmosphere Stagger-grid simulations
+Impact of tangled magnetic fields on star formation
+Production of 56Ni in black hole-neutron star merger accretion disc outflows
+A new method to measure galaxy bias
+Suppression of local heat flux in a turbulent magnetized intracluster medium
+Radiative feedback from high-mass X-ray binaries on the formation of the first galaxies and early reionization
+Type Ia supernovae from merging white dwarfs. I. Prompt detonations
+Two- and three-dimensional simulations of core-collapse supernova explosions of massive stars applying neutrino hydrodynamics
+Satellite abundances around bright isolated galaxies – II. Radial distribution and environmental effects
+New observations of z ~ 7 galaxies: evidence for a patchy reionization
+A continuum of H- to He-rich tidal disruption candidates with a preference for E+A galaxies
+Search for stable magnetohydrodynamic equilibria in barotropic stars
+Optical follow-up observations of PTF10qts, a luminous broad-lined type Ic supernova found by the Palomar Transient Factory
+Lensing model of MACS J1149.5+2223 – I. Cluster mass reconstruction
+Spatially resolved molecular gas in early-type galaxies
+SpS5 - II. Stellar and wind parameters
+Improving self-calibration
+Abundance stratification in type Ia supernovae – IV. The luminous, peculiar SN 1991T
+The stripping of a galaxy group diving into the massive cluster A2142
+The ATLAS3D Project – XXVIII. Dynamically driven star formation suppression in early-type galaxies
+Spectroscopic analysis of cool giants and supergiants
+Cold gas properties of the Herschel Reference Survey - III. Molecular gas stripping in cluster galaxies
+Depopulation of metastable helium by radiative association with hydrogen and lithium ions
+Planck 2013 results - XXIII. Isotropy and statistics of the CMB
+Numerical hydrodynamic simulations based on semi-analytic galaxy merger trees: method and Milky Way-like galaxies
+Beamed Lyα emission through outflow-driven cavities
+The SINS/zC-SINF survey of z ~ 2 galaxy kinematics: evidence for gravitational quenching
+The impact of baryonic processes on the two-point correlation functions of galaxies, subhaloes and matters functions in dense environments
+Mapping the present-day prestellar core mass function into the stellar IMF
+Coupling of nuclear reaction networks and hydrodynamics for application in stellar astrophysics
+Constraining primordial magnetic fields with distortions of the black-body spectrum of the cosmic microwave background: pre- and post-decoupling contributions
+The formation of massive black holes in z ∼ 30 dark matter haloes with large baryonic streaming velocities
+Improved Hubble Space Telescope proper motions for Tycho-G and other stars in the remnant of Tycho's supernova 1572
+Can AGN feedback break the self-similarity of galaxies, groups, and clusters?
+Limits on the neutrino magnetic dipole moment from the luminosity function of hot white dwarfs
+The X-ray coronae of the two brightest galaxies in the Coma cluster
+Measurement of acoustic glitches in solar-type stars from oscillation frequencies observed by Kepler
+PopCORN: hunting down the differences between binary population synthesis codes
+Dark matter implications of Fermi-LAT measurement of anisotropies in the diffuse gamma-ray background
+The Sins/zC-Sinf survey of z ~ 2 galaxy kinematics: evidence for powerful active galactic nucleus-driven nuclear outflows in massive star-forming galaxies
+Gaia FGK benchmark stars: metallicity
+Hubble Space Telescope spectra of the type Ia supernova SN 2011fe: a tail of low-density, high-velocity material with Z < Z⊙
+On the formation of MgII h and k lines in solar prominences
+Angular momentum redistribution by SASI spiral modes and consequences for neutron star spins
+Brightness of the Sun’s small scale magnetic field: proximity effects
+On the density profile of dark matter substructure in gravitational lens galaxies
+Upper limits on the luminosity of the progenitor of type Ia supernova SN 2014J
+Planck 2013 results - XXII. Constraints on inflation
+PRISM (Polarized Radiation Imaging and Spectroscopy Mission): an extended white paper
+Revisiting the axion bounds from the Galactic white dwarf luminosity function
+Magnetic field amplification and magnetically supported explosions of collapsing, non-rotating stellar cores
+Stellar orbits in cosmological galaxy simulations: the connection to formation history and line-of-sight kinematics
+Planck 2013 results - VIII. HFI photometric calibration and mapmaking
+Planck 2013 results - XXI. Power spectrum and high-order statistics of the Planck all-sky Compton parameter map
+Protoplanetary disc evolution affected by star–disc interactions in young stellar clusters
+Chaos and turbulent nucleosynthesis prior to a supernova explosion
+Planck intermediate results - XVI. Profile likelihoods for cosmological parameters
+Cosmological simulations of black hole growth: AGN luminosities and downsizing
+Consequences of mechanical and radiative feedback from black holes in disc galaxy mergers
+Theoretical stellar atmosphere models for cool stars
+Subhaloes gone Notts: subhaloes as tracers of the dark matter halo shape
+LOFAR low-band antenna observations of the 3C 295 and Boötes fields: source counts and ultra-steep spectrum sources
+Discovery of dramatic optical variability in SDSS J1100+4421: A peculiar radio-loud narrow-line Seyfert 1 galaxy?
+An analysis of Fermi-LAT observations of the outskirts of the Coma cluster of galaxies
+Generic inference of inflation models by non-Gaussianity and primordial power spectrum reconstruction
+Counting gamma rays in the directions of galaxy clusters
+Robust PCA and MIC statistics of baryons in early minihaloes
+Type Ia supernova bolometric light curves and ejected mass estimates from the Nearby Supernova Factory
+Modulating the magnetosphere of magnetars by internal magneto-elastic oscillations
+Multi-epoch high-spectral-resolution observations of neutral sodium in 14 type Ia supernovae
+Multiple stellar populations in the massive clusters M22 and Omega Centauri
+Planck 2013 results - VI. High Frequency Instrument data processing
+Planck 2013 results - XXV. Searches for cosmic strings and other topological defects
+Planck 2013 results - XXXI. Consistency of the Planck data
+Planck 2013 results - V. LFI calibration
+Planck 2013 results - XX. Cosmology from Sunyaev–Zeldovich cluster counts
+Planck 2013 results - XII. Diffuse component separation
+Planck 2013 results - IV. Low Frequency Instrument beams and window functions
+Planck 2013 results - XXIV. Constraints on primordial non-Gaussianity
+Planck 2013 results - XI. All-sky model of thermal dust emission
+PESSTO monitoring of SN 2012hn: further heterogeneity among faint type I supernovae
+Kinetic or thermal AGN feedback in simulations of isolated and merging disc galaxies calibrated by the M-σ relation
+Elemental abundances in Milky Way-like galaxies from a hierarchical galaxy formation model
+Absorption filaments toward the massive clump G0.253+0.016
+The ATLAS3D project – XXVII. Cold gas and the colours and ages of early-type galaxies
+Statistical inference in radio astronomy
+Color-magnitude relations within globular cluster systems of giant elliptical galaxies: the effects of globular cluster mass loss and the stellar initial mass function
+Stellar mass and color dependence of the three-point correlation function of galaxies in the local universe
+NGC 1266 as a local candidate for rapid cessation of star formation
+Disk galaxies in the magneticum pathfinder simulations
+Accretion disks
+Magnetic Fields throughout Stellar Evolution
+Gravitational lensing studies of galaxy cluster halos
+Mean field dynamo in thick disks around Kerr black holes: high order axisymmetric simulations
+Estimating the galactic coronal density via ram-pressure stripping from dwarf satellites
+An uncertainty principle for star formation – I. Why galactic star formation relations break down below a certain spatial scale lar mass and star formation rate
+Simulating star formation in Ophiuchus
+A thin diffuse component of the galactic ridge X-ray emission and heating of the interstellar medium contributed by the radiation of galactic X-ray binaries
+Constraining the neutrino magnetic dipole moment from white dwarf pulsations
+LOFAR tied-array imaging of type III solar radio bursts
+What controls star formation in the central 500 pc of the galaxy?
+Global evolution of the magnetic field in a thin disc and its consequences for protoplanetary systems
+The mutual interaction between Population III stars and self-annihilating dark matter
+The type IIP supernova 2012aw in M95: hydrodynamical modeling of the photospheric phase from accurate spectrophotometric monitoring
+Scattering of emission lines in galaxy cluster cores: measuring electron temperature
+Parametrizing the stellar haloes of galaxies
+Constraining the epoch of reionization with the variance statistic: simulations of the LOFAR case
+An upper limit to the energy of gamma-ray bursts indicates that GRBs/SNe are powered by magnetars
+Cosmic web alignments with the shape, angular momentum and peculiar velocities of dark matter haloes
+Planck intermediate results - XVII. Emission of dust in the diffuse interstellar medium from the far-infrared to microwave frequencies
+On the fine structure of the Cepheid metallicity gradient in the galactic thin disk
+Quantitative constraints on starburst cycles in galaxies with stellar masses in the range 10(8)–10(10) M⊙
+An observational and theoretical view of the radial distribution of HI gas in galaxies
+Depopulation of metastable helium He(2(1)S) by radiative association with hydrogen and lithium cations
+Observational appearance of black holes in X-ray binaries and AGN
+A multiple dry merger at z = 0.18: witnessing the assembly of a massive elliptical galaxy
+Shear mixing in stellar radiative zones - I. Effect of thermal diffusion and chemical stratification
+The halo+cluster system of the galactic globular cluster NGC 1851
+Fundamental stellar parameters and metallicities from Bayesian spectroscopy: application to low- and high-resolution spectra
+The tenth data release of the Sloan Digital Sky Survey: first spectroscopic data from the SDSS-III Apache Point Observatory Galactic Evolution Experiment
+Bulgeless galaxies at intermediate redshift: sample selection, color properties, and the existence of powerful active galactic nuclei
+A multi-wavelength investigation of the radio-loud supernova PTF11qcj and its circumstellar environment
+The B fields in OB stars (BOB) survey
+Distance determinations to SHIELD galaxies from Hubble Space Telescope imaging
+SN 2010mb: direct evidence for a supernova interacting with a large amount of hydrogen-free circumstellar material
+Fully covariant and conformal formulation of the Z4 system in a reference-metric approach: comparison with the BSSN formulation in spherical symmetry
+Precision cosmology in muddy waters: cosmological constraints and N-body codes
+The ATLAS 3D project – XXIV. The intrinsic shape distribution of early-type galaxies
+Exploring the spectral diversity of low-redshift type Ia supernovae using the Palomar Transient Factory
+Black hole feedback in elliptical galaxies
+The ATLAS3D project – XXVI. H I discs in real and simulated fast and slow rotators
+Radiogenic p-isotopes from type Ia supernova, nuclear physics uncertainties, and galactic chemical evolution compared with values in primitive meteorites
+Early ultraviolet emission in the type Ia supernova LSQ12gdj: no evidence for ongoing shock interaction
+The Gaia-ESO Survey: the analysis of high-resolution UVES spectra of FGK-type stars
+The ATLAS3D Project – XXVIII. Dynamically driven star formation suppression in early-type galaxies
+Dilution in massive, elliptical galaxies
+The chemical evolution of galaxies in semi-analytic models and observations
+Mass determination of elliptical galaxies
+Evidence for wide-spread active galactic nucleus-driven outflows in the most massive z ~ 1-2 star-forming galaxies
+Planck 2013 results - XV. CMB power spectra and likelihood
+The AGORA high-resolution galaxy simulations comparison project
+Planck 2013 results - VII. HFI time response and beams
+On the evolution of the density probability density function in strongly self-gravitating systems
+Interaction between the broad-lined type Ic supernova 2012ap and carriers of diffuse interstellar bands
+Planck 2013 results - I. Overview of products and scientific results
+Planck 2013 results - XIV. Zodiacal emission
+The stellar IMF in early-type galaxies from a non-degenerate set of optical line indices
+The mass and angular momentum distribution of simulated massive early-type galaxies to large radii
+Probing large-scale structure with large samples of X-ray selected AGN - I. Baryonic acoustic oscillations
+Next generation population synthesis of accreting white dwarfs – I. Hybrid calculations using bse + mesa
+SN 2013df, a double-peaked IIb supernova from a compact progenitor and an extended H envelope
+Photometric and spectroscopic observations, and abundance tomography modelling of the type Ia supernova SN 2014J located in M82
+Extensive HST ultraviolet spectra and multiwavelength observations of SN 2014J in M82 indicate reddening and circumstellar scattering by typical dust
+Stellar tidal disruption candidates found by cross-correlating the ROSAT Bright Source Catalogue and XMM–Newton observations
+LiteBIRD: mission overview and design tradeoffs
+How well do third-order aperture mass statistics separate E- and B-modes?
+Planck 2013 results - II. Low Frequency Instrument data processing
+Very late photometry of SN 2011fe
+Globular cluster formation in the context of galaxy formation and evolution
+SN 2009N: linking normal and subluminous type II-P SNe
+Predictions for the relation between strong H I absorbers and galaxies at redshift 3
+Planck 2013 results - XIX. The integrated Sachs-Wolfe effect
+Planck 2013 results - XXVIII. The Planck Catalogue of Compact Sources
+The LOFAR pilot surveys for pulsars and fast radio transients
+UV emission lines in passively evolving galaxies can reveal the progenitors of type Ia supernovae
+Constraining the BH-NS merger rate by r-process element production
+Towards petaflops capability of the VERTEX supernova code
+A single low-energy, iron-poor supernova as the source of metals in the star SMSS J031300.36−670839.3
+Diversity of gamma-ray burst energetics vs. supernova homogeneity: SN 2013cq associated with GRB 130427A
+Initial LOFAR observations of epoch of reionization windows - II. Diffuse polarized emission in the ELAIS-N1 field
+The nature of the low-frequency emission of M 51 - First observations of a nearby galaxy with LOFAR
+Impact of thermal diffusion and other abundance anomalies on cosmological uses of galaxy clusters
+Radiation-dominated boundary layer between an accretion disc and the surface of a neutron star: theory and observations
+X-ray diagnostics of chemical composition of the accretion disc and donor star in UCXBs – II. XMM–Newton observations
+The impact of galaxy formation on the total mass, mass profile and abundance of haloes
+Stellar kinematics of X-ray bright massive elliptical galaxies
+A morphological analysis for searches of possible extended γ-ray sources associated with dark matter annihilation
+Results from the Wilkinson Microwave Anisotropy Probe
+Galaxy formation on the largest scales: the impact of astrophysics on the baryonic acoustic oscillation peak
+Feedback-regulated supermassive black hole seed formation
+Inference of the cold dark matter substructure mass function at z = 0.2 using strong gravitational lenses
+Temperature structure of the intracluster medium from smoothed-particle hydrodynamics and adaptive-mesh refinement simulations
+3C 220.3: a radio galaxy lensing a submillimeter galaxy
+A PCA-based automated finder for galaxy-scale strong lenses
+The variation in molecular gas depletion time among nearby galaxies: what are the main parameter dependences?
+SPHGal: smoothed particle hydrodynamics with improved accuracy for galaxy simulations
+Stellar feedback by radiation pressure and photoionization
+Planck intermediate results - XIV. Dust emission at millimetre wavelengths in the galactic plane
+Dilution in elliptical galaxies: implications for the relation between metallicity, stellar mass and star formation rate
+SN 2011hs: a fast and faint type IIb supernova from a supergiant progenitor
+Radiative levitation in massive stars: a self-consistent approach
+Early 56Ni decay gamma rays from SN2014J suggest an unusual explosion
+A new two-moment scheme with algebraic closure for energy-dependent multi-flavor neutrino transport in supernovae
+Kennicutt-Schmidt relation in the HI dominated regime
+Erratum: three-dimensional delayed-detonation models with nucleosynthesis for type Ia supernovae
+Status of ART-XC/SRG instrument
+New axion bounds from the white dwarf luminosity function
+Optical and near-infrared observations of SN 2011dh – the first 100 days
+Cold gas properties of the Herschel Reference Survey - II. Molecular and total gas scaling relations
+Modelling star formation in Ophiuchus
+A galactic-scale origin for stellar clustering
+Connection between dynamically derived initial mass function normalization and stellar population parameters
+Mapping dark matter in the gamma-ray sky with galaxy catalogs
+The diverse formation histories of simulated disc galaxies
+The physical nature of the 8 o'clock arc based on near-IR IFU spectroscopy with SINFONI
+Modeling X-ray emission around galaxies
+The supernova CSS121015:004244+132827: a clue for understanding superluminous supernovae
+Redshift evolution of the dynamical properties of massive galaxies from SDSS-III/BOSS
+A Monte Carlo approach to radiation hydrodynamics in stellar outflows
+Dissecting the 3D structure of elliptical galaxies with gravitational lensing and stellar kinematics
+The origin of metallicity gradients in massive galaxies at large radii
+The effect of recombination radiation on the temperature and ionization state of partially ionized gas
+Why stellar feedback promotes disc formation in simulated galaxies
+The ATLAS3D project – XXV. Two-dimensional kinematic analysis of simulated galaxies and the cosmological origin of fast and slow rotators
+Signatures of anisotropic sources in the trispectrum of the cosmic microwave background
+Clumping factors of H II, He II and He III
+Towards noiseless gravitational lensing simulations
+The SDSS-III Baryonic Oscillation Spectroscopic Survey: constraints on the integrated Sachs–Wolfe effect
+X-ray emission from star-forming galaxies – III. Calibration of the LX-SFR relation up to redshift z ≈ 1.3 non-degenerate set of optical line indices
+The white dwarf’s carbon fraction as a secondary parameter of type Ia supernovae
+Three-dimensional pure deflagration models with nucleosynthesis and synthetic observables for type Ia supernovae
+Hard X-ray emission of Sco X-1
+Curvilinear grids for WENO methods in astrophysical simulations
+Kiso supernova survey (KISS): survey strategy
+Planck 2013 results - XVIII. The gravitational lensing-infrared background correlation
+Planck 2013 results - XIII. Galactic CO emission
+Planck 2013 results - XXX. Cosmic infrared background measurements and implications for star formation
+The white dwarf cooling sequence of 47 Tucanae
+Chromatic effects in the 21 cm global signal from the cosmic dawn
+Young AGN outburst running over older X-ray cavities
+Large-scale structure studies with AGN in the eROSITA/SRG all-sky survey
+A study of optical/IR selected AGNs with SDSS and WISE
+Revealing the high-density equation of state through binary neutron star mergers
+The large observatory for X-ray timing
+Towards modelling ultracool dwarfs
+MOONS: the Multi-Object Optical and Near-infrared Spectrograph for the VLT
+The shape of dark matter subhaloes in the Aquarius simulations
+Emission-line diagnostics to constrain high-temperature populations in early-type galaxies
+Large-scale structure and gravitational waves - III. Tidal effects
+Characterizing SASI- and convection-dominated core-collapse supernova explosions in two dimensions
+The influence of halo evolution on galaxy structure
+Evolution of clusters and large-scale structures of galaxies
+Low luminosity type II supernovae – II. Pointing towards moderate mass precursors
+BSSN equations in spherical coordinates without regularization
+Simulating the formation and evolution of disc galaxies in a ΛCDM universe
+Probing the stellar initial mass function with high-z supernovae
+Diffuse gas in galaxies sheds new light on the origin of type Ia supernovae
+Analytical model for non-thermal pressure in galaxy clusters
+New method for analyzing dark matter direct detection data
+G0.253+0.016: a centrally condensed, high-mass protocluster
+The mass–concentration–redshift relation of cold dark matter haloes
+A consistent study of metallicity evolution at 0.8 < z < 2.6
+Angular correlation in He and He-like atomic ions: a manifestation of the genuine and conjugate Fermi holes
+Clusters of galaxies
+Cosmology from gravitational lens time delays and Planck data
+Evolution in the escape fraction of ionizing photons and the decline in strong Lyα emission from z > 6 galaxies
+General relativistic hydrodynamics in curvilinear coordinates
+On double-degenerate type Ia supernova progenitors as supersoft X-ray sources - a population synthesis analysis using SeBa
+Potential microwave probes of the proton-to-electron mass ratio at very high redshifts
+Old puzzle, new insights: a Lithium-rich giant quietly burning Helium in its core
+Strontium in the era of Gaia and LAMOST
+The relation between radio and X-ray luminosity of black hole binaries: affected by inner cool disks?
+Modulating magnetar emission by magneto-elastic oscillations
+Workshop on CLASS and MontePython
+Star formation triggered by feedback from massive stars
+Origins of disks in simulations of spiral galaxies
+The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: signs of neutrino mass in current cosmological data sets
+The relation between gas density and velocity power spectra in galaxy clusters: high-resolution hydrodynamic simulations and the role of conduction
+Planck 2013 results - IX. HFI spectral response
+Planck 2013 results - XVI. Cosmological parameters
+Planck 2013 results - XVII. Gravitational lensing by large-scale structure
+The Stagger-grid: a grid of 3D stellar atmosphere models
+Planck 2013 results - XXVII. Doppler boosting of the CMB: Eppur si muove
+Planck 2013 results - III. LFI systematic uncertainties
+On the role of AGN feedback on the thermal and chemodynamical properties of the hot intracluster medium
+Helium enhanced stars and multiple populations along the horizontal branch of NGC 2808: direct spectroscopic measurements
+The first analytical expression to estimate photometric redshifts suggested by a machine
+Lyα emitting galaxies as a probe of reionisation
+Erratum: Analytical model for non-thermal pressure in galaxy clusters
+A comprehensive X-ray and multiwavelength study of the colliding galaxy pair NGC 2207/IC 2163
+Dark matter and halo bispectrum in redshift space: theory and applications
+The relation between atomic gas and star formation rate densities in faint dwarf irregular galaxies
+Planck 2013 results - XXIX. The Planck catalogue of Sunyaev-Zeldovich sources
+Planck 2013 results - XXVI. Background geometry and topology of the Universe
+Planck 2013 results - X. HFI energetic particle effects: characterization, removal, and simulation
+Computation of the halo mass function using physical collapse parameters: application to non-standard cosmologies
+Turbulence patterns and neutrino flavor transitions in high-resolution supernova models
+Matched filter optimization of kSZ measurements with a reconstructed cosmological flow field
+Clustering tomography: measuring cosmological distances through angular clustering in thin redshift shells
+The angular momentum dichotomy
+Feedback from supernova and active galactic nuclei in gas-rich discs at high redshift
+Counterrotating stars in simulated galaxy discs
+Discovery of carbon radio recombination lines in absorption towards Cygnus A

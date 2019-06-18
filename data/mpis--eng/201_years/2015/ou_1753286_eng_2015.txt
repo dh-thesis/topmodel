@@ -1,0 +1,107 @@
+Ras moves to stay in place
+A Concise Total Synthesis of Breitfussin A and B
+Divergent Solid-Phase Synthesis of Natural Product-Inspired Bipartite Cyclodepsipeptides: Total Synthesis of Seragamide A
+Revisiting the Roco G-protein cycle
+The role of Bni5 in the regulation of septin higher-order structure formation
+Direct Modulation of Small GTPase Activity and Function
+Covalent Protein Labeling by Enzymatic Phosphocholination
+Rhodium(II)-Catalyzed Enantioselective Synthesis of Troponoids
+Neuritogenic Militarinone-Inspired 4-Hydroxypyridones Target the Stress Pathway Kinase MAP4K4
+Effect of the N-Terminal Helix and Nucleotide Loading on the Membrane and Effector Binding of Arl2/3
+The Molecular Biology of Spindle Assembly Checkpoint Signaling Dynamics
+Direct Measurement of Water States in Cryopreserved Cells Reveals Tolerance toward Ice Crystallization
+Metal-Free Oxidative C-C Bond Formation through C-H Bond Functionalization
+Hypervalent Iodine(III) in Direct Carbon-Hydrogen Bond Functionalization
+The Aurora B Kinase in Chromosome Bi-Orientation and Spindle Checkpoint Signaling
+Hypervalent Iodine(III) in Direct Oxidative Amination of Arenes with Heteroaromatic Amines
+Reversible Inhibitors Arrest ClpP in a Defined Conformational State that Can Be Revoked by ClpX Association
+Molecular Perspectives on Protein Adenylylation
+Pathogenic mutations causing glucose transport defects in GLUT1 transporter: The role of intermolecular forces in protein structure-function
+CENP-C is a blueprint for constitutive centromere-associated network assembly within human kinetochores
+Hydrocarbon Stapled Peptides as Modulators of Biological Function
+The kinetochore prevents centromere-proximal crossover recombination during meiosis
+Deciphering the Tubulin Code
+Role of Intrinsic and Extrinsic Factors in the Regulation of the Mitotic Checkpoint Kinase Bub1
+Requirement for PLK1 kinase activity in the maintenance of a robust spindle assembly checkpoint
+EGF-dependent re-routing of vesicular recycling switches spontaneous phosphorylation suppression to EGFR signaling
+Specificity of Lipoprotein Chaperones for the Characteristic Lipidated Structural Motifs of their Cognate Lipoproteins
+Regioselective annulation of nitrosopyridine with alkynes: straightforward synthesis of N-oxide-imidazopyridines
+Implications of network topology on stability
+Silence on the relevant literature and errors in implementation
+Discovery of Inter-Domain Stabilizers-A Novel Assay System for Allosteric Akt Inhibitors
+Oxidative Heterocycle Formation Using Hypervalent Iodine(III) Reagents
+(−)-Englerin A is a Potent and Selective Activator of TRPC4 and TRPC5 Calcium Channels
+Constraining Peptide Conformations with the Help of Ring-Closing Metathesis
+Structural Characterization of LRRK2 Inhibitors
+miRs-138 and -424 control palmitoylation-dependent CD95-mediated cell death by targeting acyl protein thioesterases 1 and 2 in chronic lymphocytic leukemia
+Identification of phlorizin binding domains in sodium-glucose cotransporter family: SGLT1 as a unique model system
+Condensation Agents Determine the Temperature-Pressure Stability of F-Actin Bundles
+Positional Scanning Synthesis of a Peptoid Library Yields New Inducers of Apoptosis that Target Karyopherins and Tubulin
+The function of embryonic stem cell-expressed Ras (E-Ras), a unique Ras family member, correlates with its additional motifs and its structural properties
+Subcellular Partitioning of Protein Tyrosine Phosphatase 1B to the Endoplasmic Reticulum and Mitochondria Depends Sensitively on the Composition of Its Tail Anchor
+Functional homologies in vesicle tethering
+Inter-kingdom Signaling by the Legionella Quorum Sensing Molecule LAI-1 Modulates Cell Migration through an IQGAP1-Cdc42-ARHGEF9-Dependent Pathway
+Structure of the F-actin–tropomyosin complex
+Biochemical and structural analysis of the binary toxin XaxAB from Xenorhabdus nematophila
+Catalytic aerobic oxidation and tandem enantioselective cycloaddition in cascade multicomponent synthesis
+An Interbacterial NAD(P)+ Glycohydrolase Toxin Requires Elongation Factor Tu for Delivery to Target Cells
+Oxidative regioselective amination of chromones exposes potent inhibitors of the hedgehog signaling pathway
+Complex assembly, crystallization and preliminary X-ray crystallographic analysis of the human Rod-Zwilch-ZW10 (RZZ) complex
+Highly Enantioselective Intramolecular 1,3-Dipolar Cycloaddition: A Route to Piperidino-Pyrrolizidines
+Phosphine-catalyzed dearomatizing [3+2] annulations of isoquinolinium methylides with allenes
+pH-Regulated Selectivity in Supramolecular Polymerizations: Switching between Co- and Homopolymers
+Biology-Oriented Synthesis of a Withanolide-Inspired Compound Collection Reveals Novel Modulators of Hedgehog Signaling
+CHECKPOINT PROTEINS: Closing the Mad2 cycle
+Hide and seek: Identification and confirmation of small molecule protein targets
+Reply to Christ et al.: LQT1 and JLNS phenotypes in hiPSC-derived cardiomyocytes are due to KCNQ1 mutations
+Ubiquitination switches EphA2 vesicular traffic from a continuous safeguard to a finite signalling mode
+Locking GTPases covalently in their functional states
+Divergent Gold(I)-Catalyzed Skeletal Rearrangements of 1,7-Enynes
+Uncovering distinct protein-network topologies in heterogeneous cell populations
+Copper-Catalyzed (2+1) Annulation of Acetophenones with Maleimides: Direct Synthesis of Cyclopropanes
+Signaling and Adaptation Modulate the Dynamics of the Photosensoric Complex of Natronomonas pharaonis
+Structural basis for the relaxed substrate selectivity of Leishmania mexicana broad specificity aminotransferase
+Identification of the targets of biologically active small molecules using quantitative proteomics
+A Bayesian mixture model to quantify parameters of spatial clustering
+Chemically induced dimerization: reversible and spatiotemporal control of protein function in cells
+The N- and C-terminal ends of RPGR can bind to PDE6δ
+Dormant Bacillus spores protect their DNA in crystalline nucleoids against environmental stress
+Catalysis of GTP hydrolysis by small GTPases at atomic detail by integration of X-ray crystallography, experimental and theoretical IR spectroscopy
+Identification of siRNA delivery enhancers by a chemical library screen
+Neuritogenic Militarinone-Inspired 4-Hydroxypyridones Target the Stress Pathway Kinase MAP4K4
+Conformational heterogeneity of the Roc domains in C. tepidum Roc-COR and implications for human LRRK2 Parkinson mutations
+Determinants of amyloid fibril degradation by the PDZ protease HTRA1
+Chemical labeling of intracellular proteins via affinity conjugation and strain-promoted cycloadditions in live cells
+Regioselective Metal-Free Cross-Coupling of Quinoline N-Oxides with Boronic Acids
+Covalent-Allosteric Kinase Inhibitors
+Copper(I)-Catalyzed Radical Addition of Acetophenones to Alkynes in Furan Synthesis
+Condensation Agents Determine the Temperature–Pressure Stability of F-Actin Bundles
+Structure-Based Design of Inhibitors of Protein-Protein Interactions: Mimicking Peptide Binding Epitopes
+Single Particle Tracking Reveals that EGFR Signaling Activity Is Amplified in Clathrin-Coated Pits
+Stereoselective synthesis of a natural product inspired tetrahydroindolo[2,3-a]-quinolizine compound library
+Universal Cardiac Induction of Human Pluripotent Stem Cells in 2D and 3D formats - Implications for In-Vitro Maturation
+The structure of FMNL2-Cdc42 yields insights into the mechanism of lamellipodia and filopodia formation
+HJURP Involvement in De Novo CenH3CENP-A and CENP-C Recruitment
+(-)-Englerin A is a Potent and Selective Activator of TRPC4 and TRPC5 Calcium Channels
+De novo branching cascades for structural and functional diversity in small molecules
+Photofunctional surfaces for quantitative fluorescence microscopy: monitoring the effects of photogenerated reactive oxygen species at single cell level with spatiotemporal resolution
+One-pot synthesis of a natural product inspired pyrrolocoumarine compound collection by means of an intramolecular 1,3-dipolar cycloaddition as key step
+The Interaction of CCDC104/BARTL1 with Arl3 and Implications for Ciliary Function
+Trienamine catalyzed asymmetric synthesis and biological investigation of a cytochalasin B-inspired compound collection
+Redox Modulation of PTEN Phosphatase Activity by Hydrogen Peroxide and Bisperoxidovanadium Complexes
+Pch2TRIP13: controlling cell division through regulation of HORMA domains
+Regulation of tumorigenic Wnt signaling by cyclooxygenase-2, 5-lipoxygenase and their pharmacological inhibitors: A basis for novel drugs targeting cancer cells?
+Involvement of 14-3-3 in tubulin instability and impaired axon development is mediated by Tau
+A G-protein activation cascade from Arl13B to Arl3 and implications for ciliary targeting of lipidated proteins
+Clustering and Dynamics of Phototransducer Signaling Domains Revealed by Site-Directed Spin Labeling Electron Paramagnetic Resonance on SRII/HtrII in Membranes and Nanodiscs
+The (Phospho) Needle in the (MELT) Haystack
+Branching cascades provide access to two amino-oxazoline compound libraries
+Expression, purification, crystallization and preliminary crystallographic analysis of a GH20 β-N-acetylglucosaminidase from the marine bacterium Vibrio harveyi
+A general catalytic reaction sequence to access alkaloid-inspired indole polycycles
+A molecular basis for the differential roles of Bub1 and BubR1 in the spindle assembly checkpoint
+DNA-Directed Assembly of Capture Tools for Constitutional Studies of Large Protein Complexes
+Biology-oriented synthesis of benzopyrano[3,4-c]pyrrolidines
+Highly Enantioselective Intramolecular 1,3-Dipolar Cycloaddition: A Route to Piperidino-Pyrrolizidines
+The HABC domain of the snare vam3 interacts with the hops tethering complex to facilitate vacuole fusion
+Phenyl Esters Are Potent Inhibitors of Caseinolytic Protease P and Reveal a Stereogenic Switch for Deoligomerization
+Restoration of rhythmicity in diffusively coupled dynamical networks

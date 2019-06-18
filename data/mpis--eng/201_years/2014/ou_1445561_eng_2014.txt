@@ -1,0 +1,201 @@
+Laser streaking of free electrons at 25 keV
+High-Intensity, Picosecond-Pumped, Few-Cycle OPCPA
+The power of light
+Edge Theories in Projected Entangled Pair State Models
+Incorporating real time velocity map image reconstruction into closed-loop coherent control
+Far-from-Equilibrium Spin Transport in Heisenberg Quantum Magnets
+Two photon laser spectroscopy of antiprotonic helium atoms at CERN's AD
+Attosecond-correlated dynamics of two electrons in argon
+High efficiency, high energy, CEP-stabilized infrared optical parametric amplifier
+Quantum spin models for the SU(n)1 Wess-Zumino-Witten model
+Multielectron effects in strong-field dissociative ionization of molecules
+Tip-based source of femtosecond electron pulses at 30 keV
+Reducing space-time to binary information
+On thermonuclear burn propagation in a pre-compressed cylindrical DT target ignited by a heavy ion beam pulse
+Exponentially improved classical and quantum algorithms for three-body Ising models
+Antiresonance Phase Shift in Strongly Coupled Cavity QED
+Power-scaling a Kerr-lens mode-locked Yb:YAG thin-disk oscillator via enlarging the cavity mode in the Kerr-medium
+Making Optical Waves, Tracing Electrons in Real-Time: The Onset of the Attosecond Realm
+Laser-driven three-stage heavy-ion acceleration from relativistic laser-plasma interaction
+All-Color Plasmonic Nanolasers with Ultralow Thresholds: Autotuning Mechanism for Single-Mode Lasing
+Enhanced proton beam collimation in the ultra-intense short pulse regime
+Quantum simulation of the Schwinger model: A study of feasibility
+Bell-inequality violation with entangled photons, free of the coincidence-time loophole
+Constraints on muon-specific dark forces
+Resonating-valence-bond superconductors with fermionic projected entangled pair states
+Subfemtosecond steering of hydrocarbon deprotonation through superposition of vibrational modes
+Free space quantum key distribution over 500 meters using electrically driven quantum dot single-photon sources-a proof of principle experiment
+Classical simulations of Abelian-group normalizer circuits with intermediate measurements
+A quantum gate between a flying optical photon and a single trapped atom
+All-reflective UV-VIS-NIR transmission and fluorescence spectrometer for µm-sized samples
+Gaussian local unitary equivalence of n-mode Gaussian states and Gaussian transformations by local operations with classical communication
+Active pump-seed-pulse synchronization for OPCPA with sub-2-fs residual timing jitter
+On the equivalence of the Clauser-Horne and Eberhard inequality based tests
+Few-cycle, broadband, mid-infrared parametric oscillator pumped by a 20-fs Ti:sapphire laser
+Proposed method for laser spectroscopy of pionic helium atoms to determine the charged-pion mass
+Development of a CO2 laser setup for fiber end facet machining and characterization
+An automatic laser beam delivery alignment for LEX and CALA
+Simulations on staged laser wakefield acceleration
+Attosecond experiments on plasmonic nanostructures
+Revealing quantum path details in high-field physics
+Emitters of N-photon bundles
+Efficient generation of THz pulses with 0.4 mJ energy
+Observation of chiral currents with ultracold atoms in bosonic ladders
+Near-infrared laser spectroscopy of antiprotonic helium atoms
+Strong-field control of the dissociative ionization of N2O with near-single-cycle pulses
+Femtosecond single-electron diffraction
+Near infrared frequency comb vernier spectrometer for broadband trace gas detection
+Test of Time Dilation Using Stored Li+ Ions as Clocks at Relativistic Speed
+Neutron-impact ionization of He
+Regularized linearization for quantum nonlinear optical cavities: application to degenerate optical parametric oscillators
+Intense Cr:forsterite-laser-based supercontinuum source
+Observation of two-orbital spin-exchange interactions with ultracold SU(N)-symmetric fermions
+Attosecond Nanophysics
+Optical Frequency Transfer via 1840 km Fiber Link with Superior Stability
+Power-scalable and efficient geometric XUV output coupling for cavity-enhanced high-harmonic generation
+Real-time and Sub-wavelength Ultrafast Coherent Diffraction Imaging in the Extreme Ultraviolet
+Octave spanning mid-infrared frequency comb generation in silicon nanophotonic wire waveguides
+800-fs, 330-μJ pulses from a 100-W regenerative Yb:YAG thin-disk amplifier at 300 kHz and THz generation in LiNbO3
+Fiber chirped pulse amplifier at 2.08 μm emitting 383-fs pulses at 10 nJ and 7 MHz
+Strong-Field Perspective on High-Harmonic Radiation from Bulk Solids
+Dielectric laser acceleration of electrons in the vicinity of single and double grating structures-theory and simulations
+Commensurate and incommensurate states of topological quantum matter
+A concept for multiterawatt fibre lasers based on coherent pulse stacking in passive cavities
+Non-sequential double ionization of Ar: from the single-to the many-cycle regime
+Clocking molecular fragmentation of N2 with XUV pump-probe experiments
+Synchronizing a single-electron shuttle to an external drive
+Nuclear spin dynamics in double quantum dots: Multistability, dynamical polarization, criticality, and entanglement
+Carrier-envelope frequency stabilization of a Ti:sapphire oscillator using different pump lasers: part II
+Unifying projected entangled pair state contractions
+3D view optimizes laser-pulse shape
+Continuous Centrifuge Decelerator for Polar Molecules
+Ultrafast, optical-field-induced currents in solid-state materials
+Transmission of a 1.44 Tbit/s Data Stream using a Feedback-Stabilized SiN Kerr Frequency Comb Source
+Transition between Mechanisms of Laser-Induced Field-Free Molecular Orientation
+Multipass laser cavity for efficient transverse illumination of an elongated volume
+Remote Entanglement of Two Single Atoms
+Direct measurement of the 2S-lifetime in muonic helium ions
+Towards ultimate temporal and spatial resolutions with ultrafast single-electron diffraction
+Intensity dependence of the attosecond control of the dissociative ionization of D2
+Design, production and reverse engineering of ultra-steep hot mirrors
+Bosonic fractional quantum Hall states on the torus from conformal field theory
+Centrifuge decelerates polyatomic polar molecules
+Development of narrowband lasers for spectroscopy of antiprotonic atoms
+Temporal coherence of high-order harmonics generated at solid surfaces
+Wannier-Stark states of graphene in strong electric field
+Off-axis low-energy structures in above-threshold ionization
+Reach-Through Avalanche Photodiodes in Soft X-ray Detection
+Thick-lens velocity-map imaging spectrometer with high resolution for high-energy charged particles
+Proposed graphene nanospaser
+Bright Subcycle Extreme Ultraviolet Bursts from a Single Dense Relativistic Electron Sheet
+Semitransparency in interaction-free measurements
+Measuring the temporal structure of few-femtosecond free-electron laser X-ray pulses directly in the time domain
+Experimental investigation of ≈130 keV kinetic energy antiprotons annihilation on nuclei
+Inducing Nonclassical Lasing via Periodic Drivings in Circuit Quantum Electrodynamics
+Using the third state of matter: high harmonic generation from liquid targets
+Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation
+Observing dipolar confinement-induced resonances in quasi-one-dimensional atomic gases
+Ultrafast optical breakdown of multilayer thin-films at kHz and MHz repetition rates: a direct comparison
+Dielectric laser accelerators
+Design and production of antireflection coating for the 8-10 µm spectral region
+A new fission-fragment detector to complement the CACTUS-SiRi setup at the Oslo Cyclotron Laboratory
+Optical-lattice implementation scheme of a bosonic topological model with fermionic atoms
+Self-consistent value of the electric radius of the proton from the Lamb shift in muonic hydrogen
+The X2Ʃ+, A2π and B2Ʃ+ potentials of NaNe from a combined analysis of optical collision and spectroscopic data
+Broadband Doppler-limited two-photon and stepwise excitation spectroscopy with laser frequency combs
+Alignment of magnetic solenoid lenses for minimizing temporal distortions
+Critical Nuclear Charge for Two-Electron Atoms
+Cavity-Enhanced High-Harmonic Generation with Spatially Tailored Driving Fields
+Schalten mit Lichtblitzen
+Single-Photon Switch Based on Rydberg Blockade
+Dielectric laser acceleration of nonrelativistic electrons at a single fused silica grating structure: Experimental part
+Reversible dynamics of single quantum emitters near metal-dielectric interfaces
+Sub-millimeter nuclear medical imaging with high sensitivity in positron emission tomography using β+γ coincidences
+Quantum information Assisted by One-Dimensional Waveguides
+Optical Heterodyne Detection for Single Atoms in a Cavity
+A laser source for the generation of intense attosecond pulses and its first applications
+Femtosecond and attosecond electron dynamics in semiconductors and dielectrics
+Generation and optical parametric amplification of near-IR, few-cycle light pulses
+The X2Σ+, A2Π and B2Σ+ potentials of NaNe from a combined analysis of optical collision and spectroscopic data
+Attosecond photoemission from isolated nanoparticles in strong laser fields
+Fabrication and confocal characterization of monolithic ultra-small mode volume silver cavities for the enhancement of NV centre flourescence
+Model-independent determination of the magnetic radius of the proton from spectroscopy of ordinary and muonic hydrogen
+Conversion of chirp in fiber compression
+Relativistic recoil effects on energy levels in a muonic atom: A Grotch-type calculation of the second-order vacuum-polarization contributions
+Lattice Laughlin states of bosons and fermions at filling fractions 1/q
+Adaptive real-time dual-comb spectroscopy
+Antiproton-to-electron mass ratio determined by two-photon laser spectroscopy of antiprotonic helium atoms
+A controlled phase gate between a single atom and an optical photon
+Multiple ionization and fragmentation dynamics of molecular iodine studied in IR-XUV pump-probe experiments
+Stress compensation with antireflection coatings for ultrafast laser applications: from theory to practice
+All-Optical Sensing of a Single-Molecule Electron Spin
+Phase-Resolved Electron Guiding in Optimized Chip-Based Microwave Potentials
+Dual frequency comb spectroscopy with a single laser
+Single-photon transistor using a Förster resonance
+Vibrational Anharmonicities and Reactivity of Tetrafluoroethylene
+Optical frequency transfer via 1840 km fiber link with superior stability
+Dynamic optical superlattices with topological bands
+Genetic optimization of attosecond-pulse generation in light-field synthesizers
+Higher Dimensional Time-Energy Entanglement
+Topology and criticality in the resonating Affleck-Kennedy-Lieb-Tasaki loop spin liquid states
+Megawatt-scale average-power ultrashort pulses in an enhancement cavity
+Segmented scintillation detectors with silicon photomultiplier readout for measuring antiproton annihilations
+Visualisation of methacrylate-embedded human bone sections by infrared nanoscopy
+Compact 0.1-W Source of Octave-Spanning Mid-Infrared Femtosecond Pulses Centered at 10 μm
+Decoupling chaotic amplification and nonlinear phase in high-energy thin-disk amplifiers for stable OPCPA pumping
+X-ray generation by relativistic laser-accelerated electrons
+The Proton Radius Problem
+Coherent Raman dual-comb spectroscopy and imaging
+Modern Ives-Stilwell Experiments At Storage Rings: Large Boosts Meet High Precision
+Geometric entanglement in topologically ordered states
+Relativistic recoil effects for energy levels in a muonic atom within a Grotch-type approach. I. General approach
+Photoatomic Effect
+Dielectric laser acceleration of 28 keV electrons with the inverse Smith-Purcell effect
+Fourier transform spectroscopy around 3 µm with a broad difference frequency comb
+Lattice Laughlin states of bosons and fermions at filling fractions 1/ q
+Solid-state light-phase detector
+Tensor Networks and Quantum Error Correction
+A monitoring system for the light distribution in a multipass cavity at the µHe+ Lamb shift experiment
+Attosecond dynamics in molecules and on interfaces
+Matter wave interferometry beyond classical limits
+On the Lamb shift experiment in muonic helium
+Heralded storage of photonic polarization in a single atom
+Nonlinear Dual-Comb Spectroscopy
+Localisation of a single atom inside an optical cavity
+Ein Einzel-Photon-Transistor basierend auf Rydberg-Blockade
+Transverse-mode coupling and diffraction loss in fibre-based optical microcavities
+Electron Rearrangement Dynamics in Dissociating I2n+ Molecules Accessed by Extreme Ultraviolet Pump-Probe Experiments
+Alignment-assisted field-free orientation of rotationally cold CO molecules
+Experimental Comparison of Efficient Tomography Schemes for a Six-Qubit State
+Approaching the limits of carrier-envelope phase stability in a millijoule-class amplifier
+Quantum interference in two-photon frequency-comb spectroscopy
+Fourier Transform for Fermionic Systems and the Spectral Tensor Network
+Self-probing of metal nanotips by rescattered electrons reveals the nano-optical near-field
+Ground State and Excitation Properties of Soft-Core Bosons
+A photon steers a photon with an atom
+Multicolour nonlinearly bound chirped dissipative solitons
+Algorithms for finite projected entangled pair states
+Ion polished Cr/Sc attosecond multilayer mirrors for high water window reflectivity
+Ultimate classical communication rates of quantum optical channels
+Construction of spin models displaying quantum criticality from quantum field theory
+Symmetries and boundary theories for chiral projected entangled pair states
+Few-cycle, broadband, mid-infrared optical parametric oscillator pumped by a 20-fs Ti:sapphire laser
+Experimental results on antiproton-nuclei annihilation cross section at very low energies
+Energy scaling of Kerr-lens mode-locked thin-disk oscillators
+Coherent kiloelectronvolt x-rays generated by subcycle optical drivers: a feasibility study
+Development of a Joule-class Yb:YAG amplifier and its implementation in a CPA system generating 1 TW pulses
+What will it take to observe processes in 'real time'?
+Attosecond metrology: from electron capture to future signal processing
+Dependence of Laser-Driven Coherent Synchrotron Emission Efficiency on Pulse Ellipticity and Implications for Polarization Gating
+Beam Diagnostics for Measurements of Antiproton Annihilation Cross Sections at Ultra-low Energy
+Single-shot autocorrelator for extreme-ultraviolet radiation
+Classical simulation complexity of extended Clifford circuits
+A laser frequency comb featuring sub-cm/s precision for routine operation on HARPS
+High-power few-cycle pulse generation by spectral broadening in bulk material
+Atom interferometry in an optical cavity
+Multi-10-TW sub-5-fs optical parametric synthesizer
+Nonlinear behavior and damage of dispersive multilayer optical coatings induced by two-photon absorption
+Tapered fiber coupling of single photons emitted by a deterministically positioned single nitrogen vacancy center
+Attosecond band-gap dynamics in silicon
+Third-generation femtosecond technology
+Characterization of a 450-km-baseline GPS Carrier-Phase Link using an Optical Fiber Link

@@ -1,0 +1,132 @@
+First feasibility experiment for the EXL project with prototype detectors at the ESR storage ring
+Neutrino mass sum-rules in flavor symmetry models
+Q values for neutrinoless double-electron capture in 96Ru, 162Er, and 168Yb
+Matter radii of 32–35Mg
+Enhanced Schottky signals from electron-cooled, coasting beams in a heavy-ion storage ring
+Charged-starved, Relativistic Jets and Blazar Variability
+Resonant structure of low-energy H3+ dissociative recombination
+Direct Mass Measurements of Short-Lived A = 2Z - 1 Nuclides 63Ge, 65As, 67Se, and 71Kr and Their Impact on Nucleosynthesis in the rp Process
+Storage ring cross section measurements for electron impact ionizaton of Fe11+ forming Fe12+ and Fe13+
+Damping effects in Penning trap mass spectrometry
+Extension of an Empirical Charged Lepton Mass Relation to the Neutrino Sector
+A novel method for fundamental interaction studies with an electrostatic ion beam trap
+The spectrum of cosmic-ray electrons measured with H.E.S.S.
+Variable TeV Emission as a Manifestation of Jet Formation in M87?
+Towards a direct measurement of the g-factor of a single isolated proton
+M1, M2 and hyperfine-induced decay rates in Mg-like ions of Co, Ni and Cu measured at a heavy-ion storage ring
+Thermionic power-law decay of excited aluminum-cluster anions and its dependence on storage-device temperature
+Soft Le-Lμ-Lτ flavour symmetry breaking and sterile neutrino keV Dark Matter
+Phenomenological consequences of sub-leading terms in see-saw formulas
+Anschauliche Physik : für Naturwissenschaftler
+Fragmentation of Small Multi-Electron Molecular Ions in Cold Electron Collisions
+Discovery and follow-up studies of the extended, off-plane, VHE gamma-ray source HESS J1507-622
+Dielectronic recombination of xenonlike tungsten ions
+Lower bounds on the smallest lepton mixing angle
+The Very High Energy Gamma-Ray View of the Galactic Centre as of early 2010
+Revisiting the Westerlund 2 field with the HESS telescope array
+Resonant Enhancement of Neutrinoless Double-Electron Capture in 152Gd
+Deterministic Preparation of a Tunable Few-Fermion System
+Status of the EBIT in the ReA3 reaccelerator at NSCL
+Mass Measurements of Very Neutron-Deficient Mo and Tc Isotopes and Their Impact on rp Process Nucleosynthesis
+The future ground-based gamma-ray observatory CTA
+A fast and sensitive resonant Schottky pick-up for heavy ion storage rings
+Orbital electron capture of hydrogen- and helium-like ions
+Electron-molecular cation reactive collisions: from channel mixing to competitive processes
+g Factor of Hydrogenlike 28Si13+
+FlashCam: A camera concept and design for the Cherenkov Telescope Array CTA
+Neutrino-less Double Beta Decay: Neutrino Physics
+Single particle imaging with soft X-rays at the linac coherent light source
+Study of Higher Order Modes in Superconducting Accelerating Structures for Linac Applications
+New mass data for the rp-process above Z = 32
+Mass measurements on stable nuclides in the rare-earth region with the Penning-trap mass spectrometer TRIGA-TRAP
+Modeling the hard TeV spectra of blazars 1ES 0229+200 and 3C 66A with an internal absorption scenario
+Large-scale flow dynamics and radiation in pulsar gamma-ray binaries
+Threshold effects on renormalization group running of neutrino parameters in the low-scale seesaw model
+Tuning the internuclear distance in ionization of H2
+First Use of High Charge States for Mass Measurements of Short-lived Nuclides in a Penning Trap
+LSND and MiniBooNE within (3+1) plus NSI
+Experiments with heavy, highly charged ions - Status of the HITRAP project
+Direct Mass Measurements of Short-Lived A = 2Z 1 Nuclides 63Ge, 65As, 67Se, and 71Kr and Their Impact on Nucleosynthesis in the rp Process
+Unsupervised classification of single-particle X-ray diffraction snapshots by spectral clustering
+Summary of the Oscillation Physics Working Group
+Regularization by Control of the Resolution Function
+Investigation of Intrabeam Scattering in the Heavy Ion Storage Ring TSR
+25th Texas Symposium on Relativistic Astrophysics : Texas 2010; Heidelberg, Germany, 6 - 10 December 2010
+Beam current measurements at the TSR Heidelberg
+Acceleration and radiation of ultra-high energy protons in galaxy clusters
+The Cryogenic Storage Ring and its application to molecular ion recombination physics
+Beta-decay of highly-charged ions
+Octupolar-Excitation Penning-Trap Mass Spectrometry for Q-Value Measurement of Double-Electron Capture in 164Er
+In-trap decay spectroscopy for 2νββ decay experiments
+Measurements of proton-induced reactions on ruthenium-96 in the ESR at GSI
+Present status of beam cooling and related research at S-LSR
+Measurements of ground-state properties for nuclear structure studies by precision mass and laser spectroscopy
+Neutrino-less Double Beta Decay and Particle Physics
+Observation of Spin Flips with a Single Trapped Proton
+Developments for coating, testing, and the alignment of CTA mirrors
+Recent status of beam cooling at S-LSR
+Performance studies of the CTA observatory
+Simultaneous multi-wavelength campaign on PKS 2005-489 in a high state
+Probing the nuclides 102Pd, 106Cd, and 144Sm for resonant neutrinoless double-electron capture
+Large format imaging detectors for X-ray free-electron-lasers
+Gauged Lμ-Lτ Symmetry at the Electroweak Scale
+Waves in Poynting-flux dominated jets
+Calibration methods and performance evaluation for pnCCDs in experiments with FEL radiation
+A Sensitive Resonant Schottky Pick-Up for the ESR Storage Ring at GSI
+Cadmium mass measurements between the neutron shell closures at N = 50 and 82
+Light yield and energy transfer in a new Gd-loaded liquid scintillator
+Transition operators entering neutrinoless double electron capture to excited nuclear states
+Precision mass measurements of neutron halo nuclei using the TITAN Penning trap
+The KATRIN sensitivity to the neutrino mass and to right-handed currents in beta decay
+Direct Measurement of the Free Cyclotron Frequency of a Single Particle in a Penning Trap
+Cooling of short-lived, radioactive, highly charged ions with the TITAN cooler Penning trap. Status and perspectives
+Two-body beta decay of stored few-electron ions
+Feasibility Studies for the EXL Project at FAIR
+Precision isochronous mass measurements at the storage ring CSRe in Lanzhou
+Electron Correlation in Real Time
+Direct mass measurements of short-lived nuclides at the storage ring facility in Lanzhou
+Optimization, simulation and analysis of the scintillation signals in the Double Chooz experiment
+Constraining the Emissivity of Ultrahigh Energy Cosmic Rays in the Distant Universe with the Diffuse Gamma-ray Emission
+Detection of TeV emission from the intriguing composite SNR G327.1-1.1
+Probing the nuclide 180W for neutrinoless double-electron capture exploration
+Storage Ring Cross-Section Measurements for Electron Impact Ionization of Fe12+ Forming Fe13+ and Fe14+
+The gamma-ray sky seen with H.E.S.S.
+Den Geisterteilchen auf der Spur
+The electrostatic Cryogenic Storage Ring CSR – Mechanical concept and realization
+Radioactivity and electron acceleration in supernova remnants
+Light output of Double Chooz scintillators for low energy electrons
+Non-variable cosmologically distant gamma-ray emitters as an imprint of propagation of ultra-high-energy protons
+Physics potential of future reactor neutrino experiments
+Practical experience from operating the imaging pnCCD instrument of the CAMP chamber at LCLS
+Mass measurements of short-lived nuclides using the ISOLTRAP preparation Penning trap
+Proceedings of the 25th Texas Symposium on Relativistic Astrophysics (Texas 2010)
+Deceleration of carbon ions at the heavy ion storage ring TSR
+Formation of protons from dissociative ionization of methane induced by 54 eV electrons
+Subwavelength optical lattices induced by position-dependent dark states
+Multiple-resonance phenomenon in neutrinoless double-electron capture
+High-reflectance, high-durability coatings for IACT mirrors
+Deceleration of carbon ions at the heavy ion storage ring TSR
+Searches for DM signals from the Galactic Centre region with H.E.S.S.
+Partial-coherence colored-noise approach to model FEL pulse statistics
+At the borderline between atomic and nuclear physics: two-body beta-decay of highly charged ions
+Phase-Sensitive Cyclotron Frequency Measurements at Ultralow Energies
+A cooler Penning trap for the TITAN on-line trapping facility
+Branching ratios in dissociative recombination of formyl and isoformyl cations
+Rotational Cooling of HD+ by Superelastic Collisions with Electrons
+Fast-beam fragmentation experiments on dissociative recombination
+Dipolar and quadrupolar detection using an FT-ICR MS setup at the MPIK Heidelberg
+Energy loss and cooling of relativistic highly charged uranium ions interacting with an internal hydrogen droplet target beam
+Inner-shell couplings in transiently formed superheavy quasimolecules
+Self-terminating diffraction gates femtosecond X-ray nanocrystallography measurements
+Neutrinoless Double Beta Decay, the Inverted Hierarchy and Precision Determination of theta(12)
+Neutrino Phenomenology of gauged Lμ−Lτ: MINOS and beyond
+Storage-ring facility at HIE-ISOLDE
+Symmetrical Parametrizations of the Lepton Mixing Matrix
+Soft and diffractive physics at LHCb
+Charge radii of neon isotopes across the sd neutron shell
+Ground-state spins and moments of 72,74,76,78Ga nuclei
+Magnetic and quadrupole moments of neutron deficient 58–62Cu isotopes
+SMILETRAP II
+Effects of space charge on the mass purification in Penning traps
+Mass Measurements of Proton-rich Nuclides at the Cooler Storage Ring at IMP
+Progress with the MPIK/UW-PTMS in Heidelberg

@@ -1,0 +1,91 @@
+Helical jackknives control the gates of the double-pore K+ uptake system KtrABs
+The PomXYZ Proteins Self-Organize on the Bacterial Nucleoid to Stimulate Cell Division
+CryoEM structures of membrane pore and prepore complex reveal cytolytic mechanism of Pneumolysin
+The Immunomodulatory Drug Glatiramer Acetate is Also an Effective Antimicrobial Agent that Kills Gram-negative Bacteria
+Structure and mechanism of several flavin-based electron bifurcating enzymes
+Conformational Dynamics of Single-Stranded Nucleic Acids - A Comparison of Molecular Dynamics Simulations to Single-Molecule FRET Experiments
+Comparison of Membrane Proteins Using Computational Programs
+Lysine 300 is essential for stability but not for electrogenic transport of the Escherichia coli NhaA Na+/H+ antiporter
+MEIS homeodomain proteins facilitate PARP1/ARTD1-mediated eviction of histone H1
+Pseudomonas stutzeri as an alternative host for membrane proteins
+Dynamo Catalogue: Geometrical tools and data management for particle picking in subtomogram averaging of cryo-electron tomograms
+Photochemical Properties of the Red-shifted Channelrhodopsin Chrimson
+Formation and Stability of Lipid Membrane Nanotubes
+Structures and mechanism of secondary active transporters
+Variational Identification of Markovian Transition States
+Membrane vesicle secretion and prophage induction in multidrug-resistant Stenotrophomonas maltophilia in response to ciprofloxacin stress
+Lead discovery from the mycobacterial ATP synthase Fo rotor ring and characterisation of its binding site
+Cryo-EM structure of the extended type VI secretion system sheath–tube complex
+Toward Photopharmacological Antimicrobial Chemotherapy Using Photoswitchable Amidohydrolase Inhibitors
+Computational Modeling of Membrane Proteins with Sparse Experimental Data
+Self-Perforated Hydrogel Nanomembranes Facilitate Structural Analysis of Proteins by Electron Cryo-Microscopy
+Controlled growth of periodically aligned copper-silicide nanocrystal arrays on silicon directed by laser-induced periodic surface structures (LIPSS)
+Changes of mitochondrial ultrastructure and function during ageing in mice and Drosophila
+Structure and in situ organisation of the Pyrococcus furiosus archaellum machinery
+Advances in high-resolution cryo-EM of oligomeric enzymes
+From Aβ Filament to Fibril: Molecular Mechanism of Surface-Activated Secondary Nucleation from All-Atom MD Simulations
+Catabolic Pathways and Enzymes Involved in Anaerobic Methane Oxidation
+Peptide dimerization-dissociation rates from replica exchange molecular dynamics
+Transition path sampling of rare events by shooting from the top
+Optogenetic Control of Ca2+ and Voltage-Dependent Large Conductance (BK) Potassium Channels
+Carbon Nanotubes Mediate Fusion of Lipid Vesicles
+Functional Maturation of Human Stem Cell-Derived Neurons in Long-Term Cultures
+Kinetics from Replica Exchange Molecular Dynamics Simulations
+Molecule Counts in Localization Microscopy with Organic Fluorophores
+Towards artificial methanogenesis: biosynthesis of the [Fe]-hydrogenase cofactor and characterization of the semi-synthetic hydrogenase
+Intrinsic map dynamics exploration for uncharted effective free-energy landscapes
+Ligand-induced conformational dynamics of the Escherichia coli Na+/H+ antiporter NhaA revealed by hydrogen/deuterium exchange mass spectrometry
+Redox-induced activation of the proton pump in the respiratory complex I
+In situ structure of trypanosomal ATP synthase dimer reveals a unique arrangement of catalytic subunits
+Regioselective para-Carboxylation of Catechols with a Prenylated Flavin Dependent Decarboxylase
+On-demand optogenetic activation of human stem-cell-derived neurons
+Architecture of a transcribing-translating expressome
+Cryo-EM structure of the bifunctional secretin complex of Thermus thermophilus
+Biophysical characterization of the voltage-gated sodium channel NaChBac
+Predicting Drug-Fragment Binding Sites with Molecular Dynamics Simulations and Markov State Models
+Cell-type-specific metabolic labeling of nascent proteomes in vivo
+A standardized technique for high-pressure cooling of protein crystals
+Structural insights into ion conduction by channelrhodopsin 2
+Systematic evaluation of CS‐Rosetta for membrane protein structure prediction with sparse NOE restraints
+Position-Dependent Diffusion Tensors in Anisotropic Media from Simulation: Oxygen Transport in and through Membranes
+Activation of the Unfolded Protein Response by Lipid Bilayer Stress
+Resolving the Conformational Dynamics of DNA with Ångstrom Resolution by Pulsed Electron–Electron Double Resonance and Molecular Dynamics
+Loose Relationship: Incomplete H+/Sugar Coupling in the MFS Sugar Transporter GlcP
+MPI tray: a versatile crystallization plate for membrane proteins
+Molecular counting of membrane receptor subunits with single-molecule localization microscopy
+From Gene to Function: Cell-Free Electrophysiological and Optical Analysis of Ion Pumps in Nanodiscs
+The semiquinone swing in the bifurcating electron transferring flavoprotein/butyryl-CoA dehydrogenase complex from Clostridium difficile
+Cryo-EM Structure of the TOM Core Complex from Neurospora crassa
+Structure of outer membrane protein G in lipid bilayers
+DM9 Domain Containing Protein Functions As a Pattern Recognition Receptor with Broad Microbial Recognition Spectrum
+A New Promoter Allows Optogenetic Vision Restoration with Enhanced Sensitivity in Macaque Retina
+Dynamics of the Orientational Factor in Fluorescence Resonance Energy Transfer
+Modeling Hsp70/Hsp40 interaction by multi-scale molecular simulations and coevolutionary sequence analysis
+Methanogenic heterodisulfide reductase (HdrABC-MvhAGD) uses two noncubane [4Fe-4S] clusters for reduction
+Functional insights into pathogen biology from 3D electron microscopy
+Inward H+ pump xenorhodopsin: Mechanism and alternative optogenetic approach
+Serial millisecond crystallography for routine room-temperature structure determination at synchrotrons
+Crystal structure and mechanistic basis of a functional homolog of the antigen transporter TAP
+Dynamic Histogram Analysis To Determine Free Energies and Rates from Biased Simulations
+The Crystal Structure of RosB: Insights into the Reaction Mechanism of the First Member of a Family of Flavodoxin-like Enzymes
+A rare polyglycine type II-like helix motif in naturally occurring proteins
+Scaffolding the cup-shaped double membrane in autophagy
+Visualization of cytosolic ribosomes on the surface of mitochondria by electron cryo‐tomography
+Hidden Twins: SorCS Neuroreceptors Form Stable Dimers
+Molecular architecture of the N‐type ATPase rotor ring from Burkholderia pseudomallei
+Analysis of Mitochondrial Membrane Protein Complexes by Electron Cryo-tomography
+Structure of the human MHC-I peptide-loading complex
+Structural basis of proton translocation and force generation in mitochondrial ATP synthase
+Acidic Environment Induces Dimerization and Ligand Binding Site Collapse in the Vps10p Domain of Sortilin
+Molecular insights into lipid-assisted Ca2+ regulation of the TRP channel Polycystin-2
+Structural Simplification of Bedaquiline: the Discovery of 3-(4-(N,N-Dimethylaminomethyl)phenyl)quinoline-Derived Antitubercular Lead Compounds
+Tomographic studies of mitochondrial membrane-shaping proteins
+Structure of the acetophenone carboxylase core complex: prototype of a new class of ATP-dependent carboxylases/hydrolases
+Biophysical analysis of a membrane sensing amphipathic helix in vitro and in silico
+Structural insights into cytochrome bd-type oxygen reductases
+A Water-Bridged H-Bonding Network Contributes to the Catalysis of the SAM-Dependent C-Methyltransferase HcgC
+BioEM: GPU-accelerated computing of Bayesian inference of electron microscopy images
+Chapter Two - SSM-Based Electrophysiology for Transporter Research
+Subunit CcoQ is involved in the assembly of the Cbb3-type cytochrome c oxidases from Pseudomonas stutzeri ZoBell but not required for their activity
+Equivalence of M- and P-Summation in Calculations of Ionic Solvation Free Energies
+Classical Molecular Dynamics with Mobile Protons
