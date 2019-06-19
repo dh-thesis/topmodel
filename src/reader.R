@@ -21,6 +21,9 @@ read.data <- function(fp, fp.pattern = ".txt") { # , x = 10
     print("create document term matrix...")
     dtm <- DocumentTermMatrix(corpus)
 
+    # remove empty documents
+    dtm <- dtm[row_sums(dtm) > 0,]
+
     print("success!")
     return(dtm)
 
