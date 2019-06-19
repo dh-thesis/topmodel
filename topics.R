@@ -7,10 +7,10 @@ source("src/modeling.R")
 fp <- './data/mpis--eng/201_years/2015'
 
 # set path for visualization output
-out <- './docs/vis/eng/mpi2015_t50'
+out <- './docs/vis/eng/mpi2015_t20'
 
 # number of topics
-k <- 50
+k <- 20
 
 # pattern to filter data files
 pattern <- '.txt' # 'eng_201'
