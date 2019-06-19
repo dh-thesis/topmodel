@@ -4,10 +4,10 @@ source("src/modeling.R")
 # set path to data files
 # fp <- '../pubdata/data/corpus/titles/cat--deu'
 # fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
-fp <- './data/mpis--eng/201_years/2017'
+fp <- './data/mpis--eng/201_years/2016'
 
 # set path for visualization output
-out <- './docs/vis/eng/mpi2017_t20'
+out <- './docs/vis/eng/mpi2016_t20'
 
 # number of topics
 k <- 20
