@@ -5,10 +5,15 @@ source("src/modeling.R")
 # fp <- '../pubdata/data/corpus/titles/cat--deu'
 # fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
 fp <- './data/mpis--eng/201_years/2017'
-out <- './docs/vis/eng/mpi2017_t50'
-k <- 50
-# pattern <- 'eng_201'
-pattern <- '.txt'
+
+# set path for visualization output
+out <- './docs/vis/eng/mpi2017_t20'
+
+# number of topics
+k <- 20
+
+# pattern to filter data files
+pattern <- '.txt' # 'eng_201'
 
 # get document term matrix (dtm)
 dtm <- read.data(fp, fp.pattern = pattern)
