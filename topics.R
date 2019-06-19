@@ -5,8 +5,8 @@ source("src/modeling.R")
 # fp <- '../pubdata/data/corpus/titles/cat--deu'
 # fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
 fp <- './data/mpis--eng/201_years/2018'
-out <- './docs/vis/eng/mpi2018_t20'
-k <- 20
+out <- './docs/vis/eng/mpi2018_t50'
+k <- 50
 # pattern <- 'eng_201'
 pattern <- '.txt'
 
