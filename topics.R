@@ -4,8 +4,8 @@ source("src/modeling.R")
 # set path to data files
 # fp <- '../pubdata/data/corpus/titles/cat--deu'
 # fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
-fp <- './data/mpis--eng/201_years/2018'
-out <- './docs/vis/eng/mpi2018_t50'
+fp <- './data/mpis--eng/201_years/2017'
+out <- './docs/vis/eng/mpi2017_t50'
 k <- 50
 # pattern <- 'eng_201'
 pattern <- '.txt'
