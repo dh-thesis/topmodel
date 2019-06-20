@@ -4,13 +4,13 @@ source("src/modeling.R")
 # set path to data files
 # fp <- '../pubdata/data/corpus/titles/cat--deu'
 # fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
-fp <- './data/mpis--eng/201_years/2015'
+fp <- './data/mpis--eng/201_years/2012'
 
 # set path for visualization output
-out <- './docs/vis/eng/mpi2015_t20'
+out <- './docs/vis/eng/mpi2012_t50'
 
 # number of topics
-k <- 20
+k <- 50
 
 # pattern to filter data files
 pattern <- '.txt' # 'eng_201'
