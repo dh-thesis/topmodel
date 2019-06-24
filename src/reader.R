@@ -41,3 +41,23 @@ delete_freq_terms <- function(doc_term, x = 100) {
     return(dtm)
 
 }
+
+library(readr)
+
+read_raw <- function(x) {
+    csv_raw <- read_delim(
+        x,
+        ",",
+        escape_double = FALSE,
+        col_types = cols(
+            ID = col_character(),
+            TITLE = col_character(),
+            YEAR = col_character(),
+            GENRE = col_character(),
+            LANG = col_character(),
+            CTX = col_character(),
+            OU = col_character()),
+        trim_ws = TRUE
+    )
+    return(csv_raw)
+}
