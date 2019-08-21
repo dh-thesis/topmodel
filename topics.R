@@ -2,32 +2,36 @@ source("src/reader.R")
 source("src/modeling.R")
 
 # set path to data files
-# fp <- '../pubdata/data/corpus/titles/cat--deu'
-# fp <- '../pubdata/data/corpus/titles/mpis--eng--years'
-# fp <- './data/mpis--eng/201_years/2012'
+# fp <- '../titles/data/mpis-eng-years'
+# fp <- '../titles/data/cats-eng-years'
+fp <- '../titles/data/mpis-eng-years-genre'
 
 # set path for visualization output
 # out <- './docs/vis/eng/mpi2012_t50'
+# out <- './docs/vis/eng/mpi2015_t20_new-corpus'
+# out <- './docs/vis/eng/eth_t20-2_new-corpus'
+out <- './docs/vis/eng/mpi2017articles_t20_new-corpus'
 
 # number of topics
 # k <- 50
+k <- 20
 
 # pattern to filter data files
 # pattern <- '.txt' # 'eng_201'
-
+# pattern <- '2015.txt'
+# pattern <- 'ou_907574_eng_' # 'eng_201'
+# pattern <- '2010.txt' # 'eng_201'
+pattern <- 'ARTICLE_2017.txt' # 'eng_201'
 # get document term matrix (dtm)
-# dtm <- read.data(fp, fp.pattern = pattern)
-
+dtm <- read.data(fp, fp.pattern = pattern)
 # fit model for documents of dtm
-# topmod <- fit.model(dtm, k)
-
+topmod <- fit.model(dtm, k)
 # create topic map
-# model.vis(topmod, dtm, vis.dir = out)
-
+model.vis(topmod, dtm, vis.dir = out)
 # stop the server
-# servr::daemon_stop()
+servr::daemon_stop()
 
-csv_fp <- './data/csv/mpis.csv'
+csv_fp <- '../data/tables/publications.csv'
 csv_raw <- read_raw(csv_fp)
 csv_data <- subset(csv_raw, LANG=="eng")
 csv_data <- subset(csv_data, YEAR=="2017")
