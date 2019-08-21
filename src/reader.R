@@ -50,13 +50,14 @@ read_raw <- function(x) {
         ",",
         escape_double = FALSE,
         col_types = cols(
-            ID = col_character(),
-            TITLE = col_character(),
-            YEAR = col_character(),
-            GENRE = col_character(),
-            LANG = col_character(),
-            CTX = col_character(),
-            OU = col_character()),
+            Id = col_character(),
+            Label = col_character(),
+            Year = col_character(),
+            Genre = col_character(),
+            Lang = col_character(),
+            Identifier = col_character(),
+            IdentifierType = col_character(),
+            Context = col_character()),
         trim_ws = TRUE
     )
     return(csv_raw)
