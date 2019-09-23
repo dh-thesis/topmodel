@@ -1,2 +1,0 @@
-Drosophila Bag-of-marbles directly interacts with the CAF40 subunit of the CCR4-NOT complex to elicit repression of mRNA targets
-Target highlights from the first post-PSI CASP experiment (CASP12, May-August 2016)

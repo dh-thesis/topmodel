@@ -1,5 +1,0 @@
-Formation of a collisionless shock wave in a multi-component plasma
-Ultra-Low-Frequency Waves at Venus and Mars
-Multiple dynamo modes as a mechanism for long-term solar activity variations
-Method for estimating cycle lengths from multidimensional time series: Test cases and application to a massive "in silico" dataset
-SDO/HMI survey of emerging active regions for helioseismology

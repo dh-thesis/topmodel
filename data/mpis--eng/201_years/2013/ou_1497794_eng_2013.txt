@@ -1,7 +1,0 @@
-Overlapping and parallel cerebello-cerebral networks contributing to sensorimotor control: An intrinsic functional connectivity study
-Goals and habits in the brain
-Effort and valuation in the brain: The effects of anticipation and execution
-Dopamine restores reward prediction errors in old age
-Statistical inference and multiple testing correction in classification-based multi-voxel pattern analysis (MVPA): Random permutations and cluster size control
-Sick Sinus Syndrome in HCN1-Deficient Mice
-Dopamine modulates reward-related vigor
