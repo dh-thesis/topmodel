@@ -4,7 +4,8 @@ source("src/modeling.R")
 # set path to data files
 # fp <- '../titles/data/mpis-eng-years'
 # fp <- '../titles/data/cats-eng-years'
-fp <- '../titles/data/mpis-eng-years-genre'
+# fp <- '../titles/data/mpis-eng-years-genre'
+fp <- '../data/titles/mpis-eng-years-genre'
 
 # set path for visualization output
 # out <- './docs/vis/eng/mpi2012_t50'
